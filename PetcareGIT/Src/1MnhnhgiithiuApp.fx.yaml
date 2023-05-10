@@ -39,16 +39,16 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
-        Height: =17.6428527832031
+        Height: =46
         LineHeight: =0.8125
         PaddingBottom: =0
         PaddingLeft: =0
         PaddingRight: =0
         PaddingTop: =0
         Size: =24
-        Text: ="Bắt đầu 1"
-        Width: =130.502044677734
-        X: =157
-        Y: =839
+        Text: ="Bắt Đầu"
+        Width: =145
+        X: =155
+        Y: =825
         ZIndex: =3
 
