@@ -1,0 +1,6 @@
+MastersNavigationBarPartsLeftback1 As screen:
+    Fill: =RGBA(0, 0, 0, 0)
+    Height: =44
+    LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
+    Width: =38
+
