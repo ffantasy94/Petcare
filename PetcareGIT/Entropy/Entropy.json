@@ -421,6 +421,7 @@
     "image 8_3": 586,
     "image 8_4": 646,
     "image 9": 461,
+    "Image2": 859,
     "Label1": 444,
     "Label2": 566,
     "Label3": 565,
@@ -858,11 +859,12 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "05/11/2023 05:28:39",
+  "HeaderLastSavedDateTimeUTC": "05/11/2023 05:32:12",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {
+    "58aeffb2c869e092af51ee74": "f3de25bd-494d-47fa-a35d-432b41be529f.png",
     "Add a subheading (4)": "0001.png",
     "image1081896": "0002.png",
     "image1081906": "0003.png",
@@ -1136,9 +1138,11 @@
     "image291713": "0271.png",
     "image291714": "0272.png",
     "image291715": "0273.png",
-    "image512393": "0274.png"
+    "image512393": "0274.png",
+    "istockphoto-1303506906-612x612": "c7f2d116-29e7-4038-a31d-102b8d6d705a.jpg"
   },
   "LocalResourceRootPaths": {
+    "58aeffb2c869e092af51ee74": "https://docserverpwaprodeas.blob.core.windows.net/d1e28582-61cf-4931-a239-3125e30b11f2-1/resource/5b62f27b-3a44-4a7c-a16d-6f62f0c92e75.png?sv=2018-03-28&sr=b&sig=OrCsMzFjf%2BE0ycyEvzY1Y4htHyzR9i1EtjtXlDUG4jU%3D&spr=https&se=2023-05-12T05%3A46%3A54Z&sp=r",
     "Add a subheading (4)": "https://docserverpwaprodeas.blob.core.windows.net/d1e28582-61cf-4931-a239-3125e30b11f2-1/resource/Assets0Images00001.png?sv=2018-03-28&sr=b&sig=emisFQciivtsfG6%2BuOBs6h%2FEoKMMp4K1WQc6CZYnmSM%3D&spr=https&se=2023-05-12T05%3A38%3A50Z&sp=r",
     "image1081896": "https://docserverpwaprodeas.blob.core.windows.net/d1e28582-61cf-4931-a239-3125e30b11f2-1/resource/Assets0Images00002.png?sv=2018-03-28&sr=b&sig=vI%2B%2BElOYfcjfVNpMtL10Iu4vkj64RV67iRtf0EZiTOY%3D&spr=https&se=2023-05-12T05%3A38%3A50Z&sp=r",
     "image1081906": "https://docserverpwaprodeas.blob.core.windows.net/d1e28582-61cf-4931-a239-3125e30b11f2-1/resource/Assets0Images00003.png?sv=2018-03-28&sr=b&sig=uvZ6ltxP14jRMltliqXSbTiPEWYPx2GJ9cw%2FMbvnaEA%3D&spr=https&se=2023-05-12T05%3A38%3A50Z&sp=r",
@@ -1412,7 +1416,8 @@
     "image291713": "https://docserverpwaprodeas.blob.core.windows.net/d1e28582-61cf-4931-a239-3125e30b11f2-1/resource/Assets0Images00271.png?sv=2018-03-28&sr=b&sig=ynP6hBX03Y3VfEubC58R7y4XRd1b9s61Vs2cPyWmP8E%3D&spr=https&se=2023-05-12T05%3A38%3A50Z&sp=r",
     "image291714": "https://docserverpwaprodeas.blob.core.windows.net/d1e28582-61cf-4931-a239-3125e30b11f2-1/resource/Assets0Images00272.png?sv=2018-03-28&sr=b&sig=Dx4OTz315AKZ944kiZ2tLjbu1mHq6Uxmpf%2FguOMweF0%3D&spr=https&se=2023-05-12T05%3A38%3A50Z&sp=r",
     "image291715": "https://docserverpwaprodeas.blob.core.windows.net/d1e28582-61cf-4931-a239-3125e30b11f2-1/resource/Assets0Images00273.png?sv=2018-03-28&sr=b&sig=XnhsUJ%2BkXHO70KasuRrAGwi9qIo2P6HdLWzU%2FOjP%2BEY%3D&spr=https&se=2023-05-12T05%3A38%3A50Z&sp=r",
-    "image512393": "https://docserverpwaprodeas.blob.core.windows.net/d1e28582-61cf-4931-a239-3125e30b11f2-1/resource/Assets0Images00274.png?sv=2018-03-28&sr=b&sig=GV9YHcyIdlIoRj9kC%2BqRKfAY%2FIjHX45S0RcC%2FMJci8g%3D&spr=https&se=2023-05-12T05%3A38%3A50Z&sp=r"
+    "image512393": "https://docserverpwaprodeas.blob.core.windows.net/d1e28582-61cf-4931-a239-3125e30b11f2-1/resource/Assets0Images00274.png?sv=2018-03-28&sr=b&sig=GV9YHcyIdlIoRj9kC%2BqRKfAY%2FIjHX45S0RcC%2FMJci8g%3D&spr=https&se=2023-05-12T05%3A38%3A50Z&sp=r",
+    "istockphoto-1303506906-612x612": "https://docserverpwaprodeas.blob.core.windows.net/d1e28582-61cf-4931-a239-3125e30b11f2-1/resource/b8f777f2-6061-4e39-a2dc-07c56b5a67ba.jpg?sv=2018-03-28&sr=b&sig=c%2Fnf8Ir1suVAo4IdMC56UwD3sBV0dr26k%2Flh0eJoYFA%3D&spr=https&se=2023-05-12T05%3A45%3A31Z&sp=r"
   },
   "OldLogoFileName": "logo.jpg",
   "OrderComponentMetadata": {},
@@ -1855,6 +1860,7 @@
     "image 8_3": {},
     "image 8_4": {},
     "image 9": {},
+    "Image2": {},
     "Label1": {},
     "Label2": {},
     "Label3": {},
@@ -2712,6 +2718,7 @@
     "image 8_3": 8,
     "image 8_4": 68,
     "image 9": 736,
+    "Image2": 0,
     "Label1": 719,
     "Label2": 806,
     "Label3": 805,
@@ -3148,6 +3155,7 @@
     "Xung quanh vị trí hiện tại_2": 65
   },
   "ResourcesJsonIndices": {
+    "Image-58aeffb2c869e092af51ee74": 276,
     "Image-Add a subheading (4)": 1,
     "Image-image1081896": 2,
     "Image-image1081906": 3,
@@ -3422,6 +3430,7 @@
     "Image-image291714": 272,
     "Image-image291715": 273,
     "Image-image512393": 274,
+    "Image-istockphoto-1303506906-612x612": 275,
     "Image-SampleImage": 0
   },
   "RuleScreenIdWithoutScreen": {},
