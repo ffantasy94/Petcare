@@ -8994,66 +8994,6 @@
               "message": {
                 "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
               }
-            },
-            {
-              "associatedRule": {
-                "id": "app-InefficientDelayLoading",
-                "index": 4
-              },
-              "descriptor": {
-                "id": "app-InefficientDelayLoading"
-              },
-              "message": {
-                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
-              }
-            },
-            {
-              "associatedRule": {
-                "id": "app-InefficientDelayLoading",
-                "index": 4
-              },
-              "descriptor": {
-                "id": "app-InefficientDelayLoading"
-              },
-              "message": {
-                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
-              }
-            },
-            {
-              "associatedRule": {
-                "id": "app-InefficientDelayLoading",
-                "index": 4
-              },
-              "descriptor": {
-                "id": "app-InefficientDelayLoading"
-              },
-              "message": {
-                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
-              }
-            },
-            {
-              "associatedRule": {
-                "id": "app-InefficientDelayLoading",
-                "index": 4
-              },
-              "descriptor": {
-                "id": "app-InefficientDelayLoading"
-              },
-              "message": {
-                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
-              }
-            },
-            {
-              "associatedRule": {
-                "id": "app-InefficientDelayLoading",
-                "index": 4
-              },
-              "descriptor": {
-                "id": "app-InefficientDelayLoading"
-              },
-              "message": {
-                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
-              }
             }
           ]
         }
@@ -25244,36 +25184,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'721Cnnng'.'❖ Masters / Navigation Bar Parts / Left / back_4'.'❖ Masters / Navigation Bar Parts / Left / .❖ left-master_4'.back_4.'SF Symbol Ⓛ_4'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "721Cnnng",
-                "type": "'721Cnnng'.'❖ Masters / Navigation Bar Parts / Left / back_4'.'❖ Masters / Navigation Bar Parts / Left / .❖ left-master_4'.back_4.'SF Symbol Ⓛ_4'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'721Cnnng'.'❖ Masters / Navigation Bar Parts / Left / back_4'.'❖ Masters / Navigation Bar Parts / Left / .❖ left-master_4'.back_4.'SF Symbol Ⓛ_4'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "'721Cnnng'.'Group 146'.'Vector 1'.AccessibleLabel"
                 }
               ],
@@ -25555,66 +25465,6 @@
               "physicalLocation": {
                 "address": {
                   "fullyQualifiedName": "'721Cnnng'.'Một tháng'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'721Cnnng'.Vector_32.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "721Cnnng",
-                "type": "'721Cnnng'.Vector_32"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'721Cnnng'.Vector_32.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'721Cnnng'.Vector_32.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "721Cnnng",
-                "type": "'721Cnnng'.Vector_32"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'721Cnnng'.Vector_32.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -36175,6 +36025,36 @@
               "physicalLocation": {
                 "address": {
                   "fullyQualifiedName": "App.image2461873",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-UnusedMediaResources",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "App.image2502206"
+                }
+              ],
+              "properties": {
+                "member": "image2502206",
+                "module": "App",
+                "type": "App"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "App.image2502206",
                   "relativeAddress": 0
                 }
               }
