@@ -21,8 +21,8 @@
         Size: =14.25
         Text: ="Cho phép khi dùng ứng dụng"
         Width: =300
-        X: =76
-        Y: =613
+        X: =64
+        Y: =826
         ZIndex: =1
 
     "'Từ chối_2' As label":
@@ -43,8 +43,8 @@
         Size: =14.25
         Text: ="Cho phép một lần"
         Width: =300
-        X: =76
-        Y: =658
+        X: =31
+        Y: =888
         ZIndex: =2
 
     "'Rectangle 97_8' As rectangle":
@@ -115,4 +115,53 @@
         X: =351
         Y: =52
         ZIndex: =7
+
+    "'Rectangle 98_4' As rectangle":
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        DisabledFill: =RGBA(166, 166, 166, 1)
+        Fill: =RGBA(239.4056, 233.4205, 233.4205, 1)
+        FocusedBorderThickness: =4
+        Height: =446
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =366
+        X: =31
+        Y: =274
+        ZIndex: =8
+
+    Label6 As label:
+        Align: =Align.Center
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        FontWeight: =FontWeight.Bold
+        Height: =75
+        Size: =19
+        Text: ="Cho phép PetCare sử dụng vị trí của bạn"
+        Width: =366
+        X: =31
+        Y: =302
+        ZIndex: =9
+
+    Label7 As label:
+        Align: =Align.Center
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(51, 51, 51, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Height: =75
+        Size: =15.5
+        Text: ="PetCare yêu cầu cho phép sử dụng vị tríđể tính toán khoảng cách người dùng sử dụng dịch vụ  "
+        Width: =366
+        X: =31
+        Y: =374
+        ZIndex: =10
 
