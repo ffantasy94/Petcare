@@ -128,29 +128,27 @@
     "UserLocale": "vi-VN"
   },
   "ScreenOrder": [
-    "Màn hình giới thiệu app",
-    "Đăng nhập 1",
+    "10Mnhnhxutphngkhmcsthcng",
     "3ngk",
     "4ResetPassword",
     "5Mnhinhgingk",
-    "Màn hình hiển thị chức năng",
     "7.1. Màn hình hiển thị thông tin thú cưng",
-    "72Mnhnhqunlthngtinthcng",
     "721Cnnng",
     "722Chiucao",
     "723Chiudi",
     "724Thnnhit",
     "725Lchsbnhl",
     "726Lchstimphng",
+    "72Mnhnhqunlthngtinthcng",
     "Chat bot",
-    "Đặt lịch",
     "Hiển thị lịch",
-    "10Mnhnhxutphngkhmcsthcng",
-    "10Mnhnhxutphngkhmcsthcng1",
-    "10Mnhnhxutphngkhmcsthcng2",
+    "Màn hình giới thiệu app",
+    "Màn hình gợi ý phòng khám",
+    "Màn hình hiển thị chức năng",
+    "Màn hình thông báo cho phép truy cập vị trí",
     "MastersNavigationBarPartsLeftback",
     "MastersNavigationBarPartsLeftback1",
-    "Màn hình gợi ý phòng khám",
-    "Màn hình thông báo cho phép truy cập vị trí"
+    "Đăng nhập 1",
+    "Đặt lịch"
   ]
 }
