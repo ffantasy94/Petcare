@@ -6906,6 +6906,30 @@
               "message": {
                 "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
               }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
             }
           ]
         }
@@ -11666,47 +11690,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Màn hình thông báo cho phép truy cập vị trí'.'Rectangle 98_3'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Màn hình thông báo cho phép truy cập vị trí",
-                "type": "'Màn hình thông báo cho phép truy cập vị trí'.'Rectangle 98_3'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Màn hình thông báo cho phép truy cập vị trí'.'Rectangle 98_3'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'Màn hình thông báo cho phép truy cập vị trí'.'Rectangle 98_3'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình gợi ý phòng khám'.'Rectangle 98_7'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "Màn hình thông báo cho phép truy cập vị trí",
-                "type": "'Màn hình thông báo cho phép truy cập vị trí'.'Rectangle 98_3'"
+                "module": "Màn hình gợi ý phòng khám",
+                "type": "'Màn hình gợi ý phòng khám'.'Rectangle 98_7'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Màn hình thông báo cho phép truy cập vị trí'.'Rectangle 98_3'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình gợi ý phòng khám'.'Rectangle 98_7'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -11720,6 +11714,36 @@
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
           "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Màn hình gợi ý phòng khám'.'Rectangle 98_7'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Màn hình gợi ý phòng khám",
+                "type": "'Màn hình gợi ý phòng khám'.'Rectangle 98_7'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Màn hình gợi ý phòng khám'.'Rectangle 98_7'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
         },
         {
           "locations": [
@@ -25040,6 +25064,126 @@
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
           "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Màn hình gợi ý phòng khám'.'Rectangle 97_9'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Màn hình gợi ý phòng khám",
+                "type": "'Màn hình gợi ý phòng khám'.'Rectangle 97_9'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Màn hình gợi ý phòng khám'.'Rectangle 97_9'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Màn hình gợi ý phòng khám'.'Rectangle 97_9'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "Màn hình gợi ý phòng khám",
+                "type": "'Màn hình gợi ý phòng khám'.'Rectangle 97_9'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Màn hình gợi ý phòng khám'.'Rectangle 97_9'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Màn hình thông báo cho phép truy cập vị trí'.'Rectangle 98_6'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "Màn hình thông báo cho phép truy cập vị trí",
+                "type": "'Màn hình thông báo cho phép truy cập vị trí'.'Rectangle 98_6'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Màn hình thông báo cho phép truy cập vị trí'.'Rectangle 98_6'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'Màn hình thông báo cho phép truy cập vị trí'.'Rectangle 98_6'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Màn hình thông báo cho phép truy cập vị trí",
+                "type": "'Màn hình thông báo cho phép truy cập vị trí'.'Rectangle 98_6'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'Màn hình thông báo cho phép truy cập vị trí'.'Rectangle 98_6'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
         },
         {
           "locations": [

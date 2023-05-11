@@ -3,21 +3,45 @@
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
     Width: =428
 
-    Image5 As image:
+    "'Rectangle 98_7' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(166, 166, 166, 1)
+        Fill: =RGBA(245, 245, 245, 1)
         FocusedBorderThickness: =4
-        Height: =27
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: ='1200px-Search_Icon.svg'
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =25
-        X: =42
-        Y: =67
-        ZIndex: =52
+        Height: =97
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =428
+        Y: =79
+        ZIndex: =1
+
+    "'Rectangle 97_9' As rectangle":
+        BorderColor: =RGBA(255, 191, 0, 1)
+        BorderStyle: =BorderStyle.None
+        DisabledFill: =RGBA(166, 166, 166, 1)
+        Fill: =RGBA(255, 191, 0, 1)
+        FocusedBorderThickness: =4
+        Height: =79
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =428
+        ZIndex: =2
+
+    Label8 As label:
+        Align: =Align.Center
+        BorderColor: =RGBA(255, 191, 0, 1)
+        BorderThickness: =2
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        Fill: =RGBA(250, 250, 250, 1)
+        FocusedBorderThickness: =4
+        Height: =76
+        Size: =14.25
+        Text: ="Xung quanh vị trí của bạn"
+        Width: =381
+        X: =23
+        Y: =53
+        ZIndex: =3
 

@@ -3,6 +3,19 @@
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
     Width: =428
 
+    "'Rectangle 98_6' As rectangle":
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        DisabledFill: =RGBA(166, 166, 166, 1)
+        Fill: =RGBA(245, 245, 245, 1)
+        FocusedBorderThickness: =4
+        Height: =97
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =428
+        Y: =79
+        ZIndex: =1
+
     "'Rectangle 97_8' As rectangle":
         BorderColor: =RGBA(255, 191, 0, 1)
         BorderStyle: =BorderStyle.None
@@ -13,20 +26,7 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =428
-        ZIndex: =3
-
-    "'Rectangle 98_3' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(239.4056, 233.4205, 233.4205, 1)
-        FocusedBorderThickness: =4
-        Height: =97
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =428
-        Y: =79
-        ZIndex: =4
+        ZIndex: =2
 
     TextInput6 As text:
         BorderColor: =RGBA(255, 191, 0, 1)
@@ -52,7 +52,7 @@
         Width: =366
         X: =31
         Y: =44
-        ZIndex: =6
+        ZIndex: =3
 
     Image5_1 As image:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -70,7 +70,7 @@
         Width: =46
         X: =351
         Y: =52
-        ZIndex: =7
+        ZIndex: =4
 
     "'Rectangle 98_4' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -84,7 +84,7 @@
         Width: =366
         X: =31
         Y: =232
-        ZIndex: =8
+        ZIndex: =5
 
     Label6 As label:
         Align: =Align.Center
@@ -102,7 +102,7 @@
         Width: =366
         X: =31
         Y: =247
-        ZIndex: =9
+        ZIndex: =6
 
     Label7 As label:
         Align: =Align.Center
@@ -119,7 +119,7 @@
         Width: =366
         X: =31
         Y: =319
-        ZIndex: =10
+        ZIndex: =7
 
     Image8 As image:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -137,7 +137,7 @@
         Width: =366
         X: =31
         Y: =378
-        ZIndex: =12
+        ZIndex: =8
 
     Button8 As button:
         BorderColor: =RGBA(0, 0, 0, 1)
@@ -165,7 +165,7 @@
         Width: =366
         X: =31
         Y: =763
-        ZIndex: =13
+        ZIndex: =9
 
     Button9 As button:
         BorderColor: =RGBA(0, 0, 0, 1)
@@ -193,7 +193,7 @@
         Width: =366
         X: =31
         Y: =702
-        ZIndex: =14
+        ZIndex: =10
 
     Button8_1 As button:
         BorderColor: =RGBA(0, 0, 0, 1)
@@ -221,5 +221,5 @@
         Width: =366
         X: =31
         Y: =640
-        ZIndex: =15
+        ZIndex: =11
 
