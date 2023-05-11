@@ -216,7 +216,7 @@
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =8
         X: =382
-        Y: =52
+        Y: =64
         ZIndex: =14
 
     "'image 8' As image":
@@ -233,7 +233,7 @@
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =29
         X: =344
-        Y: =44
+        Y: =56
         ZIndex: =15
 
     "'Rectangle 98' As rectangle":
@@ -246,8 +246,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =152
-        X: =44
-        Y: =223
+        X: =43
+        Y: =130
         ZIndex: =16
 
     "'Rectangle 99' As rectangle":
@@ -260,8 +260,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =152
-        X: =38
-        Y: =475
+        X: =37
+        Y: =382
         ZIndex: =17
 
     "'Rectangle 100' As rectangle":
@@ -274,8 +274,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =152
-        X: =243
-        Y: =223
+        X: =242
+        Y: =130
         ZIndex: =18
 
     "'Rectangle 101' As rectangle":
@@ -288,8 +288,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =152
-        X: =237
-        Y: =475
+        X: =236
+        Y: =382
         ZIndex: =19
 
     "'Rectangle 102_1' As rectangle":
@@ -302,8 +302,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =250
-        X: =62
-        Y: =724
+        X: =61
+        Y: =631
         ZIndex: =20
 
     "'Ellipse 6_1' As image":
@@ -320,8 +320,8 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =94
-        X: =300
-        Y: =713
+        X: =299
+        Y: =620
         ZIndex: =21
 
     "'Ellipse 10' As image":
@@ -338,8 +338,8 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =95
-        X: =73
-        Y: =247
+        X: =72
+        Y: =154
         ZIndex: =22
 
     "'image 8_1' As image":
@@ -355,8 +355,8 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =57
-        X: =325
-        Y: =732
+        X: =324
+        Y: =639
         ZIndex: =23
 
     "'Tên người dùng' As label":
@@ -376,7 +376,7 @@
         Text: ="Tên người dùng"
         Width: =118
         X: =219
-        Y: =50
+        Y: =62
         ZIndex: =24
 
     "'image 24' As image":
@@ -392,8 +392,8 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =107
-        X: =266
-        Y: =245
+        X: =265
+        Y: =152
         ZIndex: =25
 
     "'image 27' As image":
@@ -409,16 +409,16 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =96
-        X: =66
-        Y: =498
+        X: =65
+        Y: =405
         ZIndex: =26
 
     "'Group 144' As groupContainer.manualLayoutContainer":
         Height: =94
         LayoutMode: ="manual"
         Width: =96
-        X: =267
-        Y: =498
+        X: =266
+        Y: =405
         ZIndex: =27
 
         "'Ellipse 11' As image":
@@ -474,8 +474,8 @@
             ="Theo dõi
             sức khỏe"
         Width: =123
-        X: =258
-        Y: =378
+        X: =257
+        Y: =285
         ZIndex: =30
 
     "'image 25' As image":
@@ -491,8 +491,8 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =87
-        X: =77
-        Y: =251
+        X: =76
+        Y: =158
         ZIndex: =31
 
     "'Hồ sơ thú cưng_1' As label":
@@ -515,8 +515,8 @@
             ="Hồ sơ
             thú cưng"
         Width: =123
-        X: =56
-        Y: =378
+        X: =55
+        Y: =285
         ZIndex: =32
 
     "'Nhắc nhở lịch trình_1' As label":
@@ -539,8 +539,8 @@
             ="Nhắc nhở
             lịch trình"
         Width: =123
-        X: =54
-        Y: =632
+        X: =53
+        Y: =539
         ZIndex: =33
 
     "'Phòng khám lân cận_1' As label":
@@ -563,8 +563,8 @@
             ="Phòng khám
             lân cận"
         Width: =152
-        X: =238
-        Y: =632
+        X: =237
+        Y: =539
         ZIndex: =34
 
     "'Bạn cần tôi giúp gì không?' As label":
@@ -584,7 +584,7 @@
         Text: ="Bạn cần tôi giúp gì không?"
         VerticalAlign: =VerticalAlign.Top
         Width: =214
-        X: =85
-        Y: =752
+        X: =84
+        Y: =659
         ZIndex: =35
 
