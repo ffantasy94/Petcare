@@ -38,24 +38,6 @@
         Y: =446
         ZIndex: =2
 
-    "'Rectangle 106' As image":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =199
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: =image1571844
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =152
-        X: =146
-        Y: =158
-        ZIndex: =3
-
     "'Rectangle 102' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -63,7 +45,7 @@
         Fill: =RGBA(229.7125, 228.0279, 222.0554, 0.3)
         FocusedBorderThickness: =4
         Height: =566
-        HoverFill: =RGBA(0, 120, 212, 1)
+        HoverFill: =RGBA(230, 230, 230, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =392
         X: =26
@@ -128,7 +110,7 @@
         PaddingRight: =0
         PaddingTop: =0
         Size: =13.5
-        Text: ="Liên hệ 123qua"
+        Text: ="Liên hệ 1qua"
         VerticalAlign: =VerticalAlign.Top
         Width: =148
         X: =172
@@ -215,21 +197,6 @@
         Y: =705
         ZIndex: =18
 
-    "'Line 20' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(128, 128, 128, 1)
-        FocusedBorderThickness: =4
-        Height: =0
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =88
-        X: =256
-        Y: =705
-        ZIndex: =19
-
     "'Screenshot 2023-04-26 105546 1' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -297,50 +264,6 @@
         X: =115
         Y: =838
         ZIndex: =23
-
-    "'Quên mật khẩu?' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(140, 131, 131, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =36
-        LineHeight: =1.171875
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =13.5
-        Text: ="Quên mật khẩu?"
-        Underline: =true
-        VerticalAlign: =VerticalAlign.Top
-        Width: =235
-        X: =65
-        Y: =581
-        ZIndex: =24
-
-    "'Đăng ký' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(140, 131, 131, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =41
-        LineHeight: =1.171875
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =13.5
-        Text: ="Đăng ký"
-        Underline: =true
-        VerticalAlign: =VerticalAlign.Top
-        Width: =115
-        X: =300
-        Y: =588
-        ZIndex: =25
 
     TextInput2 As text:
         BorderColor: =RGBA(166, 166, 166, 1)
@@ -449,4 +372,62 @@
         X: =88
         Y: =504
         ZIndex: =29
+
+    Button4 As button:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =0
+        Color: =RGBA(140, 131, 131, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
+        Font: =Font.'Segoe UI'
+        Height: =70
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
+        PressedColor: =RGBA(242, 147, 0, 1)
+        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =15
+        Text: ="Quên mật khẩu?"
+        Underline: =true
+        Width: =185
+        X: =26
+        Y: =563
+        ZIndex: =30
+
+    Button4_1 As button:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =0
+        Color: =RGBA(140, 131, 131, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
+        Font: =Font.'Segoe UI'
+        Height: =70
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
+        PressedColor: =RGBA(242, 147, 0, 1)
+        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =15
+        Text: ="Đăng ký"
+        Underline: =true
+        Width: =137
+        X: =281
+        Y: =561
+        ZIndex: =31
 
