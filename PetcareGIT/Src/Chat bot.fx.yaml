@@ -56,8 +56,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =326
-        X: =69
-        Y: =149
+        X: =68
+        Y: =119
         ZIndex: =6
 
     "'Rectangle 92' As rectangle":
@@ -71,8 +71,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =326
-        X: =32
-        Y: =217
+        X: =31
+        Y: =187
         ZIndex: =7
 
     "'image 1' As image":
@@ -88,8 +88,8 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =35
-        X: =18
-        Y: =149
+        X: =17
+        Y: =119
         ZIndex: =8
 
     "'image 7' As image":
@@ -105,8 +105,8 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =35
-        X: =24
-        Y: =852
+        X: =22
+        Y: =808
         ZIndex: =9
 
     "'image 2' As image":
@@ -122,8 +122,8 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =42
-        X: =371
-        Y: =213
+        X: =370
+        Y: =183
         ZIndex: =10
 
     "'Rectangle 93' As rectangle":
@@ -137,8 +137,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =326
-        X: =69
-        Y: =282
+        X: =68
+        Y: =252
         ZIndex: =11
 
     "'Rectangle 95' As rectangle":
@@ -152,8 +152,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =326
-        X: =66
-        Y: =418
+        X: =65
+        Y: =388
         ZIndex: =12
 
     "'Rectangle 94' As rectangle":
@@ -167,8 +167,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =326
-        X: =30
-        Y: =356
+        X: =29
+        Y: =326
         ZIndex: =13
 
     "'Rectangle 96' As rectangle":
@@ -182,8 +182,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =326
-        X: =27
-        Y: =492
+        X: =26
+        Y: =462
         ZIndex: =14
 
     "'image 3' As image":
@@ -199,8 +199,8 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =35
-        X: =18
-        Y: =282
+        X: =17
+        Y: =252
         ZIndex: =15
 
     "'image 5' As image":
@@ -216,8 +216,8 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =35
-        X: =15
-        Y: =418
+        X: =14
+        Y: =388
         ZIndex: =16
 
     "'image 4' As image":
@@ -233,8 +233,8 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =42
-        X: =369
-        Y: =352
+        X: =368
+        Y: =322
         ZIndex: =17
 
     "'image 6' As image":
@@ -250,8 +250,8 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =42
-        X: =366
-        Y: =488
+        X: =365
+        Y: =458
         ZIndex: =18
 
     "'Rectangle 97_6' As rectangle":
@@ -265,8 +265,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =326
-        X: =66
-        Y: =557
+        X: =65
+        Y: =527
         ZIndex: =19
 
     "'Rectangle 98_1' As rectangle":
@@ -280,8 +280,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =326
-        X: =63
-        Y: =693
+        X: =62
+        Y: =663
         ZIndex: =20
 
     "'Rectangle 99_1' As rectangle":
@@ -295,8 +295,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =326
-        X: =27
-        Y: =631
+        X: =26
+        Y: =601
         ZIndex: =21
 
     "'Rectangle 100_1' As rectangle":
@@ -310,8 +310,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =326
-        X: =24
-        Y: =767
+        X: =23
+        Y: =737
         ZIndex: =22
 
     "'image 8_2' As image":
@@ -327,8 +327,8 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =35
-        X: =15
-        Y: =557
+        X: =14
+        Y: =527
         ZIndex: =23
 
     "'image 9' As image":
@@ -344,8 +344,8 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =35
-        X: =12
-        Y: =693
+        X: =11
+        Y: =663
         ZIndex: =24
 
     "'image 10' As image":
@@ -361,8 +361,8 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =42
-        X: =366
-        Y: =627
+        X: =365
+        Y: =597
         ZIndex: =25
 
     "'image 11' As image":
@@ -378,8 +378,8 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =42
-        X: =363
-        Y: =763
+        X: =362
+        Y: =733
         ZIndex: =26
 
     gửi_1 As label:
@@ -399,8 +399,8 @@
         Text: ="Gửi"
         VerticalAlign: =VerticalAlign.Top
         Width: =32
-        X: =347
-        Y: =859
+        X: =345
+        Y: =815
         ZIndex: =31
 
     TextInput1 As text:
@@ -425,8 +425,8 @@
         RadiusTopLeft: =0
         RadiusTopRight: =0
         Width: =239
-        X: =69
-        Y: =852
+        X: =67
+        Y: =808
         ZIndex: =32
 
     Button1 As button:
@@ -452,8 +452,8 @@
         Size: =14
         Text: ="Gửi"
         Width: =92
-        X: =319
-        Y: =852
+        X: =317
+        Y: =808
         ZIndex: =33
 
     Label1 As label:
@@ -468,8 +468,8 @@
         Height: =37
         Text: ="Khi nào nên tiêm vắc xin cho mèo?"
         Width: =373
-        X: =30
-        Y: =69
+        X: =50
+        Y: =54
         ZIndex: =34
 
     Icon1 As icon.BackArrow:
@@ -489,7 +489,63 @@
         PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =26
-        X: =24
+        X: =22
         Y: =27
         ZIndex: =35
+
+    Circle1 As circle:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledFill: =RGBA(0, 120, 212, 1)
+        Fill: =RGBA(0, 120, 212, 1)
+        Height: =39
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =40
+        X: =43
+        Y: =879
+        ZIndex: =36
+
+    Circle1_1 As circle:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledFill: =RGBA(0, 120, 212, 1)
+        Fill: =RGBA(0, 120, 212, 1)
+        Height: =39
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =40
+        X: =248
+        Y: =879
+        ZIndex: =37
+
+    Circle1_2 As circle:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledFill: =RGBA(0, 120, 212, 1)
+        Fill: =RGBA(0, 120, 212, 1)
+        Height: =39
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =40
+        X: =346
+        Y: =879
+        ZIndex: =38
+
+    Circle1_3 As circle:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledFill: =RGBA(0, 120, 212, 1)
+        Fill: =RGBA(0, 120, 212, 1)
+        Height: =39
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =40
+        X: =146
+        Y: =879
+        ZIndex: =39
 
