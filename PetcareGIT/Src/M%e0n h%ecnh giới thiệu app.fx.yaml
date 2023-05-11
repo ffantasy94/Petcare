@@ -21,7 +21,7 @@
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
         PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
         PressedColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =ColorFade(RGBA(0, 0, 0, 0), -30%)
         RadiusBottomLeft: =40
         RadiusBottomRight: =40
         RadiusTopLeft: =40
