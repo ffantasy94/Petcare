@@ -45,21 +45,6 @@
         Y: =976
         ZIndex: =3
 
-    "'Line 13_1' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(128, 128, 128, 1)
-        FocusedBorderThickness: =4
-        Height: =0
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =428.004638671875
-        X: =4
-        Y: =436
-        ZIndex: =14
-
     "'Đặt Lịch khám_2' As label":
         Align: =Align.Center
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -589,46 +574,6 @@
             Y: =10.1785736083984
             ZIndex: =56
 
-    "'Group 143_1' As groupContainer.manualLayoutContainer":
-        Height: =38
-        LayoutMode: ="manual"
-        Width: =190
-        X: =119
-        Y: =468
-        ZIndex: =57
-
-        "'Rectangle 9_2' As rectangle":
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            DisabledFill: =RGBA(166, 166, 166, 1)
-            Fill: =RGBA(0, 0, 0, 0)
-            FocusedBorderThickness: =4
-            Height: =38
-            HoverFill: =RGBA(0, 120, 212, 1)
-            PressedFill: =RGBA(0, 120, 212, 1)
-            Width: =190
-            ZIndex: =58
-
-        "'Thông tin' As label":
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            Color: =RGBA(255, 255, 255, 1)
-            DisabledBorderColor: =RGBA(0, 0, 0, 0)
-            DisabledColor: =RGBA(166, 166, 166, 1)
-            FocusedBorderThickness: =4
-            Height: =17.6428604125977
-            LineHeight: =1.444444
-            PaddingBottom: =0
-            PaddingLeft: =0
-            PaddingRight: =0
-            PaddingTop: =0
-            Size: =13.5
-            Text: ="Thông tin"
-            Width: =130.501953125
-            X: =53
-            Y: =10
-            ZIndex: =59
-
     "'Rectangle 63_1' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -670,21 +615,6 @@
         X: =130
         Y: =976
         ZIndex: =62
-
-    "'Line 16_1' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(128, 128, 128, 1)
-        FocusedBorderThickness: =4
-        Height: =0
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =428.004638671875
-        X: =4
-        Y: =436
-        ZIndex: =73
 
     Icon1_1 As icon.BackArrow:
         BorderColor: =RGBA(166, 166, 166, 1)
@@ -768,4 +698,58 @@
         X: =45
         Y: =879
         ZIndex: =115
+
+    Button5 As button:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(255, 183, 80, 1)
+        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =38
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =16
+        Text: ="Đặt lịch"
+        Width: =134
+        X: =137
+        Y: =387
+        ZIndex: =116
+
+    ListBox1 As listbox:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(51, 51, 51, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        DisabledSelectionColor: =RGBA(166, 166, 166, 1)
+        DisabledSelectionFill: =RGBA(220, 220, 220, 1)
+        Font: =Font.'Segoe UI'
+        Height: =225
+        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverFill: =RGBA(212, 212, 212, 1)
+        Items: =ListboxSample
+        PaddingBottom: =5
+        PaddingLeft: =5
+        PaddingRight: =5
+        PaddingTop: =5
+        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        SelectionFill: =RGBA(0, 120, 212, 1)
+        Size: =21
+        Width: =428
+        Y: =482
+        ZIndex: =117
 
