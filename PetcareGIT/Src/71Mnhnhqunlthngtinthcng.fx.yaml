@@ -275,7 +275,7 @@
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
         FontWeight: =FontWeight.Semibold
-        Height: =22
+        Height: =30
         LineHeight: =1.1
         PaddingBottom: =0
         PaddingLeft: =0
@@ -284,9 +284,9 @@
         Size: =15
         Text: |-
             ="Ngày sinh:"
-        Width: =95
-        X: =71
-        Y: =306
+        Width: =127
+        X: =65
+        Y: =304
         ZIndex: =24
 
     "'Loài:' As label":
@@ -602,7 +602,8 @@
         ZIndex: =47
 
     TextInput3 As text:
-        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderColor: =RGBA(246, 88, 16, 1)
+        BorderStyle: =BorderStyle.None
         BorderThickness: =2
         Color: =RGBA(51, 51, 51, 1)
         Default: ="Đầu vào văn bản"
@@ -622,9 +623,8 @@
         RadiusBottomRight: =0
         RadiusTopLeft: =0
         RadiusTopRight: =0
-        Size: =18
-        Width: =226
-        X: =141
+        Width: =243
+        X: =118
         Y: =242
         ZIndex: =48
 
