@@ -157,8 +157,8 @@
         Text: |-
             ="Tên:"
         Width: =67
-        X: =85
-        Y: =275
+        X: =65
+        Y: =324
         ZIndex: =9
 
     TextInput3_5 As text:
@@ -185,7 +185,7 @@
         RadiusTopRight: =0
         Size: =18
         Width: =243
-        X: =152
-        Y: =283
+        X: =132
+        Y: =332
         ZIndex: =10
 
