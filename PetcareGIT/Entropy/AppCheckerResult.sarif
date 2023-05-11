@@ -7014,6 +7014,66 @@
               "message": {
                 "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
               }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
             }
           ]
         }
@@ -25274,36 +25334,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Màn hình gợi ý phòng khám'.TextInput4.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "Màn hình gợi ý phòng khám",
-                "type": "'Màn hình gợi ý phòng khám'.TextInput4"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'Màn hình gợi ý phòng khám'.TextInput4.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "'Màn hình gợi ý phòng khám'.TextInput4_1.AccessibleLabel"
                 }
               ],
@@ -25334,17 +25364,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Màn hình gợi ý phòng khám'.TextInput4_2.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình gợi ý phòng khám'.TextInput4_3.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Màn hình gợi ý phòng khám",
-                "type": "'Màn hình gợi ý phòng khám'.TextInput4_2"
+                "type": "'Màn hình gợi ý phòng khám'.TextInput4_3"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Màn hình gợi ý phòng khám'.TextInput4_2.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình gợi ý phòng khám'.TextInput4_3.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -25364,17 +25394,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'Màn hình gợi ý phòng khám'.TextInput4_3.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình gợi ý phòng khám'.TextInput4_2.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Màn hình gợi ý phòng khám",
-                "type": "'Màn hình gợi ý phòng khám'.TextInput4_3"
+                "type": "'Màn hình gợi ý phòng khám'.TextInput4_2"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'Màn hình gợi ý phòng khám'.TextInput4_3.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình gợi ý phòng khám'.TextInput4_2.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
