@@ -59,7 +59,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Add a subheading (2) 4_2",
-      "ParentIndex": 0,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -342,7 +342,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Arrow1_2",
-      "ParentIndex": 3,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -548,7 +548,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Button2_9",
-      "ParentIndex": 11,
+      "ParentIndex": 18,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -828,7 +828,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Button4",
-      "ParentIndex": 13,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1108,7 +1108,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Button4_1",
-      "ParentIndex": 14,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1363,7 +1363,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Checkbox1_1",
-      "ParentIndex": 9,
+      "ParentIndex": 12,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1632,7 +1632,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Đăng ký_2",
-      "ParentIndex": 2,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2347,7 +2347,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon3_1",
-      "ParentIndex": 8,
+      "ParentIndex": 11,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2894,7 +2894,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Mật khẩu_3",
-      "ParentIndex": 12,
+      "ParentIndex": 13,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3221,7 +3221,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Mật khẩu_8",
-      "ParentIndex": 6,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3555,7 +3555,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Mật khẩu_9",
-      "ParentIndex": 18,
+      "ParentIndex": 9,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3857,7 +3857,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 129_1",
-      "ParentIndex": 1,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4074,7 +4074,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "TextInput2_11",
-      "ParentIndex": 7,
+      "ParentIndex": 10,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4351,7 +4351,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "TextInput2_9",
-      "ParentIndex": 5,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4613,7 +4613,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Tên đăng nhập_4",
-      "ParentIndex": 4,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4947,7 +4947,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Tôi đồng ý các điều khoản_2",
-      "ParentIndex": 10,
+      "ParentIndex": 14,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
