@@ -223,7 +223,7 @@
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderThickness: =0
         Color: =RGBA(140, 131, 131, 1)
-        Default: ="Đầu vào văn bản"
+        Default: ="Nhập địa chỉ Email"
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
@@ -250,7 +250,7 @@
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderThickness: =0
         Color: =RGBA(140, 131, 131, 1)
-        Default: ="Đầu vào văn bản"
+        Default: ="Nhập mật khẩu của bạn"
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
