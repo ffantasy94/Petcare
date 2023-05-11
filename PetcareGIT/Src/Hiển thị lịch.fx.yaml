@@ -381,21 +381,6 @@
                 Y: =10
                 ZIndex: =58
 
-    "'Dropdown / Calendar Single' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(128, 128, 128, 1)
-        FocusedBorderThickness: =4
-        Height: =206.744079589844
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =325
-        X: =51.4208984375
-        Y: =118
-        ZIndex: =59
-
     "'Đặt Lịch khám_3' As label":
         Align: =Align.Center
         BorderColor: =RGBA(0, 0, 0, 0)
