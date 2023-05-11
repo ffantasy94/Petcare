@@ -91,7 +91,7 @@
         Width: =428
         ZIndex: =87
 
-    "'Chiều cao_2' As label":
+    "'Cân nặng' As label":
         Align: =Align.Center
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
