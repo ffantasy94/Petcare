@@ -128,7 +128,6 @@
     "UserLocale": "vi-VN"
   },
   "ScreenOrder": [
-    "10Mnhnhxutphngkhmcsthcng",
     "3ngk",
     "4ResetPassword",
     "5Mnhinhgingk",
@@ -143,9 +142,10 @@
     "Chat bot",
     "Hiển thị lịch",
     "Màn hình giới thiệu app",
-    "Màn hình gợi ý phòng khám",
     "Màn hình hiển thị chức năng",
     "Màn hình thông báo cho phép truy cập vị trí",
+    "Màn hình gợi ý phòng khám",
+    "10Mnhnhxutphngkhmcsthcng",
     "MastersNavigationBarPartsLeftback",
     "MastersNavigationBarPartsLeftback1",
     "Đăng nhập 1",
