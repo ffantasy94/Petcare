@@ -1018,49 +1018,6 @@
                     Y: =163.10009765625
                     ZIndex: =70
 
-    "'❖ Masters / Navigation Bar Parts / Left / back_5' As groupContainer.manualLayoutContainer":
-        Height: =44
-        LayoutMode: ="manual"
-        Width: =38
-        X: =14
-        Y: =19
-        ZIndex: =71
-
-        "'❖ Masters / Navigation Bar Parts / Left / .❖ left-master_5' As groupContainer.manualLayoutContainer":
-            Height: =44
-            LayoutMode: ="manual"
-            Width: =38
-            ZIndex: =72
-
-            back_5 As groupContainer.manualLayoutContainer:
-                Height: =36
-                LayoutMode: ="manual"
-                Width: =14
-                X: =12
-                Y: =4
-                ZIndex: =73
-
-                "'SF Symbol Ⓛ_5' As label":
-                    Align: =Align.Center
-                    BorderColor: =RGBA(0, 0, 0, 0)
-                    BorderStyle: =BorderStyle.None
-                    Color: =RGBA(159.8896, 158.5572, 158.5572, 1)
-                    DisabledBorderColor: =RGBA(0, 0, 0, 0)
-                    DisabledColor: =RGBA(166, 166, 166, 1)
-                    FocusedBorderThickness: =4
-                    FontWeight: =FontWeight.Lighter
-                    Height: =36
-                    Italic: =true
-                    LineHeight: =1.157895
-                    PaddingBottom: =0
-                    PaddingLeft: =0
-                    PaddingRight: =0
-                    PaddingTop: =0
-                    Size: =14.25
-                    Text: ="􀆉"
-                    Width: =18
-                    ZIndex: =74
-
     "'Rectangle 103_5' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None

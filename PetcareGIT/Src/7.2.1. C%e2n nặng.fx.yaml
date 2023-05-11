@@ -79,3 +79,37 @@
         Y: =170
         ZIndex: =86
 
+    "'Rectangle 103_8' As rectangle":
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        DisabledFill: =RGBA(166, 166, 166, 1)
+        Fill: =RGBA(250.0306, 219.5477, 111.472, 0.3)
+        FocusedBorderThickness: =4
+        Height: =93
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =428
+        ZIndex: =87
+
+    "'Chiều cao_2' As label":
+        Align: =Align.Center
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(250.0306, 150.0183, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        FontWeight: =FontWeight.Semibold
+        Height: =54
+        LineHeight: =0.9375
+        PaddingBottom: =0
+        PaddingLeft: =0
+        PaddingRight: =0
+        PaddingTop: =0
+        Size: =24
+        Text: ="Cân nặng"
+        Width: =176
+        X: =126
+        Y: =19
+        ZIndex: =88
+

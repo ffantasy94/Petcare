@@ -7794,30 +7794,6 @@
               "message": {
                 "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
               }
-            },
-            {
-              "associatedRule": {
-                "id": "app-InefficientDelayLoading",
-                "index": 4
-              },
-              "descriptor": {
-                "id": "app-InefficientDelayLoading"
-              },
-              "message": {
-                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
-              }
-            },
-            {
-              "associatedRule": {
-                "id": "app-InefficientDelayLoading",
-                "index": 4
-              },
-              "descriptor": {
-                "id": "app-InefficientDelayLoading"
-              },
-              "message": {
-                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
-              }
             }
           ]
         }
@@ -7928,17 +7904,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'722Chiucao'.'❖ Masters / Navigation Bar Parts / Left / back_5'.'❖ Masters / Navigation Bar Parts / Left / .❖ left-master_5'.back_5.'SF Symbol Ⓛ_5'.TabIndex"
+                  "fullyQualifiedName": "'7.2.1. Cân nặng'.'Rectangle 103_8'.AccessibleLabel"
                 }
               ],
               "properties": {
-                "member": "TabIndex",
-                "module": "722Chiucao",
-                "type": "'722Chiucao'.'❖ Masters / Navigation Bar Parts / Left / back_5'.'❖ Masters / Navigation Bar Parts / Left / .❖ left-master_5'.back_5.'SF Symbol Ⓛ_5'"
+                "member": "AccessibleLabel",
+                "module": "7.2.1. Cân nặng",
+                "type": "'7.2.1. Cân nặng'.'Rectangle 103_8'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'722Chiucao'.'❖ Masters / Navigation Bar Parts / Left / back_5'.'❖ Masters / Navigation Bar Parts / Left / .❖ left-master_5'.back_5.'SF Symbol Ⓛ_5'.TabIndex",
+                  "fullyQualifiedName": "'7.2.1. Cân nặng'.'Rectangle 103_8'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -7950,8 +7926,8 @@
           "properties": {
             "level": "Medium"
           },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
         },
         {
           "locations": [
@@ -29072,6 +29048,66 @@
           },
           "ruleId": "acc-AccessibleLabelNeeded",
           "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2.1. Cân nặng'.'Rectangle 103_8'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2.1. Cân nặng",
+                "type": "'7.2.1. Cân nặng'.'Rectangle 103_8'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2.1. Cân nặng'.'Rectangle 103_8'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2.1. Cân nặng'.'Chiều cao_2'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2.1. Cân nặng",
+                "type": "'7.2.1. Cân nặng'.'Chiều cao_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2.1. Cân nặng'.'Chiều cao_2'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
         },
         {
           "locations": [
