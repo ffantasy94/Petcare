@@ -138,7 +138,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Button7",
-      "ParentIndex": 5,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -339,7 +339,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "CompositeLineChart2",
-      "ParentIndex": 8,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -413,7 +413,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Legend2",
-      "ParentIndex": 7,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -558,7 +558,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%LineChart.ID%",
       "Name": "LineChart2",
-      "ParentIndex": 6,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -706,7 +706,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Title2",
-      "ParentIndex": 3,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
