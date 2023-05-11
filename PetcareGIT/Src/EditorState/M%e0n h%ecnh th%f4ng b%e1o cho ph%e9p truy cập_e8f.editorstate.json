@@ -50,7 +50,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Image5_1",
-      "ParentIndex": 1,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -994,7 +994,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Từ chối_1",
-      "ParentIndex": 4,
+      "ParentIndex": 13,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1335,7 +1335,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Từ chối_2",
-      "ParentIndex": 5,
+      "ParentIndex": 14,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
