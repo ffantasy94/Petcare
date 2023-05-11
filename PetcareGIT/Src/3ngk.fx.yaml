@@ -29,7 +29,7 @@
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =392
         X: =24
-        Y: =72
+        Y: =79
         ZIndex: =2
 
     "'Mật khẩu_2' As label":
@@ -52,24 +52,6 @@
         Y: =542
         ZIndex: =3
 
-    "'Rectangle 109' As image":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =199
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: =image1611867
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =152
-        X: =134
-        Y: =156
-        ZIndex: =4
-
     Hoặc_1 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -90,90 +72,6 @@
         X: =189
         Y: =730
         ZIndex: =5
-
-    "'Rectangle 111' As rectangle":
-        BorderColor: =RGBA(255, 249.6875, 249.6875, 1)
-        BorderThickness: =1
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(255, 255, 255, 1)
-        FocusedBorderThickness: =4
-        Height: =55
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =292
-        X: =60
-        Y: =234
-        ZIndex: =6
-
-    "'Rectangle 112' As rectangle":
-        BorderColor: =RGBA(255, 249.6875, 249.6875, 1)
-        BorderThickness: =1
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(255, 255, 255, 1)
-        FocusedBorderThickness: =4
-        Height: =55
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =292
-        X: =60
-        Y: =357
-        ZIndex: =7
-
-    "'Rectangle 113' As rectangle":
-        BorderColor: =RGBA(255, 249.6875, 249.6875, 1)
-        BorderThickness: =1
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(242, 147, 0, 1)
-        FocusedBorderThickness: =4
-        Height: =55
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =292
-        X: =75
-        Y: =606
-        ZIndex: =8
-
-    "'Nhập tên đăng nhập' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(140.4625, 131.0983, 131.0983, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =21
-        LineHeight: =1.171875
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =13.5
-        Text: ="Nhập tên đăng nhập"
-        VerticalAlign: =VerticalAlign.Top
-        Width: =166
-        X: =74
-        Y: =251
-        ZIndex: =9
-
-    "'Nhập email' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(140.4625, 131.0983, 131.0983, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =21
-        LineHeight: =1.171875
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =13.5
-        Text: ="Nhập email"
-        VerticalAlign: =VerticalAlign.Top
-        Width: =96
-        X: =79
-        Y: =374
-        ZIndex: =10
 
     "'Line 21' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -204,79 +102,6 @@
         X: =245
         Y: =745
         ZIndex: =12
-
-    "'Mật khẩu_3' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(0, 0, 0, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =23
-        LineHeight: =1.171875
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =15
-        Text: ="Mật khẩu"
-        VerticalAlign: =VerticalAlign.Top
-        Width: =87
-        X: =65
-        Y: =428
-        ZIndex: =13
-
-    "'Rectangle 109_1' As rectangle":
-        BorderColor: =RGBA(255, 249.6875, 249.6875, 1)
-        BorderThickness: =1
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(255, 255, 255, 1)
-        FocusedBorderThickness: =4
-        Height: =55
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =292
-        X: =60
-        Y: =463
-        ZIndex: =14
-
-    "'Nhập mật khẩu' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(140.4625, 131.0983, 131.0983, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =21
-        LineHeight: =1.171875
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =13.5
-        Text: ="Nhập mật khẩu"
-        VerticalAlign: =VerticalAlign.Top
-        Width: =126
-        X: =79
-        Y: =480
-        ZIndex: =15
-
-    "'Screenshot 2023-04-26 105546 2' As image":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =51
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: =image1611889
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =44
-        X: =308
-        Y: =463
-        ZIndex: =16
 
     "'Rectangle 109_2' As rectangle":
         BorderColor: =RGBA(255, 249.6875, 249.6875, 1)
@@ -312,24 +137,6 @@
         Y: =825
         ZIndex: =18
 
-    "'Rectangle 115' As image":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =199
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: =image1631803
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =152
-        X: =134
-        Y: =156
-        ZIndex: =19
-
     "'Đăng ký_1' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -337,7 +144,8 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
-        Height: =36
+        FontWeight: =FontWeight.Bold
+        Height: =54
         LineHeight: =1.171875
         PaddingBottom: =0
         PaddingLeft: =0
@@ -346,8 +154,8 @@
         Size: =30
         Text: ="Đăng ký"
         VerticalAlign: =VerticalAlign.Top
-        Width: =252
-        X: =151
+        Width: =237
+        X: =130
         Y: =88
         ZIndex: =20
 
@@ -358,7 +166,8 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
-        Height: =23
+        FontWeight: =FontWeight.Semibold
+        Height: =26
         LineHeight: =1.171875
         PaddingBottom: =0
         PaddingLeft: =0
@@ -367,9 +176,9 @@
         Size: =15
         Text: ="Tên đăng nhập "
         VerticalAlign: =VerticalAlign.Top
-        Width: =136
+        Width: =193
         X: =74
-        Y: =187
+        Y: =178
         ZIndex: =21
 
     "'Tôi đồng ý các điều khoản' As label":
@@ -379,7 +188,7 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
-        Height: =21
+        Height: =31
         LineHeight: =1.171875
         PaddingBottom: =0
         PaddingLeft: =0
@@ -388,135 +197,10 @@
         Size: =13.5
         Text: ="Tôi đồng ý các điều khoản"
         VerticalAlign: =VerticalAlign.Top
-        Width: =213
+        Width: =248
         X: =102
-        Y: =552
-        ZIndex: =22
-
-    "'Rectangle 111_1' As rectangle":
-        BorderColor: =RGBA(255, 249.6875, 249.6875, 1)
-        BorderThickness: =1
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(255, 255, 255, 1)
-        FocusedBorderThickness: =4
-        Height: =55
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =292
-        X: =75
-        Y: =234
-        ZIndex: =23
-
-    "'Địa chỉ Email' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(0, 0, 0, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =23
-        LineHeight: =1.171875
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =15
-        Text: ="Địa chỉ Email"
-        VerticalAlign: =VerticalAlign.Top
-        Width: =120
-        X: =80
-        Y: =320
-        ZIndex: =24
-
-    "'Rectangle 112_1' As rectangle":
-        BorderColor: =RGBA(255, 249.6875, 249.6875, 1)
-        BorderThickness: =1
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(255, 255, 255, 1)
-        FocusedBorderThickness: =4
-        Height: =55
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =292
-        X: =75
-        Y: =357
-        ZIndex: =25
-
-    "'Rectangle 114' As rectangle":
-        BorderColor: =RGBA(232.6875, 166.4757, 0, 1)
-        BorderThickness: =1
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =19
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =19
-        X: =73
         Y: =553
-        ZIndex: =26
-
-    "'Nhập tên đăng nhập_1' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(140.4625, 131.0983, 131.0983, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =21
-        LineHeight: =1.171875
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =13.5
-        Text: ="Nhập tên đăng nhập"
-        VerticalAlign: =VerticalAlign.Top
-        Width: =166
-        X: =89
-        Y: =251
-        ZIndex: =27
-
-    "'Nhập email_1' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(140.4625, 131.0983, 131.0983, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =21
-        LineHeight: =1.171875
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =13.5
-        Text: ="Nhập email"
-        VerticalAlign: =VerticalAlign.Top
-        Width: =96
-        X: =94
-        Y: =374
-        ZIndex: =28
-
-    "'Đăng ký_2' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(255, 255, 255, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =17.6428527832031
-        LineHeight: =1.3
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =15
-        Text: ="Đăng ký"
-        Width: =130.502075195313
-        X: =172
-        Y: =626
-        ZIndex: =29
+        ZIndex: =22
 
     "'Mật khẩu_4' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -525,6 +209,7 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
+        FontWeight: =FontWeight.Semibold
         Height: =23
         LineHeight: =1.171875
         PaddingBottom: =0
@@ -534,62 +219,10 @@
         Size: =15
         Text: ="Mật khẩu"
         VerticalAlign: =VerticalAlign.Top
-        Width: =87
-        X: =65
-        Y: =428
+        Width: =140
+        X: =66
+        Y: =431
         ZIndex: =30
-
-    "'Rectangle 116' As rectangle":
-        BorderColor: =RGBA(255, 249.6875, 249.6875, 1)
-        BorderThickness: =1
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(255, 255, 255, 1)
-        FocusedBorderThickness: =4
-        Height: =55
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =292
-        X: =75
-        Y: =463
-        ZIndex: =31
-
-    "'Nhập mật khẩu_1' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(140.4625, 131.0983, 131.0983, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =21
-        LineHeight: =1.171875
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =13.5
-        Text: ="Nhập mật khẩu"
-        VerticalAlign: =VerticalAlign.Top
-        Width: =126
-        X: =94
-        Y: =480
-        ZIndex: =32
-
-    "'Screenshot 2023-04-26 105546 2_1' As image":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =51
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: =image1631822
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =44
-        X: =323
-        Y: =463
-        ZIndex: =33
 
     "'Rectangle 109_3' As rectangle":
         BorderColor: =RGBA(255, 249.6875, 249.6875, 1)
@@ -625,46 +258,162 @@
         Y: =825
         ZIndex: =35
 
-    "'❖ Masters / Navigation Bar Parts / Left / back' As groupContainer.manualLayoutContainer":
-        Height: =44
-        LayoutMode: ="manual"
-        Width: =38
-        X: =40
-        Y: =88
+    Arrow1 As arrow.backArrow:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        Fill: =RGBA(242, 147, 0, 1)
+        Height: =30
+        Width: =30
+        X: =52
+        Y: =97
         ZIndex: =36
 
-        "'❖ Masters / Navigation Bar Parts / Left / .❖ left-master' As groupContainer.manualLayoutContainer":
-            Height: =44
-            LayoutMode: ="manual"
-            Width: =38
-            ZIndex: =37
+    TextInput2 As text:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderThickness: =0
+        Color: =RGBA(140, 131, 131, 1)
+        Default: ="Đầu vào văn bản"
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        Height: =49
+        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverFill: =RGBA(255, 255, 255, 1)
+        PressedBorderColor: =RGBA(0, 120, 212, 1)
+        PressedColor: =RGBA(51, 51, 51, 1)
+        PressedFill: =RGBA(255, 255, 255, 1)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =16
+        Width: =307
+        X: =58
+        Y: =222
+        ZIndex: =37
 
-            back As groupContainer.manualLayoutContainer:
-                Height: =36
-                LayoutMode: ="manual"
-                Width: =14
-                X: =12
-                Y: =4
-                ZIndex: =38
+    "'Tên đăng nhập_3' As label":
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        FontWeight: =FontWeight.Semibold
+        Height: =26
+        LineHeight: =1.171875
+        PaddingBottom: =0
+        PaddingLeft: =0
+        PaddingRight: =0
+        PaddingTop: =0
+        Size: =15
+        Text: ="Địa chỉ Email"
+        VerticalAlign: =VerticalAlign.Top
+        Width: =193
+        X: =70
+        Y: =309
+        ZIndex: =38
 
-                "'SF Symbol Ⓛ' As label":
-                    Align: =Align.Center
-                    BorderColor: =RGBA(0, 0, 0, 0)
-                    BorderStyle: =BorderStyle.None
-                    Color: =RGBA(159.8896, 158.5572, 158.5572, 1)
-                    DisabledBorderColor: =RGBA(0, 0, 0, 0)
-                    DisabledColor: =RGBA(166, 166, 166, 1)
-                    FocusedBorderThickness: =4
-                    FontWeight: =FontWeight.Lighter
-                    Height: =36
-                    Italic: =true
-                    LineHeight: =1.157895
-                    PaddingBottom: =0
-                    PaddingLeft: =0
-                    PaddingRight: =0
-                    PaddingTop: =0
-                    Size: =14.25
-                    Text: ="􀆉"
-                    Width: =18
-                    ZIndex: =39
+    TextInput2_1 As text:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderThickness: =0
+        Color: =RGBA(140, 131, 131, 1)
+        Default: ="Đầu vào văn bản"
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        Height: =49
+        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverFill: =RGBA(255, 255, 255, 1)
+        PressedBorderColor: =RGBA(0, 120, 212, 1)
+        PressedColor: =RGBA(51, 51, 51, 1)
+        PressedFill: =RGBA(255, 255, 255, 1)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =16
+        Width: =307
+        X: =58
+        Y: =352
+        ZIndex: =39
+
+    TextInput2_2 As text:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderThickness: =0
+        Color: =RGBA(140, 131, 131, 1)
+        Default: ="Đầu vào văn bản"
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        Height: =49
+        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverFill: =RGBA(255, 255, 255, 1)
+        PressedBorderColor: =RGBA(0, 120, 212, 1)
+        PressedColor: =RGBA(51, 51, 51, 1)
+        PressedFill: =RGBA(255, 255, 255, 1)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =16
+        Width: =307
+        X: =60
+        Y: =476
+        ZIndex: =40
+
+    Checkbox1 As checkbox:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        CheckboxBorderColor: =RGBA(242, 147, 0, 1)
+        CheckboxSize: =40
+        CheckmarkFill: =RGBA(0, 120, 212, 1)
+        Color: =RGBA(51, 51, 51, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        Height: =85
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =RGBA(51, 51, 51, 1)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Size: =21
+        Text: =""
+        Width: =44
+        X: =58
+        Y: =520
+        ZIndex: =41
+
+    Icon3 As icon.Hide:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(242, 147, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(220, 220, 220, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =25
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.Hide
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =25
+        X: =320
+        Y: =486
+        ZIndex: =42
 
