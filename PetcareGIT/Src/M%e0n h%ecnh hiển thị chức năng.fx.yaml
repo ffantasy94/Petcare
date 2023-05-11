@@ -386,7 +386,7 @@
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =96
-            Y: =77
+            Y: =87
             ZIndex: =28
 
         "'vet 1' As image":
@@ -403,7 +403,7 @@
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =74
             X: =11
-            Y: =87
+            Y: =97
             ZIndex: =29
 
     "'Theo dõi sức khỏe_1' As label":
