@@ -471,6 +471,7 @@
         FocusedBorderThickness: =4
         Font: =Font.'Segoe UI'
         Height: =35
+        HintText: ="Bạn cần tôi giúp gì?"
         HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         HoverColor: =RGBA(51, 51, 51, 1)
         HoverFill: =RGBA(255, 255, 255, 1)
