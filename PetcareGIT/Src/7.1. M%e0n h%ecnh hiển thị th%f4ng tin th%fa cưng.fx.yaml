@@ -3,47 +3,6 @@
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
     Width: =428
 
-    "'Group 144_2' As groupContainer.manualLayoutContainer":
-        Height: =82
-        LayoutMode: ="manual"
-        Width: =82
-        X: =185
-        Y: =83
-        ZIndex: =1
-
-        "'Ellipse 10_3' As image":
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            BorderThickness: =2
-            DisabledBorderColor: =RGBA(0, 0, 0, 0)
-            DisabledFill: =RGBA(0, 0, 0, 0)
-            FocusedBorderThickness: =4
-            Height: =82
-            HoverBorderColor: =RGBA(0, 0, 0, 0)
-            HoverFill: =RGBA(0, 0, 0, 0)
-            Image: =image1591907
-            PressedBorderColor: =RGBA(0, 0, 0, 0)
-            PressedFill: =RGBA(0, 0, 0, 0)
-            Width: =82
-            ZIndex: =20
-
-        "'image 26_2' As image":
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            DisabledBorderColor: =RGBA(0, 0, 0, 0)
-            DisabledFill: =RGBA(0, 0, 0, 0)
-            FocusedBorderThickness: =4
-            Height: =74.2315673828125
-            HoverBorderColor: =RGBA(0, 0, 0, 0)
-            HoverFill: =RGBA(0, 0, 0, 0)
-            Image: =image1591908
-            PressedBorderColor: =RGBA(0, 0, 0, 0)
-            PressedFill: =RGBA(0, 0, 0, 0)
-            Width: =75.0947265625
-            X: =3
-            Y: =4
-            ZIndex: =21
-
     Label4 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -58,7 +17,7 @@
         Size: =21
         Text: ="Thông tin thú cưng"
         Width: =267
-        X: =92
+        X: =86
         Y: =165
         ZIndex: =2
 
@@ -68,11 +27,46 @@
         DisabledFill: =RGBA(166, 166, 166, 1)
         Fill: =RGBA(255, 255, 255, 1)
         FocusedBorderThickness: =4
-        Height: =621
+        Height: =609
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =328
-        X: =55
-        Y: =234
+        Width: =349
+        X: =45
+        Y: =235
         ZIndex: =3
+
+    "'Ellipse 10_3' As image":
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =82
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: =image1591907
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =82
+        X: =178
+        Y: =63
+        ZIndex: =4
+
+    "'image 26_2' As image":
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =74.2315673828125
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: =image1591908
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =75.0947265625
+        X: =181
+        Y: =67
+        ZIndex: =5
 
