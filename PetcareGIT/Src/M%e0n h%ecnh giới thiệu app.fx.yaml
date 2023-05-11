@@ -7,9 +7,9 @@
 
     Button1 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
-        BorderThickness: =10
+        BorderThickness: =0
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(0, 0, 0, 0)
         DisabledFill: =RGBA(244, 244, 244, 1)
         Fill: =RGBA(242, 147, 0, 1)
         FocusedBorderColor: =ColorFade(Self.Fill, -75%)
@@ -17,10 +17,10 @@
         FontWeight: =FontWeight.Semibold
         Height: =70
         HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverColor: =RGBA(0, 0, 0, 0)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
         PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
-        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedColor: =RGBA(0, 0, 0, 0)
         PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         RadiusBottomLeft: =40
         RadiusBottomRight: =40
