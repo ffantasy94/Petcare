@@ -33842,66 +33842,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 97_1'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Rectangle 97_1'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 97_1'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 97_1'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Rectangle 97_1'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 97_1'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Group 143'.'Ellipse 10_1'.AccessibleLabel"
                 }
               ],

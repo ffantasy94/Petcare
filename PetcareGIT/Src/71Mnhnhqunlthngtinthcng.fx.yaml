@@ -210,7 +210,7 @@
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
         FontWeight: =FontWeight.Semibold
-        Height: =22
+        Height: =63
         LineHeight: =0.9166667
         PaddingBottom: =0
         PaddingLeft: =0
@@ -219,8 +219,8 @@
         Size: =18
         Text: ="Thông tin thú cưng"
         Width: =201
-        X: =124
-        Y: =173
+        X: =132
+        Y: =155
         ZIndex: =21
 
     "'Tên:' As label":
@@ -512,20 +512,6 @@
         Y: =504.999984741211
         ZIndex: =37
 
-    "'Rectangle 97_1' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(250.0306, 150.0183, 0, 1)
-        FocusedBorderThickness: =4
-        Height: =34
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =101
-        X: =312
-        Y: =20
-        ZIndex: =38
-
     Vector As image:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -659,4 +645,31 @@
         X: =54
         Y: =19
         ZIndex: =46
+
+    Button6 As button:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(250, 150, 0, 1)
+        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =28
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =14
+        Text: ="Chỉnh sửa"
+        Width: =102
+        X: =299
+        Y: =22
+        ZIndex: =47
 
