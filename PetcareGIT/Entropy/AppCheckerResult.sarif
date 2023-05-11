@@ -10206,6 +10206,18 @@
               "message": {
                 "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
               }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
             }
           ]
         }
@@ -36416,126 +36428,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'3ngk'.'Line 21'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "3ngk",
-                "type": "'3ngk'.'Line 21'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'3ngk'.'Line 21'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'3ngk'.'Line 21'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "3ngk",
-                "type": "'3ngk'.'Line 21'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'3ngk'.'Line 21'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'3ngk'.'Line 22'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "3ngk",
-                "type": "'3ngk'.'Line 22'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'3ngk'.'Line 22'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'3ngk'.'Line 22'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "3ngk",
-                "type": "'3ngk'.'Line 22'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'3ngk'.'Line 22'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "'3ngk'.Hoặc_1.TabIndex"
                 }
               ],
@@ -38227,66 +38119,6 @@
               "physicalLocation": {
                 "address": {
                   "fullyQualifiedName": "'4ResetPassword'.'Line 23'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'4ResetPassword'.'Line 24'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "4ResetPassword",
-                "type": "'4ResetPassword'.'Line 24'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'4ResetPassword'.'Line 24'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'4ResetPassword'.'Line 24'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "4ResetPassword",
-                "type": "'4ResetPassword'.'Line 24'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'4ResetPassword'.'Line 24'.TabIndex",
                   "relativeAddress": 0
                 }
               }

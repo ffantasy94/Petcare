@@ -73,36 +73,6 @@
         Y: =756
         ZIndex: =5
 
-    "'Line 21' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(128, 128, 128, 1)
-        FocusedBorderThickness: =4
-        Height: =0
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =88
-        X: =87
-        Y: =745
-        ZIndex: =11
-
-    "'Line 22' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(128, 128, 128, 1)
-        FocusedBorderThickness: =4
-        Height: =0
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =88
-        X: =245
-        Y: =745
-        ZIndex: =12
-
     "'Đăng ký_1' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -204,7 +174,7 @@
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderThickness: =0
         Color: =RGBA(140, 131, 131, 1)
-        Default: ="Đầu vào văn bản"
+        Default: ="Nhập tên đăng nhập"
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
@@ -404,4 +374,44 @@
         X: =111
         Y: =627
         ZIndex: =45
+
+    Icon4_2 As icon.HorizontalLine:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(242, 147, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(220, 220, 220, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =1
+        Height: =60
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.HorizontalLine
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =60
+        X: =105
+        Y: =740
+        ZIndex: =46
+
+    Icon4_3 As icon.HorizontalLine:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(242, 147, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(220, 220, 220, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =1
+        Height: =60
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.HorizontalLine
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =60
+        X: =251
+        Y: =740
+        ZIndex: =47
 
