@@ -187,20 +187,6 @@
         Y: =837
         ZIndex: =12
 
-    "'Line 12_2' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(128, 128, 128, 1)
-        FocusedBorderThickness: =4
-        Height: =0
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =428.004638671875
-        Y: =79
-        ZIndex: =13
-
     "'Line 13_1' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -224,55 +210,17 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
-        Height: =22
+        Height: =24
         LineHeight: =1.157895
         PaddingBottom: =0
         PaddingLeft: =0
         PaddingRight: =0
         PaddingTop: =0
-        Size: =14.25
         Text: ="Đặt Lịch khám"
-        Width: =121
-        X: =50
+        Width: =192
+        X: =31
         Y: =27
         ZIndex: =15
-
-    "'❖ Masters / Navigation Bar Parts / Left / .❖ left-master_15' As groupContainer.manualLayoutContainer":
-        Height: =44
-        LayoutMode: ="manual"
-        Width: =38
-        X: =11
-        Y: =16
-        ZIndex: =16
-
-        back_15 As groupContainer.manualLayoutContainer:
-            Height: =36
-            LayoutMode: ="manual"
-            Width: =14
-            X: =12
-            Y: =4
-            ZIndex: =17
-
-            "'SF Symbol Ⓛ_15' As label":
-                Align: =Align.Center
-                BorderColor: =RGBA(0, 0, 0, 0)
-                BorderStyle: =BorderStyle.None
-                Color: =RGBA(159.8896, 158.5572, 158.5572, 1)
-                DisabledBorderColor: =RGBA(0, 0, 0, 0)
-                DisabledColor: =RGBA(166, 166, 166, 1)
-                FocusedBorderThickness: =4
-                FontWeight: =FontWeight.Lighter
-                Height: =36
-                Italic: =true
-                LineHeight: =1.157895
-                PaddingBottom: =0
-                PaddingLeft: =0
-                PaddingRight: =0
-                PaddingTop: =0
-                Size: =14.25
-                Text: ="􀆉"
-                Width: =18
-                ZIndex: =18
 
     "'Select Date' As groupContainer.manualLayoutContainer":
         Height: =117.906646728516
@@ -1007,20 +955,6 @@
         Y: =837
         ZIndex: =71
 
-    "'Line 15_2' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(128, 128, 128, 1)
-        FocusedBorderThickness: =4
-        Height: =0
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =428.004638671875
-        Y: =79
-        ZIndex: =72
-
     "'Line 16_1' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -1035,27 +969,6 @@
         X: =4
         Y: =436
         ZIndex: =73
-
-    "'Đặt Lịch khám_3' As label":
-        Align: =Align.Center
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(0, 0, 0, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =22
-        LineHeight: =1.157895
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =14.25
-        Text: ="Đặt Lịch khám"
-        Width: =121
-        X: =50
-        Y: =27
-        ZIndex: =74
 
     "'Select Date_1' As groupContainer.manualLayoutContainer":
         Height: =117.906646728516
@@ -1178,6 +1091,7 @@
                     Size: =13.5
                     Text: ="23"
                     Width: =28
+                    Y: =16
                     ZIndex: =84
 
                 Sa_1 As label:
@@ -1335,24 +1249,6 @@
                     Width: =56
                     Y: =26
                     ZIndex: =95
-
-        "'Chọn ngày khám_1' As label":
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            Color: =RGBA(30, 41, 59, 1)
-            DisabledBorderColor: =RGBA(0, 0, 0, 0)
-            DisabledColor: =RGBA(166, 166, 166, 1)
-            FocusedBorderThickness: =4
-            Height: =9.55999755859375
-            LineHeight: =1.625
-            PaddingBottom: =0
-            PaddingLeft: =0
-            PaddingRight: =0
-            PaddingTop: =0
-            Size: =12
-            Text: ="Chọn ngày khám"
-            Width: =146.8291015625
-            ZIndex: =96
 
     "'Group 141' As groupContainer.manualLayoutContainer":
         Height: =91.9999923706055
@@ -1608,4 +1504,25 @@
                     PressedFill: =RGBA(0, 120, 212, 1)
                     Width: =0
                     ZIndex: =116
+
+    Icon1_1 As icon.BackArrow:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(251, 183, 80, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(220, 220, 220, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        Fill: =RGBA(255, 255, 255, 1)
+        FocusedBorderThickness: =4
+        Height: =27
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.BackArrow
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =26
+        X: =24
+        Y: =24
+        ZIndex: =111
 
