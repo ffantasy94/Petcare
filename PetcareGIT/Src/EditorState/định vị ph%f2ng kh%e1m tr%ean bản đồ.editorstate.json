@@ -65,7 +65,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Bản đồ",
-      "ParentIndex": 7,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1618,7 +1618,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "image 10_1",
-      "ParentIndex": 8,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1909,7 +1909,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "image 16",
-      "ParentIndex": 9,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2200,7 +2200,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "image 8_3",
-      "ParentIndex": 5,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2482,7 +2482,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Image9",
-      "ParentIndex": 0,
+      "ParentIndex": 9,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2999,7 +2999,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Line 12_3",
-      "ParentIndex": 4,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4415,7 +4415,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 97_7",
-      "ParentIndex": 2,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4592,7 +4592,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 98_8",
-      "ParentIndex": 3,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4794,7 +4794,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Sắp xếp",
-      "ParentIndex": 6,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
