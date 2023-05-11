@@ -1,4 +1,4 @@
-"'5Mnhinhgingk' As screen":
+"'Màn hình đăng ký gói' As screen":
     Height: =926
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
     Width: =440
@@ -46,26 +46,6 @@
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =440
         ZIndex: =3
-
-    "'Quên mật khẩu' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(0, 0, 0, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =36
-        LineHeight: =1.171875
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =30
-        Text: ="Quên mật khẩu"
-        VerticalAlign: =VerticalAlign.Top
-        Width: =316
-        X: =349
-        ZIndex: =4
 
     "'Add a subheading (2) 6_1' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -135,24 +115,6 @@
         Y: =252
         ZIndex: =8
 
-    "'Rectangle 117' As image":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =199
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: =image2421908
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =152
-        X: =150
-        Y: =42
-        ZIndex: =9
-
     "'ƯU ĐÃI CHỈ CÒN TRONG:' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -175,26 +137,6 @@
         X: =56
         Y: =68
         ZIndex: =10
-
-    "'Quên mật khẩu_1' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(0, 0, 0, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =36
-        LineHeight: =1.171875
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =30
-        Text: ="Quên mật khẩu"
-        VerticalAlign: =VerticalAlign.Top
-        Width: =316
-        X: =349
-        ZIndex: =11
 
     "'Component 8' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -253,11 +195,11 @@
         PaddingLeft: =0
         PaddingRight: =0
         PaddingTop: =0
-        Size: =24
+        Size: =23
         Text: ="CÁC TÍNH NĂNG HẤP DẪN"
         Width: =384
         X: =28
-        Y: =238
+        Y: =224
         ZIndex: =15
 
     "'Hồ sơ thú cưng' As label":
@@ -373,7 +315,7 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
-        Height: =25
+        Height: =31
         LineHeight: =1.25
         PaddingBottom: =0
         PaddingLeft: =0
@@ -381,9 +323,9 @@
         PaddingTop: =0
         Size: =18
         Text: ="Nhắc nhở lịch trình"
-        Width: =207
-        X: =133
-        Y: =360
+        Width: =253
+        X: =111
+        Y: =355
         ZIndex: =21
 
     "'Phòng khám lân cận' As label":
@@ -394,7 +336,7 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
-        Height: =25
+        Height: =43
         LineHeight: =1.25
         PaddingBottom: =0
         PaddingLeft: =0
@@ -402,9 +344,9 @@
         PaddingTop: =0
         Size: =18
         Text: ="Phòng khám lân cận"
-        Width: =217
-        X: =137
-        Y: =395
+        Width: =249
+        X: =121
+        Y: =386
         ZIndex: =22
 
     "'Rectangle 103_1' As rectangle":
@@ -581,37 +523,30 @@
         Y: =662
         ZIndex: =31
 
-    "'Rectangle 103_2' As rectangle":
+    Button7 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(242, 147, 0, 1)
-        FocusedBorderThickness: =4
-        Height: =50
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =214
-        X: =102
-        Y: =754
-        ZIndex: =32
-
-    "'Tiếp tục' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(255, 255, 255, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =21
-        LineHeight: =1.083333
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =18
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(242, 147, 0, 1)
+        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =50
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =24
         Text: ="Tiếp tục"
-        Width: =119
-        X: =160
-        Y: =768
-        ZIndex: =33
+        Width: =226
+        X: =105
+        Y: =764
+        ZIndex: =34
 

@@ -95,7 +95,7 @@
       "zeroalltabindexes": false
     },
     "Author": "",
-    "BindingErrorCount": 1,
+    "BindingErrorCount": 0,
     "ContainsThirdPartyPcfControls": false,
     "DefaultConnectedDataSourceMaxGetRowsCount": 500,
     "DocumentAppType": "Phone",
@@ -130,7 +130,7 @@
   "ScreenOrder": [
     "3ngk",
     "4ResetPassword",
-    "5Mnhinhgingk",
+    "Màn hình đăng ký gói",
     "7.1. Màn hình hiển thị thông tin thú cưng",
     "7.2 Màn hình quản lý theo dõi sức khỏe",
     "7.2.1. Cân nặng",
