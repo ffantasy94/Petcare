@@ -1,4 +1,4 @@
-"'6Mnhnhhinthchcnng' As screen":
+"'Màn hình hiển thị chức năng' As screen":
     Height: =926
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
     Width: =428
@@ -208,15 +208,15 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledFill: =RGBA(0, 0, 0, 0)
         FocusedBorderThickness: =4
-        Height: =35
+        Height: =20
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: =image512393
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =8
-        X: =373
-        Y: =87
+        X: =382
+        Y: =52
         ZIndex: =14
 
     "'image 8' As image":
@@ -225,15 +225,15 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledFill: =RGBA(0, 0, 0, 0)
         FocusedBorderThickness: =4
-        Height: =78
+        Height: =35
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: =image1561844
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =78
-        X: =36
-        Y: =65
+        Width: =29
+        X: =344
+        Y: =44
         ZIndex: =15
 
     "'Rectangle 98' As rectangle":
@@ -362,21 +362,21 @@
     "'Tên người dùng' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
-        Color: =RGBA(250.0306, 150.0183, 0, 1)
+        Color: =RGBA(0, 60, 106, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
-        Height: =22
+        Height: =23
         LineHeight: =0.7857143
         PaddingBottom: =0
         PaddingLeft: =0
         PaddingRight: =0
         PaddingTop: =0
-        Size: =21
+        Size: =12
         Text: ="Tên người dùng"
-        Width: =193
-        X: =126
-        Y: =93
+        Width: =118
+        X: =219
+        Y: =50
         ZIndex: =24
 
     "'image 24' As image":

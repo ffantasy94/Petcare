@@ -44490,19 +44490,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'image 8'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'image 8'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'image 8'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'image 8'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'image 8'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'image 8'"
               }
             }
           ],
@@ -44520,19 +44520,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'image 8'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'image 8'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'image 8'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'image 8'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'image 8'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'image 8'"
               }
             }
           ],
@@ -44550,19 +44550,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.coolicon.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.coolicon.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.coolicon.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.coolicon.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.coolicon"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.coolicon"
               }
             }
           ],
@@ -44580,19 +44580,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.coolicon.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.coolicon.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.coolicon.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.coolicon.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.coolicon"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.coolicon"
               }
             }
           ],
@@ -44610,19 +44610,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Tên người dùng'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Tên người dùng'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Tên người dùng'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Tên người dùng'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Tên người dùng'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Tên người dùng'"
               }
             }
           ],
@@ -44640,19 +44640,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 98'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 98'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 98'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 98'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 98'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 98'"
               }
             }
           ],
@@ -44670,19 +44670,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 98'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 98'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 98'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 98'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 98'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 98'"
               }
             }
           ],
@@ -44700,19 +44700,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 100'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 100'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 100'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 100'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 100'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 100'"
               }
             }
           ],
@@ -44730,19 +44730,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 100'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 100'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 100'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 100'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 100'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 100'"
               }
             }
           ],
@@ -44760,19 +44760,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'image 24'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'image 24'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'image 24'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'image 24'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'image 24'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'image 24'"
               }
             }
           ],
@@ -44790,19 +44790,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'image 24'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'image 24'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'image 24'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'image 24'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'image 24'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'image 24'"
               }
             }
           ],
@@ -44820,19 +44820,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 10'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 10'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 10'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 10'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Ellipse 10'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Ellipse 10'"
               }
             }
           ],
@@ -44850,19 +44850,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 10'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 10'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 10'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 10'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Ellipse 10'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Ellipse 10'"
               }
             }
           ],
@@ -44880,19 +44880,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'image 25'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'image 25'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'image 25'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'image 25'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'image 25'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'image 25'"
               }
             }
           ],
@@ -44910,19 +44910,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'image 25'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'image 25'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'image 25'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'image 25'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'image 25'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'image 25'"
               }
             }
           ],
@@ -44940,19 +44940,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Hồ sơ thú cưng_1'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Hồ sơ thú cưng_1'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Hồ sơ thú cưng_1'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Hồ sơ thú cưng_1'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Hồ sơ thú cưng_1'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Hồ sơ thú cưng_1'"
               }
             }
           ],
@@ -44970,19 +44970,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Theo dõi sức khỏe_1'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Theo dõi sức khỏe_1'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Theo dõi sức khỏe_1'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Theo dõi sức khỏe_1'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Theo dõi sức khỏe_1'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Theo dõi sức khỏe_1'"
               }
             }
           ],
@@ -45000,19 +45000,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 99'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 99'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 99'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 99'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 99'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 99'"
               }
             }
           ],
@@ -45030,19 +45030,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 99'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 99'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 99'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 99'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 99'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 99'"
               }
             }
           ],
@@ -45060,19 +45060,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 101'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 101'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 101'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 101'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 101'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 101'"
               }
             }
           ],
@@ -45090,19 +45090,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 101'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 101'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 101'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 101'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 101'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 101'"
               }
             }
           ],
@@ -45120,19 +45120,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'image 27'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'image 27'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'image 27'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'image 27'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'image 27'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'image 27'"
               }
             }
           ],
@@ -45150,19 +45150,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'image 27'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'image 27'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'image 27'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'image 27'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'image 27'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'image 27'"
               }
             }
           ],
@@ -45180,19 +45180,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Group 144'.'Ellipse 11'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Group 144'.'Ellipse 11'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Group 144'.'Ellipse 11'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Group 144'.'Ellipse 11'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Group 144'.'Ellipse 11'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Group 144'.'Ellipse 11'"
               }
             }
           ],
@@ -45210,19 +45210,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Group 144'.'Ellipse 11'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Group 144'.'Ellipse 11'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Group 144'.'Ellipse 11'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Group 144'.'Ellipse 11'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Group 144'.'Ellipse 11'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Group 144'.'Ellipse 11'"
               }
             }
           ],
@@ -45240,19 +45240,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Group 144'.'vet 1'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Group 144'.'vet 1'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Group 144'.'vet 1'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Group 144'.'vet 1'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Group 144'.'vet 1'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Group 144'.'vet 1'"
               }
             }
           ],
@@ -45270,19 +45270,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Group 144'.'vet 1'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Group 144'.'vet 1'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Group 144'.'vet 1'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Group 144'.'vet 1'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Group 144'.'vet 1'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Group 144'.'vet 1'"
               }
             }
           ],
@@ -45300,19 +45300,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Nhắc nhở lịch trình_1'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Nhắc nhở lịch trình_1'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Nhắc nhở lịch trình_1'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Nhắc nhở lịch trình_1'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Nhắc nhở lịch trình_1'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Nhắc nhở lịch trình_1'"
               }
             }
           ],
@@ -45330,19 +45330,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Phòng khám lân cận_1'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Phòng khám lân cận_1'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Phòng khám lân cận_1'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Phòng khám lân cận_1'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Phòng khám lân cận_1'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Phòng khám lân cận_1'"
               }
             }
           ],
@@ -45360,19 +45360,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 6_1'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 6_1'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 6_1'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 6_1'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Ellipse 6_1'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Ellipse 6_1'"
               }
             }
           ],
@@ -45390,19 +45390,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 6_1'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 6_1'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 6_1'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 6_1'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Ellipse 6_1'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Ellipse 6_1'"
               }
             }
           ],
@@ -45420,19 +45420,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 102_1'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 102_1'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 102_1'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 102_1'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 102_1'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 102_1'"
               }
             }
           ],
@@ -45450,19 +45450,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 102_1'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 102_1'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 102_1'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 102_1'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 102_1'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 102_1'"
               }
             }
           ],
@@ -45480,19 +45480,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'image 8_1'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'image 8_1'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'image 8_1'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'image 8_1'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'image 8_1'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'image 8_1'"
               }
             }
           ],
@@ -45510,19 +45510,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'image 8_1'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'image 8_1'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'image 8_1'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'image 8_1'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'image 8_1'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'image 8_1'"
               }
             }
           ],
@@ -45540,19 +45540,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Bạn cần tôi giúp gì không?'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Bạn cần tôi giúp gì không?'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Bạn cần tôi giúp gì không?'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Bạn cần tôi giúp gì không?'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Bạn cần tôi giúp gì không?'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Bạn cần tôi giúp gì không?'"
               }
             }
           ],
@@ -45570,19 +45570,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 66'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 66'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 66'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 66'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 66'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 66'"
               }
             }
           ],
@@ -45600,19 +45600,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 66'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 66'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 66'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 66'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 66'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 66'"
               }
             }
           ],
@@ -45630,19 +45630,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 6'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 6'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 6'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 6'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Ellipse 6'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Ellipse 6'"
               }
             }
           ],
@@ -45660,19 +45660,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 6'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 6'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 6'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 6'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Ellipse 6'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Ellipse 6'"
               }
             }
           ],
@@ -45690,19 +45690,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 8'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 8'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 8'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 8'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Ellipse 8'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Ellipse 8'"
               }
             }
           ],
@@ -45720,19 +45720,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 8'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 8'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 8'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 8'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Ellipse 8'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Ellipse 8'"
               }
             }
           ],
@@ -45750,19 +45750,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 9'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 9'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 9'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 9'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Ellipse 9'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Ellipse 9'"
               }
             }
           ],
@@ -45780,19 +45780,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 9'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 9'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 9'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 9'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Ellipse 9'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Ellipse 9'"
               }
             }
           ],
@@ -45810,19 +45810,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 7'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 7'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 7'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 7'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Ellipse 7'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Ellipse 7'"
               }
             }
           ],
@@ -45840,19 +45840,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 7'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 7'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Ellipse 7'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Ellipse 7'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Ellipse 7'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Ellipse 7'"
               }
             }
           ],
@@ -45870,19 +45870,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 60'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 60'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 60'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 60'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 60'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 60'"
               }
             }
           ],
@@ -45900,19 +45900,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 60'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 60'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 60'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 60'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 60'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 60'"
               }
             }
           ],
@@ -45930,19 +45930,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 61'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 61'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 61'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 61'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 61'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 61'"
               }
             }
           ],
@@ -45960,19 +45960,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 61'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 61'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 61'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 61'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 61'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 61'"
               }
             }
           ],
@@ -45990,19 +45990,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 57'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 57'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 57'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 57'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 57'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 57'"
               }
             }
           ],
@@ -46020,19 +46020,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 57'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 57'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 57'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 57'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 57'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 57'"
               }
             }
           ],
@@ -46050,19 +46050,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 58'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 58'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 58'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 58'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 58'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 58'"
               }
             }
           ],
@@ -46080,19 +46080,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 58'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 58'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 58'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 58'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 58'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 58'"
               }
             }
           ],
@@ -46110,19 +46110,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Line 8'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Line 8'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Line 8'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Line 8'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Line 8'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Line 8'"
               }
             }
           ],
@@ -46140,19 +46140,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Line 8'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Line 8'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Line 8'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Line 8'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Line 8'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Line 8'"
               }
             }
           ],
@@ -46170,19 +46170,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 20'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 20'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 20'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 20'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 20'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 20'"
               }
             }
           ],
@@ -46200,19 +46200,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 20'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 20'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 20'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 20'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 20'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 20'"
               }
             }
           ],
@@ -46230,19 +46230,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 21'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 21'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 21'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 21'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 21'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 21'"
               }
             }
           ],
@@ -46260,19 +46260,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 21'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 21'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 21'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 21'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 21'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 21'"
               }
             }
           ],
@@ -46290,19 +46290,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 22'.AccessibleLabel"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 22'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 22'.AccessibleLabel",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 22'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 22'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 22'"
               }
             }
           ],
@@ -46320,19 +46320,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 22'.TabIndex"
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 22'.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'6Mnhnhhinthchcnng'.'Rectangle 22'.TabIndex",
+                  "fullyQualifiedName": "'Màn hình hiển thị chức năng'.'Rectangle 22'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "6Mnhnhhinthchcnng",
-                "type": "'6Mnhnhhinthchcnng'.'Rectangle 22'"
+                "module": "Màn hình hiển thị chức năng",
+                "type": "'Màn hình hiển thị chức năng'.'Rectangle 22'"
               }
             }
           ],
