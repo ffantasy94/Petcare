@@ -1,4 +1,4 @@
-"'10Mnhnhxutphngkhmcsthcng1' As screen":
+"'Màn hình thông báo cho phép truy cập vị trí' As screen":
     Height: =926
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
     Width: =428
@@ -266,46 +266,9 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =366
-        X: =31
-        Y: =44
+        X: =28
+        Y: =43
         ZIndex: =18
-
-    "'❖ Masters / Navigation Bar Parts / Left / .❖ left-master_17' As groupContainer.manualLayoutContainer":
-        Height: =44
-        LayoutMode: ="manual"
-        Width: =38
-        X: =37
-        Y: =57
-        ZIndex: =19
-
-        back_17 As groupContainer.manualLayoutContainer:
-            Height: =36
-            LayoutMode: ="manual"
-            Width: =14
-            X: =12
-            Y: =4
-            ZIndex: =20
-
-            "'SF Symbol Ⓛ_17' As label":
-                Align: =Align.Center
-                BorderColor: =RGBA(0, 0, 0, 0)
-                BorderStyle: =BorderStyle.None
-                Color: =RGBA(159.8896, 158.5572, 158.5572, 1)
-                DisabledBorderColor: =RGBA(0, 0, 0, 0)
-                DisabledColor: =RGBA(166, 166, 166, 1)
-                FocusedBorderThickness: =4
-                FontWeight: =FontWeight.Lighter
-                Height: =36
-                Italic: =true
-                LineHeight: =1.157895
-                PaddingBottom: =0
-                PaddingLeft: =0
-                PaddingRight: =0
-                PaddingTop: =0
-                Size: =14.25
-                Text: ="􀆉"
-                Width: =18
-                ZIndex: =21
 
     "'Xung quanh vị trí hiện tại_1' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -320,7 +283,7 @@
         PaddingLeft: =0
         PaddingRight: =0
         PaddingTop: =0
-        Size: =14.25
+        Size: =13
         Text: ="Xung quanh vị trí hiện tại"
         Width: =216
         X: =75
@@ -333,14 +296,14 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledFill: =RGBA(0, 0, 0, 0)
         FocusedBorderThickness: =4
-        Height: =21
+        Height: =33
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: =image1362299
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =21
-        X: =312
+        Width: =38
+        X: =295
         Y: =127
         ZIndex: =23
 
@@ -350,57 +313,16 @@
         DisabledFill: =RGBA(166, 166, 166, 1)
         Fill: =RGBA(241.1875, 239.1776, 239.1776, 1)
         FocusedBorderThickness: =4
-        Height: =498
+        Height: =545
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =355
-        X: =39
-        Y: =275
+        Width: =366
+        X: =28
+        Y: =227
         ZIndex: =25
 
-    "'Cho phép một lần' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(0, 0, 0, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        FontWeight: =FontWeight.Semibold
-        Height: =16
-        LineHeight: =0.8421053
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =14.25
-        Text: ="Cho phép một lần"
-        Width: =160
-        X: =151
-        Y: =597
-        ZIndex: =26
-
-    "'Cho phép khi dùng ứng dụng' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(0, 0, 0, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        FontWeight: =FontWeight.Semibold
-        Height: =16
-        LineHeight: =0.8421053
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =14.25
-        Text: ="Cho phép khi dùng ứng dụng"
-        Width: =260
-        X: =108
-        Y: =659
-        ZIndex: =27
-
     "'Từ chối' As label":
+        Align: =Align.Center
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         Color: =RGBA(0, 0, 0, 1)
@@ -408,7 +330,7 @@
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
         FontWeight: =FontWeight.Semibold
-        Height: =16
+        Height: =35
         LineHeight: =0.8421053
         PaddingBottom: =0
         PaddingLeft: =0
@@ -416,9 +338,9 @@
         PaddingTop: =0
         Size: =14.25
         Text: ="Từ chối"
-        Width: =70
-        X: =188
-        Y: =727
+        Width: =300
+        X: =66
+        Y: =706
         ZIndex: =28
 
     "'image 22_1' As image":
@@ -437,36 +359,6 @@
         X: =41
         Y: =406
         ZIndex: =29
-
-    "'Line 16_2' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(128, 128, 128, 1)
-        FocusedBorderThickness: =4
-        Height: =0
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =352
-        X: =41
-        Y: =704
-        ZIndex: =30
-
-    "'Line 17_1' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(128, 128, 128, 1)
-        FocusedBorderThickness: =4
-        Height: =0
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =352
-        X: =38
-        Y: =642
-        ZIndex: =31
 
     "'Line 18' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -491,7 +383,7 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
-        Height: =48
+        Height: =81
         LineHeight: =1
         PaddingBottom: =0
         PaddingLeft: =0
@@ -502,9 +394,9 @@
             ="PetCare yêu cầu cho phép sử dụng vị trí
             để tính toán khoảng cách người dùng 
             sử dụng dịch vụ  "
-        Width: =291
-        X: =74
-        Y: =341
+        Width: =300
+        X: =65
+        Y: =308
         ZIndex: =33
 
     "'Cho phép PetCare sử dụng vị trí của bạn' As label":
@@ -516,7 +408,7 @@
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
         FontWeight: =FontWeight.Semibold
-        Height: =126
+        Height: =62
         LineHeight: =1.157895
         PaddingBottom: =0
         PaddingLeft: =0
@@ -526,12 +418,98 @@
         Text: |-
             ="Cho phép PetCare sử dụng 
             vị trí của bạn
-            
-            
-            
             "
         Width: =247
-        X: =103
-        Y: =292
+        X: =93
+        Y: =246
         ZIndex: =34
+
+    Image5_1 As image:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =27
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: ='1200px-Search_Icon.svg'
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =25
+        X: =41
+        Y: =67
+        ZIndex: =35
+
+    "'Từ chối_1' As label":
+        Align: =Align.Center
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        FontWeight: =FontWeight.Semibold
+        Height: =35
+        LineHeight: =0.8421053
+        PaddingBottom: =0
+        PaddingLeft: =0
+        PaddingRight: =0
+        PaddingTop: =0
+        Size: =14.25
+        Text: ="Cho phép khi dùng ứng dụng"
+        Width: =300
+        X: =76
+        Y: =613
+        ZIndex: =36
+
+    "'Từ chối_2' As label":
+        Align: =Align.Center
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        FontWeight: =FontWeight.Semibold
+        Height: =35
+        LineHeight: =0.8421053
+        PaddingBottom: =0
+        PaddingLeft: =0
+        PaddingRight: =0
+        PaddingTop: =0
+        Size: =14.25
+        Text: ="Cho phép một lần"
+        Width: =300
+        X: =76
+        Y: =658
+        ZIndex: =37
+
+    Button6 As button:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(0, 0, 0, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(230, 230, 230, 1)
+        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(0, 0, 0, 1)
+        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
+        PressedColor: =RGBA(0, 0, 0, 1)
+        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =14.25
+        Text: ="Cho phép khi dùng ứng dụng"
+        Width: =280
+        X: =86
+        Y: =389
+        ZIndex: =38
 
