@@ -65,7 +65,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "**********",
-      "ParentIndex": 9,
+      "ParentIndex": 13,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -454,7 +454,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Add a subheading (2) 1",
-      "ParentIndex": 1,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -751,7 +751,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Duy trì đăng nhập",
-      "ParentIndex": 11,
+      "ParentIndex": 15,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1078,7 +1078,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Đăng ký",
-      "ParentIndex": 16,
+      "ParentIndex": 20,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1371,14 +1371,7 @@
         "HoverFill",
         "Font",
         "Size",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "FontWeight",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "FontWeight",
         "Italic",
         "Underline",
         "Strikethrough",
@@ -1412,7 +1405,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Đăng nhập",
-      "ParentIndex": 3,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1739,7 +1732,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Đăng nhập_1",
-      "ParentIndex": 14,
+      "ParentIndex": 18,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2066,7 +2059,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Hoặc",
-      "ParentIndex": 17,
+      "ParentIndex": 21,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2393,7 +2386,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Liên hệ qua",
-      "ParentIndex": 20,
+      "ParentIndex": 24,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2695,7 +2688,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Line 19",
-      "ParentIndex": 18,
+      "ParentIndex": 22,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2872,7 +2865,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Line 20",
-      "ParentIndex": 19,
+      "ParentIndex": 23,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3074,7 +3067,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Mật khẩu",
-      "ParentIndex": 10,
+      "ParentIndex": 14,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3367,14 +3360,7 @@
         "HoverFill",
         "Font",
         "Size",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "FontWeight",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "FontWeight",
         "Italic",
         "Underline",
         "Strikethrough",
@@ -3408,7 +3394,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Mật khẩu_1",
-      "ParentIndex": 6,
+      "ParentIndex": 10,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3735,7 +3721,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Quên mật khẩu?",
-      "ParentIndex": 15,
+      "ParentIndex": 19,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4037,7 +4023,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 102",
-      "ParentIndex": 2,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4233,7 +4219,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 106",
-      "ParentIndex": 4,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4505,7 +4491,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 107",
-      "ParentIndex": 7,
+      "ParentIndex": 11,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4682,7 +4668,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 108",
-      "ParentIndex": 13,
+      "ParentIndex": 17,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4859,7 +4845,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 4_1",
-      "ParentIndex": 12,
+      "ParentIndex": 16,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5055,7 +5041,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Screenshot 2023-04-26 105546 1",
-      "ParentIndex": 8,
+      "ParentIndex": 12,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5346,7 +5332,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Screenshot 2023-05-09 162301 1",
-      "ParentIndex": 22,
+      "ParentIndex": 26,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5637,7 +5623,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Screenshot 2023-05-09 162317 1",
-      "ParentIndex": 23,
+      "ParentIndex": 27,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5928,7 +5914,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Screenshot 2023-05-09 162347 1",
-      "ParentIndex": 21,
+      "ParentIndex": 25,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -6174,14 +6160,7 @@
         "HoverBorderColor",
         "BorderStyle",
         "FocusedBorderColor",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "Color",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "Color",
         "DisabledColor",
         "PressedColor",
         "HoverColor",
@@ -6202,23 +6181,9 @@
         "RadiusTopRight",
         "RadiusBottomLeft",
         "RadiusBottomRight",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "BorderThickness",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "BorderThickness",
         "FocusedBorderThickness",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "Size",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "Size",
         "Italic",
         "Underline",
         "Strikethrough"
@@ -6233,7 +6198,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "TextInput2",
-      "ParentIndex": 0,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -6461,14 +6426,7 @@
         "HoverFill",
         "Font",
         "Size",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "FontWeight",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "FontWeight",
         "Italic",
         "Underline",
         "Strikethrough",
@@ -6502,7 +6460,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Tên đăng nhập",
-      "ParentIndex": 5,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

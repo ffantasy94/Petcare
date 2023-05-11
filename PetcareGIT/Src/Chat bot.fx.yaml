@@ -466,20 +466,6 @@
         Y: =27
         ZIndex: =35
 
-    Circle1 As circle:
-        BorderColor: =RGBA(166, 166, 166, 1)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledFill: =RGBA(0, 120, 212, 1)
-        Fill: =RGBA(251, 183, 80, 1)
-        Height: =39
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =40
-        X: =43
-        Y: =879
-        ZIndex: =36
-
     Circle1_1 As circle:
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderStyle: =BorderStyle.None
@@ -490,7 +476,7 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =40
-        X: =248
+        X: =239
         Y: =879
         ZIndex: =37
 
@@ -504,7 +490,7 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =40
-        X: =346
+        X: =337
         Y: =879
         ZIndex: =38
 
@@ -518,7 +504,7 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =40
-        X: =146
+        X: =137
         Y: =879
         ZIndex: =39
 
@@ -548,4 +534,24 @@
         X: =317
         Y: =808
         ZIndex: =40
+
+    Icon2 As icon.Home:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(251, 183, 80, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(220, 220, 220, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =39
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.Home
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =47
+        X: =45
+        Y: =879
+        ZIndex: =41
 
