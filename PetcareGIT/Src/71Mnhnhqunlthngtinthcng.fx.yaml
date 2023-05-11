@@ -201,91 +201,6 @@
         Y: =218
         ZIndex: =13
 
-    "'❖ Masters / Navigation Bar Parts / Left / back_2' As groupContainer.manualLayoutContainer":
-        Height: =44
-        LayoutMode: ="manual"
-        Width: =38
-        X: =14
-        Y: =15
-        ZIndex: =14
-
-        "'❖ Masters / Navigation Bar Parts / Left / .❖ left-master_2' As groupContainer.manualLayoutContainer":
-            Height: =44
-            LayoutMode: ="manual"
-            Width: =38
-            ZIndex: =15
-
-            back_2 As groupContainer.manualLayoutContainer:
-                Height: =36
-                LayoutMode: ="manual"
-                Width: =14
-                X: =12
-                Y: =4
-                ZIndex: =16
-
-                "'SF Symbol Ⓛ_2' As label":
-                    Align: =Align.Center
-                    BorderColor: =RGBA(0, 0, 0, 0)
-                    BorderStyle: =BorderStyle.None
-                    Color: =RGBA(159.8896, 158.5572, 158.5572, 1)
-                    DisabledBorderColor: =RGBA(0, 0, 0, 0)
-                    DisabledColor: =RGBA(166, 166, 166, 1)
-                    FocusedBorderThickness: =4
-                    FontWeight: =FontWeight.Lighter
-                    Height: =36
-                    Italic: =true
-                    LineHeight: =1.157895
-                    PaddingBottom: =0
-                    PaddingLeft: =0
-                    PaddingRight: =0
-                    PaddingTop: =0
-                    Size: =14.25
-                    Text: ="􀆉"
-                    Width: =18
-                    ZIndex: =17
-
-    "'Group 142' As groupContainer.manualLayoutContainer":
-        Height: =35
-        LayoutMode: ="manual"
-        Width: =231
-        X: =59
-        Y: =20
-        ZIndex: =18
-
-        "'Rectangle 97' As rectangle":
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            BorderThickness: =2
-            DisabledFill: =RGBA(166, 166, 166, 1)
-            Fill: =RGBA(128, 128, 128, 1)
-            FocusedBorderThickness: =4
-            Height: =35
-            HoverFill: =RGBA(0, 120, 212, 1)
-            PressedFill: =RGBA(0, 120, 212, 1)
-            Width: =231
-            ZIndex: =19
-
-        "'Hồ sơ của [ tên thú cưng ]' As label":
-            Align: =Align.Center
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            Color: =RGBA(250.0306, 150.0183, 0, 1)
-            DisabledBorderColor: =RGBA(0, 0, 0, 0)
-            DisabledColor: =RGBA(166, 166, 166, 1)
-            FocusedBorderThickness: =4
-            Height: =22
-            LineHeight: =1.157895
-            PaddingBottom: =0
-            PaddingLeft: =0
-            PaddingRight: =0
-            PaddingTop: =0
-            Size: =14.25
-            Text: ="Hồ sơ của [ tên thú cưng ]"
-            Width: =210
-            X: =13
-            Y: =6
-            ZIndex: =20
-
     "'Thông tin thú cưng' As label":
         Align: =Align.Center
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -611,27 +526,6 @@
         Y: =20
         ZIndex: =38
 
-    gửi As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(255, 255, 255, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =21
-        LineHeight: =1.171875
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =13.5
-        Text: ="Chỉnh sửa"
-        VerticalAlign: =VerticalAlign.Top
-        Width: =85
-        X: =322
-        Y: =26
-        ZIndex: =39
-
     Vector As image:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -744,4 +638,25 @@
             X: =3.45263671875
             Y: =4.3157958984375
             ZIndex: =46
+
+    "'Hồ sơ của [ tên thú cưng ]' As label":
+        Align: =Align.Center
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(250.0306, 150.0183, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Height: =35
+        LineHeight: =1.157895
+        PaddingBottom: =0
+        PaddingLeft: =0
+        PaddingRight: =0
+        PaddingTop: =0
+        Size: =14.25
+        Text: ="Hồ sơ của [ tên thú cưng ]"
+        Width: =231
+        X: =54
+        Y: =19
+        ZIndex: =46
 
