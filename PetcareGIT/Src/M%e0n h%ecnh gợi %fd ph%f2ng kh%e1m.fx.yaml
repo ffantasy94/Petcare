@@ -70,7 +70,7 @@
         RadiusTopLeft: =0
         RadiusTopRight: =0
         Size: =20
-        Width: =228
+        Width: =223
         X: =200
         Y: =192
         ZIndex: =5
@@ -88,7 +88,7 @@
         Image: ='tải xuống (1)'
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =200
+        Width: =186
         Y: =192
         ZIndex: =8
 
@@ -105,7 +105,7 @@
         Image: ='P453-vector-logo-bieu-tuong-thiet-ke'
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =200
+        Width: =186
         Y: =442
         ZIndex: =9
 
@@ -122,7 +122,7 @@
         Image: =images
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =200
+        Width: =186
         Y: =682
         ZIndex: =10
 
@@ -185,7 +185,7 @@
         RadiusTopLeft: =0
         RadiusTopRight: =0
         Size: =20
-        Width: =228
+        Width: =223
         X: =200
         Y: =446
         ZIndex: =13
@@ -215,7 +215,7 @@
         RadiusTopLeft: =0
         RadiusTopRight: =0
         Size: =20
-        Width: =228
+        Width: =223
         X: =200
         Y: =703
         ZIndex: =14
