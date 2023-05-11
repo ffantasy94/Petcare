@@ -78,12 +78,12 @@
         DisabledFill: =RGBA(166, 166, 166, 1)
         Fill: =RGBA(245, 245, 245, 1)
         FocusedBorderThickness: =4
-        Height: =600
+        Height: =618
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =366
         X: =31
-        Y: =282
+        Y: =232
         ZIndex: =8
 
     Label6 As label:
@@ -101,7 +101,7 @@
         Text: ="Cho phép PetCare sử dụng vị trí của bạn"
         Width: =366
         X: =31
-        Y: =302
+        Y: =247
         ZIndex: =9
 
     Label7 As label:
@@ -118,7 +118,7 @@
         Text: ="PetCare yêu cầu cho phép sử dụng vị tríđể tính toán khoảng cách người dùng sử dụng dịch vụ  "
         Width: =366
         X: =31
-        Y: =374
+        Y: =319
         ZIndex: =10
 
     Image8 As image:
@@ -136,7 +136,7 @@
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =366
         X: =31
-        Y: =433
+        Y: =378
         ZIndex: =12
 
     Button8 As button:
@@ -164,7 +164,7 @@
         Text: ="Từ chối"
         Width: =366
         X: =31
-        Y: =818
+        Y: =763
         ZIndex: =13
 
     Button9 As button:
@@ -192,7 +192,7 @@
         Text: ="Cho phép khi dùng ứng dụng"
         Width: =366
         X: =31
-        Y: =757
+        Y: =702
         ZIndex: =14
 
     Button8_1 As button:
@@ -220,6 +220,6 @@
         Text: ="Cho phép một lần"
         Width: =366
         X: =31
-        Y: =695
+        Y: =640
         ZIndex: =15
 
