@@ -292,38 +292,6 @@
         Y: =382
         ZIndex: =19
 
-    "'Rectangle 102_1' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(250.0306, 219.5477, 111.472, 0.3)
-        FocusedBorderThickness: =4
-        Height: =74
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =250
-        X: =61
-        Y: =631
-        ZIndex: =20
-
-    "'Ellipse 6_1' As image":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =93
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: =image1561846
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =94
-        X: =299
-        Y: =620
-        ZIndex: =21
-
     "'Ellipse 10' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -341,23 +309,6 @@
         X: =72
         Y: =154
         ZIndex: =22
-
-    "'image 8_1' As image":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =57
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: =image1561847
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =57
-        X: =324
-        Y: =639
-        ZIndex: =23
 
     "'Tên người dùng' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -566,25 +517,4 @@
         X: =237
         Y: =539
         ZIndex: =34
-
-    "'Bạn cần tôi giúp gì không?' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(0, 0, 0, 0.36)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =21
-        LineHeight: =1.171875
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =13.5
-        Text: ="Bạn cần tôi giúp gì không?"
-        VerticalAlign: =VerticalAlign.Top
-        Width: =214
-        X: =84
-        Y: =659
-        ZIndex: =35
 
