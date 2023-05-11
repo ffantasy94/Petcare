@@ -50,7 +50,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Image5_1",
-      "ParentIndex": 3,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -924,7 +924,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 97_8",
-      "ParentIndex": 2,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1101,7 +1101,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 98_3",
-      "ParentIndex": 6,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1495,7 +1495,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "TextInput6",
-      "ParentIndex": 8,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1771,7 +1771,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Từ chối_1",
-      "ParentIndex": 4,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2112,7 +2112,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Từ chối_2",
-      "ParentIndex": 5,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
