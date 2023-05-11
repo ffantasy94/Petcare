@@ -1,5 +1,7 @@
 "'Màn hình giới thiệu app' As screen":
+    BackgroundImage: ='Add a subheading (4)'
     Height: =926
+    ImagePosition: =ImagePosition.Stretch
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
     Width: =428
 
