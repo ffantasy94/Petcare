@@ -50,7 +50,7 @@
         Width: =392
         X: =26
         Y: =63
-        ZIndex: =4
+        ZIndex: =3
 
     "'Đăng nhập' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -72,7 +72,7 @@
         Width: =252
         X: =115
         Y: =90
-        ZIndex: =5
+        ZIndex: =4
 
     "'Tên đăng nhập' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -94,7 +94,7 @@
         Width: =201
         X: =77
         Y: =198
-        ZIndex: =6
+        ZIndex: =5
 
     "'Liên hệ qua' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -110,12 +110,12 @@
         PaddingRight: =0
         PaddingTop: =0
         Size: =13.5
-        Text: ="Liên hệ 1qua"
+        Text: ="Liên hệ qua"
         VerticalAlign: =VerticalAlign.Top
         Width: =148
         X: =172
         Y: =757
-        ZIndex: =7
+        ZIndex: =6
 
     Hoặc As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -136,7 +136,7 @@
         Width: =47
         X: =200
         Y: =690
-        ZIndex: =8
+        ZIndex: =7
 
     "'Duy trì đăng nhập' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -158,7 +158,7 @@
         Width: =145
         X: =98
         Y: =454
-        ZIndex: =9
+        ZIndex: =8
 
     "'Mật khẩu_1' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -180,39 +180,7 @@
         Width: =123
         X: =77
         Y: =324
-        ZIndex: =11
-
-    "'Line 19' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(128, 128, 128, 1)
-        FocusedBorderThickness: =4
-        Height: =0
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =88
-        X: =98
-        Y: =705
-        ZIndex: =18
-
-    "'Screenshot 2023-04-26 105546 1' As image":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =51
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: =image1611885
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =44
-        X: =364
-        Y: =388
-        ZIndex: =20
+        ZIndex: =9
 
     "'Screenshot 2023-05-09 162347 1' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -229,7 +197,7 @@
         Width: =63
         X: =270
         Y: =836
-        ZIndex: =21
+        ZIndex: =11
 
     "'Screenshot 2023-05-09 162317 1' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -246,7 +214,7 @@
         Width: =63
         X: =192
         Y: =838
-        ZIndex: =22
+        ZIndex: =12
 
     "'Screenshot 2023-05-09 162301 1' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -263,7 +231,7 @@
         Width: =62
         X: =115
         Y: =838
-        ZIndex: =23
+        ZIndex: =13
 
     TextInput2 As text:
         BorderColor: =RGBA(166, 166, 166, 1)
@@ -290,7 +258,7 @@
         Width: =292
         X: =72
         Y: =227
-        ZIndex: =26
+        ZIndex: =14
 
     TextInput2_1 As text:
         BorderColor: =RGBA(166, 166, 166, 1)
@@ -317,7 +285,7 @@
         Width: =292
         X: =74
         Y: =350
-        ZIndex: =27
+        ZIndex: =15
 
     Checkbox1 As checkbox:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -343,7 +311,7 @@
         Width: =40
         X: =58
         Y: =439
-        ZIndex: =28
+        ZIndex: =16
 
     Button2 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -371,7 +339,7 @@
         Width: =256
         X: =88
         Y: =504
-        ZIndex: =29
+        ZIndex: =17
 
     Button4 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -400,7 +368,7 @@
         Width: =185
         X: =26
         Y: =563
-        ZIndex: =30
+        ZIndex: =18
 
     Button4_1 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -429,5 +397,25 @@
         Width: =137
         X: =281
         Y: =561
-        ZIndex: =31
+        ZIndex: =19
+
+    Icon3 As icon.Hide:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(242, 147, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(220, 220, 220, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =34
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.Hide
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =24
+        X: =320
+        Y: =357
+        ZIndex: =20
 
