@@ -99,6 +99,7 @@
         ZIndex: =5
 
     TextInput4_2 As text:
+        Align: =Align.Right
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderThickness: =2
         Color: =RGBA(51, 51, 51, 1)
@@ -125,6 +126,7 @@
         ZIndex: =6
 
     TextInput4_3 As text:
+        Align: =Align.Right
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderThickness: =2
         Color: =RGBA(51, 51, 51, 1)
@@ -149,4 +151,55 @@
         Width: =428
         Y: =691
         ZIndex: =7
+
+    Image5 As image:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =214
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: ='tải xuống (1)'
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =200
+        Y: =192
+        ZIndex: =8
+
+    Image6 As image:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =218
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: ='P453-vector-logo-bieu-tuong-thiet-ke'
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =200
+        Y: =442
+        ZIndex: =9
+
+    Image7 As image:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =235
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: =images
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =200
+        Y: =682
+        ZIndex: =10
 
