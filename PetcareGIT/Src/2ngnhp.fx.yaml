@@ -163,13 +163,14 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
         Height: =21
         LineHeight: =1.171875
         PaddingBottom: =0
         PaddingLeft: =0
         PaddingRight: =0
         PaddingTop: =0
-        Size: =13.5
+        Size: =13
         Text: ="Duy trì đăng nhânhập "
         VerticalAlign: =VerticalAlign.Top
         Width: =145
@@ -198,40 +199,6 @@
         X: =77
         Y: =324
         ZIndex: =11
-
-    "'Rectangle 108' As rectangle":
-        BorderColor: =RGBA(255, 249.6875, 249.6875, 1)
-        BorderThickness: =1
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(242, 147, 0, 1)
-        FocusedBorderThickness: =4
-        Height: =55
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =292
-        X: =72
-        Y: =497
-        ZIndex: =13
-
-    "'Đăng nhập_1' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(255, 255, 255, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =17.6428604125977
-        LineHeight: =1.3
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =15
-        Text: ="Đăng nhập"
-        Width: =130.502044677734
-        X: =169
-        Y: =517
-        ZIndex: =17
 
     "'Line 19' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -360,7 +327,7 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
-        Height: =36
+        Height: =41
         LineHeight: =1.171875
         PaddingBottom: =0
         PaddingLeft: =0
@@ -370,9 +337,9 @@
         Text: ="Đăng ký"
         Underline: =true
         VerticalAlign: =VerticalAlign.Top
-        Width: =235
+        Width: =115
         X: =300
-        Y: =582
+        Y: =588
         ZIndex: =25
 
     TextInput2 As text:
@@ -396,7 +363,7 @@
         RadiusBottomRight: =0
         RadiusTopLeft: =0
         RadiusTopRight: =0
-        Size: =15
+        Size: =13
         Width: =292
         X: =72
         Y: =227
@@ -423,7 +390,7 @@
         RadiusBottomRight: =0
         RadiusTopLeft: =0
         RadiusTopRight: =0
-        Size: =15
+        Size: =13
         Width: =292
         X: =74
         Y: =350
@@ -454,4 +421,32 @@
         X: =58
         Y: =439
         ZIndex: =28
+
+    Button2 As button:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =10
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(242, 147, 0, 1)
+        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =52
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        RadiusBottomLeft: =40
+        RadiusBottomRight: =40
+        RadiusTopLeft: =40
+        RadiusTopRight: =40
+        Size: =20
+        Text: ="Đăng nhập"
+        Width: =256
+        X: =88
+        Y: =504
+        ZIndex: =29
 

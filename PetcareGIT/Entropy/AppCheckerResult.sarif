@@ -12150,18 +12150,6 @@
               "message": {
                 "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
               }
-            },
-            {
-              "associatedRule": {
-                "id": "app-InefficientDelayLoading",
-                "index": 4
-              },
-              "descriptor": {
-                "id": "app-InefficientDelayLoading"
-              },
-              "message": {
-                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
-              }
             }
           ]
         }
@@ -46623,96 +46611,6 @@
               "physicalLocation": {
                 "address": {
                   "fullyQualifiedName": "'2ngnhp'.'Duy trì đăng nhập'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2ngnhp'.'Rectangle 108'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "2ngnhp",
-                "type": "'2ngnhp'.'Rectangle 108'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2ngnhp'.'Rectangle 108'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2ngnhp'.'Rectangle 108'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "2ngnhp",
-                "type": "'2ngnhp'.'Rectangle 108'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2ngnhp'.'Rectangle 108'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2ngnhp'.'Đăng nhập_1'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "2ngnhp",
-                "type": "'2ngnhp'.'Đăng nhập_1'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2ngnhp'.'Đăng nhập_1'.TabIndex",
                   "relativeAddress": 0
                 }
               }
