@@ -37,6 +37,7 @@
         DisabledColor: =RGBA(166, 166, 166, 1)
         Fill: =RGBA(250, 250, 250, 1)
         FocusedBorderThickness: =4
+        FontWeight: =FontWeight.Semibold
         Height: =76
         Size: =15.25
         Text: ="Xung quanh vị trí của bạn"
@@ -54,6 +55,7 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(245, 245, 245, 1)
         FocusedBorderThickness: =4
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
@@ -169,6 +171,7 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(245, 245, 245, 1)
         FocusedBorderThickness: =4
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
@@ -199,6 +202,7 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(247, 247, 247, 1)
         FocusedBorderThickness: =4
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
