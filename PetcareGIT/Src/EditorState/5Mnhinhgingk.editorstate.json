@@ -7445,7 +7445,7 @@
       "StyleName": "defaultRectangleStyle",
       "Type": "ControlInfo"
     },
-    "Theo dõi sức khỏe": {
+    "Tiếp tục": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "Live",
@@ -7509,8 +7509,8 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Theo dõi sức khỏe",
-      "ParentIndex": 14,
+      "Name": "Tiếp tục",
+      "ParentIndex": 32,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -7772,7 +7772,7 @@
       "StyleName": "defaultLabelStyle",
       "Type": "ControlInfo"
     },
-    "Tiếp tục": {
+    "Theo dõi sức khỏe": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "Live",
@@ -7836,8 +7836,8 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Tiếp tục",
-      "ParentIndex": 32,
+      "Name": "Theo dõi sức khỏe",
+      "ParentIndex": 14,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
