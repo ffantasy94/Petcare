@@ -84,8 +84,8 @@
         Height: =147
         LayoutMode: ="manual"
         Width: =382
-        X: =30
-        Y: =88
+        X: =27
+        Y: =105
         ZIndex: =19
 
         "'Group 5' As groupContainer.manualLayoutContainer":
@@ -381,8 +381,8 @@
         Height: =91.9999923706055
         LayoutMode: ="manual"
         Width: =366
-        X: =31
-        Y: =261
+        X: =28
+        Y: =278
         ZIndex: =41
 
         "'Chọn khung giờ' As label":
@@ -553,8 +553,8 @@
         Height: =38
         LayoutMode: ="manual"
         Width: =265
-        X: =81
-        Y: =370
+        X: =78
+        Y: =387
         ZIndex: =54
 
         "'Rectangle 9_1' As rectangle":
@@ -768,22 +768,4 @@
         X: =45
         Y: =879
         ZIndex: =115
-
-    Icon5 As icon.EditFolders:
-        BorderColor: =RGBA(166, 166, 166, 1)
-        Color: =RGBA(0, 120, 212, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(220, 220, 220, 1)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Icon: =Icon.LineWeight
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        X: =40
-        Y: =40
-        ZIndex: =117
 
