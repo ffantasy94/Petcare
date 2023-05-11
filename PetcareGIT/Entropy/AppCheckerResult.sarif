@@ -9090,6 +9090,126 @@
               "message": {
                 "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
               }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 4
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
             }
           ]
         }
@@ -35084,6 +35204,156 @@
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
           "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_6.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_6"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_6.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_7.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_7"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_7.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_8.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_8"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_8.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_9.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_9"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_9.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_10.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_10"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_10.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
         },
         {
           "locations": [
