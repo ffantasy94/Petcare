@@ -3,48 +3,6 @@
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
     Width: =428
 
-    "'Rectangle 20_9' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(196, 196, 196, 1)
-        FocusedBorderThickness: =4
-        Height: =20
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =21
-        X: =54
-        Y: =976
-        ZIndex: =1
-
-    "'Rectangle 21_9' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(196, 196, 196, 1)
-        FocusedBorderThickness: =4
-        Height: =20
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =21
-        X: =92
-        Y: =976
-        ZIndex: =2
-
-    "'Rectangle 22_9' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(196, 196, 196, 1)
-        FocusedBorderThickness: =4
-        Height: =20
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =21
-        X: =130
-        Y: =976
-        ZIndex: =3
-
     "'Rectangle 91' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -476,8 +434,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =40
-        X: =239
-        Y: =879
+        X: =250
+        Y: =869
         ZIndex: =37
 
     Circle1_2 As circle:
@@ -490,8 +448,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =40
-        X: =337
-        Y: =879
+        X: =348
+        Y: =869
         ZIndex: =38
 
     Circle1_3 As circle:
@@ -504,8 +462,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =40
-        X: =137
-        Y: =879
+        X: =148
+        Y: =869
         ZIndex: =39
 
     Button3 As button:
@@ -535,7 +493,7 @@
         Y: =808
         ZIndex: =40
 
-    Icon2 As icon.Home:
+    Icon2_3 As icon.Home:
         BorderColor: =RGBA(166, 166, 166, 1)
         Color: =RGBA(251, 183, 80, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
@@ -551,7 +509,7 @@
         PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =47
-        X: =45
-        Y: =879
+        X: =46
+        Y: =869
         ZIndex: =41
 
