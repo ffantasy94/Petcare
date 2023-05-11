@@ -33776,17 +33776,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Hồ sơ của [ tên thú cưng ]'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Hồ sơ của [ tên thú cưng ]'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Hồ sơ của [ tên thú cưng ]'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Hồ sơ của [ tên thú cưng ]'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Hồ sơ của [ tên thú cưng ]'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Hồ sơ của [ tên thú cưng ]'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -33806,17 +33806,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Group 143'.'Ellipse 10_1'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Group 143'.'Ellipse 10_1'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Group 143'.'Ellipse 10_1'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Group 143'.'Ellipse 10_1'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Group 143'.'Ellipse 10_1'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Group 143'.'Ellipse 10_1'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -33836,17 +33836,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Group 143'.'Ellipse 10_1'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Group 143'.'Ellipse 10_1'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Group 143'.'Ellipse 10_1'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Group 143'.'Ellipse 10_1'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Group 143'.'Ellipse 10_1'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Group 143'.'Ellipse 10_1'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -33866,17 +33866,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Group 143'.'image 26'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Group 143'.'image 26'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Group 143'.'image 26'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Group 143'.'image 26'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Group 143'.'image 26'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Group 143'.'image 26'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -33896,17 +33896,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Group 143'.'image 26'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Group 143'.'image 26'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Group 143'.'image 26'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Group 143'.'image 26'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Group 143'.'image 26'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Group 143'.'image 26'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -33926,17 +33926,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Thông tin thú cưng'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Thông tin thú cưng'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Thông tin thú cưng'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Thông tin thú cưng'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Thông tin thú cưng'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Thông tin thú cưng'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -33956,17 +33956,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 7'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 7'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Rectangle 7'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 7'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 7'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 7'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -33986,17 +33986,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 7'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 7'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Rectangle 7'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 7'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 7'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 7'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -34016,17 +34016,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Tên:'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Tên:'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Tên:'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Tên:'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Tên:'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Tên:'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -34046,17 +34046,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 9_1'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 9_1'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Line 9_1'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 9_1'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 9_1'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 9_1'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -34076,17 +34076,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 9_1'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 9_1'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Line 9_1'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 9_1'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 9_1'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 9_1'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -34106,17 +34106,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Ngày sinh:'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ngày sinh:'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Ngày sinh:'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ngày sinh:'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Ngày sinh:'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ngày sinh:'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -34136,17 +34136,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 10'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 10'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Line 10'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 10'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 10'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 10'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -34166,17 +34166,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 10'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 10'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Line 10'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 10'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 10'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 10'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -34196,17 +34196,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Loài:'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Loài:'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Loài:'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Loài:'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Loài:'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Loài:'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -34226,17 +34226,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 11'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 11'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Line 11'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 11'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 11'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 11'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -34256,17 +34256,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 11'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 11'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Line 11'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 11'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 11'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 11'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -34286,17 +34286,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Giống:'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Giống:'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Giống:'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Giống:'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Giống:'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Giống:'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -34316,17 +34316,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 12'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 12'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Line 12'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 12'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 12'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 12'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -34346,17 +34346,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 12'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 12'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Line 12'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 12'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 12'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 12'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -34376,17 +34376,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Giới tính:'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Giới tính:'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Giới tính:'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Giới tính:'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Giới tính:'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Giới tính:'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -34406,17 +34406,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.TextInput3.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.TextInput3"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.TextInput3.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -34436,17 +34436,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 13'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 13'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Line 13'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 13'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 13'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 13'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -34466,17 +34466,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 13'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 13'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Line 13'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 13'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 13'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 13'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -34496,17 +34496,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Màu:'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Màu:'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Màu:'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Màu:'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Màu:'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Màu:'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -34526,17 +34526,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 14'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 14'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Line 14'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 14'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 14'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 14'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -34556,17 +34556,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 14'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 14'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Line 14'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 14'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 14'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 14'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -34586,17 +34586,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Mô tả ngắn:'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Mô tả ngắn:'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Mô tả ngắn:'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Mô tả ngắn:'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Mô tả ngắn:'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Mô tả ngắn:'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -34616,17 +34616,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 15'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 15'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Line 15'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 15'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 15'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 15'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -34646,17 +34646,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 15'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 15'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Line 15'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 15'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 15'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 15'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -34676,17 +34676,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 16'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 16'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Line 16'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 16'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 16'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 16'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -34706,17 +34706,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 16'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 16'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Line 16'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 16'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 16'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 16'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -34736,17 +34736,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 17'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 17'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Line 17'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 17'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 17'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 17'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -34766,17 +34766,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 17'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 17'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Line 17'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 17'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 17'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 17'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -34796,17 +34796,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 62'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 62'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Rectangle 62'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 62'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 62'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 62'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -34826,17 +34826,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 62'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 62'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Rectangle 62'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 62'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 62'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 62'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -34856,17 +34856,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 9'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 9'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Line 9'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 9'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 9'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 9'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -34886,17 +34886,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 9'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 9'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Line 9'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 9'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Line 9'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Line 9'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -34916,17 +34916,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Ellipse 2'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 2'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Ellipse 2'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 2'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Ellipse 2'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 2'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -34946,17 +34946,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Ellipse 2'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 2'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Ellipse 2'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 2'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Ellipse 2'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 2'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -34976,17 +34976,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 36'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 36'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Rectangle 36'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 36'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 36'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 36'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -35006,17 +35006,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 36'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 36'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Rectangle 36'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 36'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 36'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 36'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -35036,17 +35036,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Ellipse 4'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 4'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Ellipse 4'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 4'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Ellipse 4'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 4'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -35066,17 +35066,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Ellipse 4'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 4'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Ellipse 4'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 4'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Ellipse 4'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 4'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -35096,17 +35096,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Ellipse 5'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 5'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Ellipse 5'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 5'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Ellipse 5'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 5'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -35126,17 +35126,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Ellipse 5'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 5'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Ellipse 5'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 5'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Ellipse 5'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 5'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -35156,17 +35156,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Ellipse 3'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 3'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Ellipse 3'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 3'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Ellipse 3'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 3'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -35186,17 +35186,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Ellipse 3'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 3'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Ellipse 3'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 3'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Ellipse 3'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 3'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -35216,17 +35216,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 38'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 38'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Rectangle 38'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 38'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 38'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 38'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -35246,17 +35246,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 38'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 38'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Rectangle 38'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 38'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 38'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 38'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -35276,17 +35276,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 37'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 37'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Rectangle 37'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 37'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 37'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 37'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -35306,17 +35306,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 37'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 37'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Rectangle 37'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 37'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 37'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 37'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -35336,17 +35336,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 20_1'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 20_1'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Rectangle 20_1'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 20_1'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 20_1'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 20_1'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -35366,17 +35366,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 20_1'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 20_1'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Rectangle 20_1'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 20_1'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 20_1'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 20_1'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -35396,17 +35396,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 21_1'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 21_1'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Rectangle 21_1'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 21_1'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 21_1'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 21_1'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -35426,17 +35426,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 21_1'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 21_1'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Rectangle 21_1'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 21_1'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 21_1'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 21_1'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -35456,17 +35456,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 22_1'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 22_1'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Rectangle 22_1'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 22_1'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 22_1'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 22_1'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -35486,17 +35486,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 22_1'.TabIndex"
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 22_1'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "71Mnhnhqunlthngtinthcng",
-                "type": "'71Mnhnhqunlthngtinthcng'.'Rectangle 22_1'"
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 22_1'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'71Mnhnhqunlthngtinthcng'.'Rectangle 22_1'.TabIndex",
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Rectangle 22_1'.TabIndex",
                   "relativeAddress": 0
                 }
               }
