@@ -3,21 +3,6 @@
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
     Width: =428
 
-    "'Add a subheading (3) 1' As image":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =926
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: =image2451811
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =428
-        ZIndex: =1
-
     Button1 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderThickness: =10

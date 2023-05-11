@@ -45,48 +45,6 @@
         Y: =976
         ZIndex: =3
 
-    "'Bạn cần tôi giúp gì không?_1' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(0, 0, 0, 0.36)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =21
-        LineHeight: =1.171875
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =13.5
-        Text: ="Bạn cần tôi giúp gì không?"
-        VerticalAlign: =VerticalAlign.Top
-        Width: =214
-        X: =64
-        Y: =866
-        ZIndex: =4
-
-    "'Khi nào nên tiêm vắc xin cho mèo?' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(0, 0, 0, 0.36)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =21
-        LineHeight: =1.171875
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =13.5
-        Text: ="Khi nào nên tiêm vắc xin cho mèo?"
-        VerticalAlign: =VerticalAlign.Top
-        Width: =281
-        X: =63
-        Y: =74
-        ZIndex: =5
-
     "'Rectangle 91' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -148,7 +106,7 @@
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =35
         X: =24
-        Y: =859
+        Y: =852
         ZIndex: =9
 
     "'image 2' As image":
@@ -424,57 +382,6 @@
         Y: =763
         ZIndex: =26
 
-    "'❖ Masters / Navigation Bar Parts / Left / .❖ left-master_13' As groupContainer.manualLayoutContainer":
-        Height: =44
-        LayoutMode: ="manual"
-        Width: =38
-        X: =8
-        Y: =30
-        ZIndex: =27
-
-        back_13 As groupContainer.manualLayoutContainer:
-            Height: =36
-            LayoutMode: ="manual"
-            Width: =14
-            X: =12
-            Y: =4
-            ZIndex: =28
-
-            "'SF Symbol Ⓛ_13' As label":
-                Align: =Align.Center
-                BorderColor: =RGBA(0, 0, 0, 0)
-                BorderStyle: =BorderStyle.None
-                Color: =RGBA(159.8896, 158.5572, 158.5572, 1)
-                DisabledBorderColor: =RGBA(0, 0, 0, 0)
-                DisabledColor: =RGBA(166, 166, 166, 1)
-                FocusedBorderThickness: =4
-                FontWeight: =FontWeight.Lighter
-                Height: =36
-                Italic: =true
-                LineHeight: =1.157895
-                PaddingBottom: =0
-                PaddingLeft: =0
-                PaddingRight: =0
-                PaddingTop: =0
-                Size: =14.25
-                Text: ="􀆉"
-                Width: =18
-                ZIndex: =29
-
-    "'Rectangle 39' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(255, 208, 91, 1)
-        FocusedBorderThickness: =4
-        Height: =34
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =78
-        X: =321
-        Y: =859
-        ZIndex: =30
-
     gửi_1 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -493,6 +400,69 @@
         VerticalAlign: =VerticalAlign.Top
         Width: =32
         X: =347
-        Y: =866
+        Y: =859
         ZIndex: =31
+
+    TextInput1 As text:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(204, 204, 204, 1)
+        Default: ="Text input"
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        Height: =35
+        HintText: ="Bạn cần tôi giúp gì?"
+        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverFill: =RGBA(255, 255, 255, 1)
+        PressedBorderColor: =RGBA(0, 120, 212, 1)
+        PressedColor: =RGBA(51, 51, 51, 1)
+        PressedFill: =RGBA(255, 255, 255, 1)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Width: =239
+        X: =69
+        Y: =852
+        ZIndex: =32
+
+    Label1 As label:
+        BorderColor: =RGBA(251, 183, 80, 1)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(51, 51, 51, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        Height: =37
+        Text: ="Khi nào nên tiêm vắc xin cho mèo?"
+        Width: =373
+        X: =30
+        Y: =69
+        ZIndex: =34
+
+    Icon1 As icon.BackArrow:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(251, 183, 80, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(220, 220, 220, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        Fill: =RGBA(255, 255, 255, 1)
+        FocusedBorderThickness: =4
+        Height: =27
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.BackArrow
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =26
+        X: =24
+        Y: =27
+        ZIndex: =35
 
