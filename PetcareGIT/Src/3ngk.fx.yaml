@@ -359,7 +359,7 @@
         FocusedBorderColor: =ColorFade(Self.Fill, -75%)
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
-        Height: =44
+        Height: =43
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
@@ -381,7 +381,7 @@
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderThickness: =10
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(0, 0, 0, 0)
         DisabledFill: =RGBA(244, 244, 244, 1)
         Fill: =RGBA(242, 147, 0, 1)
         FocusedBorderColor: =ColorFade(Self.Fill, -75%)
