@@ -647,8 +647,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =40
-        X: =239
-        Y: =879
+        X: =238
+        Y: =871
         ZIndex: =112
 
     Circle1_5 As circle:
@@ -661,8 +661,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =40
-        X: =337
-        Y: =879
+        X: =336
+        Y: =871
         ZIndex: =113
 
     Circle1_6 As circle:
@@ -675,8 +675,8 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =40
-        X: =137
-        Y: =879
+        X: =136
+        Y: =871
         ZIndex: =114
 
     Icon2_1 As icon.Home:
@@ -695,8 +695,8 @@
         PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =47
-        X: =45
-        Y: =879
+        X: =44
+        Y: =871
         ZIndex: =115
 
     Button5 As button:
@@ -732,14 +732,15 @@
         Color: =RGBA(230, 230, 230, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
+        Fill: =RGBA(237, 237, 237, 1)
         FocusedBorderThickness: =4
         Font: =Font.'Segoe UI'
         Height: =207
         Size: =21
-        Text: ="Nhập"
+        Text: =""
         Width: =389
-        X: =20
-        Y: =590
+        X: =19
+        Y: =574
         ZIndex: =117
 
     Label3 As label:
