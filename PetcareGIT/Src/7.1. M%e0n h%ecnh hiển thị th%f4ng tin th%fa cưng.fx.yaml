@@ -62,3 +62,17 @@
         Y: =165
         ZIndex: =2
 
+    Rectangle1 As rectangle:
+        BorderColor: =RGBA(221, 79, 14, 1)
+        BorderThickness: =2
+        DisabledFill: =RGBA(166, 166, 166, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        FocusedBorderThickness: =4
+        Height: =621
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =328
+        X: =55
+        Y: =234
+        ZIndex: =3
+
