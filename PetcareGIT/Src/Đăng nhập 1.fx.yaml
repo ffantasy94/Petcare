@@ -329,7 +329,7 @@
         Fill: =RGBA(0, 0, 0, 0)
         FocusedBorderColor: =ColorFade(Self.Fill, -75%)
         Font: =Font.'Segoe UI'
-        Height: =70
+        Height: =38
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
@@ -343,8 +343,9 @@
         Size: =15
         Text: ="Quên mật khẩu?"
         Underline: =true
-        Width: =280
-        Y: =555
+        Width: =180
+        X: =51
+        Y: =571
         ZIndex: =16
 
     Button4_1 As button:
@@ -357,7 +358,7 @@
         Fill: =RGBA(0, 0, 0, 0)
         FocusedBorderColor: =ColorFade(Self.Fill, -75%)
         Font: =Font.'Segoe UI'
-        Height: =70
+        Height: =23
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
@@ -371,9 +372,9 @@
         Size: =15
         Text: ="Đăng ký"
         Underline: =true
-        Width: =188
-        X: =240
-        Y: =555
+        Width: =132
+        X: =271
+        Y: =578
         ZIndex: =17
 
     "'Mật khẩu_9' As label":
@@ -395,7 +396,7 @@
         VerticalAlign: =VerticalAlign.Top
         Width: =140
         X: =169
-        Y: =757
+        Y: =747
         ZIndex: =18
 
     Image10 As image:
