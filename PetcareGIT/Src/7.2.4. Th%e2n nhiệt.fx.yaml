@@ -87,14 +87,14 @@
         Y: =170
         ZIndex: =84
 
-    CompositeColumnChart1 As group:
+    CompositeLineChart4 As group:
         Height: =5
         Width: =5
         X: =40
         Y: =40
         ZIndex: =85
 
-        ColumnChart1 As barChart:
+        LineChart4 As lineChart:
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             BorderThickness: =2
@@ -103,14 +103,14 @@
             Font: =Font.'Segoe UI'
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             ItemColorSet: =[RGBA(49, 130, 93, 1),RGBA(48,166,103, 1), RGBA(94,193,108,1), RGBA(246,199,144,1), RGBA(247,199,114,1), RGBA(247,180,91,1), RGBA(246,143,100,1), RGBA(212,96,104,1), RGBA(148, 110, 176, 1), RGBA(118, 154, 204, 1), RGBA(96, 197, 234, 1)]
-            Items: =ColumnChartSample
+            Items: =LineChartSample
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             Size: =24
             X: =28
-            Y: =253
+            Y: =284
             ZIndex: =87
 
-        Legend4 As legend:
+        Legend5 As legend:
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             BorderThickness: =2
@@ -121,12 +121,12 @@
             Font: =Font.'Segoe UI'
             Height: =80
             HoverBorderColor: =RGBA(0, 0, 0, 0)
-            ItemColorSet: =ColumnChart1.ItemColorSet
-            Items: =ColumnChart1.SeriesLabels
+            ItemColorSet: =LineChart4.ItemColorSet
+            Items: =LineChart4.SeriesLabels
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             Size: =18
             Width: =320
-            X: =68
-            Y: =653
+            X: =48
+            Y: =718
             ZIndex: =88
 
