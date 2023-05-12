@@ -1,9 +1,9 @@
-"'7.2.3. Chiều dài' As screen":
+"'7.2.4. Thân nhiệt' As screen":
     Height: =926
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
     Width: =428
 
-    "'Rectangle 103_6' As rectangle":
+    "'Rectangle 103_7' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         DisabledFill: =RGBA(166, 166, 166, 1)
@@ -15,7 +15,7 @@
         Width: =432
         ZIndex: =75
 
-    "'Chiều dài_1' As label":
+    "'Thân nhiệt_1' As label":
         Align: =Align.Center
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -31,73 +31,30 @@
         PaddingRight: =0
         PaddingTop: =0
         Size: =24
-        Text: ="Chiều dài"
+        Text: ="Thân nhiệt"
         Width: =176
-        X: =113
-        Y: =31
+        X: =130
+        Y: =28
         ZIndex: =78
 
-    "'ruler 2_1' As image":
+    "'image 28_1' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledFill: =RGBA(0, 0, 0, 0)
         FocusedBorderThickness: =4
-        Height: =73
+        Height: =77
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
-        Image: =image2652109
+        Image: =image2652199
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =73
-        X: =48
-        Y: =162
+        Width: =77
+        X: =38
+        Y: =160
         ZIndex: =83
 
-    CompositeLineChart3 As group:
-        Height: =5
-        Width: =5
-        X: =40
-        Y: =40
-        ZIndex: =84
-
-        LineChart3 As lineChart:
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            BorderThickness: =2
-            Color: =RGBA(51, 51, 51, 1)
-            DisabledBorderColor: =RGBA(0, 0, 0, 0)
-            Font: =Font.'Segoe UI'
-            HoverBorderColor: =RGBA(0, 0, 0, 0)
-            ItemColorSet: =[RGBA(49, 130, 93, 1),RGBA(48,166,103, 1), RGBA(94,193,108,1), RGBA(246,199,144,1), RGBA(247,199,114,1), RGBA(247,180,91,1), RGBA(246,143,100,1), RGBA(212,96,104,1), RGBA(148, 110, 176, 1), RGBA(118, 154, 204, 1), RGBA(96, 197, 234, 1)]
-            Items: =LineChartSample
-            PressedBorderColor: =RGBA(0, 0, 0, 0)
-            Size: =24
-            X: =28
-            Y: =282
-            ZIndex: =86
-
-        Legend3 As legend:
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            BorderThickness: =2
-            Color: =RGBA(51, 51, 51, 1)
-            DisabledBorderColor: =RGBA(0, 0, 0, 0)
-            DisabledColor: =RGBA(166, 166, 166, 1)
-            DisabledFill: =RGBA(220, 220, 220, 1)
-            Font: =Font.'Segoe UI'
-            Height: =80
-            HoverBorderColor: =RGBA(0, 0, 0, 0)
-            ItemColorSet: =LineChart3.ItemColorSet
-            Items: =LineChart3.SeriesLabels
-            PressedBorderColor: =RGBA(0, 0, 0, 0)
-            Size: =18
-            Width: =320
-            X: =48
-            Y: =719
-            ZIndex: =87
-
-    Dropdown1_2 As dropdown:
+    Dropdown1_5 As dropdown:
         BorderColor: =RGBA(221, 79, 14, 1)
         Color: =RGBA(51, 51, 51, 1)
         ChevronBackground: =RGBA(255, 255, 255, 1)
@@ -128,5 +85,48 @@
         Width: =215
         X: =153
         Y: =170
-        ZIndex: =88
+        ZIndex: =84
+
+    CompositeColumnChart1 As group:
+        Height: =5
+        Width: =5
+        X: =40
+        Y: =40
+        ZIndex: =85
+
+        ColumnChart1 As barChart:
+            BorderColor: =RGBA(0, 0, 0, 0)
+            BorderStyle: =BorderStyle.None
+            BorderThickness: =2
+            Color: =RGBA(51, 51, 51, 1)
+            DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            Font: =Font.'Segoe UI'
+            HoverBorderColor: =RGBA(0, 0, 0, 0)
+            ItemColorSet: =[RGBA(49, 130, 93, 1),RGBA(48,166,103, 1), RGBA(94,193,108,1), RGBA(246,199,144,1), RGBA(247,199,114,1), RGBA(247,180,91,1), RGBA(246,143,100,1), RGBA(212,96,104,1), RGBA(148, 110, 176, 1), RGBA(118, 154, 204, 1), RGBA(96, 197, 234, 1)]
+            Items: =ColumnChartSample
+            PressedBorderColor: =RGBA(0, 0, 0, 0)
+            Size: =24
+            X: =28
+            Y: =253
+            ZIndex: =87
+
+        Legend4 As legend:
+            BorderColor: =RGBA(0, 0, 0, 0)
+            BorderStyle: =BorderStyle.None
+            BorderThickness: =2
+            Color: =RGBA(51, 51, 51, 1)
+            DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            DisabledColor: =RGBA(166, 166, 166, 1)
+            DisabledFill: =RGBA(220, 220, 220, 1)
+            Font: =Font.'Segoe UI'
+            Height: =80
+            HoverBorderColor: =RGBA(0, 0, 0, 0)
+            ItemColorSet: =ColumnChart1.ItemColorSet
+            Items: =ColumnChart1.SeriesLabels
+            PressedBorderColor: =RGBA(0, 0, 0, 0)
+            Size: =18
+            Width: =320
+            X: =68
+            Y: =653
+            ZIndex: =88
 
