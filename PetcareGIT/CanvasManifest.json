@@ -29,10 +29,10 @@
       "disablecdsfileandlargeimage": false,
       "dynamicschema": false,
       "enableappembeddingux": false,
+      "enablechatbotfeature": false,
       "enablecomponentnamemaps": false,
       "enablecomponentscopeoldbehavior": false,
       "enablecopilotcontrol": false,
-      "enablechatbotfeature": false,
       "enabledataverseoffline": false,
       "enableeditcacherefreshfrequency": false,
       "enableexcelonlinebusinessv2connector": true,
@@ -125,13 +125,15 @@
     "PublishDataLocally": false,
     "PublishResourcesLocally": false,
     "PublishTarget": "player",
-    "UserLocale": "vi-VN"
+    "UserLocale": "en-US"
   },
   "ScreenOrder": [
-    "3ngk",
-    "4ResetPassword",
-    "Màn hình đăng ký gói",
-    "Màn hình hiển thị chức năng",
+    "1. Màn hình giới thiệu app",
+    "2. Đăng nhập",
+    "3. Đằng ký",
+    "4. ResetPassword",
+    "5. Màn hình đăng ký gói",
+    "6. Màn hình hiển thị chức năng",
     "7.1. Màn hình hiển thị thông tin thú cưng",
     "7.2 Màn hình quản lý theo dõi sức khỏe",
     "7.2.1. Cân nặng",
@@ -140,13 +142,11 @@
     "7.2.4. Thân nhiệt",
     "7.2.5. Lịch sử bệnh lý",
     "7.2.6. Lịch sử tiêm phòng",
-    "Chat bot",
-    "Hiển thị lịch",
-    "Màn hình giới thiệu app",
-    "Màn hình thông báo cho phép truy cập vị trí",
-    "Màn hình gợi ý phòng khám",
-    "định vị phòng khám trên bản đồ",
-    "Đăng nhập 1",
-    "Đặt lịch"
+    "8. Chat bot",
+    "9.1. Đặt lịch",
+    "9.2. Hiển thị lịch",
+    "10.1. Màn hình thông báo cho phép truy cập vị trí",
+    "10.2. Màn hình gợi ý phòng khám",
+    "10.3. định vị phòng khám trên bản đồ"
   ]
 }

@@ -1,31 +1,30 @@
-"'Đăng nhập 1' As screen":
+"'3. Đằng ký' As screen":
     Height: =926
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
     Width: =440
 
-    "'Add a subheading (2) 4_2' As image":
+    "'Add a subheading (2) 4' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledFill: =RGBA(0, 0, 0, 0)
         FocusedBorderThickness: =4
-        Height: =926
+        Height: =942
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: =image1631887
-        ImagePosition: =ImagePosition.Stretch
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =440
         ZIndex: =1
 
-    "'Rectangle 129_1' As rectangle":
+    "'Rectangle 129' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         DisabledFill: =RGBA(166, 166, 166, 1)
         Fill: =RGBA(229.7125, 228.0279, 222.0554, 0.3)
         FocusedBorderThickness: =4
-        Height: =557
+        Height: =624
         HoverFill: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =392
@@ -33,7 +32,27 @@
         Y: =79
         ZIndex: =2
 
-    Hoặc_4 As label:
+    "'Mật khẩu_2' As label":
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(255, 255, 255, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Height: =18
+        LineHeight: =1.625
+        PaddingBottom: =0
+        PaddingLeft: =0
+        PaddingRight: =0
+        PaddingTop: =0
+        Size: =12
+        Text: ="Mật khẩu"
+        Width: =201
+        X: =66
+        Y: =542
+        ZIndex: =3
+
+    Hoặc_1 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         Color: =RGBA(140, 131, 131, 1)
@@ -50,11 +69,11 @@
         Text: ="Hoặc"
         VerticalAlign: =VerticalAlign.Top
         Width: =92
-        X: =195
-        Y: =688
-        ZIndex: =3
+        X: =189
+        Y: =756
+        ZIndex: =5
 
-    "'Đăng ký_2' As label":
+    "'Đăng ký_1' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         Color: =RGBA(0, 0, 0, 1)
@@ -69,14 +88,14 @@
         PaddingRight: =0
         PaddingTop: =0
         Size: =30
-        Text: ="Đăng nhập"
+        Text: ="Đăng ký"
         VerticalAlign: =VerticalAlign.Top
         Width: =237
-        X: =111
-        Y: =98
-        ZIndex: =4
+        X: =143
+        Y: =101
+        ZIndex: =20
 
-    "'Tên đăng nhập_4' As label":
+    "'Tên đăng nhập_1' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         Color: =RGBA(0, 0, 0, 1)
@@ -96,9 +115,9 @@
         Width: =193
         X: =74
         Y: =178
-        ZIndex: =5
+        ZIndex: =21
 
-    "'Tôi đồng ý các điều khoản_2' As label":
+    "'Tôi đồng ý các điều khoản' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         Color: =RGBA(126.65, 117.1512, 117.1512, 1)
@@ -112,14 +131,14 @@
         PaddingRight: =0
         PaddingTop: =0
         Size: =13.5
-        Text: ="Duy trì đăng nhập"
+        Text: ="Tôi đồng ý các điều khoản"
         VerticalAlign: =VerticalAlign.Top
         Width: =248
-        X: =100
-        Y: =444
-        ZIndex: =6
+        X: =102
+        Y: =553
+        ZIndex: =22
 
-    "'Mật khẩu_8' As label":
+    "'Mật khẩu_4' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         Color: =RGBA(0, 0, 0, 1)
@@ -137,11 +156,11 @@
         Text: ="Mật khẩu"
         VerticalAlign: =VerticalAlign.Top
         Width: =140
-        X: =71
-        Y: =305
-        ZIndex: =7
+        X: =66
+        Y: =431
+        ZIndex: =30
 
-    Arrow1_2 As arrow.backArrow:
+    Arrow1 As arrow.backArrow:
         BorderColor: =RGBA(0, 0, 0, 0)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         Fill: =RGBA(242, 147, 0, 1)
@@ -149,9 +168,9 @@
         Width: =30
         X: =52
         Y: =110
-        ZIndex: =8
+        ZIndex: =36
 
-    TextInput2_9 As text:
+    TextInput2 As text:
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderThickness: =0
         Color: =RGBA(140, 131, 131, 1)
@@ -176,13 +195,35 @@
         Width: =307
         X: =65
         Y: =221
-        ZIndex: =9
+        ZIndex: =37
 
-    TextInput2_11 As text:
+    "'Tên đăng nhập_3' As label":
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        FontWeight: =FontWeight.Semibold
+        Height: =26
+        LineHeight: =1.171875
+        PaddingBottom: =0
+        PaddingLeft: =0
+        PaddingRight: =0
+        PaddingTop: =0
+        Size: =15
+        Text: ="Địa chỉ Email"
+        VerticalAlign: =VerticalAlign.Top
+        Width: =193
+        X: =70
+        Y: =309
+        ZIndex: =38
+
+    TextInput2_1 As text:
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderThickness: =0
         Color: =RGBA(140, 131, 131, 1)
-        Default: ="Nhập mật khẩu của bạn"
+        Default: ="Nhập địa chỉ Email"
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
@@ -201,18 +242,45 @@
         RadiusTopRight: =0
         Size: =16
         Width: =307
-        X: =65
-        Y: =350
-        ZIndex: =10
+        X: =58
+        Y: =352
+        ZIndex: =39
 
-    Checkbox1_1 As checkbox:
+    TextInput2_2 As text:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderThickness: =0
+        Color: =RGBA(140, 131, 131, 1)
+        Default: ="Tạo mật khẩu "
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        Height: =49
+        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverFill: =RGBA(255, 255, 255, 1)
+        PressedBorderColor: =RGBA(0, 120, 212, 1)
+        PressedColor: =RGBA(51, 51, 51, 1)
+        PressedFill: =RGBA(255, 255, 255, 1)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =16
+        Width: =307
+        X: =60
+        Y: =476
+        ZIndex: =40
+
+    Checkbox1 As checkbox:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         BorderThickness: =2
-        Color: =RGBA(51, 51, 51, 1)
         CheckboxBorderColor: =RGBA(242, 147, 0, 1)
         CheckboxSize: =40
         CheckmarkFill: =RGBA(0, 120, 212, 1)
+        Color: =RGBA(51, 51, 51, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
@@ -227,11 +295,11 @@
         Size: =21
         Text: =""
         Width: =44
-        X: =56
-        Y: =411
-        ZIndex: =11
+        X: =58
+        Y: =520
+        ZIndex: =41
 
-    Icon3_1 As icon.Hide:
+    Icon3 As icon.Hide:
         BorderColor: =RGBA(166, 166, 166, 1)
         Color: =RGBA(242, 147, 0, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
@@ -247,11 +315,11 @@
         PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =25
-        X: =325
-        Y: =362
-        ZIndex: =12
+        X: =320
+        Y: =486
+        ZIndex: =42
 
-    Button2_9 As button:
+    Button2_1 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderThickness: =10
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
@@ -275,31 +343,39 @@
         Size: =20
         Text: ="Đăng nhập"
         Width: =200
-        X: =118
-        Y: =491
-        ZIndex: =13
-
-    Icon4_4 As icon.HorizontalLine:
-        BorderColor: =RGBA(166, 166, 166, 1)
-        Color: =RGBA(242, 147, 0, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(220, 220, 220, 1)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =1
-        Height: =60
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Icon: =Icon.HorizontalLine
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =60
         X: =111
-        Y: =672
-        ZIndex: =14
+        Y: =845
+        ZIndex: =44
 
-    Icon4_5 As icon.HorizontalLine:
+    Button2_4 As button:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =10
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(242, 147, 0, 1)
+        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =43
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        RadiusBottomLeft: =40
+        RadiusBottomRight: =40
+        RadiusTopLeft: =40
+        RadiusTopRight: =40
+        Size: =20
+        Text: ="Đăng ký"
+        Width: =200
+        X: =111
+        Y: =627
+        ZIndex: =45
+
+    Icon4_2 As icon.HorizontalLine:
         BorderColor: =RGBA(166, 166, 166, 1)
         Color: =RGBA(242, 147, 0, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
@@ -315,222 +391,27 @@
         PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =60
-        X: =267
-        Y: =672
-        ZIndex: =15
+        X: =105
+        Y: =740
+        ZIndex: =46
 
-    Button4 As button:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderThickness: =0
+    Icon4_3 As icon.HorizontalLine:
+        BorderColor: =RGBA(166, 166, 166, 1)
         Color: =RGBA(242, 147, 0, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(220, 220, 220, 1)
         DisabledFill: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(0, 0, 0, 0)
-        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
-        Font: =Font.'Segoe UI'
-        Height: =38
+        FocusedBorderThickness: =1
+        Height: =60
         HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
-        PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =15
-        Text: ="Quên mật khẩu?"
-        Underline: =true
-        Width: =180
-        X: =51
-        Y: =571
-        ZIndex: =16
-
-    Button4_1 As button:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderThickness: =0
-        Color: =RGBA(242, 147, 0, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        DisabledFill: =RGBA(244, 244, 244, 1)
-        Fill: =RGBA(0, 0, 0, 0)
-        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
-        Font: =Font.'Segoe UI'
-        Height: =31
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
-        PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =15
-        Text: ="Đăng ký"
-        Underline: =true
-        Width: =132
-        X: =271
-        Y: =578
-        ZIndex: =17
-
-    "'Mật khẩu_9' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(0, 0, 0, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        FontWeight: =FontWeight.Semibold
-        Height: =23
-        LineHeight: =1.171875
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =15
-        Text: ="Liên hệ qua"
-        VerticalAlign: =VerticalAlign.Top
-        Width: =140
-        X: =169
-        Y: =747
-        ZIndex: =18
-
-    Image10 As image:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =48
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         HoverFill: =RGBA(0, 0, 0, 0)
-        Image: ='Screenshot 2023-05-09 162301'
+        Icon: =Icon.HorizontalLine
         PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =49
-        X: =104
-        Y: =826
-        ZIndex: =19
-
-    Button10 As button:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(0, 0, 0, 0)
-        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
-        Font: =Font.'Segoe UI'
-        FontWeight: =FontWeight.Semibold
-        Height: =29
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), 0%)
-        PressedColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =24
-        Text: =""
-        Width: =28
-        X: =116
-        Y: =835
-        ZIndex: =20
-
-    Image10_1 As image:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =48
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: ='Screenshot 2023-05-09 162317'
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =49
-        X: =197
-        Y: =825
-        ZIndex: =21
-
-    Button10_1 As button:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(0, 0, 0, 0)
-        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
-        Font: =Font.'Segoe UI'
-        FontWeight: =FontWeight.Semibold
-        Height: =29
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), 0%)
-        PressedColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =24
-        Text: =""
-        Width: =28
-        X: =205
-        Y: =835
-        ZIndex: =22
-
-    Image10_2 As image:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =48
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: ='Screenshot 2023-05-09 162347'
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =49
-        X: =297
-        Y: =826
-        ZIndex: =23
-
-    Button10_2 As button:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(0, 0, 0, 0)
-        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
-        Font: =Font.'Segoe UI'
-        FontWeight: =FontWeight.Semibold
-        Height: =29
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), 0%)
-        PressedColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =24
-        Text: =""
-        Width: =28
-        X: =307
-        Y: =835
-        ZIndex: =24
+        Width: =60
+        X: =251
+        Y: =740
+        ZIndex: =47
 

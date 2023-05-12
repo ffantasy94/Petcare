@@ -1,4 +1,4 @@
-"'Màn hình giới thiệu app' As screen":
+"'1. Màn hình giới thiệu app' As screen":
     BackgroundImage: ='Add a subheading (4)'
     Height: =926
     ImagePosition: =ImagePosition.Stretch
