@@ -50,7 +50,7 @@
     TextInput1_1 As text:
         BorderColor: =RGBA(166, 166, 166, 1)
         Color: =RGBA(204, 204, 204, 1)
-        Default: ="Text input"
+        Default: =""
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
