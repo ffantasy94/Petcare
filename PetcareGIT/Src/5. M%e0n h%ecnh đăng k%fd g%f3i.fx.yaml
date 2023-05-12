@@ -135,7 +135,7 @@
         VerticalAlign: =VerticalAlign.Top
         Width: =363
         X: =56
-        Y: =68
+        Y: =62
         ZIndex: =10
 
     "'Component 8' As rectangle":
@@ -165,7 +165,7 @@
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =119
         X: =155
-        Y: =112
+        Y: =110
         ZIndex: =13
 
     "'Component 10' As rectangle":
@@ -547,6 +547,6 @@
         Text: ="Tiếp tục"
         Width: =226
         X: =105
-        Y: =764
+        Y: =845
         ZIndex: =34
 
