@@ -50,8 +50,8 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =73
-        X: =48
-        Y: =162
+        X: =64
+        Y: =156
         ZIndex: =83
 
     CompositeLineChart3 As group:
