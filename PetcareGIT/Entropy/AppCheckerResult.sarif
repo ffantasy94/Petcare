@@ -6618,30 +6618,6 @@
               "message": {
                 "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
               }
-            },
-            {
-              "associatedRule": {
-                "id": "app-InefficientDelayLoading",
-                "index": 3
-              },
-              "descriptor": {
-                "id": "app-InefficientDelayLoading"
-              },
-              "message": {
-                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
-              }
-            },
-            {
-              "associatedRule": {
-                "id": "app-InefficientDelayLoading",
-                "index": 3
-              },
-              "descriptor": {
-                "id": "app-InefficientDelayLoading"
-              },
-              "message": {
-                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
-              }
             }
           ]
         }
@@ -16042,17 +16018,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'7.2.1. Cân nặng'.Dropdown1.AccessibleLabel"
+                  "fullyQualifiedName": "'7.2.2. Chiều cao'.Dropdown1_3.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "7.2.1. Cân nặng",
-                "type": "'7.2.1. Cân nặng'.Dropdown1"
+                "module": "7.2.2. Chiều cao",
+                "type": "'7.2.2. Chiều cao'.Dropdown1_3"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'7.2.1. Cân nặng'.Dropdown1.AccessibleLabel",
+                  "fullyQualifiedName": "'7.2.2. Chiều cao'.Dropdown1_3.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -16342,17 +16318,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'7.2.3. Chiều dài'.'Rectangle 97_4'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.2.3. Chiều dài'.Dropdown1_2.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "7.2.3. Chiều dài",
-                "type": "'7.2.3. Chiều dài'.'Rectangle 97_4'"
+                "type": "'7.2.3. Chiều dài'.Dropdown1_2"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'7.2.3. Chiều dài'.'Rectangle 97_4'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.2.3. Chiều dài'.Dropdown1_2.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -16366,126 +16342,6 @@
           },
           "ruleId": "acc-AccessibleLabelNeeded",
           "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.2.3. Chiều dài'.'Rectangle 97_4'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "7.2.3. Chiều dài",
-                "type": "'7.2.3. Chiều dài'.'Rectangle 97_4'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.2.3. Chiều dài'.'Rectangle 97_4'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.2.3. Chiều dài'.'Một tháng_2'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "7.2.3. Chiều dài",
-                "type": "'7.2.3. Chiều dài'.'Một tháng_2'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.2.3. Chiều dài'.'Một tháng_2'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.2.3. Chiều dài'.Vector_90.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.2.3. Chiều dài",
-                "type": "'7.2.3. Chiều dài'.Vector_90"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.2.3. Chiều dài'.Vector_90.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.2.3. Chiều dài'.Vector_90.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "7.2.3. Chiều dài",
-                "type": "'7.2.3. Chiều dài'.Vector_90"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.2.3. Chiều dài'.Vector_90.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
         },
         {
           "locations": [
@@ -22642,17 +22498,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'7.2.2. Chiều cao'.Dropdown1_1.AccessibleLabel"
+                  "fullyQualifiedName": "'7.2.1. Cân nặng'.Dropdown1_4.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "7.2.2. Chiều cao",
-                "type": "'7.2.2. Chiều cao'.Dropdown1_1"
+                "module": "7.2.1. Cân nặng",
+                "type": "'7.2.1. Cân nặng'.Dropdown1_4"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'7.2.2. Chiều cao'.Dropdown1_1.AccessibleLabel",
+                  "fullyQualifiedName": "'7.2.1. Cân nặng'.Dropdown1_4.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -28713,6 +28569,36 @@
               "physicalLocation": {
                 "address": {
                   "fullyQualifiedName": "App.image2652091",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-UnusedMediaResources",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "App.image2652107"
+                }
+              ],
+              "properties": {
+                "member": "image2652107",
+                "module": "App",
+                "type": "App"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "App.image2652107",
                   "relativeAddress": 0
                 }
               }

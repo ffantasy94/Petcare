@@ -744,12 +744,19 @@
       "StyleName": "",
       "Type": "ControlInfo"
     },
-    "Dropdown1": {
+    "Dropdown1_4": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "Items",
         "SelectionColor",
-        "ChevronFill",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "",
+          "InvariantPropertyName": "ChevronFill",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "ChevronHoverFill",
         "ChevronDisabledFill",
         "ChevronBackground",
@@ -760,7 +767,14 @@
         "HoverColor",
         "PressedColor",
         "DisabledColor",
-        "BorderColor",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "",
+          "InvariantPropertyName": "BorderColor",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "DisabledBorderColor",
         "HoverBorderColor",
         "PressedBorderColor",
@@ -776,14 +790,7 @@
         "Y",
         "Width",
         "Height",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "DisplayMode",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "DisplayMode",
         "ZIndex",
         "BorderThickness",
         "FocusedBorderThickness",
@@ -813,8 +820,8 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Dropdown1",
-      "ParentIndex": 3,
+      "Name": "Dropdown1_4",
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1074,7 +1081,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Legend2",
-      "ParentIndex": 5,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1219,7 +1226,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%LineChart.ID%",
       "Name": "LineChart2",
-      "ParentIndex": 4,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
