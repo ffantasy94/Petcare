@@ -1,4 +1,4 @@
-"'725Lchsbnhl' As screen":
+"'7.2.5. Lịch sử bệnh lý' As screen":
     Height: =926
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
     Width: =428
@@ -67,4 +67,10 @@
         X: =78
         Y: =18
         ZIndex: =24
+
+    FormViewer1 As formViewer:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Width: =428
+        Y: =238
+        ZIndex: =25
 

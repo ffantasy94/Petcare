@@ -1,4 +1,4 @@
-"'726Lchstimphng' As screen":
+"'7.2.6. Lịch sử tiêm phòng' As screen":
     Height: =926
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
     Width: =428
@@ -73,4 +73,10 @@
         X: =36
         Y: =22
         ZIndex: =29
+
+    FormViewer2 As formViewer:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Width: =428
+        Y: =250
+        ZIndex: =30
 

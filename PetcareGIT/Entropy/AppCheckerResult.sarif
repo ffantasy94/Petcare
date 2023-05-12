@@ -4926,6 +4926,30 @@
               "message": {
                 "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
               }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 3
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 3
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
             }
           ]
         }
@@ -10426,17 +10450,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'726Lchstimphng'.'Rectangle 108_4'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.2.6. Lịch sử tiêm phòng'.'Rectangle 108_4'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "726Lchstimphng",
-                "type": "'726Lchstimphng'.'Rectangle 108_4'"
+                "module": "7.2.6. Lịch sử tiêm phòng",
+                "type": "'7.2.6. Lịch sử tiêm phòng'.'Rectangle 108_4'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'726Lchstimphng'.'Rectangle 108_4'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.2.6. Lịch sử tiêm phòng'.'Rectangle 108_4'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -10456,17 +10480,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'726Lchstimphng'.'Rectangle 108_4'.TabIndex"
+                  "fullyQualifiedName": "'7.2.6. Lịch sử tiêm phòng'.'Rectangle 108_4'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "726Lchstimphng",
-                "type": "'726Lchstimphng'.'Rectangle 108_4'"
+                "module": "7.2.6. Lịch sử tiêm phòng",
+                "type": "'7.2.6. Lịch sử tiêm phòng'.'Rectangle 108_4'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'726Lchstimphng'.'Rectangle 108_4'.TabIndex",
+                  "fullyQualifiedName": "'7.2.6. Lịch sử tiêm phòng'.'Rectangle 108_4'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -10486,17 +10510,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'726Lchstimphng'.'Lịch sử tiêm phòng_1'.TabIndex"
+                  "fullyQualifiedName": "'7.2.6. Lịch sử tiêm phòng'.'Lịch sử tiêm phòng_1'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "726Lchstimphng",
-                "type": "'726Lchstimphng'.'Lịch sử tiêm phòng_1'"
+                "module": "7.2.6. Lịch sử tiêm phòng",
+                "type": "'7.2.6. Lịch sử tiêm phòng'.'Lịch sử tiêm phòng_1'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'726Lchstimphng'.'Lịch sử tiêm phòng_1'.TabIndex",
+                  "fullyQualifiedName": "'7.2.6. Lịch sử tiêm phòng'.'Lịch sử tiêm phòng_1'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -10516,17 +10540,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'726Lchstimphng'.'Group 145_1'.'Rectangle 108_3'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.2.6. Lịch sử tiêm phòng'.'Group 145_1'.'Rectangle 108_3'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "726Lchstimphng",
-                "type": "'726Lchstimphng'.'Group 145_1'.'Rectangle 108_3'"
+                "module": "7.2.6. Lịch sử tiêm phòng",
+                "type": "'7.2.6. Lịch sử tiêm phòng'.'Group 145_1'.'Rectangle 108_3'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'726Lchstimphng'.'Group 145_1'.'Rectangle 108_3'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.2.6. Lịch sử tiêm phòng'.'Group 145_1'.'Rectangle 108_3'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -10546,17 +10570,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'726Lchstimphng'.'Group 145_1'.'Rectangle 108_3'.TabIndex"
+                  "fullyQualifiedName": "'7.2.6. Lịch sử tiêm phòng'.'Group 145_1'.'Rectangle 108_3'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "726Lchstimphng",
-                "type": "'726Lchstimphng'.'Group 145_1'.'Rectangle 108_3'"
+                "module": "7.2.6. Lịch sử tiêm phòng",
+                "type": "'7.2.6. Lịch sử tiêm phòng'.'Group 145_1'.'Rectangle 108_3'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'726Lchstimphng'.'Group 145_1'.'Rectangle 108_3'.TabIndex",
+                  "fullyQualifiedName": "'7.2.6. Lịch sử tiêm phòng'.'Group 145_1'.'Rectangle 108_3'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -10576,17 +10600,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'726Lchstimphng'.'Group 145_1'.'image 30_1'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.2.6. Lịch sử tiêm phòng'.'Group 145_1'.'image 30_1'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "726Lchstimphng",
-                "type": "'726Lchstimphng'.'Group 145_1'.'image 30_1'"
+                "module": "7.2.6. Lịch sử tiêm phòng",
+                "type": "'7.2.6. Lịch sử tiêm phòng'.'Group 145_1'.'image 30_1'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'726Lchstimphng'.'Group 145_1'.'image 30_1'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.2.6. Lịch sử tiêm phòng'.'Group 145_1'.'image 30_1'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -10606,17 +10630,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'726Lchstimphng'.'Group 145_1'.'image 30_1'.TabIndex"
+                  "fullyQualifiedName": "'7.2.6. Lịch sử tiêm phòng'.'Group 145_1'.'image 30_1'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "726Lchstimphng",
-                "type": "'726Lchstimphng'.'Group 145_1'.'image 30_1'"
+                "module": "7.2.6. Lịch sử tiêm phòng",
+                "type": "'7.2.6. Lịch sử tiêm phòng'.'Group 145_1'.'image 30_1'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'726Lchstimphng'.'Group 145_1'.'image 30_1'.TabIndex",
+                  "fullyQualifiedName": "'7.2.6. Lịch sử tiêm phòng'.'Group 145_1'.'image 30_1'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -12196,17 +12220,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'725Lchsbnhl'.'Rectangle 108_2'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.2.5. Lịch sử bệnh lý'.'Rectangle 108_2'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "725Lchsbnhl",
-                "type": "'725Lchsbnhl'.'Rectangle 108_2'"
+                "module": "7.2.5. Lịch sử bệnh lý",
+                "type": "'7.2.5. Lịch sử bệnh lý'.'Rectangle 108_2'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'725Lchsbnhl'.'Rectangle 108_2'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.2.5. Lịch sử bệnh lý'.'Rectangle 108_2'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -12226,17 +12250,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'725Lchsbnhl'.'Rectangle 108_2'.TabIndex"
+                  "fullyQualifiedName": "'7.2.5. Lịch sử bệnh lý'.'Rectangle 108_2'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "725Lchsbnhl",
-                "type": "'725Lchsbnhl'.'Rectangle 108_2'"
+                "module": "7.2.5. Lịch sử bệnh lý",
+                "type": "'7.2.5. Lịch sử bệnh lý'.'Rectangle 108_2'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'725Lchsbnhl'.'Rectangle 108_2'.TabIndex",
+                  "fullyQualifiedName": "'7.2.5. Lịch sử bệnh lý'.'Rectangle 108_2'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -12256,17 +12280,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'725Lchsbnhl'.'Lịch sử bệnh lý_1'.TabIndex"
+                  "fullyQualifiedName": "'7.2.5. Lịch sử bệnh lý'.'Lịch sử bệnh lý_1'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "725Lchsbnhl",
-                "type": "'725Lchsbnhl'.'Lịch sử bệnh lý_1'"
+                "module": "7.2.5. Lịch sử bệnh lý",
+                "type": "'7.2.5. Lịch sử bệnh lý'.'Lịch sử bệnh lý_1'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'725Lchsbnhl'.'Lịch sử bệnh lý_1'.TabIndex",
+                  "fullyQualifiedName": "'7.2.5. Lịch sử bệnh lý'.'Lịch sử bệnh lý_1'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -12286,17 +12310,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'725Lchsbnhl'.'Rectangle 107_2'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.2.5. Lịch sử bệnh lý'.'Rectangle 107_2'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "725Lchsbnhl",
-                "type": "'725Lchsbnhl'.'Rectangle 107_2'"
+                "module": "7.2.5. Lịch sử bệnh lý",
+                "type": "'7.2.5. Lịch sử bệnh lý'.'Rectangle 107_2'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'725Lchsbnhl'.'Rectangle 107_2'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.2.5. Lịch sử bệnh lý'.'Rectangle 107_2'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -12316,17 +12340,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'725Lchsbnhl'.'Rectangle 107_2'.TabIndex"
+                  "fullyQualifiedName": "'7.2.5. Lịch sử bệnh lý'.'Rectangle 107_2'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "725Lchsbnhl",
-                "type": "'725Lchsbnhl'.'Rectangle 107_2'"
+                "module": "7.2.5. Lịch sử bệnh lý",
+                "type": "'7.2.5. Lịch sử bệnh lý'.'Rectangle 107_2'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'725Lchsbnhl'.'Rectangle 107_2'.TabIndex",
+                  "fullyQualifiedName": "'7.2.5. Lịch sử bệnh lý'.'Rectangle 107_2'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -12346,17 +12370,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'725Lchsbnhl'.'image 29_1'.AccessibleLabel"
+                  "fullyQualifiedName": "'7.2.5. Lịch sử bệnh lý'.'image 29_1'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "725Lchsbnhl",
-                "type": "'725Lchsbnhl'.'image 29_1'"
+                "module": "7.2.5. Lịch sử bệnh lý",
+                "type": "'7.2.5. Lịch sử bệnh lý'.'image 29_1'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'725Lchsbnhl'.'image 29_1'.AccessibleLabel",
+                  "fullyQualifiedName": "'7.2.5. Lịch sử bệnh lý'.'image 29_1'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -12376,17 +12400,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'725Lchsbnhl'.'image 29_1'.TabIndex"
+                  "fullyQualifiedName": "'7.2.5. Lịch sử bệnh lý'.'image 29_1'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "725Lchsbnhl",
-                "type": "'725Lchsbnhl'.'image 29_1'"
+                "module": "7.2.5. Lịch sử bệnh lý",
+                "type": "'7.2.5. Lịch sử bệnh lý'.'image 29_1'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'725Lchsbnhl'.'image 29_1'.TabIndex",
+                  "fullyQualifiedName": "'7.2.5. Lịch sử bệnh lý'.'image 29_1'.TabIndex",
                   "relativeAddress": 0
                 }
               }
