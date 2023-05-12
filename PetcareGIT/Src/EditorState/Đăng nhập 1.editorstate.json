@@ -5,14 +5,7 @@
       "ControlPropertyState": [
         "Image",
         "Transparency",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "ImagePosition",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "ImagePosition",
         "CalculateOriginalDimensions",
         "ImageRotation",
         "FlipHorizontal",
@@ -1060,14 +1053,7 @@
           "IsLockable": false,
           "NameMapSourceSchema": "?"
         },
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "DisabledFill",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "DisabledFill",
         "PressedFill",
         "HoverFill",
         "Font",
@@ -1128,7 +1114,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Button4",
-      "ParentIndex": 12,
+      "ParentIndex": 13,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1408,7 +1394,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Button4_1",
-      "ParentIndex": 13,
+      "ParentIndex": 14,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2327,7 +2313,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Hoặc_4",
-      "ParentIndex": 16,
+      "ParentIndex": 17,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2827,7 +2813,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon4_4",
-      "ParentIndex": 14,
+      "ParentIndex": 15,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3007,7 +2993,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon4_5",
-      "ParentIndex": 15,
+      "ParentIndex": 16,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3730,7 +3716,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Mật khẩu_9",
-      "ParentIndex": 17,
+      "ParentIndex": 18,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
