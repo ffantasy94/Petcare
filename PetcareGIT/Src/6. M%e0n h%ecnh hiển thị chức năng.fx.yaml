@@ -277,8 +277,8 @@
         RadiusTopLeft: =0
         RadiusTopRight: =0
         Size: =15
-        Width: =194
-        X: =33
+        Width: =169
+        X: =41
         Y: =373
         ZIndex: =13
 
@@ -307,7 +307,7 @@
         RadiusTopRight: =0
         Size: =15
         Width: =194
-        X: =217
+        X: =220
         Y: =373
         ZIndex: =14
 
@@ -336,7 +336,7 @@
         RadiusTopRight: =0
         Size: =15
         Width: =119
-        X: =54
+        X: =57
         Y: =662
         ZIndex: =15
 
@@ -365,7 +365,7 @@
         RadiusTopRight: =0
         Size: =15
         Width: =150
-        X: =242
+        X: =248
         Y: =662
         ZIndex: =16
 
