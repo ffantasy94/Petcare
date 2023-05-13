@@ -1,43 +1,42 @@
-"Screen2 As screen.'phoneLayout_Calendar_ver3.0'":
+"'9.2 Hiển thị lịch' As screen.'phoneLayout_Calendar_ver3.0'":
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
-    RectQuickActionBar2 As rectangle:
+    RectQuickActionBar1 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 0)
         Fill: =RGBA(251, 183, 80, 1)
         Height: =88
-        Width: =640
+        Width: =Parent.Width
         ZIndex: =1
 
-    LblAppName2 As label:
-        BorderColor: =RGBA(251, 183, 80, 1)
+    LblAppName1 As label:
         Color: =RGBA(255, 255, 255, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         Fill: =RGBA(251, 183, 80, 1)
         Font: =Font.'Segoe UI'
         Height: =88
         Size: =27
-        Text: ="Lịch trình "
+        Text: ="Lịch trình"
         Width: =Parent.Width - Self.X
         Wrap: =false
         X: =32
         ZIndex: =2
 
-    LblResetToday2 As label:
+    LblResetToday1 As label:
         Align: =Align.Center
-        Color: =iconCalendar2.Color
+        Color: =iconCalendar1.Color
         DisabledColor: =RGBA(166, 166, 166, 1)
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Bold
-        Height: =iconCalendar2.Height
+        Height: =iconCalendar1.Height
         PaddingTop: =12
         Size: =15
         Text: =DateDiff(Date(Year(Today()), Month(Today()), 1), Today(), TimeUnit.Days) + 1
-        Width: =iconCalendar2.Width
-        X: =iconCalendar2.X
-        Y: =iconCalendar2.Y
+        Width: =iconCalendar1.Width
+        X: =iconCalendar1.X
+        Y: =iconCalendar1.Y
         ZIndex: =3
 
-    dropdownCalendarSelection2 As dropdown:
+    dropdownCalendarSelection1 As dropdown:
         BorderColor: =RGBA(166, 166, 166, 1)
         Color: =RGBA(51, 51, 51, 1)
         ChevronBackground: =RGBA(255, 255, 255, 1)
@@ -56,7 +55,7 @@
         HoverColor: =RGBA(51, 51, 51, 1)
         HoverFill: =RGBA(212, 212, 212, 1)
         Items: =Office365Outlook.CalendarGetTables().value
-        OnChange: =Select(dropdownCalendarSelection2)
+        OnChange: =Select(dropdownCalendarSelection1)
         OnSelect: |-
             =/*retrieves calendar events for all days in current month view and selected calendar 
             _minDate and _maxDate act as markers to prevent duplicate data collection*/         
@@ -88,10 +87,10 @@
         Tooltip: ="Select a calendar"
         Width: =470
         X: =37
-        Y: =RectQuickActionBar2.Height + 20
+        Y: =RectQuickActionBar1.Height + 20
         ZIndex: =4
 
-    iconCalendar2 As icon.CalendarBlank:
+    iconCalendar1 As icon.CalendarBlank:
         BorderColor: =RGBA(166, 166, 166, 1)
         Color: =RGBA(0, 120, 212, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
@@ -117,10 +116,10 @@
         Tooltip: ="Reset selected date to today"
         Width: =60
         X: =Parent.Width - Self.Width - 37
-        Y: =dropdownCalendarSelection2.Y
+        Y: =dropdownCalendarSelection1.Y
         ZIndex: =5
 
-    LblMonthSelected2 As label:
+    LblMonthSelected1 As label:
         Align: =Align.Center
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -136,10 +135,10 @@
         Visible: =_calendarVisible
         Width: =Parent.Width
         Wrap: =false
-        Y: =dropdownCalendarSelection2.Y + dropdownCalendarSelection2.Height + 20
+        Y: =dropdownCalendarSelection1.Y + dropdownCalendarSelection1.Height + 20
         ZIndex: =6
 
-    iconPrevMonth2 As icon.ChevronLeft:
+    iconPrevMonth1 As icon.ChevronLeft:
         BorderColor: =RGBA(166, 166, 166, 1)
         Color: =RGBA(0, 120, 212, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
@@ -171,10 +170,10 @@
         Tooltip: ="View previous month"
         Visible: =_calendarVisible
         Width: =91
-        Y: =LblMonthSelected2.Y
+        Y: =LblMonthSelected1.Y
         ZIndex: =7
 
-    iconNextMonth2 As icon.ChevronRight:
+    iconNextMonth1 As icon.ChevronRight:
         BorderColor: =RGBA(166, 166, 166, 1)
         Color: =RGBA(0, 120, 212, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
@@ -207,10 +206,10 @@
         Visible: =_calendarVisible
         Width: =91
         X: =Parent.Width - Self.Width
-        Y: =LblMonthSelected2.Y
+        Y: =LblMonthSelected1.Y
         ZIndex: =8
 
-    WeekdayGallery2 As gallery.WeekdayGallery:
+    WeekdayGallery1 As gallery.WeekdayGallery:
         AccessibleLabel: ="Days of the week"
         BorderColor: =RGBA(166, 166, 166, 1)
         Height: =45
@@ -220,25 +219,25 @@
         TemplateSize: =91
         Visible: =_calendarVisible
         Width: =Parent.Width
-        Y: =LblMonthSelected2.Y + LblMonthSelected2.Height + 20
+        Y: =LblMonthSelected1.Y + LblMonthSelected1.Height + 20
         ZIndex: =9
 
-        Title4 As label:
+        Title1 As label:
             Align: =Align.Center
             Color: =RGBA(51, 51, 51, 1)
             DisabledColor: =RGBA(166, 166, 166, 1)
             Font: =Font.'Segoe UI'
-            Height: =WeekdayGallery2.TemplateHeight
+            Height: =WeekdayGallery1.TemplateHeight
             OnSelect: =Select(Parent)
-            Size: =17 * WeekdayGallery2.TemplateWidth / 77
+            Size: =17 * WeekdayGallery1.TemplateWidth / 77
             Text: =ThisItem.Value
-            Width: =WeekdayGallery2.TemplateWidth
+            Width: =WeekdayGallery1.TemplateWidth
             Wrap: =false
-            X: =WeekdayGallery2.TemplateWidth / 2 - Self.Width / 2
-            Y: =WeekdayGallery2.TemplateHeight / 2 - Self.Height / 2
+            X: =WeekdayGallery1.TemplateWidth / 2 - Self.Width / 2
+            Y: =WeekdayGallery1.TemplateHeight / 2 - Self.Height / 2
             ZIndex: =1
 
-    MonthDayGallery2 As gallery.MonthDayGallery:
+    MonthDayGallery1 As gallery.MonthDayGallery:
         AccessibleLabel: ="Days of selected month"
         BorderColor: =RGBA(166, 166, 166, 1)
         Height: =390
@@ -250,43 +249,43 @@
         Visible: =_calendarVisible
         Width: =Parent.Width
         WrapCount: =7
-        Y: =WeekdayGallery2.Y + WeekdayGallery2.Height
+        Y: =WeekdayGallery1.Y + WeekdayGallery1.Height
         ZIndex: =10
 
-        Circle2 As circle:
+        Circle1 As circle:
             BorderColor: =RGBA(166, 166, 166, 1)
             Fill: =ColorFade(RGBA(0, 120, 212, 1), -50%)
             Height: =Self.Width
             OnSelect: =Select(Parent)
             Visible: |-
                 =/*Visible if calendar events are found on this day*/               
-                CountRows(Filter(MyCalendarEvents, DateValue(Text(Start)) = DateAdd(_firstDayInView,ThisItem.Value, TimeUnit.Days))) > 0 && !Subcircle2.Visible && Title5.Visible
+                CountRows(Filter(MyCalendarEvents, DateValue(Text(Start)) = DateAdd(_firstDayInView,ThisItem.Value, TimeUnit.Days))) > 0 && !Subcircle1.Visible && Title2.Visible
             Width: =6.5
-            X: =MonthDayGallery2.TemplateWidth / 2 - Self.Width / 2
-            Y: =MonthDayGallery2.TemplateHeight * (0.75)
+            X: =MonthDayGallery1.TemplateWidth / 2 - Self.Width / 2
+            Y: =MonthDayGallery1.TemplateHeight * (0.75)
             ZIndex: =1
 
-        Subcircle2 As circle:
+        Subcircle1 As circle:
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.None
             BorderThickness: =2
             DisabledFill: =RGBA(0, 120, 212, 1)
             Fill: =RGBA(0, 120, 212, 1)
-            Height: =3 * Title5.Size
+            Height: =3 * Title2.Size
             HoverFill: =RGBA(0, 120, 212, 1)
             OnSelect: =Select(Parent)
             PressedFill: =RGBA(0, 120, 212, 1)
-            Visible: =And(DateAdd(_firstDayInView, ThisItem.Value) = _dateSelected, Title5.Visible)
+            Visible: =And(DateAdd(_firstDayInView, ThisItem.Value) = _dateSelected, Title2.Visible)
             Width: =Self.Height
-            X: =MonthDayGallery2.TemplateWidth/2 - Self.Width/2
-            Y: =MonthDayGallery2.TemplateHeight / 2 - Self.Height / 2
+            X: =MonthDayGallery1.TemplateWidth/2 - Self.Width/2
+            Y: =MonthDayGallery1.TemplateHeight / 2 - Self.Height / 2
             ZIndex: =2
 
-        Title5 As label:
+        Title2 As label:
             Align: =Align.Center
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderThickness: =2
-            Color: =If(DateAdd(_firstDayInView, ThisItem.Value) = _dateSelected, RGBA(255, 255, 255, 1), DateAdd(_firstDayInView, ThisItem.Value) = Today(), RGBA(47, 41, 43, 1), LblMonthSelected2.Color)
+            Color: =If(DateAdd(_firstDayInView, ThisItem.Value) = _dateSelected, RGBA(255, 255, 255, 1), DateAdd(_firstDayInView, ThisItem.Value) = Today(), RGBA(47, 41, 43, 1), LblMonthSelected1.Color)
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledColor: =RGBA(166, 166, 166, 1)
             Fill: |-
@@ -295,35 +294,35 @@
                     /*Date selected is today*/
                     DateAdd(_firstDayInView, ThisItem.Value) = Today() && DateAdd(_firstDayInView, ThisItem.Value) = _dateSelected, RGBA(0,0,0,0),
                     /*Today when it is not selected*/
-                    DateAdd(_firstDayInView, ThisItem.Value) = Today(), ColorFade(Subcircle2.Fill, 0.67), 
+                    DateAdd(_firstDayInView, ThisItem.Value) = Today(), ColorFade(Subcircle1.Fill, 0.67), 
                     /*The day is outside the range of the currently selected month*/
                     Abs(Self.Text - ThisItem.Value) > 10,RGBA(200, 200, 200, 0.3), RGBA(0, 0, 0, 0))
             FocusedBorderColor: =Self.Color
             FocusedBorderThickness: =2
             Font: =Font.'Segoe UI'
-            Height: =MonthDayGallery2.TemplateHeight
+            Height: =MonthDayGallery1.TemplateHeight
             OnSelect: =Set(_dateSelected, DateAdd(_firstDayInView, ThisItem.Value, TimeUnit.Days))
-            Size: =17 * MonthDayGallery2.TemplateWidth / 91
+            Size: =17 * MonthDayGallery1.TemplateWidth / 91
             TabIndex: =0
             Text: =Day(DateAdd(_firstDayInView,ThisItem.Value, TimeUnit.Days))
             Visible: |-
                 =/*This item is in a row containing no days of the visible month. It is in the row after the row where the last day of the month occurs*/ 
                  !(DateAdd(_firstDayInView,ThisItem.Value, TimeUnit.Days) - Weekday(DateAdd(_firstDayInView,ThisItem.Value, TimeUnit.Days)) + 1 > _lastDayOfMonth)
-            Width: =MonthDayGallery2.TemplateWidth
+            Width: =MonthDayGallery1.TemplateWidth
             Wrap: =false
             ZIndex: =3
 
-    RectCalendarEventsHeader2 As rectangle:
+    RectCalendarEventsHeader1 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 0)
         Fill: =RGBA(240, 240, 240, 1)
-        Height: =LblCalendarEventsHeader2.Height
+        Height: =LblCalendarEventsHeader1.Height
         Visible: =_calendarVisible
-        Width: =LblCalendarEventsHeader2.Width
-        X: =LblCalendarEventsHeader2.X
-        Y: =LblCalendarEventsHeader2.Y
+        Width: =LblCalendarEventsHeader1.Width
+        X: =LblCalendarEventsHeader1.X
+        Y: =LblCalendarEventsHeader1.Y
         ZIndex: =11
 
-    LblCalendarEventsHeader2 As label:
+    LblCalendarEventsHeader1 As label:
         Color: =RGBA(51, 51, 51, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         Font: =Font.'Segoe UI'
@@ -334,13 +333,13 @@
         Visible: =_calendarVisible
         Width: =Parent.Width
         Wrap: =false
-        Y: =MonthDayGallery2.Y + MonthDayGallery2.Height + If(DateAdd(_firstDayInView, 35, TimeUnit.Days) > _lastDayOfMonth, -65, 0)
+        Y: =MonthDayGallery1.Y + MonthDayGallery1.Height + If(DateAdd(_firstDayInView, 35, TimeUnit.Days) > _lastDayOfMonth, -65, 0)
         ZIndex: =12
 
-    CalendarEventsGallery2 As gallery.CalendarEventsGallery:
+    CalendarEventsGallery1 As gallery.CalendarEventsGallery:
         AccessibleLabel: ="Calendar events for selected day"
         BorderColor: =RGBA(166, 166, 166, 1)
-        Height: =434
+        Height: =Parent.Height - Self.Y
         Items: |-
             =/*Shows events only on selected date*/
             SortByColumns(Filter(MyCalendarEvents, Text(Start, DateTimeFormat.ShortDate) = Text(_dateSelected, DateTimeFormat.ShortDate)), "Start")
@@ -350,10 +349,10 @@
         TemplateSize: =105
         Visible: =_calendarVisible
         Width: =Parent.Width
-        Y: =LblCalendarEventsHeader2.Y + LblCalendarEventsHeader2.Height
+        Y: =LblCalendarEventsHeader1.Y + LblCalendarEventsHeader1.Height
         ZIndex: =13
 
-        Rectangle3 As rectangle:
+        Rectangle2 As rectangle:
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             BorderThickness: =If(ThisItem.Id = _selectedCalendarEvent.Id, 2, 0)
@@ -361,35 +360,35 @@
             Fill: =RGBA(0,0,0,0)
             Height: =Parent.TemplateHeight
             HoverFill: =RGBA(0,0,0,0)
-            OnSelect: =Select(Title6)
+            OnSelect: =Select(Title3)
             PressedFill: =RGBA(0, 120, 212, 1)
             TabIndex: =0
             Width: =Parent.TemplateWidth
             ZIndex: =1
 
-        iconLocation2 As icon.Waypoint:
+        iconLocation1 As icon.Waypoint:
             BorderColor: =RGBA(166, 166, 166, 1)
             Color: =RGBA(0, 120, 212, 1)
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledColor: =RGBA(220, 220, 220, 1)
             DisabledFill: =RGBA(0, 0, 0, 0)
             FocusedBorderThickness: =4
-            Height: =Subtitle2.Height
+            Height: =Subtitle1.Height
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             HoverFill: =RGBA(0, 0, 0, 0)
             Icon: =Icon.Waypoint
-            OnSelect: =Select(Title6)
+            OnSelect: =Select(Title3)
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             PressedFill: =RGBA(0, 0, 0, 0)
             TabIndex: =0
             Width: =28
-            X: =Title6.X
-            Y: =Subtitle2.Y
+            X: =Title3.X
+            Y: =Subtitle1.Y
             ZIndex: =2
 
-        Title6 As label:
+        Title3 As label:
             BorderColor: =Self.Color
             BorderStyle: =BorderStyle.None
             BorderThickness: =2
@@ -401,17 +400,17 @@
             FontWeight: =FontWeight.Semibold
             Height: =Self.Size * 1.8
             OnSelect: =Set(_selectedCalendarEvent, ThisItem)
-            Size: =19 * CalendarEventsGallery2.TemplateHeight / 105
+            Size: =19 * CalendarEventsGallery1.TemplateHeight / 105
             TabIndex: =0
             Text: =ThisItem.Subject
             Tooltip: =ThisItem.Subject
-            Width: =CalendarEventsGallery2.TemplateWidth - Self.X - 10
+            Width: =CalendarEventsGallery1.TemplateWidth - Self.X - 10
             Wrap: =false
-            X: =Body2.X + Body2.Width + 10
-            Y: =CalendarEventsGallery2.TemplateHeight / 4 - Self.Height / 2 + 5
+            X: =Body1.X + Body1.Width + 10
+            Y: =CalendarEventsGallery1.TemplateHeight / 4 - Self.Height / 2 + 5
             ZIndex: =3
 
-        Subtitle2 As label:
+        Subtitle1 As label:
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             BorderThickness: =2
@@ -422,48 +421,48 @@
             Font: =Font.'Segoe UI'
             FontWeight: =FontWeight.Lighter
             Height: =Self.Size * 2
-            OnSelect: =Select(Title6)
+            OnSelect: =Select(Title3)
             PaddingBottom: =0
-            Size: =18 * CalendarEventsGallery2.TemplateHeight / 105
+            Size: =18 * CalendarEventsGallery1.TemplateHeight / 105
             Text: =ThisItem.Location
             Tooltip: =ThisItem.Location
-            Width: =CalendarEventsGallery2.TemplateWidth - Self.X - 10
+            Width: =CalendarEventsGallery1.TemplateWidth - Self.X - 10
             Wrap: =false
-            X: =iconLocation2.X + iconLocation2.Width + 10
-            Y: =3 / 4 * CalendarEventsGallery2.TemplateHeight - Self.Height / 2 - 5
+            X: =iconLocation1.X + iconLocation1.Width + 10
+            Y: =3 / 4 * CalendarEventsGallery1.TemplateHeight - Self.Height / 2 - 5
             ZIndex: =4
 
-        Body2 As label:
+        Body1 As label:
             Color: =RGBA(51, 51, 51, 1)
             DisabledColor: =RGBA(166, 166, 166, 1)
             FocusedBorderThickness: =2
             Font: =Font.'Segoe UI'
-            Height: =Title6.Height
-            OnSelect: =Select(Title6)
-            Size: =17 * CalendarEventsGallery2.TemplateHeight / 105
+            Height: =Title3.Height
+            OnSelect: =Select(Title3)
+            Size: =17 * CalendarEventsGallery1.TemplateHeight / 105
             Text: =Text(ThisItem.Start, DateTimeFormat.ShortTime)
             Width: =110
             Wrap: =false
             X: =32
-            Y: =Title6.Y
+            Y: =Title3.Y
             ZIndex: =5
 
-        Description2 As label:
+        Description1 As label:
             Color: =RGBA(51, 51, 51, 1)
             DisabledColor: =RGBA(166, 166, 166, 1)
             FocusedBorderThickness: =2
             Font: =Font.'Segoe UI'
-            Height: =Subtitle2.Height
-            OnSelect: =Select(Title6)
-            Size: =17 * CalendarEventsGallery2.TemplateHeight / 105
+            Height: =Subtitle1.Height
+            OnSelect: =Select(Title3)
+            Size: =17 * CalendarEventsGallery1.TemplateHeight / 105
             Text: =DateDiff(ThisItem.Start, ThisItem.End, TimeUnit.Minutes) & Lower(Left("Minute_Name", 1))
             Width: =100
             Wrap: =false
             X: =32
-            Y: =Subtitle2.Y
+            Y: =Subtitle1.Y
             ZIndex: =6
 
-        Separator2 As rectangle:
+        Separator1 As rectangle:
             BorderColor: =RGBA(0, 0, 0, 0)
             Fill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
             Height: =1
@@ -472,7 +471,7 @@
             Y: =Parent.TemplateHeight - 1
             ZIndex: =7
 
-    iconEmptyState2 As icon.CalendarBlank:
+    iconEmptyState1 As icon.CalendarBlank:
         BorderColor: =RGBA(166, 166, 166, 1)
         Color: =RGBA(0, 120, 212, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
@@ -489,10 +488,10 @@
         PressedFill: =RGBA(0, 0, 0, 0)
         Visible: =IsBlank(_userDomain)
         X: =Parent.Width/2 - Self.Width/2
-        Y: =LblEmptyState2.Y - Self.Height
+        Y: =LblEmptyState1.Y - Self.Height
         ZIndex: =14
 
-    LblEmptyState2 As label:
+    LblEmptyState1 As label:
         Align: =Align.Center
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -512,7 +511,7 @@
         Y: =Parent.Height / 2 - Self.Height / 2
         ZIndex: =15
 
-    LblNoEvents2 As label:
+    LblNoEvents1 As label:
         Align: =Align.Center
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -526,10 +525,10 @@
         Height: =64
         Size: =21
         Text: =If(_showLoading, "Loading events...", "No events scheduled")
-        Visible: =Or(_showLoading, CountRows(CalendarEventsGallery2.AllItems) = 0 && _calendarVisible)
-        Width: =CalendarEventsGallery2.Width
+        Visible: =Or(_showLoading, CountRows(CalendarEventsGallery1.AllItems) = 0 && _calendarVisible)
+        Width: =CalendarEventsGallery1.Width
         Wrap: =false
-        X: =CalendarEventsGallery2.X
-        Y: =CalendarEventsGallery2.Y + CalendarEventsGallery2.Height/2 - Self.Height/2
+        X: =CalendarEventsGallery1.X
+        Y: =CalendarEventsGallery1.Y + CalendarEventsGallery1.Height/2 - Self.Height/2
         ZIndex: =16
 
