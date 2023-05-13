@@ -173,6 +173,7 @@
         ZIndex: =7
 
     Button2_3 As button:
+        AutoDisableOnSelect: =false
         BorderColor: =RGBA(0, 0, 0, 0)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
