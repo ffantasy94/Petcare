@@ -13,6 +13,7 @@
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: =image1081931
+        OnSelect: =Navigate( '8. Chat bot', ScreenTransition.Cover)
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =35
@@ -166,6 +167,7 @@
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
         Height: =70
+        OnSelect: =Navigate( '7.1. Màn hình hiển thị thông tin thú cưng', ScreenTransition.Cover )
         Size: =16
         Text: ="Hồ sơ thú cưng"
         Width: =160
@@ -184,6 +186,7 @@
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
         Height: =70
+        OnSelect: =Navigate( '7.2 Màn hình quản lý theo dõi sức khỏe', ScreenTransition.Cover)
         Size: =16
         Text: ="Hồ sơ sức khỏe"
         Width: =160
@@ -203,6 +206,7 @@
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
         Height: =70
+        OnSelect: =Navigate( '9.2 Hiển thị lịch', ScreenTransition.Cover)
         Size: =16
         Text: |-
             ="Nhắc nhở
@@ -224,6 +228,7 @@
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
         Height: =70
+        OnSelect: =Navigate( '10.2. Màn hình gợi ý phòng khám', ScreenTransition.Cover)
         Size: =16
         Text: |-
             ="Phòng khám
@@ -269,6 +274,7 @@
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: ='calendar-date-event-month-icon--19'
+        OnSelect: =Navigate( '9.2 Hiển thị lịch', ScreenTransition.Cover)
         PaddingBottom: =20
         PaddingLeft: =20
         PaddingRight: =20
@@ -292,6 +298,7 @@
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: ='free-hospital-icon-1066-thumb'
+        OnSelect: =Navigate( '10.2. Màn hình gợi ý phòng khám', ScreenTransition.Cover)
         PaddingBottom: =20
         PaddingLeft: =20
         PaddingRight: =20
