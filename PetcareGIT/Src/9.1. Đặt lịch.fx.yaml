@@ -125,7 +125,7 @@
         Text: ="Đặt lịch"
         Width: =163
         X: =131
-        Y: =465
+        Y: =466
         ZIndex: =116
 
     Label3 As label:
@@ -143,7 +143,7 @@
         Text: ="Thông tin"
         Width: =124
         X: =151
-        Y: =344
+        Y: =345
         ZIndex: =118
 
     DatePicker1 As datepicker:
@@ -161,7 +161,7 @@
         SelectedDateFill: =RGBA(0, 120, 212, 1)
         Width: =390
         X: =24
-        Y: =142
+        Y: =143
         ZIndex: =121
 
     Dropdown1 As dropdown:
@@ -194,7 +194,7 @@
         Size: =14
         Width: =109
         X: =24
-        Y: =265
+        Y: =266
         ZIndex: =122
 
     "'Đặt Lịch khám_5' As label":
@@ -213,7 +213,7 @@
         PaddingTop: =0
         Text: ="Chọn ngày"
         Width: =133
-        Y: =107
+        Y: =108
         ZIndex: =124
 
     "'Đặt Lịch khám_6' As label":
@@ -233,7 +233,7 @@
         Text: ="Chọn giờ"
         Width: =133
         X: =3
-        Y: =229
+        Y: =230
         ZIndex: =125
 
     Dropdown1_6 As dropdown:
@@ -266,7 +266,7 @@
         Size: =14
         Width: =109
         X: =151
-        Y: =265
+        Y: =266
         ZIndex: =126
 
     Dropdown1_7 As dropdown:
@@ -299,7 +299,7 @@
         Size: =14
         Width: =109
         X: =278
-        Y: =265
+        Y: =266
         ZIndex: =127
 
     TextInput5 As text:
@@ -326,6 +326,6 @@
         RadiusTopRight: =0
         Width: =386
         X: =24
-        Y: =395
+        Y: =396
         ZIndex: =128
 
