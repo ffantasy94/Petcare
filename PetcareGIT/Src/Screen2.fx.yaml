@@ -3,18 +3,20 @@
 
     RectQuickActionBar2 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(0, 120, 212, 1)
+        Fill: =RGBA(251, 183, 80, 1)
         Height: =88
-        Width: =Parent.Width
+        Width: =640
         ZIndex: =1
 
     LblAppName2 As label:
+        BorderColor: =RGBA(251, 183, 80, 1)
         Color: =RGBA(255, 255, 255, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
+        Fill: =RGBA(251, 183, 80, 1)
         Font: =Font.'Segoe UI'
         Height: =88
         Size: =27
-        Text: ="Calendar"
+        Text: ="Lịch trình "
         Width: =Parent.Width - Self.X
         Wrap: =false
         X: =32
@@ -338,7 +340,7 @@
     CalendarEventsGallery2 As gallery.CalendarEventsGallery:
         AccessibleLabel: ="Calendar events for selected day"
         BorderColor: =RGBA(166, 166, 166, 1)
-        Height: =Parent.Height - Self.Y
+        Height: =434
         Items: |-
             =/*Shows events only on selected date*/
             SortByColumns(Filter(MyCalendarEvents, Text(Start, DateTimeFormat.ShortDate) = Text(_dateSelected, DateTimeFormat.ShortDate)), "Start")
