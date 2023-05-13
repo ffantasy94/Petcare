@@ -16,9 +16,9 @@
         Height: =88
         Size: =27
         Text: ="Lịch trình"
-        Width: =Parent.Width - Self.X
+        Width: =549
         Wrap: =false
-        X: =32
+        X: =91
         ZIndex: =2
 
     LblResetToday1 As label:
@@ -531,4 +531,25 @@
         X: =CalendarEventsGallery1.X
         Y: =CalendarEventsGallery1.Y + CalendarEventsGallery1.Height/2 - Self.Height/2
         ZIndex: =16
+
+    Icon6 As icon.BackArrow:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(250, 250, 250, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(220, 220, 220, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =42
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.BackArrow
+        OnSelect: =Navigate('9.1. Đặt lịch', ScreenTransition.Cover )
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =59
+        X: =16
+        Y: =23
+        ZIndex: =17
 
