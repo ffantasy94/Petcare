@@ -467,6 +467,24 @@
             Y: =627
             ZIndex: =18
 
+    "'image 30' As image":
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =77
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: =image1621933
+        OnSelect: =
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =77
+        X: =270
+        Y: =615
+        ZIndex: =26
+
     LSTP As group:
         Height: =5
         Width: =5
