@@ -23,46 +23,6 @@
         Y: =38
         ZIndex: =15
 
-    "'Group 140' As groupContainer.manualLayoutContainer":
-        Height: =38
-        LayoutMode: ="manual"
-        Width: =265
-        X: =78
-        Y: =387
-        ZIndex: =54
-
-        "'Rectangle 9_1' As rectangle":
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            DisabledFill: =RGBA(166, 166, 166, 1)
-            Fill: =RGBA(0, 0, 0, 0)
-            FocusedBorderThickness: =4
-            Height: =38
-            HoverFill: =RGBA(0, 120, 212, 1)
-            PressedFill: =RGBA(0, 120, 212, 1)
-            Width: =265
-            ZIndex: =55
-
-        "'Đặt lịch khám' As label":
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            Color: =RGBA(255, 255, 255, 1)
-            DisabledBorderColor: =RGBA(0, 0, 0, 0)
-            DisabledColor: =RGBA(166, 166, 166, 1)
-            FocusedBorderThickness: =4
-            Height: =17.642858505249
-            LineHeight: =1.444444
-            PaddingBottom: =0
-            PaddingLeft: =0
-            PaddingRight: =0
-            PaddingTop: =0
-            Size: =13.5
-            Text: ="Đặt lịch khám"
-            Width: =130.501953125
-            X: =69.794189453125
-            Y: =10.1785736083984
-            ZIndex: =56
-
     Icon1_1 As icon.BackArrow:
         BorderColor: =RGBA(166, 166, 166, 1)
         Color: =RGBA(251, 183, 80, 1)
@@ -169,8 +129,8 @@
         Size: =16
         Text: ="Đặt lịch"
         Width: =134
-        X: =151
-        Y: =387
+        X: =131
+        Y: =319
         ZIndex: =116
 
     Label3 As label:
@@ -338,7 +298,7 @@
         PaddingLeft: =0
         PaddingRight: =0
         PaddingTop: =0
-        Text: ="Chọn ngày"
+        Text: ="Chọn giờ"
         Width: =133
         X: =3
         Y: =212
