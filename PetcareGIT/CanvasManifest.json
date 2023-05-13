@@ -95,7 +95,7 @@
       "zeroalltabindexes": false
     },
     "Author": "",
-    "BindingErrorCount": 2,
+    "BindingErrorCount": 0,
     "ContainsThirdPartyPcfControls": false,
     "DefaultConnectedDataSourceMaxGetRowsCount": 500,
     "DocumentAppType": "Phone",
@@ -144,10 +144,9 @@
     "7.2.6. Lịch sử tiêm phòng",
     "8. Chat bot",
     "9.1. Đặt lịch",
-    "Screen1",
     "9.2. Hiển thị lịch",
+    "Screen2",
     "10.2. Màn hình gợi ý phòng khám",
-    "10.3. định vị phòng khám trên bản đồ",
-    "Screen2"
+    "10.3. định vị phòng khám trên bản đồ"
   ]
 }
