@@ -340,7 +340,7 @@
     CalendarEventsGallery2 As gallery.CalendarEventsGallery:
         AccessibleLabel: ="Calendar events for selected day"
         BorderColor: =RGBA(166, 166, 166, 1)
-        Height: =Parent.Height - Self.Y
+        Height: =434
         Items: |-
             =/*Shows events only on selected date*/
             SortByColumns(Filter(MyCalendarEvents, Text(Start, DateTimeFormat.ShortDate) = Text(_dateSelected, DateTimeFormat.ShortDate)), "Start")
