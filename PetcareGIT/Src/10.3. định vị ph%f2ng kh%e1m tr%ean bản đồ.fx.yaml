@@ -148,8 +148,8 @@
         Size: =15.25
         Text: ="Xung quanh vị trí của bạn"
         Width: =381
-        X: =23
-        Y: =33
+        X: =47
+        Y: =343
         ZIndex: =24
 
     Image9 As image:
@@ -166,7 +166,7 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =428
-        Y: =142
+        Y: =140
         ZIndex: =25
 
     Circle1_37 As circle:
@@ -230,4 +230,32 @@
         X: =54
         Y: =874
         ZIndex: =29
+
+    TextInput4 As text:
+        Align: =Align.Center
+        BorderColor: =RGBA(255, 191, 0, 1)
+        BorderThickness: =2
+        Color: =RGBA(51, 51, 51, 1)
+        Default: ="Xung quanh vị trí của bạn"
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        FocusedBorderThickness: =4
+        FontWeight: =FontWeight.Bold
+        Height: =76
+        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverFill: =RGBA(255, 255, 255, 1)
+        PressedBorderColor: =RGBA(0, 120, 212, 1)
+        PressedColor: =RGBA(51, 51, 51, 1)
+        PressedFill: =RGBA(255, 255, 255, 1)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =14.25
+        Width: =381
+        X: =23
+        Y: =32
+        ZIndex: =30
 
