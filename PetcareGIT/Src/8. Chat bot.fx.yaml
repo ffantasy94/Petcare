@@ -1,7 +1,7 @@
 "'8. Chat bot' As screen":
     Height: =926
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
-    OnVisible: =Back()
+    OnVisible: =
     Width: =428
 
     "'Rectangle 91' As rectangle":
@@ -417,7 +417,7 @@
         HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         HoverFill: =RGBA(0, 0, 0, 0)
         Icon: =Icon.BackArrow
-        OnSelect: =Back()
+        OnSelect: =Navigate( '6. Màn hình hiển thị chức năng', ScreenTransition.Cover)
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
