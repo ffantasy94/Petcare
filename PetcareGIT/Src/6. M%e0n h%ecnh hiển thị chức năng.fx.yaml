@@ -13,6 +13,7 @@
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: =image1081931
+        OnSelect: =Navigate( '8. Chat bot', ScreenTransition.Cover)
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =35
