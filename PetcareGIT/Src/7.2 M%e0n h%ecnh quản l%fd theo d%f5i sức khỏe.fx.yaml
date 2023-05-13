@@ -141,7 +141,7 @@
         HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         HoverFill: =RGBA(0, 0, 0, 0)
         Icon: =Icon.BackArrow
-        OnSelect: =Back()
+        OnSelect: =Back(ScreenTransition.Cover)
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
@@ -165,7 +165,7 @@
             FocusedBorderThickness: =4
             Height: =96
             HoverFill: =RGBA(0, 120, 212, 1)
-            OnSelect: =Navigate('7.2.1. Cân nặng')
+            OnSelect: =Navigate('7.2.1. Cân nặng', ScreenTransition.Cover)
             PressedFill: =RGBA(0, 120, 212, 1)
             Width: =102
             X: =66
@@ -182,7 +182,7 @@
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverFill: =RGBA(0, 0, 0, 0)
             Image: =image1591912
-            OnSelect: =Navigate('7.2.1. Cân nặng')
+            OnSelect: =Navigate('7.2.1. Cân nặng', ScreenTransition.Cover)
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =63
@@ -201,7 +201,7 @@
             FontWeight: =FontWeight.Semibold
             Height: =38
             LineHeight: =1.5
-            OnSelect: =Navigate('7.2.1. Cân nặng')
+            OnSelect: =Navigate('7.2.1. Cân nặng', ScreenTransition.Cover)
             PaddingBottom: =0
             PaddingLeft: =0
             PaddingRight: =0
@@ -228,7 +228,7 @@
             FocusedBorderThickness: =4
             Height: =96
             HoverFill: =RGBA(0, 120, 212, 1)
-            OnSelect: =Navigate('7.2.2. Chiều cao')
+            OnSelect: =Navigate('7.2.2. Chiều cao', ScreenTransition.Cover)
             PressedFill: =RGBA(0, 120, 212, 1)
             Width: =102
             X: =258
@@ -246,7 +246,7 @@
             FontWeight: =FontWeight.Semibold
             Height: =30
             LineHeight: =1.5
-            OnSelect: =Navigate('7.2.2. Chiều cao')
+            OnSelect: =Navigate('7.2.2. Chiều cao', ScreenTransition.Cover)
             PaddingBottom: =0
             PaddingLeft: =0
             PaddingRight: =0
@@ -268,7 +268,7 @@
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverFill: =RGBA(0, 0, 0, 0)
             Image: =image1591924
-            OnSelect: =Navigate('7.2.2. Chiều cao')
+            OnSelect: =Navigate('7.2.2. Chiều cao', ScreenTransition.Cover)
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =73
@@ -291,7 +291,7 @@
             FocusedBorderThickness: =4
             Height: =96
             HoverFill: =RGBA(0, 120, 212, 1)
-            OnSelect: =Navigate('7.2.3. Chiều dài')
+            OnSelect: =Navigate('7.2.3. Chiều dài', ScreenTransition.Cover)
             PressedFill: =RGBA(0, 120, 212, 1)
             Width: =102
             X: =66
@@ -309,7 +309,7 @@
             FontWeight: =FontWeight.Semibold
             Height: =31
             LineHeight: =1.5
-            OnSelect: =Navigate('7.2.3. Chiều dài')
+            OnSelect: =Navigate('7.2.3. Chiều dài', ScreenTransition.Cover)
             PaddingBottom: =0
             PaddingLeft: =0
             PaddingRight: =0
@@ -331,7 +331,7 @@
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverFill: =RGBA(0, 0, 0, 0)
             Image: =image1591925
-            OnSelect: =Navigate('7.2.3. Chiều dài')
+            OnSelect: =Navigate('7.2.3. Chiều dài', ScreenTransition.Cover)
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =73
@@ -354,7 +354,7 @@
             FocusedBorderThickness: =4
             Height: =96
             HoverFill: =RGBA(0, 120, 212, 1)
-            OnSelect: =Navigate('7.2.4. Thân nhiệt')
+            OnSelect: =Navigate('7.2.4. Thân nhiệt', ScreenTransition.Cover)
             PressedFill: =RGBA(0, 120, 212, 1)
             Width: =102
             X: =256
@@ -372,7 +372,7 @@
             FontWeight: =FontWeight.Semibold
             Height: =30
             LineHeight: =1.5
-            OnSelect: =Navigate('7.2.4. Thân nhiệt')
+            OnSelect: =Navigate('7.2.4. Thân nhiệt', ScreenTransition.Cover)
             PaddingBottom: =0
             PaddingLeft: =0
             PaddingRight: =0
@@ -394,7 +394,7 @@
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverFill: =RGBA(0, 0, 0, 0)
             Image: =image1591929
-            OnSelect: =Navigate('7.2.4. Thân nhiệt')
+            OnSelect: =Navigate('7.2.4. Thân nhiệt', ScreenTransition.Cover)
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =70
@@ -417,7 +417,7 @@
             FocusedBorderThickness: =4
             Height: =96
             HoverFill: =RGBA(0, 120, 212, 1)
-            OnSelect: =Navigate('7.2.5. Lịch sử bệnh lý')
+            OnSelect: =Navigate('7.2.5. Lịch sử bệnh lý', ScreenTransition.Cover)
             PressedFill: =RGBA(0, 120, 212, 1)
             Width: =102
             X: =66
@@ -435,7 +435,7 @@
             FontWeight: =FontWeight.Semibold
             Height: =60
             LineHeight: =1.5
-            OnSelect: =Navigate('7.2.5. Lịch sử bệnh lý')
+            OnSelect: =Navigate('7.2.5. Lịch sử bệnh lý', ScreenTransition.Cover)
             PaddingBottom: =0
             PaddingLeft: =0
             PaddingRight: =0
@@ -459,7 +459,7 @@
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverFill: =RGBA(0, 0, 0, 0)
             Image: =image1621931
-            OnSelect: =Navigate('7.2.5. Lịch sử bệnh lý')
+            OnSelect: =Navigate('7.2.5. Lịch sử bệnh lý', ScreenTransition.Cover)
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =65
@@ -503,7 +503,7 @@
             FontWeight: =FontWeight.Semibold
             Height: =60
             LineHeight: =1.5
-            OnSelect: =Navigate('7.2.6. Lịch sử tiêm phòng')
+            OnSelect: =Navigate('7.2.6. Lịch sử tiêm phòng', ScreenTransition.Cover)
             PaddingBottom: =0
             PaddingLeft: =0
             PaddingRight: =0
@@ -525,7 +525,7 @@
             FocusedBorderThickness: =4
             Height: =96
             HoverFill: =RGBA(0, 120, 212, 1)
-            OnSelect: =Navigate('7.2.6. Lịch sử tiêm phòng')
+            OnSelect: =Navigate('7.2.6. Lịch sử tiêm phòng', ScreenTransition.Cover)
             PressedFill: =RGBA(0, 120, 212, 1)
             Width: =102
             X: =258
