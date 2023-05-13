@@ -556,14 +556,7 @@
           "IsLockable": false,
           "NameMapSourceSchema": "?"
         },
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "ColorFade(RGBA(0, 120, 212, 1), -30%)",
-          "InvariantPropertyName": "PressedFill",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "PressedFill",
         {
           "AFDDataSourceName": "",
           "AutoRuleBindingEnabled": false,
@@ -856,14 +849,7 @@
           "IsLockable": false,
           "NameMapSourceSchema": "?"
         },
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "ColorFade(RGBA(0, 120, 212, 1), -30%)",
-          "InvariantPropertyName": "PressedFill",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "PressedFill",
         {
           "AFDDataSourceName": "",
           "AutoRuleBindingEnabled": false,
@@ -1156,14 +1142,7 @@
           "IsLockable": false,
           "NameMapSourceSchema": "?"
         },
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "ColorFade(RGBA(0, 120, 212, 1), -30%)",
-          "InvariantPropertyName": "PressedFill",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "PressedFill",
         {
           "AFDDataSourceName": "",
           "AutoRuleBindingEnabled": false,
@@ -1410,14 +1389,7 @@
         },
         "BorderColor",
         "DisabledBorderColor",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "ColorFade(RGBA(0, 120, 212, 1), -50%)",
-          "InvariantPropertyName": "PressedBorderColor",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "PressedBorderColor",
         "HoverBorderColor",
         "BorderStyle",
         "FocusedBorderColor",
@@ -1435,22 +1407,8 @@
           "NameMapSourceSchema": "?"
         },
         "DisabledFill",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "PressedFill",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "ColorFade(RGBA(0, 120, 212, 1), -10%)",
-          "InvariantPropertyName": "HoverFill",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "PressedFill",
+        "HoverFill",
         "Font",
         "FontWeight",
         "Align",
@@ -1732,14 +1690,7 @@
         },
         "BorderColor",
         "DisabledBorderColor",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "ColorFade(RGBA(0, 120, 212, 1), -50%)",
-          "InvariantPropertyName": "PressedBorderColor",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "PressedBorderColor",
         "HoverBorderColor",
         "BorderStyle",
         "FocusedBorderColor",
@@ -1751,30 +1702,9 @@
           "IsLockable": false,
           "NameMapSourceSchema": "?"
         },
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "DisabledColor",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "PressedColor",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "HoverColor",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "DisabledColor",
+        "PressedColor",
+        "HoverColor",
         "DisplayMode",
         {
           "AFDDataSourceName": "",
@@ -1788,19 +1718,12 @@
         {
           "AFDDataSourceName": "",
           "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
+          "AutoRuleBindingString": "ColorFade(RGBA(0, 120, 212, 1), -30%)",
           "InvariantPropertyName": "PressedFill",
           "IsLockable": false,
           "NameMapSourceSchema": "?"
         },
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "ColorFade(RGBA(0, 120, 212, 1), -10%)",
-          "InvariantPropertyName": "HoverFill",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "HoverFill",
         "Font",
         {
           "AFDDataSourceName": "",
@@ -2054,14 +1977,7 @@
         },
         "BorderColor",
         "DisabledBorderColor",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "ColorFade(RGBA(0, 120, 212, 1), -50%)",
-          "InvariantPropertyName": "PressedBorderColor",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "PressedBorderColor",
         "HoverBorderColor",
         "BorderStyle",
         "FocusedBorderColor",
@@ -2074,22 +1990,8 @@
           "NameMapSourceSchema": "?"
         },
         "DisabledColor",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "PressedColor",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "HoverColor",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "PressedColor",
+        "HoverColor",
         "DisplayMode",
         {
           "AFDDataSourceName": "",
@@ -2103,7 +2005,7 @@
         {
           "AFDDataSourceName": "",
           "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
+          "AutoRuleBindingString": "ColorFade(RGBA(0, 120, 212, 1), -30%)",
           "InvariantPropertyName": "PressedFill",
           "IsLockable": false,
           "NameMapSourceSchema": "?"
@@ -3481,14 +3383,7 @@
         },
         "DisabledColor",
         "PressedColor",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "ColorFade(RGBA(0, 120, 212, 1), -30%)",
-          "InvariantPropertyName": "HoverColor",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "HoverColor",
         "Fill",
         "DisabledFill",
         "PressedFill",
@@ -3668,14 +3563,7 @@
         },
         "DisabledColor",
         "PressedColor",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "ColorFade(RGBA(0, 120, 212, 1), -30%)",
-          "InvariantPropertyName": "HoverColor",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "HoverColor",
         "Fill",
         "DisabledFill",
         "PressedFill",
