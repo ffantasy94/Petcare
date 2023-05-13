@@ -23,515 +23,6 @@
         Y: =38
         ZIndex: =15
 
-    "'Select Date' As groupContainer.manualLayoutContainer":
-        Height: =147
-        LayoutMode: ="manual"
-        Width: =382
-        X: =31
-        Y: =92
-        ZIndex: =19
-
-        "'Group 5' As groupContainer.manualLayoutContainer":
-            Height: =95.5999908447266
-            LayoutMode: ="manual"
-            Width: =81.457275390625
-            Y: =22.3066711425781
-            ZIndex: =20
-
-            "'Rectangle 5' As rectangle":
-                BorderColor: =RGBA(0, 0, 0, 0)
-                BorderThickness: =1
-                DisabledFill: =RGBA(166, 166, 166, 1)
-                Fill: =RGBA(241, 245, 249, 1)
-                FocusedBorderThickness: =4
-                Height: =95.5999908447266
-                HoverFill: =RGBA(0, 120, 212, 1)
-                PressedFill: =RGBA(0, 120, 212, 1)
-                Width: =81.457275390625
-                ZIndex: =21
-
-            "'Frame 6' As groupContainer.manualLayoutContainer":
-                Height: =40
-                LayoutMode: ="manual"
-                Width: =24
-                X: =27.896240234375
-                Y: =31.8666381835938
-                ZIndex: =22
-
-                "'22' As label":
-                    Align: =Align.Center
-                    BorderColor: =RGBA(0, 0, 0, 0)
-                    BorderStyle: =BorderStyle.None
-                    Color: =RGBA(74.375, 74.375, 74.375, 1)
-                    DisabledBorderColor: =RGBA(0, 0, 0, 0)
-                    DisabledColor: =RGBA(166, 166, 166, 1)
-                    FocusedBorderThickness: =4
-                    FontWeight: =FontWeight.Semibold
-                    Height: =24
-                    LineHeight: =1.444444
-                    PaddingBottom: =0
-                    PaddingLeft: =0
-                    PaddingRight: =0
-                    PaddingTop: =0
-                    Size: =13.5
-                    Text: ="22"
-                    Width: =28
-                    ZIndex: =23
-
-                Fr As label:
-                    Align: =Align.Center
-                    BorderColor: =RGBA(0, 0, 0, 0)
-                    BorderStyle: =BorderStyle.None
-                    Color: =RGBA(74.375, 74.375, 74.375, 1)
-                    DisabledBorderColor: =RGBA(0, 0, 0, 0)
-                    DisabledColor: =RGBA(166, 166, 166, 1)
-                    FocusedBorderThickness: =4
-                    Height: =14
-                    LineHeight: =2.166667
-                    PaddingBottom: =0
-                    PaddingLeft: =0
-                    PaddingRight: =0
-                    PaddingTop: =0
-                    Size: =9
-                    Text: ="Fr"
-                    Width: =28
-                    Y: =26
-                    ZIndex: =24
-
-        "'Group 6' As groupContainer.manualLayoutContainer":
-            Height: =95.5999908447266
-            LayoutMode: ="manual"
-            Width: =81.457275390625
-            X: =94.847900390625
-            Y: =22.3066711425781
-            ZIndex: =25
-
-            "'Rectangle 6' As rectangle":
-                BorderColor: =RGBA(0, 0, 0, 0)
-                BorderStyle: =BorderStyle.None
-                DisabledFill: =RGBA(166, 166, 166, 1)
-                Fill: =RGBA(255, 183, 80, 1)
-                FocusedBorderThickness: =4
-                Height: =95.5999908447266
-                HoverFill: =RGBA(0, 120, 212, 1)
-                PressedFill: =RGBA(0, 120, 212, 1)
-                Width: =81.457275390625
-                ZIndex: =26
-
-            "'Frame 7' As groupContainer.manualLayoutContainer":
-                Height: =40
-                LayoutMode: ="manual"
-                Width: =24
-                X: =27.89599609375
-                Y: =31.8666381835938
-                ZIndex: =27
-
-                "'23' As label":
-                    Align: =Align.Center
-                    BorderColor: =RGBA(0, 0, 0, 0)
-                    BorderStyle: =BorderStyle.None
-                    Color: =RGBA(255, 255, 255, 1)
-                    DisabledBorderColor: =RGBA(0, 0, 0, 0)
-                    DisabledColor: =RGBA(166, 166, 166, 1)
-                    FocusedBorderThickness: =4
-                    FontWeight: =FontWeight.Semibold
-                    Height: =24
-                    LineHeight: =1.444444
-                    PaddingBottom: =0
-                    PaddingLeft: =0
-                    PaddingRight: =0
-                    PaddingTop: =0
-                    Size: =13.5
-                    Text: ="23"
-                    Width: =28
-                    ZIndex: =28
-
-                Sa As label:
-                    Align: =Align.Center
-                    BorderColor: =RGBA(0, 0, 0, 0)
-                    BorderStyle: =BorderStyle.None
-                    Color: =RGBA(255, 255, 255, 1)
-                    DisabledBorderColor: =RGBA(0, 0, 0, 0)
-                    DisabledColor: =RGBA(166, 166, 166, 1)
-                    FocusedBorderThickness: =4
-                    Height: =14
-                    LineHeight: =2.166667
-                    PaddingBottom: =0
-                    PaddingLeft: =0
-                    PaddingRight: =0
-                    PaddingTop: =0
-                    Size: =9
-                    Text: ="Sa"
-                    Width: =28
-                    Y: =26
-                    ZIndex: =29
-
-        "'Group 7' As groupContainer.manualLayoutContainer":
-            Height: =95.5999908447266
-            LayoutMode: ="manual"
-            Width: =81.457275390625
-            X: =189.69482421875
-            Y: =22.3066711425781
-            ZIndex: =30
-
-            "'Rectangle 7_1' As rectangle":
-                BorderColor: =RGBA(0, 0, 0, 0)
-                BorderStyle: =BorderStyle.None
-                DisabledFill: =RGBA(166, 166, 166, 1)
-                Fill: =RGBA(241, 245, 249, 1)
-                FocusedBorderThickness: =4
-                Height: =95.5999908447266
-                HoverFill: =RGBA(0, 120, 212, 1)
-                PressedFill: =RGBA(0, 120, 212, 1)
-                Width: =81.457275390625
-                ZIndex: =31
-
-            "'Frame 8' As groupContainer.manualLayoutContainer":
-                Height: =40
-                LayoutMode: ="manual"
-                Width: =24
-                X: =27.896728515625
-                Y: =31.8666381835938
-                ZIndex: =32
-
-                "'24' As label":
-                    Align: =Align.Center
-                    BorderColor: =RGBA(0, 0, 0, 0)
-                    BorderStyle: =BorderStyle.None
-                    Color: =RGBA(74.375, 74.375, 74.375, 1)
-                    DisabledBorderColor: =RGBA(0, 0, 0, 0)
-                    DisabledColor: =RGBA(166, 166, 166, 1)
-                    FocusedBorderThickness: =4
-                    FontWeight: =FontWeight.Semibold
-                    Height: =24
-                    LineHeight: =1.444444
-                    PaddingBottom: =0
-                    PaddingLeft: =0
-                    PaddingRight: =0
-                    PaddingTop: =0
-                    Size: =13.5
-                    Text: ="24"
-                    Width: =28
-                    ZIndex: =33
-
-                Su As label:
-                    Align: =Align.Center
-                    BorderColor: =RGBA(0, 0, 0, 0)
-                    BorderStyle: =BorderStyle.None
-                    Color: =RGBA(74.375, 74.375, 74.375, 1)
-                    DisabledBorderColor: =RGBA(0, 0, 0, 0)
-                    DisabledColor: =RGBA(166, 166, 166, 1)
-                    FocusedBorderThickness: =4
-                    Height: =14
-                    LineHeight: =2.166667
-                    PaddingBottom: =0
-                    PaddingLeft: =0
-                    PaddingRight: =0
-                    PaddingTop: =0
-                    Size: =9
-                    Text: ="Su"
-                    Width: =28
-                    Y: =26
-                    ZIndex: =34
-
-        "'Group 4' As groupContainer.manualLayoutContainer":
-            Height: =95.5999908447266
-            LayoutMode: ="manual"
-            Width: =81.457275390625
-            X: =284.542724609375
-            Y: =22.3066711425781
-            ZIndex: =35
-
-            "'Rectangle 8' As rectangle":
-                BorderColor: =RGBA(0, 0, 0, 0)
-                BorderStyle: =BorderStyle.None
-                DisabledFill: =RGBA(166, 166, 166, 1)
-                Fill: =RGBA(241, 245, 249, 1)
-                FocusedBorderThickness: =4
-                Height: =95.5999908447266
-                HoverFill: =RGBA(0, 120, 212, 1)
-                PressedFill: =RGBA(0, 120, 212, 1)
-                Width: =81.457275390625
-                ZIndex: =36
-
-            "'Frame 8_1' As groupContainer.manualLayoutContainer":
-                Height: =40
-                LayoutMode: ="manual"
-                Width: =53
-                X: =11.158447265625
-                Y: =31.8666381835938
-                ZIndex: =37
-
-                Other As label:
-                    Align: =Align.Center
-                    BorderColor: =RGBA(0, 0, 0, 0)
-                    BorderStyle: =BorderStyle.None
-                    Color: =RGBA(74.375, 74.375, 74.375, 1)
-                    DisabledBorderColor: =RGBA(0, 0, 0, 0)
-                    DisabledColor: =RGBA(166, 166, 166, 1)
-                    FocusedBorderThickness: =4
-                    FontWeight: =FontWeight.Semibold
-                    Height: =24
-                    LineHeight: =1.857143
-                    PaddingBottom: =0
-                    PaddingLeft: =0
-                    PaddingRight: =0
-                    PaddingTop: =0
-                    Size: =10.5
-                    Text: ="Other"
-                    Width: =57
-                    ZIndex: =38
-
-                Date As label:
-                    Align: =Align.Center
-                    BorderColor: =RGBA(0, 0, 0, 0)
-                    BorderStyle: =BorderStyle.None
-                    Color: =RGBA(74.375, 74.375, 74.375, 1)
-                    DisabledBorderColor: =RGBA(0, 0, 0, 0)
-                    DisabledColor: =RGBA(166, 166, 166, 1)
-                    FocusedBorderThickness: =4
-                    Height: =14
-                    LineHeight: =2.166667
-                    PaddingBottom: =0
-                    PaddingLeft: =0
-                    PaddingRight: =0
-                    PaddingTop: =0
-                    Size: =9
-                    Text: ="Date"
-                    Width: =56
-                    Y: =26
-                    ZIndex: =39
-
-        "'Chọn ngày khám' As label":
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            Color: =RGBA(30, 41, 59, 1)
-            DisabledBorderColor: =RGBA(0, 0, 0, 0)
-            DisabledColor: =RGBA(166, 166, 166, 1)
-            FocusedBorderThickness: =4
-            Height: =22
-            LineHeight: =1.625
-            PaddingBottom: =0
-            PaddingLeft: =0
-            PaddingRight: =0
-            PaddingTop: =0
-            Size: =10
-            Text: ="Chọn ngày khám"
-            Width: =151
-            ZIndex: =40
-
-    "'Group 14' As groupContainer.manualLayoutContainer":
-        Height: =91.9999923706055
-        LayoutMode: ="manual"
-        Width: =366
-        X: =32
-        Y: =265
-        ZIndex: =41
-
-        "'Chọn khung giờ' As label":
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            Color: =RGBA(30, 41, 59, 1)
-            DisabledBorderColor: =RGBA(0, 0, 0, 0)
-            DisabledColor: =RGBA(166, 166, 166, 1)
-            FocusedBorderThickness: =4
-            Height: =21
-            LineHeight: =1.625
-            PaddingBottom: =0
-            PaddingLeft: =0
-            PaddingRight: =0
-            PaddingTop: =0
-            Size: =10
-            Text: ="Chọn khung giờ"
-            ZIndex: =42
-
-        "'Group 11' As groupContainer.manualLayoutContainer":
-            Height: =70.1066589355469
-            LayoutMode: ="manual"
-            Width: =366
-            Y: =21.8933258056641
-            ZIndex: =43
-
-            "'Rectangle 9' As rectangle":
-                BorderColor: =RGBA(0, 0, 0, 0)
-                BorderThickness: =2
-                DisabledFill: =RGBA(166, 166, 166, 1)
-                Fill: =RGBA(241, 245, 249, 1)
-                FocusedBorderThickness: =4
-                Height: =70.1066589355469
-                HoverFill: =RGBA(0, 120, 212, 1)
-                PressedFill: =RGBA(0, 120, 212, 1)
-                Width: =366
-                ZIndex: =44
-
-            "'Group 12' As groupContainer.manualLayoutContainer":
-                Height: =35.0533294677734
-                LayoutMode: ="manual"
-                Width: =292.353515625
-                X: =36.8232421875
-                Y: =16.7299880981445
-                ZIndex: =45
-
-                "'Group 9' As groupContainer.manualLayoutContainer":
-                    Height: =34.2566604614258
-                    LayoutMode: ="manual"
-                    Width: =79.2255859375
-                    Y: =0.79669189453125
-                    ZIndex: =46
-
-                    Từ As label:
-                        BorderColor: =RGBA(0, 0, 0, 0)
-                        BorderStyle: =BorderStyle.None
-                        Color: =RGBA(148, 163, 184, 1)
-                        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-                        DisabledColor: =RGBA(166, 166, 166, 1)
-                        FocusedBorderThickness: =4
-                        Height: =9.55999755859375
-                        LineHeight: =2.166667
-                        PaddingBottom: =0
-                        PaddingLeft: =0
-                        PaddingRight: =0
-                        PaddingTop: =0
-                        Size: =9
-                        Text: ="Từ"
-                        Width: =43.054931640625
-                        X: =1.115478515625
-                        ZIndex: =47
-
-                    "'12.00' As label":
-                        BorderColor: =RGBA(0, 0, 0, 0)
-                        BorderStyle: =BorderStyle.None
-                        Color: =RGBA(30, 41, 59, 1)
-                        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-                        DisabledColor: =RGBA(166, 166, 166, 1)
-                        FocusedBorderThickness: =4
-                        FontWeight: =FontWeight.Bold
-                        Height: =19.120002746582
-                        LineHeight: =1.083333
-                        PaddingBottom: =0
-                        PaddingLeft: =0
-                        PaddingRight: =0
-                        PaddingTop: =0
-                        Size: =18
-                        Text: ="12.00"
-                        Width: =83.2255859375
-                        Y: =15.1366729736328
-                        ZIndex: =48
-
-                "'Group 10' As groupContainer.manualLayoutContainer":
-                    Height: =34.2566680908203
-                    LayoutMode: ="manual"
-                    Width: =79.2255859375
-                    X: =213.1279296875
-                    Y: =2.288818359375E-05
-                    ZIndex: =49
-
-                    Đến As label:
-                        BorderColor: =RGBA(0, 0, 0, 0)
-                        BorderStyle: =BorderStyle.None
-                        Color: =RGBA(162.5625, 162.5625, 162.5625, 1)
-                        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-                        DisabledColor: =RGBA(166, 166, 166, 1)
-                        FocusedBorderThickness: =4
-                        Height: =9.55999755859375
-                        LineHeight: =2.166667
-                        PaddingBottom: =0
-                        PaddingLeft: =0
-                        PaddingRight: =0
-                        PaddingTop: =0
-                        Size: =9
-                        Text: ="Đến"
-                        Width: =43.054931640625
-                        X: =1.115966796875
-                        Y: =2.288818359375E-05
-                        ZIndex: =50
-
-                    "'14.00' As label":
-                        BorderColor: =RGBA(0, 0, 0, 0)
-                        BorderStyle: =BorderStyle.None
-                        Color: =RGBA(30, 41, 59, 1)
-                        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-                        DisabledColor: =RGBA(166, 166, 166, 1)
-                        FocusedBorderThickness: =4
-                        FontWeight: =FontWeight.Bold
-                        Height: =19.120002746582
-                        LineHeight: =1.083333
-                        PaddingBottom: =0
-                        PaddingLeft: =0
-                        PaddingRight: =0
-                        PaddingTop: =0
-                        Size: =18
-                        Text: ="14.00"
-                        Width: =83.2255859375
-                        Y: =15.1366806030273
-                        ZIndex: =51
-
-            ChevronRightOutline As groupContainer.manualLayoutContainer:
-                Height: =19.120002746582
-                LayoutMode: ="manual"
-                Width: =26.780517578125
-                X: =169.60986328125
-                Y: =29.476676940918
-                ZIndex: =52
-
-                Vector_120 As image:
-                    BorderColor: =RGBA(0, 0, 0, 0)
-                    BorderStyle: =BorderStyle.None
-                    BorderThickness: =2
-                    DisabledBorderColor: =RGBA(0, 0, 0, 0)
-                    DisabledFill: =RGBA(0, 0, 0, 0)
-                    FocusedBorderThickness: =4
-                    Height: =11.1533355712891
-                    HoverBorderColor: =RGBA(0, 0, 0, 0)
-                    HoverFill: =RGBA(0, 0, 0, 0)
-                    Image: =image1101889
-                    PressedBorderColor: =RGBA(0, 0, 0, 0)
-                    PressedFill: =RGBA(0, 0, 0, 0)
-                    Width: =7.81103515625
-                    X: =10.042724609375
-                    Y: =3.98332977294922
-                    ZIndex: =53
-
-    "'Group 140' As groupContainer.manualLayoutContainer":
-        Height: =38
-        LayoutMode: ="manual"
-        Width: =265
-        X: =78
-        Y: =387
-        ZIndex: =54
-
-        "'Rectangle 9_1' As rectangle":
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            DisabledFill: =RGBA(166, 166, 166, 1)
-            Fill: =RGBA(0, 0, 0, 0)
-            FocusedBorderThickness: =4
-            Height: =38
-            HoverFill: =RGBA(0, 120, 212, 1)
-            PressedFill: =RGBA(0, 120, 212, 1)
-            Width: =265
-            ZIndex: =55
-
-        "'Đặt lịch khám' As label":
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            Color: =RGBA(255, 255, 255, 1)
-            DisabledBorderColor: =RGBA(0, 0, 0, 0)
-            DisabledColor: =RGBA(166, 166, 166, 1)
-            FocusedBorderThickness: =4
-            Height: =17.642858505249
-            LineHeight: =1.444444
-            PaddingBottom: =0
-            PaddingLeft: =0
-            PaddingRight: =0
-            PaddingTop: =0
-            Size: =13.5
-            Text: ="Đặt lịch khám"
-            Width: =130.501953125
-            X: =69.794189453125
-            Y: =10.1785736083984
-            ZIndex: =56
-
     Icon1_1 As icon.BackArrow:
         BorderColor: =RGBA(166, 166, 166, 1)
         Color: =RGBA(251, 183, 80, 1)
@@ -624,22 +115,17 @@
         FocusedBorderColor: =ColorFade(Self.Fill, -75%)
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
-        Height: =38
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
         PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =16
+        Size: =20
         Text: ="Đặt lịch"
-        Width: =134
-        X: =151
-        Y: =387
+        Width: =163
+        X: =131
+        Y: =466
         ZIndex: =116
 
     Label3 As label:
@@ -652,42 +138,194 @@
         FocusedBorderThickness: =4
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
-        Height: =33
-        Size: =17
+        Height: =30
+        Size: =16
         Text: ="Thông tin"
-        Width: =162
-        X: =133
-        Y: =502
+        Width: =124
+        X: =151
+        Y: =345
         ZIndex: =118
 
-    DataTable1 As dataTable.datatable:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.Solid
+    DatePicker1 As datepicker:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        CalendarHeaderFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         Color: =RGBA(51, 51, 51, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
-        DisplayMode: =DisplayMode.Edit
-        Fill: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(244, 244, 244, 1)
         Font: =Font.'Segoe UI'
-        FontWeight: =FontWeight.Normal
-        HeadingColor: =RGBA(255, 255, 255, 1)
-        HeadingFill: =RGBA(0, 120, 212, 1)
-        HeadingFont: =Font.'Segoe UI'
-        HeadingFontWeight: =FontWeight.Normal
-        HeadingSize: =21
-        Height: =233
-        HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =RGBA(0, 120, 212, 1)
-        InputFill: =RGBA(255, 255, 255, 1)
-        InvertedColor: =RGBA(255, 255, 255, 1)
-        LinkColor: =RGBA(0, 134, 208, 1)
-        PrimaryColor1: =RGBA(0, 120, 212, 1)
-        PrimaryColor2: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        PrimaryColor3: =ColorFade(RGBA(0, 120, 212, 1), -50%)
-        SelectedColor: =RGBA(51, 51, 51, 1)
-        SelectedFill: =RGBA(0, 120, 212, .2)
-        Size: =21
-        Width: =258
-        X: =86
-        Y: =576
-        ZIndex: =119
+        Height: =62
+        HoverDateFill: =RGBA(200, 200, 200, 1)
+        IconBackground: =RGBA(0, 120, 212, 1)
+        PaddingTop: =5
+        SelectedDateFill: =RGBA(0, 120, 212, 1)
+        Width: =390
+        X: =24
+        Y: =143
+        ZIndex: =121
+
+    Dropdown1 As dropdown:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(51, 51, 51, 1)
+        ChevronBackground: =RGBA(255, 255, 255, 1)
+        ChevronDisabledBackground: =RGBA(244, 244, 244, 1)
+        ChevronDisabledFill: =RGBA(166, 166, 166, 1)
+        ChevronFill: =RGBA(33, 33, 33, 1)
+        ChevronHoverBackground: =RGBA(212, 212, 212, 1)
+        ChevronHoverFill: =RGBA(33, 33, 33, 1)
+        Default: ="00"
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Font: =Font.'Segoe UI'
+        Height: =42
+        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverFill: =RGBA(212, 212, 212, 1)
+        Items: =["00","01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","16","17","18","19","20","21","22","23"]
+        PaddingBottom: =5
+        PaddingLeft: =12
+        PaddingRight: =5
+        PaddingTop: =5
+        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        SelectionFill: =RGBA(0, 120, 212, 1)
+        Size: =14
+        Width: =109
+        X: =24
+        Y: =266
+        ZIndex: =122
+
+    "'Đặt Lịch khám_5' As label":
+        Align: =Align.Center
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Height: =24
+        LineHeight: =1.157895
+        PaddingBottom: =0
+        PaddingLeft: =0
+        PaddingRight: =0
+        PaddingTop: =0
+        Text: ="Chọn ngày"
+        Width: =133
+        Y: =108
+        ZIndex: =124
+
+    "'Đặt Lịch khám_6' As label":
+        Align: =Align.Center
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Height: =24
+        LineHeight: =1.157895
+        PaddingBottom: =0
+        PaddingLeft: =0
+        PaddingRight: =0
+        PaddingTop: =0
+        Text: ="Chọn giờ"
+        Width: =133
+        X: =3
+        Y: =230
+        ZIndex: =125
+
+    Dropdown1_6 As dropdown:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(51, 51, 51, 1)
+        ChevronBackground: =RGBA(255, 255, 255, 1)
+        ChevronDisabledBackground: =RGBA(244, 244, 244, 1)
+        ChevronDisabledFill: =RGBA(166, 166, 166, 1)
+        ChevronFill: =RGBA(33, 33, 33, 1)
+        ChevronHoverBackground: =RGBA(212, 212, 212, 1)
+        ChevronHoverFill: =RGBA(33, 33, 33, 1)
+        Default: ="00"
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Font: =Font.'Segoe UI'
+        Height: =42
+        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverFill: =RGBA(212, 212, 212, 1)
+        Items: =["00","01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","48","49","50","51","52","53","54","55","56","57","58","59"]
+        PaddingBottom: =5
+        PaddingLeft: =12
+        PaddingRight: =5
+        PaddingTop: =5
+        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        SelectionFill: =RGBA(0, 120, 212, 1)
+        Size: =14
+        Width: =109
+        X: =151
+        Y: =266
+        ZIndex: =126
+
+    Dropdown1_7 As dropdown:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(51, 51, 51, 1)
+        ChevronBackground: =RGBA(255, 255, 255, 1)
+        ChevronDisabledBackground: =RGBA(244, 244, 244, 1)
+        ChevronDisabledFill: =RGBA(166, 166, 166, 1)
+        ChevronFill: =RGBA(33, 33, 33, 1)
+        ChevronHoverBackground: =RGBA(212, 212, 212, 1)
+        ChevronHoverFill: =RGBA(33, 33, 33, 1)
+        Default: ="00"
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Font: =Font.'Segoe UI'
+        Height: =42
+        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverFill: =RGBA(212, 212, 212, 1)
+        Items: =["00","01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","48","49","50","51","52","53","54","55","56","57","58","59"]
+        PaddingBottom: =5
+        PaddingLeft: =12
+        PaddingRight: =5
+        PaddingTop: =5
+        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        SelectionFill: =RGBA(0, 120, 212, 1)
+        Size: =14
+        Width: =109
+        X: =278
+        Y: =266
+        ZIndex: =127
+
+    TextInput5 As text:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderThickness: =2
+        Color: =RGBA(51, 51, 51, 1)
+        Default: =""
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        Height: =46
+        HintText: ="Nhập thông tin"
+        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverFill: =RGBA(255, 255, 255, 1)
+        PressedBorderColor: =RGBA(0, 120, 212, 1)
+        PressedColor: =RGBA(51, 51, 51, 1)
+        PressedFill: =RGBA(255, 255, 255, 1)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Width: =386
+        X: =24
+        Y: =396
+        ZIndex: =128
 

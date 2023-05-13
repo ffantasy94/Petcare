@@ -397,8 +397,8 @@
         PaddingTop: =0
         Text: ="Hiển thị lịch khám"
         Width: =225
-        X: =31
-        Y: =38
+        X: =26
+        Y: =35
         ZIndex: =61
 
     Icon1_2 As icon.BackArrow:
