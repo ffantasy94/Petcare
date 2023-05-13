@@ -194,12 +194,12 @@
 
     Icon1_4 As icon.BackArrow:
         BorderColor: =RGBA(166, 166, 166, 1)
+        BorderStyle: =BorderStyle.None
         Color: =RGBA(251, 183, 80, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(220, 220, 220, 1)
         DisabledFill: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(255, 255, 255, 1)
-        FocusedBorderThickness: =4
+        FocusedBorderThickness: =0
         Height: =27
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
