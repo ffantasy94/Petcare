@@ -259,7 +259,7 @@
         BorderThickness: =10
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(244, 244, 244, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
         Fill: =RGBA(242, 147, 0, 1)
         FocusedBorderColor: =ColorFade(Self.Fill, -75%)
         Font: =Font.'Segoe UI'
@@ -268,7 +268,7 @@
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =
-        PressedBorderColor: =
+        PressedBorderColor: =RGBA(246, 88, 16, 1)
         PressedColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(246, 88, 16, 1)
         RadiusBottomLeft: =40
@@ -398,7 +398,7 @@
         Text: ="Liên hệ qua"
         VerticalAlign: =VerticalAlign.Top
         Width: =140
-        X: =169
+        X: =162
         Y: =747
         ZIndex: =18
 

@@ -336,10 +336,10 @@
         Height: =43
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
+        HoverFill: =
+        PressedBorderColor: =
         PressedColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =RGBA(246, 88, 16, 1)
         RadiusBottomLeft: =40
         RadiusBottomRight: =40
         RadiusTopLeft: =40
@@ -364,10 +364,10 @@
         Height: =43
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
+        HoverFill: =
+        PressedBorderColor: =RGBA(246, 88, 16, 1)
         PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =RGBA(246, 88, 16, 1)
         RadiusBottomLeft: =40
         RadiusBottomRight: =40
         RadiusTopLeft: =40
