@@ -3,6 +3,37 @@
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
     Width: =428
 
+    TextInput4_2 As text:
+        Align: =Align.Center
+        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderThickness: =2
+        Color: =RGBA(51, 51, 51, 1)
+        Default: ="Tên phòng khám"
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(245, 245, 245, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =180
+        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverFill: =RGBA(255, 255, 255, 1)
+        Mode: =TextMode.MultiLine
+        PressedBorderColor: =RGBA(0, 120, 212, 1)
+        PressedColor: =RGBA(51, 51, 51, 1)
+        PressedFill: =RGBA(255, 255, 255, 1)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =20
+        Width: =223
+        X: =201
+        Y: =417
+        ZIndex: =2
+
     "'Rectangle 98_7' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -14,7 +45,7 @@
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =428
         Y: =79
-        ZIndex: =1
+        ZIndex: =3
 
     "'Rectangle 97_9' As rectangle":
         BorderColor: =RGBA(255, 191, 0, 1)
@@ -26,7 +57,7 @@
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =428
-        ZIndex: =2
+        ZIndex: =4
 
     Label8 As label:
         Align: =Align.Center
@@ -44,7 +75,7 @@
         Width: =312
         X: =68
         Y: =53
-        ZIndex: =3
+        ZIndex: =5
 
     TextInput4_1 As text:
         Align: =Align.Center
@@ -59,7 +90,7 @@
         FocusedBorderThickness: =4
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
-        Height: =214
+        Height: =180
         HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         HoverColor: =RGBA(51, 51, 51, 1)
         HoverFill: =RGBA(255, 255, 255, 1)
@@ -75,7 +106,7 @@
         Width: =223
         X: =200
         Y: =192
-        ZIndex: =4
+        ZIndex: =6
 
     Image5 As image:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -90,9 +121,10 @@
         Image: ='tải xuống (1)'
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =186
+        Width: =162
+        X: =12
         Y: =192
-        ZIndex: =5
+        ZIndex: =7
 
     Image6 As image:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -108,8 +140,8 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =186
-        Y: =442
-        ZIndex: =6
+        Y: =405
+        ZIndex: =8
 
     Image7 As image:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -118,15 +150,15 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledFill: =RGBA(0, 0, 0, 0)
         FocusedBorderThickness: =4
-        Height: =235
+        Height: =206
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: =images
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =186
-        Y: =682
-        ZIndex: =7
+        Y: =628
+        ZIndex: =9
 
     Label9 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -143,7 +175,7 @@
         Width: =189
         X: =234
         Y: =266
-        ZIndex: =8
+        ZIndex: =10
 
     Label9_1 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -160,68 +192,6 @@
         Width: =190
         X: =234
         Y: =304
-        ZIndex: =9
-
-    TextInput4_2 As text:
-        Align: =Align.Center
-        BorderColor: =RGBA(166, 166, 166, 1)
-        BorderThickness: =2
-        Color: =RGBA(51, 51, 51, 1)
-        Default: ="Tên phòng khám"
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        DisabledFill: =RGBA(244, 244, 244, 1)
-        Fill: =RGBA(245, 245, 245, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
-        FontWeight: =FontWeight.Semibold
-        Height: =214
-        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverColor: =RGBA(51, 51, 51, 1)
-        HoverFill: =RGBA(255, 255, 255, 1)
-        Mode: =TextMode.MultiLine
-        PressedBorderColor: =RGBA(0, 120, 212, 1)
-        PressedColor: =RGBA(51, 51, 51, 1)
-        PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =20
-        Width: =223
-        X: =200
-        Y: =446
-        ZIndex: =10
-
-    TextInput4_3 As text:
-        Align: =Align.Center
-        BorderColor: =RGBA(166, 166, 166, 1)
-        BorderThickness: =2
-        Color: =RGBA(51, 51, 51, 1)
-        Default: ="Tên phòng khám"
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        DisabledFill: =RGBA(244, 244, 244, 1)
-        Fill: =RGBA(247, 247, 247, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
-        FontWeight: =FontWeight.Semibold
-        Height: =214
-        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverColor: =RGBA(51, 51, 51, 1)
-        HoverFill: =RGBA(255, 255, 255, 1)
-        Mode: =TextMode.MultiLine
-        PressedBorderColor: =RGBA(0, 120, 212, 1)
-        PressedColor: =RGBA(51, 51, 51, 1)
-        PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =20
-        Width: =223
-        X: =200
-        Y: =703
         ZIndex: =11
 
     Label9_2 As label:
@@ -238,7 +208,7 @@
         Text: ="Cách bạn 50m"
         Width: =189
         X: =235
-        Y: =514
+        Y: =477
         ZIndex: =12
 
     Label9_3 As label:
@@ -255,78 +225,8 @@
         Text: ="Giờ mở cửa"
         Width: =190
         X: =234
-        Y: =552
+        Y: =515
         ZIndex: =13
-
-    Label9_4 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        Color: =RGBA(51, 51, 51, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
-        Height: =38
-        Size: =19
-        Text: ="Cách bạn 50m"
-        Width: =189
-        X: =239
-        Y: =770
-        ZIndex: =14
-
-    Label9_5 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        Color: =RGBA(51, 51, 51, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
-        Height: =42
-        Size: =19
-        Text: ="Giờ mở cửa"
-        Width: =190
-        X: =238
-        Y: =808
-        ZIndex: =15
-
-    Image11 As image:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =89
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: ='images (1)'
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =40
-        X: =200
-        Y: =744
-        ZIndex: =16
-
-    Image11_1 As image:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =89
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: ='images (1)'
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =40
-        X: =198
-        Y: =488
-        ZIndex: =17
 
     Image11_2 As image:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -344,7 +244,25 @@
         Width: =40
         X: =200
         Y: =239
-        ZIndex: =18
+        ZIndex: =14
+
+    Image11_1 As image:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =89
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: ='images (1)'
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =40
+        X: =198
+        Y: =451
+        ZIndex: =15
 
     "'Bản đồ_1' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -366,7 +284,7 @@
         Width: =66
         X: =338
         Y: =148
-        ZIndex: =19
+        ZIndex: =16
 
     "'image 16_1' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -384,7 +302,7 @@
         Width: =21
         X: =314
         Y: =149
-        ZIndex: =20
+        ZIndex: =17
 
     "'Sắp xếp_1' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -404,7 +322,7 @@
         Width: =74
         X: =46
         Y: =147
-        ZIndex: =21
+        ZIndex: =18
 
     "'image 8_4' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -421,7 +339,7 @@
         Width: =23
         X: =23
         Y: =147
-        ZIndex: =22
+        ZIndex: =19
 
     Icon6_1 As icon.BackArrow:
         BorderColor: =RGBA(166, 166, 166, 1)
@@ -442,5 +360,150 @@
         Width: =46
         X: =11
         Y: =13
-        ZIndex: =23
+        ZIndex: =20
+
+    Circle1_40 As circle:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledFill: =RGBA(0, 120, 212, 1)
+        Fill: =RGBA(251, 183, 80, 1)
+        Height: =39
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =40
+        X: =248
+        Y: =874
+        ZIndex: =24
+
+    Circle1_41 As circle:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledFill: =RGBA(0, 120, 212, 1)
+        Fill: =RGBA(251, 183, 80, 1)
+        Height: =39
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =40
+        X: =346
+        Y: =874
+        ZIndex: =25
+
+    Circle1_42 As circle:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledFill: =RGBA(0, 120, 212, 1)
+        Fill: =RGBA(251, 183, 80, 1)
+        Height: =39
+        HoverFill: =RGBA(0, 120, 212, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        Width: =40
+        X: =146
+        Y: =874
+        ZIndex: =26
+
+    Icon2_14 As icon.Home:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(251, 183, 80, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(220, 220, 220, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =39
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.Home
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =47
+        X: =54
+        Y: =874
+        ZIndex: =27
+
+    TextInput4_3 As text:
+        Align: =Align.Center
+        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderThickness: =2
+        Color: =RGBA(51, 51, 51, 1)
+        Default: ="Tên phòng khám"
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(245, 245, 245, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =180
+        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverFill: =RGBA(255, 255, 255, 1)
+        Mode: =TextMode.MultiLine
+        PressedBorderColor: =RGBA(0, 120, 212, 1)
+        PressedColor: =RGBA(51, 51, 51, 1)
+        PressedFill: =RGBA(255, 255, 255, 1)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =20
+        Width: =223
+        X: =205
+        Y: =641
+        ZIndex: =28
+
+    Label9_4 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(51, 51, 51, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        Height: =38
+        Size: =19
+        Text: ="Cách bạn 50m"
+        Width: =189
+        X: =239
+        Y: =701
+        ZIndex: =29
+
+    Label9_5 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(51, 51, 51, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        Height: =42
+        Size: =19
+        Text: ="Giờ mở cửa"
+        Width: =190
+        X: =238
+        Y: =739
+        ZIndex: =30
+
+    Image11_3 As image:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =89
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: ='images (1)'
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =40
+        X: =230
+        Y: =675
+        ZIndex: =31
 

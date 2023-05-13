@@ -1,6 +1,7 @@
 "'2. Đăng nhập' As screen":
     Height: =926
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
+    OnVisible: =
     Width: =440
 
     "'Add a subheading (2) 4_2' As image":
@@ -146,6 +147,7 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         Fill: =RGBA(242, 147, 0, 1)
         Height: =30
+        OnSelect: =Back('1. Màn hình giới thiệu app')
         Width: =30
         X: =52
         Y: =110
@@ -268,6 +270,7 @@
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =
+        OnSelect: =
         PressedBorderColor: =RGBA(246, 88, 16, 1)
         PressedColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(246, 88, 16, 1)
@@ -336,6 +339,7 @@
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(246, 88, 16, 1)
         HoverFill: =
+        OnSelect: =Navigate('4. ResetPassword')
         PressedBorderColor: =
         PressedColor: =RGBA(246, 88, 16, 1)
         PressedFill: =RGBA(0, 0, 0, 0)
@@ -365,6 +369,7 @@
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(246, 88, 16, 1)
         HoverFill: =
+        OnSelect: =Navigate('3. Đằng ký')
         PressedBorderColor: =
         PressedColor: =RGBA(246, 88, 16, 1)
         PressedFill: =RGBA(0, 0, 0, 0)
