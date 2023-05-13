@@ -1,5 +1,5 @@
 {
-  "210c85c4-6b95-4115-b018-97534ae215e0": {
+  "f573710c-a6d9-4ffe-b697-d40e57e0a138": {
     "connectionRef": {
       "displayName": "Office 365 Outlook",
       "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1626/1.0.1626.3238/office365/icon.png",
@@ -11,6 +11,6 @@
     ],
     "dependencies": {},
     "dependents": [],
-    "id": "210c85c4-6b95-4115-b018-97534ae215e0"
+    "id": "f573710c-a6d9-4ffe-b697-d40e57e0a138"
   }
 }
