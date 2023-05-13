@@ -3150,7 +3150,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneLblNoEvents.ID%",
       "Name": "LblNoEvents2",
-      "ParentIndex": 14,
+      "ParentIndex": 13,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5507,7 +5507,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%WeekdayGallery.ID%",
       "Name": "WeekdayGallery2",
-      "ParentIndex": 13,
+      "ParentIndex": 14,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
