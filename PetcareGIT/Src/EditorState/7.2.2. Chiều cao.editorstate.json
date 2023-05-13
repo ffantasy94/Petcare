@@ -750,7 +750,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "CompositeLineChart1",
-      "ParentIndex": 11,
+      "ParentIndex": 10,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1108,14 +1108,7 @@
         "Y",
         "Width",
         "Height",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "BorderStyle",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "BorderStyle",
         "BorderColor",
         "DisabledBorderColor",
         "PressedBorderColor",
@@ -1123,14 +1116,7 @@
         "FocusedBorderColor",
         "ZIndex",
         "BorderThickness",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "FocusedBorderThickness",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "FocusedBorderThickness",
         {
           "AFDDataSourceName": "",
           "AutoRuleBindingEnabled": false,
@@ -1150,7 +1136,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon1_5",
-      "ParentIndex": 10,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

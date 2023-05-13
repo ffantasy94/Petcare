@@ -127,7 +127,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "can 1_1",
-      "ParentIndex": 3,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -728,7 +728,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_19",
-      "ParentIndex": 9,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -840,7 +840,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_20",
-      "ParentIndex": 10,
+      "ParentIndex": 9,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -952,7 +952,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_21",
-      "ParentIndex": 8,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1048,7 +1048,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "CompositeLineChart2",
-      "ParentIndex": 11,
+      "ParentIndex": 10,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1157,7 +1157,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Dropdown1_4",
-      "ParentIndex": 4,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1406,14 +1406,7 @@
         "Y",
         "Width",
         "Height",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "BorderStyle",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "BorderStyle",
         "BorderColor",
         "DisabledBorderColor",
         "PressedBorderColor",
@@ -1421,14 +1414,7 @@
         "FocusedBorderColor",
         "ZIndex",
         "BorderThickness",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "FocusedBorderThickness",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "FocusedBorderThickness",
         {
           "AFDDataSourceName": "",
           "AutoRuleBindingEnabled": false,
@@ -1448,7 +1434,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon1_4",
-      "ParentIndex": 2,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1619,7 +1605,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon2_7",
-      "ParentIndex": 7,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1783,7 +1769,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Legend2",
-      "ParentIndex": 6,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1928,7 +1914,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%LineChart.ID%",
       "Name": "LineChart2",
-      "ParentIndex": 5,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
