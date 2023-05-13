@@ -274,7 +274,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%CalendarEventsGallery.ID%",
       "Name": "CalendarEventsGallery1",
-      "ParentIndex": 14,
+      "ParentIndex": 9,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -618,7 +618,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Đặt Lịch khám_4",
-      "ParentIndex": 4,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1186,7 +1186,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplateCalendardropdownCalendarSelect.ID%",
       "Name": "dropdownCalendarSelection1",
-      "ParentIndex": 0,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1556,7 +1556,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon1_3",
-      "ParentIndex": 3,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1900,7 +1900,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplateTabletIconEmptyState.ID%",
       "Name": "iconEmptyState1",
-      "ParentIndex": 10,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2250,7 +2250,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneIconNextMonth.ID%",
       "Name": "iconNextMonth1",
-      "ParentIndex": 7,
+      "ParentIndex": 12,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2464,7 +2464,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneIconPrevMonth.ID%",
       "Name": "iconPrevMonth1",
-      "ParentIndex": 6,
+      "ParentIndex": 11,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2679,7 +2679,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplateLblEventsHeader.ID%",
       "Name": "LblCalendarEventsHeader1",
-      "ParentIndex": 13,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2908,7 +2908,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneLblEmptyState.ID%",
       "Name": "LblEmptyState1",
-      "ParentIndex": 11,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3182,7 +3182,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplateLblMonthSelected.ID%",
       "Name": "LblMonthSelected1",
-      "ParentIndex": 5,
+      "ParentIndex": 10,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3926,7 +3926,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%MonthDayGallery.ID%",
       "Name": "MonthDayGallery1",
-      "ParentIndex": 9,
+      "ParentIndex": 14,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4224,7 +4224,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplateRectEventsHeader.ID%",
       "Name": "RectCalendarEventsHeader1",
-      "ParentIndex": 12,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5714,7 +5714,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%WeekdayGallery.ID%",
       "Name": "WeekdayGallery1",
-      "ParentIndex": 8,
+      "ParentIndex": 13,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

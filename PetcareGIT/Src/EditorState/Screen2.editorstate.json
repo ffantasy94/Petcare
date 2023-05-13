@@ -274,7 +274,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%CalendarEventsGallery.ID%",
       "Name": "CalendarEventsGallery2",
-      "ParentIndex": 14,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -845,7 +845,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplateCalendardropdownCalendarSelect.ID%",
       "Name": "dropdownCalendarSelection2",
-      "ParentIndex": 2,
+      "ParentIndex": 9,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1211,7 +1211,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneIconCalendar.ID%",
       "Name": "iconCalendar2",
-      "ParentIndex": 4,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1386,7 +1386,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplateTabletIconEmptyState.ID%",
       "Name": "iconEmptyState2",
-      "ParentIndex": 10,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1736,7 +1736,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneIconNextMonth.ID%",
       "Name": "iconNextMonth2",
-      "ParentIndex": 7,
+      "ParentIndex": 12,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1950,7 +1950,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneIconPrevMonth.ID%",
       "Name": "iconPrevMonth2",
-      "ParentIndex": 6,
+      "ParentIndex": 11,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2163,7 +2163,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneLblAppName.ID%",
       "Name": "LblAppName2",
-      "ParentIndex": 1,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2373,7 +2373,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplateLblEventsHeader.ID%",
       "Name": "LblCalendarEventsHeader2",
-      "ParentIndex": 13,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2602,7 +2602,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneLblEmptyState.ID%",
       "Name": "LblEmptyState2",
-      "ParentIndex": 11,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2876,7 +2876,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplateLblMonthSelected.ID%",
       "Name": "LblMonthSelected2",
-      "ParentIndex": 5,
+      "ParentIndex": 10,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3150,7 +3150,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneLblNoEvents.ID%",
       "Name": "LblNoEvents2",
-      "ParentIndex": 15,
+      "ParentIndex": 14,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3413,7 +3413,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneLblReset.ID%",
       "Name": "LblResetToday2",
-      "ParentIndex": 3,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3620,7 +3620,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%MonthDayGallery.ID%",
       "Name": "MonthDayGallery2",
-      "ParentIndex": 9,
+      "ParentIndex": 15,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3918,7 +3918,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplateRectEventsHeader.ID%",
       "Name": "RectCalendarEventsHeader2",
-      "ParentIndex": 12,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4022,7 +4022,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneRectQuickActionBar.ID%",
       "Name": "RectQuickActionBar2",
-      "ParentIndex": 0,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5507,7 +5507,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%WeekdayGallery.ID%",
       "Name": "WeekdayGallery2",
-      "ParentIndex": 8,
+      "ParentIndex": 13,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
