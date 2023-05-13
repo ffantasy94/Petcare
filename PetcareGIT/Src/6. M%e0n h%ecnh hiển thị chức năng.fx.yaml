@@ -206,14 +206,12 @@
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
         Height: =70
-        OnSelect: =Navigate( '9.2 Hiển thị lịch', ScreenTransition.Cover)
+        OnSelect: =Navigate( '9.1. Đặt lịch', ScreenTransition.Cover)
         Size: =16
-        Text: |-
-            ="Nhắc nhở
-            lịch trình"
+        Text: ="Đặt lịch"
         Width: =169
-        X: =29
-        Y: =658
+        X: =44
+        Y: =643
         ZIndex: =19
 
     Label7_3 As label:
@@ -274,7 +272,7 @@
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: ='calendar-date-event-month-icon--19'
-        OnSelect: =Navigate( '9.2 Hiển thị lịch', ScreenTransition.Cover)
+        OnSelect: =Navigate( '9.1. Đặt lịch', ScreenTransition.Cover)
         PaddingBottom: =20
         PaddingLeft: =20
         PaddingRight: =20

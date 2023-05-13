@@ -133,7 +133,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Cân nặng_1",
-      "ParentIndex": 2,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -430,7 +430,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_22",
-      "ParentIndex": 9,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -542,7 +542,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_23",
-      "ParentIndex": 10,
+      "ParentIndex": 9,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -654,7 +654,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_24",
-      "ParentIndex": 8,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -750,7 +750,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "CompositeLineChart1",
-      "ParentIndex": 11,
+      "ParentIndex": 10,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -859,7 +859,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Dropdown1_3",
-      "ParentIndex": 4,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1307,7 +1307,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon2_8",
-      "ParentIndex": 7,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1471,7 +1471,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Legend1",
-      "ParentIndex": 6,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1616,7 +1616,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%LineChart.ID%",
       "Name": "LineChart1",
-      "ParentIndex": 5,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1754,7 +1754,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 103_9",
-      "ParentIndex": 1,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1950,7 +1950,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "ruler 1_1",
-      "ParentIndex": 3,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
