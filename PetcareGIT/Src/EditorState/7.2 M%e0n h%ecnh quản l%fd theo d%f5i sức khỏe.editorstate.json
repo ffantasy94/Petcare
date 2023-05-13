@@ -65,7 +65,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "[Tên thú cưng]",
-      "ParentIndex": 1,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -454,7 +454,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "can 1",
-      "ParentIndex": 5,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -705,7 +705,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Cannang",
-      "ParentIndex": 23,
+      "ParentIndex": 25,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -802,7 +802,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Cân nặng_2",
-      "ParentIndex": 6,
+      "ParentIndex": 9,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1099,7 +1099,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_16",
-      "ParentIndex": 21,
+      "ParentIndex": 23,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1211,7 +1211,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_17",
-      "ParentIndex": 22,
+      "ParentIndex": 24,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1323,7 +1323,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_18",
-      "ParentIndex": 20,
+      "ParentIndex": 22,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1419,7 +1419,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Chieucao",
-      "ParentIndex": 24,
+      "ParentIndex": 26,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1470,7 +1470,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Chieudai",
-      "ParentIndex": 25,
+      "ParentIndex": 27,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1567,7 +1567,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Chiều cao",
-      "ParentIndex": 7,
+      "ParentIndex": 10,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1894,7 +1894,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Chiều dài",
-      "ParentIndex": 12,
+      "ParentIndex": 15,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2496,7 +2496,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Group 144",
-      "ParentIndex": 0,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2737,7 +2737,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon1_3",
-      "ParentIndex": 0,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2908,7 +2908,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon2_6",
-      "ParentIndex": 19,
+      "ParentIndex": 20,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3387,7 +3387,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "image 28",
-      "ParentIndex": 11,
+      "ParentIndex": 14,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3685,7 +3685,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "image 29",
-      "ParentIndex": 18,
+      "ParentIndex": 19,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3959,7 +3959,14 @@
         "PaddingLeft",
         "DisplayMode",
         "TabIndex",
-        "OnSelect",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "false",
+          "InvariantPropertyName": "OnSelect",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "minimumWidth",
         "minimumHeight",
         "maximumWidth",
@@ -4280,7 +4287,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Lịch sử bệnh lý",
-      "ParentIndex": 19,
+      "ParentIndex": 21,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4551,7 +4558,14 @@
         "AutoHeight",
         "Wrap",
         "IsErrorMessage",
-        "Text",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "",
+          "InvariantPropertyName": "Text",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "Tooltip",
         "Role",
         "ContentLanguage",
@@ -4590,7 +4604,14 @@
         "Visible",
         "DisplayMode",
         "TabIndex",
-        "OnSelect",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "false",
+          "InvariantPropertyName": "OnSelect",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "minimumWidth",
         "minimumHeight",
         "maximumWidth",
@@ -4920,6 +4941,57 @@
       "StyleName": "",
       "Type": "ControlInfo"
     },
+    "LSTP": {
+      "AllowAccessToGlobals": true,
+      "ControlPropertyState": [
+        "X",
+        "Y",
+        "Width",
+        "Height",
+        "ZIndex"
+      ],
+      "HasDynamicProperties": false,
+      "IsAutoGenerated": false,
+      "IsComponentDefinition": false,
+      "IsDataControl": false,
+      "IsFromScreenLayout": false,
+      "IsGroupControl": true,
+      "IsLocked": false,
+      "LayoutName": "",
+      "MetaDataIDKey": "",
+      "Name": "LSTP",
+      "ParentIndex": 30,
+      "PersistMetaDataIDKey": false,
+      "Properties": [
+        {
+          "Category": "Design",
+          "PropertyName": "ZIndex",
+          "RuleProviderType": "Unknown"
+        },
+        {
+          "Category": "Design",
+          "PropertyName": "Height",
+          "RuleProviderType": "Unknown"
+        },
+        {
+          "Category": "Design",
+          "PropertyName": "Width",
+          "RuleProviderType": "Unknown"
+        },
+        {
+          "Category": "Design",
+          "PropertyName": "Y",
+          "RuleProviderType": "Unknown"
+        },
+        {
+          "Category": "Design",
+          "PropertyName": "X",
+          "RuleProviderType": "Unknown"
+        }
+      ],
+      "StyleName": "",
+      "Type": "ControlInfo"
+    },
     "Rectangle 103": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
@@ -4967,7 +5039,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 103",
-      "ParentIndex": 3,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5144,7 +5216,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 104",
-      "ParentIndex": 2,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5321,7 +5393,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 105",
-      "ParentIndex": 9,
+      "ParentIndex": 11,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5505,7 +5577,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 106",
-      "ParentIndex": 9,
+      "ParentIndex": 12,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5689,7 +5761,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 107",
-      "ParentIndex": 15,
+      "ParentIndex": 17,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5826,7 +5898,7 @@
       "StyleName": "defaultRectangleStyle",
       "Type": "ControlInfo"
     },
-    "Rectangle 108": {
+    "Rectangle 108_1": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "AccessibleLabel",
@@ -5848,7 +5920,14 @@
         "Y",
         "Width",
         "Height",
-        "OnSelect",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "false",
+          "InvariantPropertyName": "OnSelect",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "minimumWidth",
         "minimumHeight",
         "maximumWidth",
@@ -5865,7 +5944,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Rectangle 108",
+      "Name": "Rectangle 108_1",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -6062,7 +6141,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "ruler 1",
-      "ParentIndex": 4,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -6353,7 +6432,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "ruler 2",
-      "ParentIndex": 11,
+      "ParentIndex": 13,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -6708,7 +6787,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Thân nhiệt",
-      "ParentIndex": 14,
+      "ParentIndex": 16,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
