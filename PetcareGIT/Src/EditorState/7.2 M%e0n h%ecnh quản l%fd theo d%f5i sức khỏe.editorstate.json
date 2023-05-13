@@ -65,7 +65,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "[Tên thú cưng]",
-      "ParentIndex": 5,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -454,7 +454,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "can 1",
-      "ParentIndex": 9,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -751,7 +751,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Cân nặng_2",
-      "ParentIndex": 10,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1078,7 +1078,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Chiều cao",
-      "ParentIndex": 11,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1405,7 +1405,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Chiều dài",
-      "ParentIndex": 16,
+      "ParentIndex": 12,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1702,7 +1702,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_16",
-      "ParentIndex": 2,
+      "ParentIndex": 21,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1814,7 +1814,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_17",
-      "ParentIndex": 3,
+      "ParentIndex": 22,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1926,7 +1926,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_18",
-      "ParentIndex": 1,
+      "ParentIndex": 20,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2343,7 +2343,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Group 144",
-      "ParentIndex": 4,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2574,7 +2574,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Group 145",
-      "ParentIndex": 18,
+      "ParentIndex": 14,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2800,7 +2800,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon2_6",
-      "ParentIndex": 0,
+      "ParentIndex": 19,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3272,7 +3272,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "image 28",
-      "ParentIndex": 14,
+      "ParentIndex": 10,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3563,7 +3563,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "image 29",
-      "ParentIndex": 20,
+      "ParentIndex": 16,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4151,7 +4151,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Lịch sử bệnh lý",
-      "ParentIndex": 21,
+      "ParentIndex": 17,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4478,7 +4478,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Lịch sử tiêm phòng",
-      "ParentIndex": 22,
+      "ParentIndex": 18,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4780,7 +4780,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 103",
-      "ParentIndex": 7,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4957,7 +4957,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 104",
-      "ParentIndex": 6,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5134,7 +5134,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 105",
-      "ParentIndex": 13,
+      "ParentIndex": 9,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5311,7 +5311,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 106",
-      "ParentIndex": 12,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5488,7 +5488,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 107",
-      "ParentIndex": 19,
+      "ParentIndex": 15,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5861,7 +5861,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "ruler 1",
-      "ParentIndex": 8,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -6152,7 +6152,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "ruler 2",
-      "ParentIndex": 15,
+      "ParentIndex": 11,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -6449,7 +6449,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Thân nhiệt",
-      "ParentIndex": 17,
+      "ParentIndex": 13,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

@@ -103,7 +103,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_31",
-      "ParentIndex": 2,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -215,7 +215,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_32",
-      "ParentIndex": 3,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -327,7 +327,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_33",
-      "ParentIndex": 1,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -427,7 +427,7 @@
       "LayoutName": "vertical",
       "MetaDataIDKey": "",
       "Name": "FormViewer1",
-      "ParentIndex": 8,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -523,7 +523,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon2_11",
-      "ParentIndex": 0,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -704,7 +704,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "image 29_1",
-      "ParentIndex": 7,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1001,7 +1001,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Lịch sử bệnh lý_1",
-      "ParentIndex": 5,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1303,7 +1303,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 107_2",
-      "ParentIndex": 6,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1480,7 +1480,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 108_2",
-      "ParentIndex": 4,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

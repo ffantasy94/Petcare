@@ -133,7 +133,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Chiều dài_1",
-      "ParentIndex": 5,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -430,7 +430,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_25",
-      "ParentIndex": 2,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -542,7 +542,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_26",
-      "ParentIndex": 3,
+      "ParentIndex": 9,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -654,7 +654,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_27",
-      "ParentIndex": 1,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -859,7 +859,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Dropdown1_2",
-      "ParentIndex": 7,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1121,7 +1121,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon2_9",
-      "ParentIndex": 0,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1285,7 +1285,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Legend3",
-      "ParentIndex": 9,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1430,7 +1430,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%LineChart.ID%",
       "Name": "LineChart3",
-      "ParentIndex": 8,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1568,7 +1568,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle 103_6",
-      "ParentIndex": 4,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1764,7 +1764,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "ruler 2_1",
-      "ParentIndex": 6,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
