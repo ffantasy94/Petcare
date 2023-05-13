@@ -245,6 +245,7 @@
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: ='Red-simple-heart-icon-transparent-background'
+        OnSelect: =Navigate( '7.2 Màn hình quản lý theo dõi sức khỏe', ScreenTransition.Cover)
         PaddingBottom: =20
         PaddingLeft: =20
         PaddingRight: =20
