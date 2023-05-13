@@ -23,7 +23,7 @@
     "'Rectangle 129_1' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
         Fill: =RGBA(229.7125, 228.0279, 222.0554, 0.3)
         FocusedBorderThickness: =4
         Height: =557
@@ -147,7 +147,7 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         Fill: =RGBA(242, 147, 0, 1)
         Height: =30
-        OnSelect: =Back('1. Màn hình giới thiệu app')
+        OnSelect: =Navigate('1. Màn hình giới thiệu app')
         Width: =30
         X: =52
         Y: =110
@@ -266,7 +266,7 @@
         FocusedBorderColor: =ColorFade(Self.Fill, -75%)
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
-        Height: =43
+        Height: =55
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =

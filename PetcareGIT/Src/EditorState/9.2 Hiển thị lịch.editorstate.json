@@ -116,7 +116,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%MeetingStartLbl.ID%",
       "Name": "Body1",
-      "ParentIndex": 2,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -342,7 +342,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%CalendarEventsGallery.ID%",
       "Name": "CalendarEventsGallery1",
-      "ParentIndex": 14,
+      "ParentIndex": 12,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -515,7 +515,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%CircleEvents.ID%",
       "Name": "Circle1",
-      "ParentIndex": 3,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -655,7 +655,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%MeetingLengthLbl.ID%",
       "Name": "Description1",
-      "ParentIndex": 4,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -913,7 +913,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplateCalendardropdownCalendarSelect.ID%",
       "Name": "dropdownCalendarSelection1",
-      "ParentIndex": 2,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1490,7 +1490,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplateTabletIconEmptyState.ID%",
       "Name": "iconEmptyState1",
-      "ParentIndex": 10,
+      "ParentIndex": 13,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1656,7 +1656,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%WaypointIcon.ID%",
       "Name": "iconLocation1",
-      "ParentIndex": 5,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2484,7 +2484,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplateLblEventsHeader.ID%",
       "Name": "LblCalendarEventsHeader1",
-      "ParentIndex": 13,
+      "ParentIndex": 11,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2713,7 +2713,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneLblEmptyState.ID%",
       "Name": "LblEmptyState1",
-      "ParentIndex": 11,
+      "ParentIndex": 14,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3524,7 +3524,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneLblReset.ID%",
       "Name": "LblResetToday1",
-      "ParentIndex": 3,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4029,7 +4029,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplateRectEventsHeader.ID%",
       "Name": "RectCalendarEventsHeader1",
-      "ParentIndex": 12,
+      "ParentIndex": 10,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4510,7 +4510,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%MeetingLocationLbl.ID%",
       "Name": "Subtitle1",
-      "ParentIndex": 6,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5001,7 +5001,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%MonthDayLbl.ID%",
       "Name": "Title2",
-      "ParentIndex": 1,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
