@@ -69,6 +69,20 @@
     "OverridableProperties": {},
     "Version": "2.1.0"
   },
+  "dataTable": {
+    "CustomGroupControlTemplateName": "",
+    "FirstParty": true,
+    "Id": "http://microsoft.com/appmagic/dataTable",
+    "IsComponentTemplate": false,
+    "IsCustomGroupControlTemplate": false,
+    "IsPcfControl": false,
+    "IsPremiumPcfControl": false,
+    "IsWidgetTemplate": false,
+    "LastModifiedTimestamp": "0",
+    "Name": "dataTable",
+    "OverridableProperties": {},
+    "Version": "1.0.2"
+  },
   "datepicker": {
     "CustomGroupControlTemplateName": "",
     "FirstParty": true,
