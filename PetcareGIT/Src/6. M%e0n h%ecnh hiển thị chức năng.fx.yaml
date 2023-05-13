@@ -269,6 +269,7 @@
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: ='calendar-date-event-month-icon--19'
+        OnSelect: =Navigate( '9.2 Hiển thị lịch', ScreenTransition.Cover)
         PaddingBottom: =20
         PaddingLeft: =20
         PaddingRight: =20
@@ -292,6 +293,7 @@
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: ='free-hospital-icon-1066-thumb'
+        OnSelect: =Navigate( '10.2. Màn hình gợi ý phòng khám', ScreenTransition.Cover)
         PaddingBottom: =20
         PaddingLeft: =20
         PaddingRight: =20
