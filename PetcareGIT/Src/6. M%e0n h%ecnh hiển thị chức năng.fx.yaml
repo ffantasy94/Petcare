@@ -255,126 +255,6 @@
         Y: =536
         ZIndex: =11
 
-    TextInput3_1 As text:
-        BorderColor: =RGBA(166, 166, 166, 1)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        Color: =RGBA(51, 51, 51, 1)
-        Default: ="Text input"
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        DisabledFill: =RGBA(244, 244, 244, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
-        FontWeight: =FontWeight.Semibold
-        Height: =49
-        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverColor: =RGBA(51, 51, 51, 1)
-        HoverFill: =RGBA(255, 255, 255, 1)
-        PressedBorderColor: =RGBA(0, 120, 212, 1)
-        PressedColor: =RGBA(51, 51, 51, 1)
-        PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =15
-        Width: =169
-        X: =32
-        Y: =373
-        ZIndex: =12
-
-    TextInput3_2 As text:
-        BorderColor: =RGBA(166, 166, 166, 1)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        Color: =RGBA(51, 51, 51, 1)
-        Default: ="Text input"
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        DisabledFill: =RGBA(244, 244, 244, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
-        FontWeight: =FontWeight.Semibold
-        Height: =49
-        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverColor: =RGBA(51, 51, 51, 1)
-        HoverFill: =RGBA(255, 255, 255, 1)
-        PressedBorderColor: =RGBA(0, 120, 212, 1)
-        PressedColor: =RGBA(51, 51, 51, 1)
-        PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =15
-        Width: =194
-        X: =234
-        Y: =373
-        ZIndex: =13
-
-    TextInput3_3 As text:
-        Align: =Align.Center
-        BorderColor: =RGBA(166, 166, 166, 1)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        Color: =RGBA(51, 51, 51, 1)
-        Default: ="Text input"
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        DisabledFill: =RGBA(244, 244, 244, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
-        FontWeight: =FontWeight.Semibold
-        Height: =95
-        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverColor: =RGBA(51, 51, 51, 1)
-        HoverFill: =RGBA(255, 255, 255, 1)
-        Mode: =TextMode.MultiLine
-        PressedBorderColor: =RGBA(0, 120, 212, 1)
-        PressedColor: =RGBA(51, 51, 51, 1)
-        PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =15
-        Width: =119
-        X: =54
-        Y: =661
-        ZIndex: =14
-
-    TextInput3_4 As text:
-        Align: =Align.Center
-        BorderColor: =RGBA(166, 166, 166, 1)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        Color: =RGBA(51, 51, 51, 1)
-        Default: ="Text input"
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        DisabledFill: =RGBA(244, 244, 244, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
-        FontWeight: =FontWeight.Semibold
-        Height: =78
-        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverColor: =RGBA(51, 51, 51, 1)
-        HoverFill: =RGBA(255, 255, 255, 1)
-        Mode: =TextMode.MultiLine
-        PressedBorderColor: =RGBA(0, 120, 212, 1)
-        PressedColor: =RGBA(51, 51, 51, 1)
-        PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =15
-        Width: =150
-        X: =239
-        Y: =662
-        ZIndex: =15
-
     Circle1_10 As circle:
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderStyle: =BorderStyle.None
@@ -476,4 +356,82 @@
         X: =33
         Y: =43
         ZIndex: =21
+
+    Label7 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(51, 51, 51, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =16
+        Text: ="Hồ sơ thú cưng"
+        Width: =160
+        X: =41
+        Y: =351
+        ZIndex: =22
+
+    Label7_1 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(51, 51, 51, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =16
+        Text: ="Hồ sơ sức khỏe"
+        Width: =160
+        X: =237
+        Y: =351
+        ZIndex: =23
+
+    Label7_2 As label:
+        Align: =Align.Center
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(51, 51, 51, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =16
+        Text: |-
+            ="Nhắc nhở
+            lịch trình"
+        Width: =169
+        X: =29
+        Y: =658
+        ZIndex: =24
+
+    Label7_3 As label:
+        Align: =Align.Center
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(51, 51, 51, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =16
+        Text: |-
+            ="Phòng khám
+            lân cận"
+        Width: =169
+        X: =232
+        Y: =658
+        ZIndex: =25
 
