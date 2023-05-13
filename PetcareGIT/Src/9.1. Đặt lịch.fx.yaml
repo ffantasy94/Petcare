@@ -115,7 +115,7 @@
         FocusedBorderColor: =ColorFade(Self.Fill, -75%)
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
-        Height: =38
+        Height: =46
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
@@ -126,11 +126,11 @@
         RadiusBottomRight: =0
         RadiusTopLeft: =0
         RadiusTopRight: =0
-        Size: =16
+        Size: =20
         Text: ="Đặt lịch"
-        Width: =134
-        X: =140
-        Y: =313
+        Width: =163
+        X: =124
+        Y: =732
         ZIndex: =116
 
     Label3 As label:
@@ -147,8 +147,8 @@
         Size: =17
         Text: ="Thông tin"
         Width: =162
-        X: =126
-        Y: =389
+        X: =124
+        Y: =355
         ZIndex: =118
 
     DatePicker1 As datepicker:
@@ -166,7 +166,7 @@
         SelectedDateFill: =RGBA(0, 120, 212, 1)
         Width: =390
         X: =24
-        Y: =125
+        Y: =142
         ZIndex: =121
 
     Dropdown1 As dropdown:
@@ -199,7 +199,7 @@
         Size: =14
         Width: =109
         X: =24
-        Y: =248
+        Y: =265
         ZIndex: =122
 
     "'Đặt Lịch khám_5' As label":
@@ -218,7 +218,7 @@
         PaddingTop: =0
         Text: ="Chọn ngày"
         Width: =133
-        Y: =90
+        Y: =107
         ZIndex: =124
 
     "'Đặt Lịch khám_6' As label":
@@ -238,7 +238,7 @@
         Text: ="Chọn giờ"
         Width: =133
         X: =3
-        Y: =212
+        Y: =229
         ZIndex: =125
 
     Dropdown1_6 As dropdown:
@@ -271,7 +271,7 @@
         Size: =14
         Width: =109
         X: =151
-        Y: =248
+        Y: =265
         ZIndex: =126
 
     Dropdown1_7 As dropdown:
@@ -304,6 +304,6 @@
         Size: =14
         Width: =109
         X: =278
-        Y: =248
+        Y: =265
         ZIndex: =127
 
