@@ -1,6 +1,7 @@
 "'7.1. Màn hình hiển thị thông tin thú cưng' As screen":
     Height: =926
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
+    OnVisible: =
     Width: =428
 
     Label4 As label:
