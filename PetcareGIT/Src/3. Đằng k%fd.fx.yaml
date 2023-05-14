@@ -282,10 +282,10 @@
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         BorderThickness: =2
-        Color: =RGBA(51, 51, 51, 1)
         CheckboxBorderColor: =RGBA(242, 147, 0, 1)
         CheckboxSize: =40
         CheckmarkFill: =RGBA(0, 120, 212, 1)
+        Color: =RGBA(51, 51, 51, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
