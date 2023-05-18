@@ -665,10 +665,10 @@
         RadiusTopLeft: =0
         RadiusTopRight: =0
         Size: =24
-        Text: ="Button1"
+        Text: =
         Width: =402
         X: =19
-        Y: =458
+        Y: =454
         ZIndex: =39
 
     Button9_1 As button:
@@ -684,6 +684,10 @@
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        OnSelect: |-
+            =UpdateContext({pressedButton1:false});
+            UpdateContext({pressedButton2:true});
+            UpdateContext({pressedButton3:false})
         PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
@@ -711,6 +715,10 @@
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        OnSelect: |-
+            =UpdateContext({pressedButton1:false});
+            UpdateContext({pressedButton2:false});
+            UpdateContext({pressedButton3:true})
         PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
