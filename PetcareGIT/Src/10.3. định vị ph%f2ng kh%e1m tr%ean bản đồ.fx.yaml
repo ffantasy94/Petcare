@@ -37,8 +37,8 @@
         Fill: =RGBA(251, 183, 80, 1)
         FocusedBorderThickness: =4
         Height: =79
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
+        HoverFill: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(255, 255, 255, 1)
         Width: =428
         ZIndex: =14
 
