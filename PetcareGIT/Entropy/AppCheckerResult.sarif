@@ -5032,6 +5032,2136 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.Icon1_2.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.Icon1_2"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.Icon1_2.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.Icon1_2.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.Icon1_2"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.Icon1_2.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_3'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_3'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_3'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_3'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_3'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_3'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'image 26_2'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'image 26_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'image 26_2'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'image 26_2'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'image 26_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'image 26_2'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_5.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_5"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_5.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_6.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_6"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_6.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_7.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_7"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_7.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_8.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_8"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_8.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_9.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_9"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_9.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_10.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_10"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_10.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 97_9'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "10.2. Màn hình gợi ý phòng khám",
+                "type": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 97_9'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 97_9'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 97_9'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "10.2. Màn hình gợi ý phòng khám",
+                "type": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 97_9'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 97_9'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.Icon6_1.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "10.2. Màn hình gợi ý phòng khám",
+                "type": "'10.2. Màn hình gợi ý phòng khám'.Icon6_1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.Icon6_1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.Icon6_1.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "10.2. Màn hình gợi ý phòng khám",
+                "type": "'10.2. Màn hình gợi ý phòng khám'.Icon6_1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.Icon6_1.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 98_7'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "10.2. Màn hình gợi ý phòng khám",
+                "type": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 98_7'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 98_7'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 98_7'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "10.2. Màn hình gợi ý phòng khám",
+                "type": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 98_7'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 98_7'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'image 8_4'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "10.2. Màn hình gợi ý phòng khám",
+                "type": "'10.2. Màn hình gợi ý phòng khám'.'image 8_4'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'image 8_4'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'image 8_4'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "10.2. Màn hình gợi ý phòng khám",
+                "type": "'10.2. Màn hình gợi ý phòng khám'.'image 8_4'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'image 8_4'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Sắp xếp_1'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "10.2. Màn hình gợi ý phòng khám",
+                "type": "'10.2. Màn hình gợi ý phòng khám'.'Sắp xếp_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Sắp xếp_1'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Bản đồ_1'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "10.2. Màn hình gợi ý phòng khám",
+                "type": "'10.2. Màn hình gợi ý phòng khám'.'Bản đồ_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Bản đồ_1'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'image 16_1'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "10.2. Màn hình gợi ý phòng khám",
+                "type": "'10.2. Màn hình gợi ý phòng khám'.'image 16_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'image 16_1'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'image 16_1'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "10.2. Màn hình gợi ý phòng khám",
+                "type": "'10.2. Màn hình gợi ý phòng khám'.'image 16_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'image 16_1'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.TextInput4_1.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "10.2. Màn hình gợi ý phòng khám",
+                "type": "'10.2. Màn hình gợi ý phòng khám'.TextInput4_1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.TextInput4_1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.TextInput4_2.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "10.2. Màn hình gợi ý phòng khám",
+                "type": "'10.2. Màn hình gợi ý phòng khám'.TextInput4_2"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.TextInput4_2.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.TextInput4_3.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "10.2. Màn hình gợi ý phòng khám",
+                "type": "'10.2. Màn hình gợi ý phòng khám'.TextInput4_3"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.TextInput4_3.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.Icon2_14.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "10.2. Màn hình gợi ý phòng khám",
+                "type": "'10.2. Màn hình gợi ý phòng khám'.Icon2_14"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.Icon2_14.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.Icon2_14.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "10.2. Màn hình gợi ý phòng khám",
+                "type": "'10.2. Màn hình gợi ý phòng khám'.Icon2_14"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.Icon2_14.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.'Rectangle 103_7'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.2.4. Thân nhiệt",
+                "type": "'7.2.4. Thân nhiệt'.'Rectangle 103_7'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.'Rectangle 103_7'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.'Rectangle 103_7'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2.4. Thân nhiệt",
+                "type": "'7.2.4. Thân nhiệt'.'Rectangle 103_7'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.'Rectangle 103_7'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.'Thân nhiệt_1'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2.4. Thân nhiệt",
+                "type": "'7.2.4. Thân nhiệt'.'Thân nhiệt_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.'Thân nhiệt_1'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.Icon1_7.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.2.4. Thân nhiệt",
+                "type": "'7.2.4. Thân nhiệt'.Icon1_7"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.Icon1_7.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.Icon1_7.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2.4. Thân nhiệt",
+                "type": "'7.2.4. Thân nhiệt'.Icon1_7"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.Icon1_7.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.Icon1_7.FocusedBorderThickness"
+                }
+              ],
+              "properties": {
+                "member": "FocusedBorderThickness",
+                "module": "7.2.4. Thân nhiệt",
+                "type": "'7.2.4. Thân nhiệt'.Icon1_7"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.Icon1_7.FocusedBorderThickness",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-FocusBorderShouldBeVisible",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.'image 28_1'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.2.4. Thân nhiệt",
+                "type": "'7.2.4. Thân nhiệt'.'image 28_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.'image 28_1'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.'image 28_1'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2.4. Thân nhiệt",
+                "type": "'7.2.4. Thân nhiệt'.'image 28_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.'image 28_1'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.Dropdown1_5.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.2.4. Thân nhiệt",
+                "type": "'7.2.4. Thân nhiệt'.Dropdown1_5"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.Dropdown1_5.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 97_7'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "10.3. định vị phòng khám trên bản đồ",
+                "type": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 97_7'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 97_7'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 97_7'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "10.3. định vị phòng khám trên bản đồ",
+                "type": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 97_7'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 97_7'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.Icon6_2.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "10.3. định vị phòng khám trên bản đồ",
+                "type": "'10.3. định vị phòng khám trên bản đồ'.Icon6_2"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.Icon6_2.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.Icon6_2.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "10.3. định vị phòng khám trên bản đồ",
+                "type": "'10.3. định vị phòng khám trên bản đồ'.Icon6_2"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.Icon6_2.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 98_8'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "10.3. định vị phòng khám trên bản đồ",
+                "type": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 98_8'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 98_8'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 98_8'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "10.3. định vị phòng khám trên bản đồ",
+                "type": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 98_8'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 98_8'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Line 12_3'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "10.3. định vị phòng khám trên bản đồ",
+                "type": "'10.3. định vị phòng khám trên bản đồ'.'Line 12_3'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Line 12_3'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Line 12_3'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "10.3. định vị phòng khám trên bản đồ",
+                "type": "'10.3. định vị phòng khám trên bản đồ'.'Line 12_3'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Line 12_3'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 8_3'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "10.3. định vị phòng khám trên bản đồ",
+                "type": "'10.3. định vị phòng khám trên bản đồ'.'image 8_3'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 8_3'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 8_3'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "10.3. định vị phòng khám trên bản đồ",
+                "type": "'10.3. định vị phòng khám trên bản đồ'.'image 8_3'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 8_3'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Sắp xếp'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "10.3. định vị phòng khám trên bản đồ",
+                "type": "'10.3. định vị phòng khám trên bản đồ'.'Sắp xếp'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Sắp xếp'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Bản đồ'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "10.3. định vị phòng khám trên bản đồ",
+                "type": "'10.3. định vị phòng khám trên bản đồ'.'Bản đồ'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Bản đồ'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 10_1'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "10.3. định vị phòng khám trên bản đồ",
+                "type": "'10.3. định vị phòng khám trên bản đồ'.'image 10_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 10_1'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 10_1'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "10.3. định vị phòng khám trên bản đồ",
+                "type": "'10.3. định vị phòng khám trên bản đồ'.'image 10_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 10_1'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 16'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "10.3. định vị phòng khám trên bản đồ",
+                "type": "'10.3. định vị phòng khám trên bản đồ'.'image 16'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 16'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 16'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "10.3. định vị phòng khám trên bản đồ",
+                "type": "'10.3. định vị phòng khám trên bản đồ'.'image 16'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 16'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'2. Đăng nhập'.'Add a subheading (2) 4_2'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "2. Đăng nhập",
+                "type": "'2. Đăng nhập'.'Add a subheading (2) 4_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'2. Đăng nhập'.'Add a subheading (2) 4_2'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'2. Đăng nhập'.'Add a subheading (2) 4_2'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "2. Đăng nhập",
+                "type": "'2. Đăng nhập'.'Add a subheading (2) 4_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'2. Đăng nhập'.'Add a subheading (2) 4_2'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'2. Đăng nhập'.'Rectangle 129_1'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "2. Đăng nhập",
+                "type": "'2. Đăng nhập'.'Rectangle 129_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'2. Đăng nhập'.'Rectangle 129_1'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'2. Đăng nhập'.'Rectangle 129_1'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "2. Đăng nhập",
+                "type": "'2. Đăng nhập'.'Rectangle 129_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'2. Đăng nhập'.'Rectangle 129_1'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'2. Đăng nhập'.'Đăng ký_2'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "2. Đăng nhập",
+                "type": "'2. Đăng nhập'.'Đăng ký_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'2. Đăng nhập'.'Đăng ký_2'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'2. Đăng nhập'.Arrow1_2.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "2. Đăng nhập",
+                "type": "'2. Đăng nhập'.Arrow1_2"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'2. Đăng nhập'.Arrow1_2.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'2. Đăng nhập'.Arrow1_2.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "2. Đăng nhập",
+                "type": "'2. Đăng nhập'.Arrow1_2"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'2. Đăng nhập'.Arrow1_2.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'2. Đăng nhập'.'Tên đăng nhập_4'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "2. Đăng nhập",
+                "type": "'2. Đăng nhập'.'Tên đăng nhập_4'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'2. Đăng nhập'.'Tên đăng nhập_4'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'2. Đăng nhập'.TextInput2_9.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "2. Đăng nhập",
+                "type": "'2. Đăng nhập'.TextInput2_9"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'2. Đăng nhập'.TextInput2_9.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'2. Đăng nhập'.'Mật khẩu_8'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "2. Đăng nhập",
+                "type": "'2. Đăng nhập'.'Mật khẩu_8'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'2. Đăng nhập'.'Mật khẩu_8'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'2. Đăng nhập'.TextInput2_11.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "2. Đăng nhập",
+                "type": "'2. Đăng nhập'.TextInput2_11"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'2. Đăng nhập'.TextInput2_11.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'2. Đăng nhập'.Icon3_1.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "2. Đăng nhập",
+                "type": "'2. Đăng nhập'.Icon3_1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'2. Đăng nhập'.Icon3_1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'2. Đăng nhập'.Icon3_1.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "2. Đăng nhập",
+                "type": "'2. Đăng nhập'.Icon3_1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'2. Đăng nhập'.Icon3_1.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'2. Đăng nhập'.'Tôi đồng ý các điều khoản_2'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "2. Đăng nhập",
+                "type": "'2. Đăng nhập'.'Tôi đồng ý các điều khoản_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'2. Đăng nhập'.'Tôi đồng ý các điều khoản_2'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'2. Đăng nhập'.Hoặc_4.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "2. Đăng nhập",
+                "type": "'2. Đăng nhập'.Hoặc_4"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'2. Đăng nhập'.Hoặc_4.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'2. Đăng nhập'.'Mật khẩu_9'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "2. Đăng nhập",
+                "type": "'2. Đăng nhập'.'Mật khẩu_9'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'2. Đăng nhập'.'Mật khẩu_9'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "'3. Đằng ký'.'Add a subheading (2) 4'.AccessibleLabel"
                 }
               ],
@@ -10582,516 +12712,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 97_9'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "10.2. Màn hình gợi ý phòng khám",
-                "type": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 97_9'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 97_9'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 97_9'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "10.2. Màn hình gợi ý phòng khám",
-                "type": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 97_9'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 97_9'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.Icon6_1.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "10.2. Màn hình gợi ý phòng khám",
-                "type": "'10.2. Màn hình gợi ý phòng khám'.Icon6_1"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.Icon6_1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.Icon6_1.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "10.2. Màn hình gợi ý phòng khám",
-                "type": "'10.2. Màn hình gợi ý phòng khám'.Icon6_1"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.Icon6_1.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 98_7'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "10.2. Màn hình gợi ý phòng khám",
-                "type": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 98_7'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 98_7'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 98_7'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "10.2. Màn hình gợi ý phòng khám",
-                "type": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 98_7'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Rectangle 98_7'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'image 8_4'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "10.2. Màn hình gợi ý phòng khám",
-                "type": "'10.2. Màn hình gợi ý phòng khám'.'image 8_4'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'image 8_4'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'image 8_4'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "10.2. Màn hình gợi ý phòng khám",
-                "type": "'10.2. Màn hình gợi ý phòng khám'.'image 8_4'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'image 8_4'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Sắp xếp_1'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "10.2. Màn hình gợi ý phòng khám",
-                "type": "'10.2. Màn hình gợi ý phòng khám'.'Sắp xếp_1'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Sắp xếp_1'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Bản đồ_1'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "10.2. Màn hình gợi ý phòng khám",
-                "type": "'10.2. Màn hình gợi ý phòng khám'.'Bản đồ_1'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'Bản đồ_1'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'image 16_1'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "10.2. Màn hình gợi ý phòng khám",
-                "type": "'10.2. Màn hình gợi ý phòng khám'.'image 16_1'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'image 16_1'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'image 16_1'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "10.2. Màn hình gợi ý phòng khám",
-                "type": "'10.2. Màn hình gợi ý phòng khám'.'image 16_1'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.'image 16_1'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.TextInput4_1.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "10.2. Màn hình gợi ý phòng khám",
-                "type": "'10.2. Màn hình gợi ý phòng khám'.TextInput4_1"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.TextInput4_1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.TextInput4_2.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "10.2. Màn hình gợi ý phòng khám",
-                "type": "'10.2. Màn hình gợi ý phòng khám'.TextInput4_2"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.TextInput4_2.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.TextInput4_3.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "10.2. Màn hình gợi ý phòng khám",
-                "type": "'10.2. Màn hình gợi ý phòng khám'.TextInput4_3"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.TextInput4_3.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.Icon2_14.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "10.2. Màn hình gợi ý phòng khám",
-                "type": "'10.2. Màn hình gợi ý phòng khám'.Icon2_14"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.Icon2_14.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.Icon2_14.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "10.2. Màn hình gợi ý phòng khám",
-                "type": "'10.2. Màn hình gợi ý phòng khám'.Icon2_14"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.2. Màn hình gợi ý phòng khám'.Icon2_14.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "'7.2.2. Chiều cao'.'Rectangle 103_9'.AccessibleLabel"
                 }
               ],
@@ -13462,6 +15082,186 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.dropdownCalendarSelection1.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "9.2 Hiển thị lịch",
+                "type": "'9.2 Hiển thị lịch'.dropdownCalendarSelection1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.dropdownCalendarSelection1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.iconCalendar1.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "9.2 Hiển thị lịch",
+                "type": "'9.2 Hiển thị lịch'.iconCalendar1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.iconCalendar1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.iconPrevMonth1.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "9.2 Hiển thị lịch",
+                "type": "'9.2 Hiển thị lịch'.iconPrevMonth1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.iconPrevMonth1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.iconNextMonth1.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "9.2 Hiển thị lịch",
+                "type": "'9.2 Hiển thị lịch'.iconNextMonth1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.iconNextMonth1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.WeekdayGallery1.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "9.2 Hiển thị lịch",
+                "type": "'9.2 Hiển thị lịch'.WeekdayGallery1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.WeekdayGallery1.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.MonthDayGallery1.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "9.2 Hiển thị lịch",
+                "type": "'9.2 Hiển thị lịch'.MonthDayGallery1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.MonthDayGallery1.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "'9.2 Hiển thị lịch'.CalendarEventsGallery1.TabIndex"
                 }
               ],
@@ -13623,1806 +15423,6 @@
               "physicalLocation": {
                 "address": {
                   "fullyQualifiedName": "'9.2 Hiển thị lịch'.CalendarEventsGallery1.Subtitle1.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.iconCalendar1.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "9.2 Hiển thị lịch",
-                "type": "'9.2 Hiển thị lịch'.iconCalendar1"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.iconCalendar1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.dropdownCalendarSelection1.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "9.2 Hiển thị lịch",
-                "type": "'9.2 Hiển thị lịch'.dropdownCalendarSelection1"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.dropdownCalendarSelection1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.iconPrevMonth1.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "9.2 Hiển thị lịch",
-                "type": "'9.2 Hiển thị lịch'.iconPrevMonth1"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.iconPrevMonth1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.iconNextMonth1.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "9.2 Hiển thị lịch",
-                "type": "'9.2 Hiển thị lịch'.iconNextMonth1"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.iconNextMonth1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.WeekdayGallery1.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "9.2 Hiển thị lịch",
-                "type": "'9.2 Hiển thị lịch'.WeekdayGallery1"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.WeekdayGallery1.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.MonthDayGallery1.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "9.2 Hiển thị lịch",
-                "type": "'9.2 Hiển thị lịch'.MonthDayGallery1"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'9.2 Hiển thị lịch'.MonthDayGallery1.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.Icon1_2.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.Icon1_2"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.Icon1_2.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.Icon1_2.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.Icon1_2"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.Icon1_2.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_3'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_3'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_3'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_3'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_3'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_3'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'image 26_2'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'image 26_2'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'image 26_2'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'image 26_2'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.'image 26_2'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.'image 26_2'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_5.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_5"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_5.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_6.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_6"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_6.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_7.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_7"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_7.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_8.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_8"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_8.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_9.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_9"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_9.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_10.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1. Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_10"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1. Màn hình hiển thị thông tin thú cưng'.TextInput3_10.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.'Rectangle 103_7'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.2.4. Thân nhiệt",
-                "type": "'7.2.4. Thân nhiệt'.'Rectangle 103_7'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.'Rectangle 103_7'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.'Rectangle 103_7'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "7.2.4. Thân nhiệt",
-                "type": "'7.2.4. Thân nhiệt'.'Rectangle 103_7'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.'Rectangle 103_7'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.'Thân nhiệt_1'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "7.2.4. Thân nhiệt",
-                "type": "'7.2.4. Thân nhiệt'.'Thân nhiệt_1'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.'Thân nhiệt_1'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.Icon1_7.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.2.4. Thân nhiệt",
-                "type": "'7.2.4. Thân nhiệt'.Icon1_7"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.Icon1_7.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.Icon1_7.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "7.2.4. Thân nhiệt",
-                "type": "'7.2.4. Thân nhiệt'.Icon1_7"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.Icon1_7.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.Icon1_7.FocusedBorderThickness"
-                }
-              ],
-              "properties": {
-                "member": "FocusedBorderThickness",
-                "module": "7.2.4. Thân nhiệt",
-                "type": "'7.2.4. Thân nhiệt'.Icon1_7"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.Icon1_7.FocusedBorderThickness",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-FocusBorderShouldBeVisible",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.'image 28_1'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.2.4. Thân nhiệt",
-                "type": "'7.2.4. Thân nhiệt'.'image 28_1'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.'image 28_1'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.'image 28_1'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "7.2.4. Thân nhiệt",
-                "type": "'7.2.4. Thân nhiệt'.'image 28_1'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.'image 28_1'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.Dropdown1_5.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.2.4. Thân nhiệt",
-                "type": "'7.2.4. Thân nhiệt'.Dropdown1_5"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.2.4. Thân nhiệt'.Dropdown1_5.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 97_7'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "10.3. định vị phòng khám trên bản đồ",
-                "type": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 97_7'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 97_7'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 97_7'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "10.3. định vị phòng khám trên bản đồ",
-                "type": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 97_7'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 97_7'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.Icon6_2.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "10.3. định vị phòng khám trên bản đồ",
-                "type": "'10.3. định vị phòng khám trên bản đồ'.Icon6_2"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.Icon6_2.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.Icon6_2.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "10.3. định vị phòng khám trên bản đồ",
-                "type": "'10.3. định vị phòng khám trên bản đồ'.Icon6_2"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.Icon6_2.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 98_8'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "10.3. định vị phòng khám trên bản đồ",
-                "type": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 98_8'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 98_8'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 98_8'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "10.3. định vị phòng khám trên bản đồ",
-                "type": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 98_8'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Rectangle 98_8'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Line 12_3'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "10.3. định vị phòng khám trên bản đồ",
-                "type": "'10.3. định vị phòng khám trên bản đồ'.'Line 12_3'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Line 12_3'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Line 12_3'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "10.3. định vị phòng khám trên bản đồ",
-                "type": "'10.3. định vị phòng khám trên bản đồ'.'Line 12_3'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Line 12_3'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 8_3'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "10.3. định vị phòng khám trên bản đồ",
-                "type": "'10.3. định vị phòng khám trên bản đồ'.'image 8_3'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 8_3'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 8_3'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "10.3. định vị phòng khám trên bản đồ",
-                "type": "'10.3. định vị phòng khám trên bản đồ'.'image 8_3'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 8_3'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Sắp xếp'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "10.3. định vị phòng khám trên bản đồ",
-                "type": "'10.3. định vị phòng khám trên bản đồ'.'Sắp xếp'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Sắp xếp'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Bản đồ'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "10.3. định vị phòng khám trên bản đồ",
-                "type": "'10.3. định vị phòng khám trên bản đồ'.'Bản đồ'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'Bản đồ'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 10_1'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "10.3. định vị phòng khám trên bản đồ",
-                "type": "'10.3. định vị phòng khám trên bản đồ'.'image 10_1'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 10_1'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 10_1'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "10.3. định vị phòng khám trên bản đồ",
-                "type": "'10.3. định vị phòng khám trên bản đồ'.'image 10_1'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 10_1'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 16'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "10.3. định vị phòng khám trên bản đồ",
-                "type": "'10.3. định vị phòng khám trên bản đồ'.'image 16'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 16'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 16'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "10.3. định vị phòng khám trên bản đồ",
-                "type": "'10.3. định vị phòng khám trên bản đồ'.'image 16'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.3. định vị phòng khám trên bản đồ'.'image 16'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2. Đăng nhập'.'Add a subheading (2) 4_2'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "2. Đăng nhập",
-                "type": "'2. Đăng nhập'.'Add a subheading (2) 4_2'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2. Đăng nhập'.'Add a subheading (2) 4_2'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2. Đăng nhập'.'Add a subheading (2) 4_2'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "2. Đăng nhập",
-                "type": "'2. Đăng nhập'.'Add a subheading (2) 4_2'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2. Đăng nhập'.'Add a subheading (2) 4_2'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2. Đăng nhập'.'Rectangle 129_1'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "2. Đăng nhập",
-                "type": "'2. Đăng nhập'.'Rectangle 129_1'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2. Đăng nhập'.'Rectangle 129_1'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2. Đăng nhập'.'Rectangle 129_1'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "2. Đăng nhập",
-                "type": "'2. Đăng nhập'.'Rectangle 129_1'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2. Đăng nhập'.'Rectangle 129_1'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2. Đăng nhập'.'Đăng ký_2'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "2. Đăng nhập",
-                "type": "'2. Đăng nhập'.'Đăng ký_2'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2. Đăng nhập'.'Đăng ký_2'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2. Đăng nhập'.Arrow1_2.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "2. Đăng nhập",
-                "type": "'2. Đăng nhập'.Arrow1_2"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2. Đăng nhập'.Arrow1_2.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2. Đăng nhập'.Arrow1_2.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "2. Đăng nhập",
-                "type": "'2. Đăng nhập'.Arrow1_2"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2. Đăng nhập'.Arrow1_2.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2. Đăng nhập'.'Tên đăng nhập_4'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "2. Đăng nhập",
-                "type": "'2. Đăng nhập'.'Tên đăng nhập_4'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2. Đăng nhập'.'Tên đăng nhập_4'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2. Đăng nhập'.TextInput2_9.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "2. Đăng nhập",
-                "type": "'2. Đăng nhập'.TextInput2_9"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2. Đăng nhập'.TextInput2_9.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2. Đăng nhập'.'Mật khẩu_8'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "2. Đăng nhập",
-                "type": "'2. Đăng nhập'.'Mật khẩu_8'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2. Đăng nhập'.'Mật khẩu_8'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2. Đăng nhập'.TextInput2_11.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "2. Đăng nhập",
-                "type": "'2. Đăng nhập'.TextInput2_11"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2. Đăng nhập'.TextInput2_11.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2. Đăng nhập'.Icon3_1.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "2. Đăng nhập",
-                "type": "'2. Đăng nhập'.Icon3_1"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2. Đăng nhập'.Icon3_1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2. Đăng nhập'.Icon3_1.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "2. Đăng nhập",
-                "type": "'2. Đăng nhập'.Icon3_1"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2. Đăng nhập'.Icon3_1.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2. Đăng nhập'.'Tôi đồng ý các điều khoản_2'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "2. Đăng nhập",
-                "type": "'2. Đăng nhập'.'Tôi đồng ý các điều khoản_2'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2. Đăng nhập'.'Tôi đồng ý các điều khoản_2'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2. Đăng nhập'.Hoặc_4.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "2. Đăng nhập",
-                "type": "'2. Đăng nhập'.Hoặc_4"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2. Đăng nhập'.Hoặc_4.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2. Đăng nhập'.'Mật khẩu_9'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "2. Đăng nhập",
-                "type": "'2. Đăng nhập'.'Mật khẩu_9'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2. Đăng nhập'.'Mật khẩu_9'.TabIndex",
                   "relativeAddress": 0
                 }
               }
