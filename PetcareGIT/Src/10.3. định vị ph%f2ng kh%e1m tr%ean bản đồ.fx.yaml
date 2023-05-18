@@ -24,8 +24,8 @@
         Fill: =RGBA(128, 128, 128, 1)
         FocusedBorderThickness: =4
         Height: =0
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
+        HoverFill: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(255, 255, 255, 1)
         Width: =428.0048828125
         Y: =79
         ZIndex: =13
@@ -254,6 +254,6 @@
         PinColor: =RGBA(29, 114, 169, 1)
         Width: =428
         X: =0
-        Y: =176
+        Y: =162
         ZIndex: =33
 
