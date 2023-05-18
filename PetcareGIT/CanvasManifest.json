@@ -113,12 +113,12 @@
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
-    "Name": "Petcare-figma",
+    "Name": "Petcare-figma-Git",
     "OriginatingVersion": "1.326",
     "ParserErrorCount": 0
   },
   "PublishInfo": {
-    "AppName": "Petcare-figma",
+    "AppName": "Petcare-figma-Git",
     "BackgroundColor": "RGBA(54,176,75,1)",
     "IconColor": "RGBA(255,255,255,1)",
     "IconName": "FavoriteStarFill",
