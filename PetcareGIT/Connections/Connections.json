@@ -1,4 +1,18 @@
 {
+  "668d6839-b92e-4d4d-acc4-d8b9684a65a5": {
+    "connectionRef": {
+      "displayName": "Spatial Services",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1613/1.0.1613.3125/microsoftspatialservices/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_microsoftspatialservices"
+    },
+    "datasets": {},
+    "dataSources": [
+      "SpatialServices"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "668d6839-b92e-4d4d-acc4-d8b9684a65a5"
+  },
   "f573710c-a6d9-4ffe-b697-d40e57e0a138": {
     "connectionRef": {
       "displayName": "Office 365 Outlook",
