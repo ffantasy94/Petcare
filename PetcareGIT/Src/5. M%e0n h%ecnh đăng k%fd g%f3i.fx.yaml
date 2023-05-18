@@ -1,7 +1,43 @@
 "'5. Màn hình đăng ký gói' As screen":
     Height: =926
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
+    OnVisible: |-
+        =UpdateContext({pressedButton1:false});
+        UpdateContext({pressedButton2:false});
+        UpdateContext({pressedButton3:false})
     Width: =440
+
+    Button9 As button:
+        BorderColor: =If(pressedButton1=true, Color.Orange, Color.White)
+        BorderThickness: =5
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(250, 220, 111, 0.29)
+        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =71
+        HoverBorderColor: =
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        OnSelect: |-
+            =UpdateContext({pressedButton1:true});
+            UpdateContext({pressedButton2:false});
+            UpdateContext({pressedButton3:false})
+        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =24
+        Text: =
+        Width: =402
+        X: =19
+        Y: =454
+        ZIndex: =1
 
     "'Add a subheading (2) 6_1' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -18,7 +54,7 @@
         Width: =76
         X: =69
         Y: =319
-        ZIndex: =4
+        ZIndex: =2
 
     "'Add a subheading (2) 7' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -35,7 +71,7 @@
         Width: =76
         X: =69
         Y: =354
-        ZIndex: =5
+        ZIndex: =3
 
     "'Add a subheading (2) 8' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -52,7 +88,7 @@
         Width: =76
         X: =69
         Y: =285
-        ZIndex: =6
+        ZIndex: =4
 
     "'Add a subheading (2) 9' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -69,7 +105,7 @@
         Width: =76
         X: =69
         Y: =252
-        ZIndex: =7
+        ZIndex: =5
 
     "'ƯU ĐÃI CHỈ CÒN TRONG:' As label":
         Align: =Align.Center
@@ -93,7 +129,7 @@
         Width: =363
         X: =56
         Y: =62
-        ZIndex: =8
+        ZIndex: =6
 
     "'Component 8' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -108,7 +144,7 @@
         Width: =98
         X: =41
         Y: =119
-        ZIndex: =9
+        ZIndex: =7
 
     "'CÁC TÍNH NĂNG HẤP DẪN' As label":
         Align: =Align.Center
@@ -127,7 +163,7 @@
         Width: =384
         X: =28
         Y: =224
-        ZIndex: =10
+        ZIndex: =8
 
     "'Hồ sơ thú cưng' As label":
         Align: =Align.Center
@@ -148,7 +184,7 @@
         Width: =180
         X: =128
         Y: =289
-        ZIndex: =11
+        ZIndex: =9
 
     VNĐ As label:
         Align: =Align.Center
@@ -169,7 +205,7 @@
         Width: =218
         X: =213
         Y: =501
-        ZIndex: =12
+        ZIndex: =10
 
     VNĐ_1 As label:
         Align: =Align.Center
@@ -190,7 +226,7 @@
         Width: =218
         X: =209
         Y: =594
-        ZIndex: =13
+        ZIndex: =11
 
     VNĐ_2 As label:
         Align: =Align.Center
@@ -211,7 +247,7 @@
         Width: =218
         X: =212
         Y: =688
-        ZIndex: =14
+        ZIndex: =12
 
     "'Theo dõi sức khỏe' As label":
         Align: =Align.Center
@@ -232,7 +268,7 @@
         Width: =224
         X: =121
         Y: =324
-        ZIndex: =15
+        ZIndex: =13
 
     "'Nhắc nhở lịch trình' As label":
         Align: =Align.Center
@@ -253,7 +289,7 @@
         Width: =253
         X: =111
         Y: =355
-        ZIndex: =16
+        ZIndex: =14
 
     "'Phòng khám lân cận' As label":
         Align: =Align.Center
@@ -274,7 +310,7 @@
         Width: =249
         X: =121
         Y: =386
-        ZIndex: =17
+        ZIndex: =15
 
     "'Gói tháng' As label":
         Align: =Align.Center
@@ -296,7 +332,7 @@
         Width: =123
         X: =33
         Y: =475
-        ZIndex: =21
+        ZIndex: =16
 
     "'161.460' As label":
         Align: =Align.Center
@@ -318,7 +354,7 @@
         Width: =152
         X: =246
         Y: =467
-        ZIndex: =22
+        ZIndex: =17
 
     "'348.000' As label":
         Align: =Align.Center
@@ -340,7 +376,7 @@
         Width: =156
         X: =244
         Y: =560
-        ZIndex: =23
+        ZIndex: =18
 
     "'790.800' As label":
         Align: =Align.Center
@@ -362,7 +398,7 @@
         Width: =156
         X: =242
         Y: =654
-        ZIndex: =24
+        ZIndex: =19
 
     "'Gói năm' As label":
         Align: =Align.Center
@@ -384,7 +420,7 @@
         Width: =123
         X: =28
         Y: =568
-        ZIndex: =25
+        ZIndex: =20
 
     "'Gói trọn đời' As label":
         Align: =Align.Center
@@ -406,7 +442,7 @@
         Width: =171
         X: =17
         Y: =662
-        ZIndex: =26
+        ZIndex: =21
 
     Button7 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -421,7 +457,9 @@
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        OnSelect: =Navigate('6. Màn hình hiển thị chức năng')
+        OnSelect: |-
+            =Notify( "Đăng kí thành công!", NotificationType.Success, 4000 );
+            Navigate('6. Màn hình hiển thị chức năng')
         PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
@@ -434,7 +472,7 @@
         Width: =226
         X: =107
         Y: =753
-        ZIndex: =27
+        ZIndex: =22
 
     Label2 As label:
         Align: =Align.Center
@@ -452,7 +490,7 @@
         Width: =90
         X: =41
         Y: =110
-        ZIndex: =28
+        ZIndex: =23
 
     "'Component 8_2' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -467,7 +505,7 @@
         Width: =98
         X: =163
         Y: =119
-        ZIndex: =29
+        ZIndex: =24
 
     Label2_1 As label:
         Align: =Align.Center
@@ -485,7 +523,7 @@
         Width: =90
         X: =169
         Y: =110
-        ZIndex: =30
+        ZIndex: =25
 
     "'Component 8_3' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -500,7 +538,7 @@
         Width: =98
         X: =289
         Y: =119
-        ZIndex: =31
+        ZIndex: =26
 
     Label2_2 As label:
         Align: =Align.Center
@@ -518,7 +556,7 @@
         Width: =90
         X: =293
         Y: =110
-        ZIndex: =32
+        ZIndex: =27
 
     Label6 As label:
         Align: =Align.Center
@@ -536,7 +574,7 @@
         Width: =97
         X: =42
         Y: =169
-        ZIndex: =33
+        ZIndex: =28
 
     Label6_1 As label:
         Align: =Align.Center
@@ -554,7 +592,7 @@
         Width: =97
         X: =164
         Y: =169
-        ZIndex: =34
+        ZIndex: =29
 
     Label6_2 As label:
         Align: =Align.Center
@@ -572,7 +610,7 @@
         Width: =97
         X: =290
         Y: =169
-        ZIndex: =35
+        ZIndex: =30
 
     Label10 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -590,7 +628,7 @@
         Width: =28
         X: =141
         Y: =119
-        ZIndex: =36
+        ZIndex: =31
 
     Label10_1 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -608,7 +646,7 @@
         Width: =28
         X: =265
         Y: =119
-        ZIndex: =37
+        ZIndex: =32
 
     Button7_1 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -638,41 +676,11 @@
         Width: =226
         X: =107
         Y: =845
-        ZIndex: =38
-
-    Button9 As button:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        DisabledFill: =RGBA(244, 244, 244, 1)
-        Fill: =RGBA(250, 220, 111, 0.29)
-        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
-        Font: =Font.'Segoe UI'
-        FontWeight: =FontWeight.Semibold
-        Height: =71
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        OnSelect: |-
-            =UpdateContext({pressedButton1:true});
-            UpdateContext({pressedButton2:false});
-            UpdateContext({pressedButton3:false})
-        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
-        PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =24
-        Text: =
-        Width: =402
-        X: =19
-        Y: =454
-        ZIndex: =39
+        ZIndex: =33
 
     Button9_1 As button:
-        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =If(pressedButton1=true, Color.Orange, Color.White)
+        BorderThickness: =5
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
@@ -700,10 +708,11 @@
         Width: =402
         X: =19
         Y: =552
-        ZIndex: =40
+        ZIndex: =34
 
     Button9_2 As button:
-        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderColor: =If(pressedButton1=true, Color.Orange, Color.White)
+        BorderThickness: =5
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
@@ -731,5 +740,5 @@
         Width: =402
         X: =19
         Y: =645
-        ZIndex: =41
+        ZIndex: =35
 
