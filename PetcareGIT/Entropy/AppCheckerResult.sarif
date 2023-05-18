@@ -22852,6 +22852,36 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "'5. Màn hình đăng ký gói'.pressedButton1"
+                }
+              ],
+              "properties": {
+                "member": "pressedButton1",
+                "module": "5. Màn hình đăng ký gói",
+                "type": "'5. Màn hình đăng ký gói'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'5. Màn hình đăng ký gói'.pressedButton1",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-UnusedVariables",
+          "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "'5. Màn hình đăng ký gói'.pressedButton2"
                 }
               ],
