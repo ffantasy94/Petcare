@@ -10,18 +10,22 @@
         "dataSources": {
           "Dữ liệu màn hình đăng nhập": {
             "tableName": "9957249c-3f5f-4c06-8a28-bf7e85c8dda4"
+          },
+          "Màn hình quên mật khẩu": {
+            "tableName": "77fe67ff-c778-484b-b384-c1986d39415b"
           }
         }
       }
     },
     "dataSources": [
-      "Dữ liệu màn hình đăng nhập"
+      "Dữ liệu màn hình đăng nhập",
+      "Màn hình quên mật khẩu"
     ],
     "dependencies": {},
     "dependents": [],
     "id": "2556523e-cb43-40e9-8a5a-40ba3a86bbc6"
   },
-  "53abafc0-b3c9-4776-ae56-4b118c4924a6": {
+  "5dd036ee-dab8-4e0e-b539-32e4a7ed1949": {
     "connectionRef": {
       "displayName": "Spatial Services",
       "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1613/1.0.1613.3125/microsoftspatialservices/icon.png",
@@ -33,7 +37,7 @@
     ],
     "dependencies": {},
     "dependents": [],
-    "id": "53abafc0-b3c9-4776-ae56-4b118c4924a6"
+    "id": "5dd036ee-dab8-4e0e-b539-32e4a7ed1949"
   },
   "f573710c-a6d9-4ffe-b697-d40e57e0a138": {
     "connectionRef": {
