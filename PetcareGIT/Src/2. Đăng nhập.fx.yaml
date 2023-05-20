@@ -271,7 +271,8 @@
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =
-        OnSelect: =Navigate('5. Màn hình đăng ký gói')
+        OnSelect: |-
+            =Patch('Màn hình đăng nhập' , Defaults( 'Màn hình đăng nhập' ), { 'Tiêu đề': TextInput2_9.Text, 'Mật Khẩu': TextInput2_11.Text } ); Navigate('5. Màn hình đăng ký gói')
         PressedBorderColor: =RGBA(246, 88, 16, 1)
         PressedColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(246, 88, 16, 1)

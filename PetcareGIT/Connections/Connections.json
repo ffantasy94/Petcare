@@ -11,6 +11,9 @@
           "Dữ liệu màn hình đăng nhập": {
             "tableName": "9957249c-3f5f-4c06-8a28-bf7e85c8dda4"
           },
+          "Màn hình đăng nhập": {
+            "tableName": "18351e6a-7df4-4d28-af31-37d8dee40656"
+          },
           "Màn hình quên mật khẩu": {
             "tableName": "77fe67ff-c778-484b-b384-c1986d39415b"
           }
@@ -19,7 +22,8 @@
     },
     "dataSources": [
       "Dữ liệu màn hình đăng nhập",
-      "Màn hình quên mật khẩu"
+      "Màn hình quên mật khẩu",
+      "Màn hình đăng nhập"
     ],
     "dependencies": {},
     "dependents": [],
