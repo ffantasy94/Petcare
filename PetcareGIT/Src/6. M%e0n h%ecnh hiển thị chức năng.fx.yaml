@@ -9,70 +9,17 @@
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledFill: =RGBA(0, 0, 0, 0)
         FocusedBorderThickness: =4
-        Height: =35
+        Height: =69
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: =image1081931
         OnSelect: =Navigate( '8. Chat bot', ScreenTransition.Cover)
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =35
-        X: =22
-        Y: =808
+        Width: =76
+        X: =312
+        Y: =109
         ZIndex: =4
-
-    TextInput1_1 As text:
-        BorderColor: =RGBA(166, 166, 166, 1)
-        Color: =RGBA(204, 204, 204, 1)
-        Default: =""
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        DisabledFill: =RGBA(244, 244, 244, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
-        Height: =35
-        HintText: ="Bạn cần tôi giúp gì?"
-        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverColor: =RGBA(51, 51, 51, 1)
-        HoverFill: =RGBA(255, 255, 255, 1)
-        PressedBorderColor: =RGBA(0, 120, 212, 1)
-        PressedColor: =RGBA(51, 51, 51, 1)
-        PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Width: =239
-        X: =67
-        Y: =808
-        ZIndex: =5
-
-    Button3_1 As button:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        DisabledFill: =RGBA(244, 244, 244, 1)
-        Fill: =RGBA(251, 183, 80, 1)
-        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
-        Font: =Font.'Segoe UI'
-        FontWeight: =FontWeight.Semibold
-        Height: =35
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
-        PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =14
-        Text: ="Gửi"
-        Width: =90
-        X: =317
-        Y: =808
-        ZIndex: =6
 
     Circle1_10 As circle:
         BorderColor: =RGBA(166, 166, 166, 1)
@@ -166,13 +113,13 @@
         FocusedBorderThickness: =4
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
-        Height: =70
+        Height: =80
         OnSelect: =Navigate( '7.1. Màn hình hiển thị thông tin thú cưng', ScreenTransition.Cover )
         Size: =16
         Text: ="Hồ sơ thú cưng"
-        Width: =160
-        X: =44
-        Y: =351
+        Width: =169
+        X: =26
+        Y: =370
         ZIndex: =17
 
     Label7_1 As label:
@@ -185,13 +132,13 @@
         FocusedBorderThickness: =4
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
-        Height: =70
+        Height: =80
         OnSelect: =Navigate( '7.2 Màn hình quản lý theo dõi sức khỏe', ScreenTransition.Cover)
         Size: =16
         Text: ="Hồ sơ sức khỏe"
-        Width: =160
-        X: =237
-        Y: =351
+        Width: =169
+        X: =219
+        Y: =370
         ZIndex: =18
 
     Label7_2 As label:
@@ -205,13 +152,13 @@
         FocusedBorderThickness: =4
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
-        Height: =70
+        Height: =80
         OnSelect: =Navigate( '9.1. Đặt lịch', ScreenTransition.Cover)
         Size: =16
         Text: ="Đặt lịch"
-        Width: =169
-        X: =44
-        Y: =643
+        Width: =179
+        X: =25
+        Y: =662
         ZIndex: =19
 
     Label7_3 As label:
@@ -225,15 +172,15 @@
         FocusedBorderThickness: =4
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
-        Height: =70
+        Height: =80
         OnSelect: =Navigate( '10.2. Màn hình gợi ý phòng khám', ScreenTransition.Cover)
         Size: =16
         Text: |-
             ="Phòng khám
             lân cận"
-        Width: =169
-        X: =232
-        Y: =658
+        Width: =179
+        X: =214
+        Y: =677
         ZIndex: =20
 
     Image2_1 As image:
@@ -244,7 +191,7 @@
         DisabledFill: =RGBA(0, 0, 0, 0)
         Fill: =RGBA(251, 183, 80, 1)
         FocusedBorderThickness: =4
-        Height: =136
+        Height: =155
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: ='Red-simple-heart-icon-transparent-background'
@@ -255,9 +202,9 @@
         PaddingTop: =20
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =146
-        X: =248
-        Y: =215
+        Width: =154
+        X: =231
+        Y: =234
         ZIndex: =21
 
     Image2_2 As image:
@@ -268,7 +215,7 @@
         DisabledFill: =RGBA(0, 0, 0, 0)
         Fill: =RGBA(251, 183, 80, 1)
         FocusedBorderThickness: =4
-        Height: =136
+        Height: =155
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: ='calendar-date-event-month-icon--19'
@@ -279,9 +226,9 @@
         PaddingTop: =20
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =146
-        X: =52
-        Y: =507
+        Width: =154
+        X: =35
+        Y: =526
         ZIndex: =22
 
     Image2_3 As image:
@@ -292,7 +239,7 @@
         DisabledFill: =RGBA(0, 0, 0, 0)
         Fill: =RGBA(251, 183, 80, 1)
         FocusedBorderThickness: =4
-        Height: =136
+        Height: =155
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: ='free-hospital-icon-1066-thumb'
@@ -303,9 +250,9 @@
         PaddingTop: =20
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =146
-        X: =247
-        Y: =507
+        Width: =154
+        X: =230
+        Y: =526
         ZIndex: =23
 
     Group1 As group:
@@ -323,7 +270,7 @@
             DisabledFill: =RGBA(0, 0, 0, 0)
             Fill: =RGBA(251, 183, 80, 1)
             FocusedBorderThickness: =4
-            Height: =136
+            Height: =155
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverFill: =RGBA(0, 0, 0, 0)
             Image: ='58aeffb2c869e092af51ee74'
@@ -334,9 +281,9 @@
             PaddingTop: =20
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
-            Width: =146
-            X: =51
-            Y: =215
+            Width: =155
+            X: =34
+            Y: =234
             ZIndex: =1
 
         Button2 As button:
@@ -348,7 +295,7 @@
             FocusedBorderColor: =ColorFade(Self.Fill, -75%)
             Font: =Font.'Segoe UI'
             FontWeight: =FontWeight.Semibold
-            Height: =107
+            Height: =122
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverColor: =RGBA(255, 255, 255, 1)
             HoverFill: =
@@ -362,8 +309,8 @@
             RadiusTopRight: =0
             Size: =24
             Text: =""
-            Width: =131
-            X: =67
-            Y: =215
+            Width: =139
+            X: =51
+            Y: =234
             ZIndex: =2
 
