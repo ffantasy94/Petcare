@@ -29,10 +29,10 @@
       "disablecdsfileandlargeimage": false,
       "dynamicschema": false,
       "enableappembeddingux": false,
-      "enablechatbotfeature": false,
       "enablecomponentnamemaps": false,
       "enablecomponentscopeoldbehavior": false,
       "enablecopilotcontrol": false,
+      "enablechatbotfeature": false,
       "enabledataverseoffline": false,
       "enableeditcacherefreshfrequency": false,
       "enableexcelonlinebusinessv2connector": true,
@@ -126,7 +126,7 @@
     "PublishDataLocally": false,
     "PublishResourcesLocally": false,
     "PublishTarget": "player",
-    "UserLocale": "en-US"
+    "UserLocale": "vi-VN"
   },
   "ScreenOrder": [
     "1. Màn hình giới thiệu app",
@@ -137,6 +137,7 @@
     "6. Màn hình hiển thị chức năng",
     "7.1. Màn hình hiển thị thông tin thú cưng",
     "7.2 Màn hình quản lý theo dõi sức khỏe",
+    "7.2 Màn hình quản lý theo dõi sức khỏe_1",
     "7.2.1. Cân nặng",
     "7.2.2. Chiều cao",
     "7.2.3. Chiều dài",

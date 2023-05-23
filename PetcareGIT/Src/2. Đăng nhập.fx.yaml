@@ -214,10 +214,10 @@
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         BorderThickness: =2
+        Color: =RGBA(51, 51, 51, 1)
         CheckboxBorderColor: =RGBA(242, 147, 0, 1)
         CheckboxSize: =40
         CheckmarkFill: =RGBA(0, 120, 212, 1)
-        Color: =RGBA(51, 51, 51, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
@@ -272,7 +272,7 @@
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =
         OnSelect: |-
-            =Patch('Màn hình đăng nhập' , Defaults( 'Màn hình đăng nhập' ), { Title: TextInput2_9.Text, 'Mật Khẩu': TextInput2_11.Text } ); Navigate('5. Màn hình đăng ký gói')
+            =Patch('Màn hình đăng nhập' , Defaults( 'Màn hình đăng nhập' ), { 'Tiêu đề': TextInput2_9.Text, 'Mật Khẩu': TextInput2_11.Text } ); Navigate('5. Màn hình đăng ký gói')
         PressedBorderColor: =RGBA(246, 88, 16, 1)
         PressedColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(246, 88, 16, 1)
