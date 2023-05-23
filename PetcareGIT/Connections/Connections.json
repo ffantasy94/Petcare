@@ -10,20 +10,30 @@
         "dataSources": {
           "Dữ liệu màn hình đăng ký": {
             "tableName": "9957249c-3f5f-4c06-8a28-bf7e85c8dda4"
-          },
-          "Màn hình quên mật khẩu": {
-            "tableName": "77fe67ff-c778-484b-b384-c1986d39415b"
           }
         }
       }
     },
     "dataSources": [
-      "Màn hình quên mật khẩu",
       "Dữ liệu màn hình đăng ký"
     ],
     "dependencies": {},
     "dependents": [],
     "id": "7497642e-99e7-42bb-af1c-a7458c5a782f"
+  },
+  "9d986850-04e4-48f9-9932-39d6663dd6aa": {
+    "connectionRef": {
+      "displayName": "Spatial Services",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1613/1.0.1613.3125/microsoftspatialservices/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_microsoftspatialservices"
+    },
+    "datasets": {},
+    "dataSources": [
+      "SpatialServices"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "9d986850-04e4-48f9-9932-39d6663dd6aa"
   },
   "a85f5c33-3a93-4bf9-ba72-8df4475c5f2c": {
     "connectionRef": {
@@ -46,20 +56,6 @@
     "dependencies": {},
     "dependents": [],
     "id": "a85f5c33-3a93-4bf9-ba72-8df4475c5f2c"
-  },
-  "e18b355f-6f7c-467c-9a8c-f9ab0948659c": {
-    "connectionRef": {
-      "displayName": "Spatial Services",
-      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1613/1.0.1613.3125/microsoftspatialservices/icon.png",
-      "id": "/providers/microsoft.powerapps/apis/shared_microsoftspatialservices"
-    },
-    "datasets": {},
-    "dataSources": [
-      "SpatialServices"
-    ],
-    "dependencies": {},
-    "dependents": [],
-    "id": "e18b355f-6f7c-467c-9a8c-f9ab0948659c"
   },
   "f573710c-a6d9-4ffe-b697-d40e57e0a138": {
     "connectionRef": {
