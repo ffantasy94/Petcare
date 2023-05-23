@@ -272,9 +272,9 @@
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =
         OnSelect: |-
-            =If(IsBlank(LookUp('Dữ liệu màn hình đăng ký','Title'=TextInputLogin.Text && 'Mật Khẩu'=TextInputPassword.Text, true)
+            =If(IsBlank(LookUp('Dữ liệu màn hình đăng ký',Title=TextInputLogin.Text && 'Mật Khẩu'=TextInputPassword.Text, true)
             ),
-            Notify("Tên đăng nhập hoặc mật khẩu không đúng", NotificationType.Error),
+            Notify("Tên đăng nhập hoặc mật khẩu không đúng", NotificationType.Error, 3000),
             Navigate('5. Màn hình đăng ký gói')
             )
         PressedBorderColor: =RGBA(246, 88, 16, 1)
