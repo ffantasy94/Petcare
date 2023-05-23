@@ -29,6 +29,28 @@
     "dependents": [],
     "id": "2556523e-cb43-40e9-8a5a-40ba3a86bbc6"
   },
+  "a85f5c33-3a93-4bf9-ba72-8df4475c5f2c": {
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1627/1.0.1627.3238/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://dueudn.sharepoint.com/sites/M4N_Group": {
+        "dataSources": {
+          "DL HSTC": {
+            "tableName": "ddf80e08-9ed5-4681-8325-c0aec88cbfbb"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "DL HSTC"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "a85f5c33-3a93-4bf9-ba72-8df4475c5f2c"
+  },
   "d4c34040-76a5-4497-a45d-5f0eb1db3e2c": {
     "connectionRef": {
       "displayName": "Spatial Services",
