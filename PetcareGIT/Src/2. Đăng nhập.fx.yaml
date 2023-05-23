@@ -153,7 +153,7 @@
         Y: =110
         ZIndex: =8
 
-    TextInput2_9 As text:
+    TextInputLogin As text:
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderThickness: =0
         Color: =RGBA(140, 131, 131, 1)
@@ -181,7 +181,7 @@
         Y: =221
         ZIndex: =9
 
-    TextInput2_11 As text:
+    TextInputPassword As text:
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderThickness: =0
         Color: =RGBA(140, 131, 131, 1)
@@ -272,7 +272,11 @@
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =
         OnSelect: |-
-            =Patch('Màn hình đăng nhập' , Defaults( 'Màn hình đăng nhập' ), { 'Tiêu đề': TextInput2_9.Text, 'Mật Khẩu': TextInput2_11.Text } ); Navigate('5. Màn hình đăng ký gói')
+            =If(IsBlank(LookUp('Dữ liệu màn hình đăng ký','Title'=TextInputLogin.Text && 'Mật Khẩu'=TextInputPassword.Text, true)
+            ),
+            Notify("Tên đăng nhập hoặc mật khẩu không đúng", NotificationType.Error),
+            Navigate('5. Màn hình đăng ký gói')
+            )
         PressedBorderColor: =RGBA(246, 88, 16, 1)
         PressedColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(246, 88, 16, 1)

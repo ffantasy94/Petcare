@@ -1,5 +1,5 @@
 {
-  "2556523e-cb43-40e9-8a5a-40ba3a86bbc6": {
+  "7497642e-99e7-42bb-af1c-a7458c5a782f": {
     "connectionRef": {
       "displayName": "SharePoint",
       "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1627/1.0.1627.3238/sharepointonline/icon.png",
@@ -8,11 +8,8 @@
     "datasets": {
       "https://dueudn.sharepoint.com/sites/M4N_Group": {
         "dataSources": {
-          "Dữ liệu màn hình đăng nhập": {
+          "Dữ liệu màn hình đăng ký": {
             "tableName": "9957249c-3f5f-4c06-8a28-bf7e85c8dda4"
-          },
-          "Màn hình đăng nhập": {
-            "tableName": "18351e6a-7df4-4d28-af31-37d8dee40656"
           },
           "Màn hình quên mật khẩu": {
             "tableName": "77fe67ff-c778-484b-b384-c1986d39415b"
@@ -21,13 +18,12 @@
       }
     },
     "dataSources": [
-      "Dữ liệu màn hình đăng nhập",
       "Màn hình quên mật khẩu",
-      "Màn hình đăng nhập"
+      "Dữ liệu màn hình đăng ký"
     ],
     "dependencies": {},
     "dependents": [],
-    "id": "2556523e-cb43-40e9-8a5a-40ba3a86bbc6"
+    "id": "7497642e-99e7-42bb-af1c-a7458c5a782f"
   },
   "a85f5c33-3a93-4bf9-ba72-8df4475c5f2c": {
     "connectionRef": {
@@ -51,7 +47,7 @@
     "dependents": [],
     "id": "a85f5c33-3a93-4bf9-ba72-8df4475c5f2c"
   },
-  "d4c34040-76a5-4497-a45d-5f0eb1db3e2c": {
+  "dd929cc7-f4cf-4a92-8124-0741c20dac7e": {
     "connectionRef": {
       "displayName": "Spatial Services",
       "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1613/1.0.1613.3125/microsoftspatialservices/icon.png",
@@ -63,7 +59,7 @@
     ],
     "dependencies": {},
     "dependents": [],
-    "id": "d4c34040-76a5-4497-a45d-5f0eb1db3e2c"
+    "id": "dd929cc7-f4cf-4a92-8124-0741c20dac7e"
   },
   "f573710c-a6d9-4ffe-b697-d40e57e0a138": {
     "connectionRef": {

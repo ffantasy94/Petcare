@@ -5406,54 +5406,6 @@
               "message": {
                 "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
               }
-            },
-            {
-              "associatedRule": {
-                "id": "app-InefficientDelayLoading",
-                "index": 7
-              },
-              "descriptor": {
-                "id": "app-InefficientDelayLoading"
-              },
-              "message": {
-                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
-              }
-            },
-            {
-              "associatedRule": {
-                "id": "app-InefficientDelayLoading",
-                "index": 7
-              },
-              "descriptor": {
-                "id": "app-InefficientDelayLoading"
-              },
-              "message": {
-                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
-              }
-            },
-            {
-              "associatedRule": {
-                "id": "app-InefficientDelayLoading",
-                "index": 7
-              },
-              "descriptor": {
-                "id": "app-InefficientDelayLoading"
-              },
-              "message": {
-                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
-              }
-            },
-            {
-              "associatedRule": {
-                "id": "app-InefficientDelayLoading",
-                "index": 7
-              },
-              "descriptor": {
-                "id": "app-InefficientDelayLoading"
-              },
-              "message": {
-                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
-              }
             }
           ]
         }
@@ -15924,17 +15876,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'7.2.a. Màn hình người dùng nhập DL'.Icon1_10.AccessibleLabel"
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.Icon1_10.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "7.2.a. Màn hình người dùng nhập DL",
-                "type": "'7.2.a. Màn hình người dùng nhập DL'.Icon1_10"
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.Icon1_10"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'7.2.a. Màn hình người dùng nhập DL'.Icon1_10.AccessibleLabel",
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.Icon1_10.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -15954,17 +15906,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'7.2.a. Màn hình người dùng nhập DL'.Icon1_10.TabIndex"
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.Icon1_10.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "7.2.a. Màn hình người dùng nhập DL",
-                "type": "'7.2.a. Màn hình người dùng nhập DL'.Icon1_10"
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.Icon1_10"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'7.2.a. Màn hình người dùng nhập DL'.Icon1_10.TabIndex",
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.Icon1_10.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -15984,17 +15936,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'7.2.a. Màn hình người dùng nhập DL'.Form1.Chieucao_DataCard1.DataCardValue4.AccessibleLabel"
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Group 144_1'.'Ellipse 10_1'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "7.2.a. Màn hình người dùng nhập DL",
-                "type": "'7.2.a. Màn hình người dùng nhập DL'.Form1.Chieucao_DataCard1.DataCardValue4"
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Group 144_1'.'Ellipse 10_1'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'7.2.a. Màn hình người dùng nhập DL'.Form1.Chieucao_DataCard1.DataCardValue4.AccessibleLabel",
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Group 144_1'.'Ellipse 10_1'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -16014,137 +15966,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'7.2.a. Màn hình người dùng nhập DL'.Form1.Cannang_DataCard1.DataCardValue3.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.2.a. Màn hình người dùng nhập DL",
-                "type": "'7.2.a. Màn hình người dùng nhập DL'.Form1.Cannang_DataCard1.DataCardValue3"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.2.a. Màn hình người dùng nhập DL'.Form1.Cannang_DataCard1.DataCardValue3.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.2.a. Màn hình người dùng nhập DL'.Form1.Ngaythang_DataCard1.DataCardValue2.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.2.a. Màn hình người dùng nhập DL",
-                "type": "'7.2.a. Màn hình người dùng nhập DL'.Form1.Ngaythang_DataCard1.DataCardValue2"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.2.a. Màn hình người dùng nhập DL'.Form1.Ngaythang_DataCard1.DataCardValue2.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.2.a. Màn hình người dùng nhập DL_1'.Icon1_11.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.2.a. Màn hình người dùng nhập DL_1",
-                "type": "'7.2.a. Màn hình người dùng nhập DL_1'.Icon1_11"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.2.a. Màn hình người dùng nhập DL_1'.Icon1_11.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.2.a. Màn hình người dùng nhập DL'.Form1.Chieudai_DataCard1.DataCardValue5.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.2.a. Màn hình người dùng nhập DL",
-                "type": "'7.2.a. Màn hình người dùng nhập DL'.Form1.Chieudai_DataCard1.DataCardValue5"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.2.a. Màn hình người dùng nhập DL'.Form1.Chieudai_DataCard1.DataCardValue5.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.2.a. Màn hình người dùng nhập DL_1'.Icon1_11.TabIndex"
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Group 144_1'.'Ellipse 10_1'.TabIndex"
                 }
               ],
               "properties": {
                 "member": "TabIndex",
-                "module": "7.2.a. Màn hình người dùng nhập DL_1",
-                "type": "'7.2.a. Màn hình người dùng nhập DL_1'.Icon1_11"
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Group 144_1'.'Ellipse 10_1'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'7.2.a. Màn hình người dùng nhập DL_1'.Icon1_11.TabIndex",
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Group 144_1'.'Ellipse 10_1'.TabIndex",
                   "relativeAddress": 0
                 }
               }
@@ -16164,17 +15996,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'7.2.a. Màn hình người dùng nhập DL'.Form1.Thannhiet_DataCard1.DataCardValue6.AccessibleLabel"
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Group 144_1'.'image 26_1'.AccessibleLabel"
                 }
               ],
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "7.2.a. Màn hình người dùng nhập DL",
-                "type": "'7.2.a. Màn hình người dùng nhập DL'.Form1.Thannhiet_DataCard1.DataCardValue6"
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Group 144_1'.'image 26_1'"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'7.2.a. Màn hình người dùng nhập DL'.Form1.Thannhiet_DataCard1.DataCardValue6.AccessibleLabel",
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Group 144_1'.'image 26_1'.AccessibleLabel",
                   "relativeAddress": 0
                 }
               }
@@ -16188,6 +16020,906 @@
           },
           "ruleId": "acc-AccessibleLabelNeeded",
           "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Group 144_1'.'image 26_1'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Group 144_1'.'image 26_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Group 144_1'.'image 26_1'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'[Tên thú cưng]_1'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'[Tên thú cưng]_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'[Tên thú cưng]_1'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 104_1'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 104_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 104_1'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 104_1'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 104_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 104_1'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 103_1'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 103_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 103_1'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 103_1'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 103_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 103_1'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'ruler 1_2'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'ruler 1_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'ruler 1_2'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'ruler 1_2'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'ruler 1_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'ruler 1_2'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'can 1_2'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'can 1_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'can 1_2'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'can 1_2'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'can 1_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'can 1_2'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Cân nặng_3'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Cân nặng_3'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Cân nặng_3'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Chiều cao_1'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Chiều cao_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Chiều cao_1'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 106_1'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 106_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 106_1'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 106_1'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 106_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 106_1'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 105_1'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 105_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 105_1'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 105_1'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 105_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 105_1'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'image 28_2'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'image 28_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'image 28_2'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'image 28_2'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'image 28_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'image 28_2'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'ruler 2_2'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'ruler 2_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'ruler 2_2'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'ruler 2_2'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'ruler 2_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'ruler 2_2'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Chiều dài_2'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Chiều dài_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Chiều dài_2'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Thân nhiệt_2'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Thân nhiệt_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Thân nhiệt_2'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 107_1'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 107_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 107_1'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 107_1'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 107_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 107_1'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 108_5'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 108_5'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 108_5'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 108_5'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 108_5'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Rectangle 108_5'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'image 29_2'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'image 29_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'image 29_2'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'image 29_2'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'image 29_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'image 29_2'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Lịch sử bệnh lý_2'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Lịch sử bệnh lý_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Lịch sử bệnh lý_2'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Lịch sử tiêm phòng_2'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.2 Màn hình quản lý theo dõi sức khỏe_1",
+                "type": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Lịch sử tiêm phòng_2'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.2 Màn hình quản lý theo dõi sức khỏe_1'.'Lịch sử tiêm phòng_2'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 3
         },
         {
           "locations": [

@@ -33,13 +33,14 @@
       "M_x1ead_tKh_x1ea9_u": "Mật Khẩu",
       "Modified": "Đã sửa đổi",
       "OData__ColorTag": "Thẻ màu",
+      "OData__x0110__x1ecb_ach_x1ec9_Email": "Địa chỉ Email",
       "Title": "Tiêu đề"
     },
     "DatasetName": "https://dueudn.sharepoint.com/sites/M4N_Group",
     "EncodeDataset": true,
     "IsSampleData": false,
     "IsWritable": true,
-    "Name": "Màn hình đăng nhập",
+    "Name": "Dữ liệu màn hình đăng ký",
     "Type": "ConnectedDataSourceInfo"
   }
 ]
