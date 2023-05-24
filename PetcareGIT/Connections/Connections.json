@@ -10,13 +10,17 @@
         "dataSources": {
           "Dữ liệu màn hình đăng ký": {
             "tableName": "9957249c-3f5f-4c06-8a28-bf7e85c8dda4"
+          },
+          "MapData": {
+            "tableName": "47ceb26c-5179-4841-933a-696b59caec23"
           }
         }
       }
     },
     "dataSources": [
       "DL HSTC",
-      "Dữ liệu màn hình đăng ký"
+      "Dữ liệu màn hình đăng ký",
+      "MapData"
     ],
     "dependencies": {},
     "dependents": [],

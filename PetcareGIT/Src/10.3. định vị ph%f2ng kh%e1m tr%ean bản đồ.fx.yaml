@@ -251,9 +251,31 @@
         DefaultLongitude: =108.2393607928208
         DisplayMode: =DisplayMode.Edit
         Height: =662
+        InfoCards: ='Map.InfoCards'.OnClick
+        Items: =MapData
+        ItemsAddresses: =""
+        ItemsLabels: ="Title"
+        ItemsLatitudes: ="Latitude"
+        ItemsLongitudes: ="Longitude"
         PinColor: =RGBA(29, 114, 169, 1)
         Width: =428
         X: =0
         Y: =162
         ZIndex: =33
+
+        Title8 As pcfDataField.textualColumn:
+            FieldDisplayName: ="Title"
+            FieldName: ="Title"
+            FieldType: ="s"
+            FieldVariantName: ="textualColumn"
+            Order: =1
+            ZIndex: =1
+
+        Location1 As pcfDataField.textualColumn:
+            FieldDisplayName: ="Location"
+            FieldName: ="Location"
+            FieldType: ="s"
+            FieldVariantName: ="textualColumn"
+            Order: =2
+            ZIndex: =2
 
