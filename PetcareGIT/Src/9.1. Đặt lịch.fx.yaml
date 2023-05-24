@@ -21,7 +21,7 @@
         Width: =192
         X: =31
         Y: =38
-        ZIndex: =15
+        ZIndex: =2
 
     Icon1_1 As icon.BackArrow:
         BorderColor: =RGBA(166, 166, 166, 1)
@@ -43,7 +43,7 @@
         Width: =26
         X: =24
         Y: =35
-        ZIndex: =111
+        ZIndex: =3
 
     Button5 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -58,14 +58,15 @@
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
         OnSelect: |-
-            =If(IsBlank(TextInputThongTin.Text), Notify("Dữ liệu không được để trống.", NotificationType.Error, 3000),
+            =If(IsBlank(TextInputThongTin.Text) || IsBlank(TextInputDiaDiem.Text), Notify("Dữ liệu không được để trống.", NotificationType.Error, 3000),
             If(DateDiff(Now(), DatePicker1.SelectedDate) < 0, Notify("Không được chọn ngày nhỏ hơn", NotificationType.Error, 3000), 
             Office365Outlook.V4CalendarPostItem(
                   LookUp(Office365Outlook.CalendarGetTablesV2().value,name="PetCare").id,
                   TextInputThongTin.Text,
                   Text(DateTimeValue(DatePicker1.SelectedDate & " " & DropdownHours.SelectedText.Value & ":" & DropdownMinutes.SelectedText.Value), DateTimeFormat.UTC),
                   Text(DateTimeValue(DatePicker1.SelectedDate & " 18:00"), DateTimeFormat.UTC),
-                  "UTC"
+                  "UTC",
+                  {location: TextInputDiaDiem.Text}
              );
              Notify("Đặt lịch thành công.", NotificationType.Success, 3000)
             ))
@@ -75,9 +76,9 @@
         Size: =20
         Text: ="Đặt lịch"
         Width: =163
-        X: =131
-        Y: =523
-        ZIndex: =116
+        X: =124
+        Y: =606
+        ZIndex: =4
 
     Label3 As label:
         Align: =Align.Center
@@ -95,7 +96,7 @@
         Width: =124
         X: =151
         Y: =402
-        ZIndex: =118
+        ZIndex: =5
 
     DatePicker1 As datepicker:
         BorderColor: =RGBA(166, 166, 166, 1)
@@ -115,17 +116,17 @@
         Width: =390
         X: =24
         Y: =200
-        ZIndex: =121
+        ZIndex: =6
 
     DropdownHours As dropdown:
         BorderColor: =RGBA(166, 166, 166, 1)
-        Color: =RGBA(51, 51, 51, 1)
         ChevronBackground: =RGBA(255, 255, 255, 1)
         ChevronDisabledBackground: =RGBA(244, 244, 244, 1)
         ChevronDisabledFill: =RGBA(166, 166, 166, 1)
         ChevronFill: =RGBA(33, 33, 33, 1)
         ChevronHoverBackground: =RGBA(212, 212, 212, 1)
         ChevronHoverFill: =RGBA(33, 33, 33, 1)
+        Color: =RGBA(51, 51, 51, 1)
         Default: ="00"
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
@@ -148,7 +149,7 @@
         Width: =109
         X: =24
         Y: =323
-        ZIndex: =122
+        ZIndex: =7
 
     "'Đặt Lịch khám_5' As label":
         Align: =Align.Center
@@ -167,7 +168,7 @@
         Text: ="Chọn ngày"
         Width: =133
         Y: =165
-        ZIndex: =124
+        ZIndex: =8
 
     "'Đặt Lịch khám_6' As label":
         Align: =Align.Center
@@ -187,17 +188,17 @@
         Width: =133
         X: =3
         Y: =287
-        ZIndex: =125
+        ZIndex: =9
 
     DropdownMinutes As dropdown:
         BorderColor: =RGBA(166, 166, 166, 1)
-        Color: =RGBA(51, 51, 51, 1)
         ChevronBackground: =RGBA(255, 255, 255, 1)
         ChevronDisabledBackground: =RGBA(244, 244, 244, 1)
         ChevronDisabledFill: =RGBA(166, 166, 166, 1)
         ChevronFill: =RGBA(33, 33, 33, 1)
         ChevronHoverBackground: =RGBA(212, 212, 212, 1)
         ChevronHoverFill: =RGBA(33, 33, 33, 1)
+        Color: =RGBA(51, 51, 51, 1)
         Default: ="00"
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
@@ -220,7 +221,7 @@
         Width: =109
         X: =151
         Y: =323
-        ZIndex: =126
+        ZIndex: =10
 
     TextInputThongTin As text:
         BorderColor: =RGBA(166, 166, 166, 1)
@@ -247,7 +248,7 @@
         Width: =386
         X: =24
         Y: =453
-        ZIndex: =128
+        ZIndex: =11
 
     Icon2 As icon.CalendarBlank:
         BorderColor: =RGBA(166, 166, 166, 1)
@@ -268,5 +269,32 @@
         Width: =46
         X: =368
         Y: =35
-        ZIndex: =129
+        ZIndex: =12
+
+    TextInputDiaDiem As text:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderThickness: =2
+        Color: =RGBA(51, 51, 51, 1)
+        Default: =""
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        Height: =46
+        HintText: ="Nhập địa điểm"
+        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverFill: =RGBA(255, 255, 255, 1)
+        PressedBorderColor: =RGBA(0, 120, 212, 1)
+        PressedColor: =RGBA(51, 51, 51, 1)
+        PressedFill: =RGBA(255, 255, 255, 1)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Width: =386
+        X: =24
+        Y: =529
+        ZIndex: =13
 
