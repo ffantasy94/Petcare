@@ -15,6 +15,7 @@
       }
     },
     "dataSources": [
+      "DL HSTC",
       "Dữ liệu màn hình đăng ký"
     ],
     "dependencies": {},
@@ -29,7 +30,8 @@
     },
     "datasets": {},
     "dataSources": [
-      "SpatialServices"
+      "SpatialServices",
+      "SpatialServices_1"
     ],
     "dependencies": {},
     "dependents": [],
