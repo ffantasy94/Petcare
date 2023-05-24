@@ -57,6 +57,14 @@
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        OnSelect: |-
+            =Office365Outlook.V4CalendarPostItem(
+                  LookUp(Office365Outlook.CalendarGetTablesV2().value,name="PetCare").id,
+                  "Demo Pet Care",
+                  Text(DateTimeValue(DatePicker1.SelectedDate & " 17:00"), "dd/mm/yyyy hh:mm"),
+                  Text(DateTimeValue(DatePicker1.SelectedDate & " 18:00"), "dd/mm/yyyy hh:mm"),
+                  "UTC"
+             )
         PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
