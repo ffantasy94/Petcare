@@ -204,7 +204,7 @@
                 EndYear: =Year(Today())+100
                 Height: =70
                 HoverDateFill: =RGBA(186, 202, 226, 1)
-                IconBackground: =RGBA(56, 96, 178, 1)
+                IconBackground: =RGBA(251, 183, 80, 1)
                 IsEditable: =true
                 PaddingBottom: =0
                 PaddingLeft: =If(Self.DisplayMode = DisplayMode.Edit, 5, 0)
