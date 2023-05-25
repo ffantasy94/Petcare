@@ -293,11 +293,11 @@
                 DisplayMode: =Parent.DisplayMode
                 Height: =70
                 HoverColor: =RGBA(0, 0, 0, 1)
-                HoverFill: =RGBA(186, 202, 226, 1)
+                HoverFill: =RGBA(251,183, 80, 1)
                 Items: =Choices([@'Du lieu thong tin thu cung'].Lo_x00e0_i)
                 PaddingLeft: =If(Self.DisplayMode = DisplayMode.Edit, 5, 0)
                 PressedColor: =RGBA(255, 255, 255, 1)
-                PressedFill: =RGBA(0, 18, 107, 1)
+                PressedFill: =RGBA(251,183, 80, 1)
                 SearchFields: =["Value"]
                 SearchItems: =Choices('Du lieu thong tin thu cung'.Lo_x00e0_i,DataCardValue10.SearchText)
                 SelectionFill: =RGBA(251, 183, 80, 1)
@@ -475,7 +475,7 @@
                 DisplayMode: =Parent.DisplayMode
                 Height: =70
                 HoverColor: =RGBA(0, 0, 0, 1)
-                HoverFill: =RGBA(186, 202, 226, 1)
+                HoverFill: =RGBA(251,183, 80, 1)
                 Items: =Choices([@'Du lieu thong tin thu cung'].Gi_x1edb_i_x0020_t_x00ed_nh)
                 PaddingLeft: =If(Self.DisplayMode = DisplayMode.Edit, 5, 0)
                 PressedColor: =RGBA(255, 255, 255, 1)
