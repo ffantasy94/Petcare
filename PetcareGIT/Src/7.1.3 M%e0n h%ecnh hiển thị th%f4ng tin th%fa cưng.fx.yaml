@@ -64,7 +64,7 @@
         ZIndex: =4
 
     EditForm1 As form:
-        BorderColor: =RGBA(0, 18, 107, 1)
+        BorderColor: =RGBA(251, 183, 80, 100)
         DataSource: =[@'Du lieu thong tin thu cung']
         Height: =838
         Item: =BrowseGallery1.Selected
@@ -81,7 +81,7 @@
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"Title")
             Fill: =RGBA(0, 0, 0, 0)
-            Height: =127
+            Height: =126
             MaxLength: =DataSourceInfo([@'Du lieu thong tin thu cung'], DataSourceInfo.MaxLength, "Title")
             Required: =true
             Update: =DataCardValue8.Text
@@ -95,7 +95,7 @@
                 Color: =RGBA(0, 18, 107, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 Height: =48
-                Size: =21
+                Size: =18
                 Text: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 Wrap: =false
@@ -124,7 +124,7 @@
                 RadiusBottomRight: =0
                 RadiusTopLeft: =0
                 RadiusTopRight: =0
-                Size: =21
+                Size: =18
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
@@ -171,7 +171,7 @@
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"Ng_x00e0_y_x0020_sinh")
             Fill: =RGBA(0, 0, 0, 0)
-            Height: =147
+            Height: =104
             Required: =false
             Update: =DataCardValue9.SelectedDate
             Width: =428
@@ -184,7 +184,7 @@
                 Color: =RGBA(0, 18, 107, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 Height: =48
-                Size: =21
+                Size: =18
                 Text: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 Wrap: =false
@@ -209,7 +209,7 @@
                 PaddingBottom: =0
                 PaddingLeft: =If(Self.DisplayMode = DisplayMode.Edit, 5, 0)
                 SelectedDateFill: =RGBA(56, 96, 178, 1)
-                Size: =24
+                Size: =18
                 StartYear: =1899
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
@@ -257,7 +257,7 @@
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"Lo_x00e0_i")
             Fill: =RGBA(0, 0, 0, 0)
-            Height: =129
+            Height: =90
             Required: =false
             Update: =DataCardValue10.Selected
             Width: =428
@@ -270,7 +270,7 @@
                 Color: =RGBA(0, 18, 107, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 Height: =48
-                Size: =21
+                Size: =18
                 Text: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 Wrap: =false
@@ -280,7 +280,7 @@
 
             DataCardValue10 As combobox:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
-                ChevronBackground: =RGBA(56, 96, 178, 1)
+                ChevronBackground: =RGBA(251, 183, 80, 1)
                 ChevronDisabledBackground: =RGBA(166, 166, 166, 1)
                 ChevronDisabledFill: =RGBA(244, 244, 244, 1)
                 ChevronHoverBackground: =ColorFade(RGBA(56, 96, 178, 1), -20%)
@@ -300,9 +300,9 @@
                 PressedFill: =RGBA(0, 18, 107, 1)
                 SearchFields: =["Value"]
                 SearchItems: =Choices('Du lieu thong tin thu cung'.Lo_x00e0_i,DataCardValue10.SearchText)
-                SelectionFill: =RGBA(56, 96, 178, 1)
+                SelectionFill: =RGBA(251, 183, 80, 1)
                 SelectMultiple: =false
-                Size: =21
+                Size: =18
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
@@ -349,7 +349,7 @@
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"Gi_x1ed1_ng")
             Fill: =RGBA(0, 0, 0, 0)
-            Height: =139
+            Height: =83
             MaxLength: =DataSourceInfo([@'Du lieu thong tin thu cung'], DataSourceInfo.MaxLength, "Gi_x1ed1_ng")
             Required: =false
             Update: =DataCardValue11.Text
@@ -363,7 +363,7 @@
                 Color: =RGBA(0, 18, 107, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 Height: =48
-                Size: =21
+                Size: =18
                 Text: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 Wrap: =false
@@ -392,7 +392,7 @@
                 RadiusBottomRight: =0
                 RadiusTopLeft: =0
                 RadiusTopRight: =0
-                Size: =21
+                Size: =18
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
@@ -452,7 +452,7 @@
                 Color: =RGBA(0, 18, 107, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 Height: =48
-                Size: =21
+                Size: =18
                 Text: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 Wrap: =false
@@ -462,7 +462,7 @@
 
             DataCardValue12 As combobox:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
-                ChevronBackground: =RGBA(56, 96, 178, 1)
+                ChevronBackground: =RGBA(251, 183, 80, 1)
                 ChevronDisabledBackground: =RGBA(166, 166, 166, 1)
                 ChevronDisabledFill: =RGBA(244, 244, 244, 1)
                 ChevronHoverBackground: =ColorFade(RGBA(56, 96, 178, 1), -20%)
@@ -484,7 +484,7 @@
                 SearchItems: =Choices('Du lieu thong tin thu cung'.Gi_x1edb_i_x0020_t_x00ed_nh,DataCardValue12.SearchText)
                 SelectionFill: =RGBA(56, 96, 178, 1)
                 SelectMultiple: =false
-                Size: =21
+                Size: =18
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
@@ -545,7 +545,7 @@
                 Color: =RGBA(0, 18, 107, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 Height: =48
-                Size: =21
+                Size: =18
                 Text: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 Wrap: =false
@@ -574,7 +574,7 @@
                 RadiusBottomRight: =0
                 RadiusTopLeft: =0
                 RadiusTopRight: =0
-                Size: =21
+                Size: =18
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
@@ -635,7 +635,7 @@
                 Color: =RGBA(0, 18, 107, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 Height: =48
-                Size: =21
+                Size: =18
                 Text: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 Wrap: =false
@@ -664,7 +664,7 @@
                 RadiusBottomRight: =0
                 RadiusTopLeft: =0
                 RadiusTopRight: =0
-                Size: =21
+                Size: =18
                 Tooltip: =Parent.DisplayName
                 Width: =Parent.Width - 60
                 X: =30
