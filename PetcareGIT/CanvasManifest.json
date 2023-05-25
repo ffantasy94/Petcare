@@ -126,7 +126,7 @@
     "PublishDataLocally": false,
     "PublishResourcesLocally": false,
     "PublishTarget": "player",
-    "UserLocale": "en-US"
+    "UserLocale": "vi-VN"
   },
   "ScreenOrder": [
     "1. Màn hình giới thiệu app",
@@ -135,7 +135,9 @@
     "4. ResetPassword",
     "5. Màn hình đăng ký gói",
     "6. Màn hình hiển thị chức năng",
-    "7.1. Màn hình hiển thị thông tin thú cưng",
+    "7.1.1 Màn hình hiển thị thông tin thú cưng",
+    "7.1.2 Màn hình hiển thị thông tin thú cưng",
+    "7.1.3 Màn hình hiển thị thông tin thú cưng_2",
     "7.2 Màn hình quản lý theo dõi sức khỏe",
     "7.2.a. Màn hình người dùng nhập DL",
     "7.2.a. Màn hình người dùng nhập DL_1",

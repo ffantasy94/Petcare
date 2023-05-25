@@ -201,19 +201,3 @@
         Y: =162
         ZIndex: =33
 
-        Title8 As pcfDataField.textualColumn:
-            FieldDisplayName: ="Title"
-            FieldName: ="Title"
-            FieldType: ="s"
-            FieldVariantName: ="textualColumn"
-            Order: =1
-            ZIndex: =1
-
-        Location1 As pcfDataField.textualColumn:
-            FieldDisplayName: ="Location"
-            FieldName: ="Location"
-            FieldType: ="s"
-            FieldVariantName: ="textualColumn"
-            Order: =2
-            ZIndex: =2
-
