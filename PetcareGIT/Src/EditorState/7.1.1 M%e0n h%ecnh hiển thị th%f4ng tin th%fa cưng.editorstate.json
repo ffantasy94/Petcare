@@ -318,14 +318,7 @@
         "LoadingSpinner",
         "LoadingSpinnerColor",
         "DisplayMode",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "BorderColor",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "BorderColor",
         "DisabledBorderColor",
         "PressedBorderColor",
         "HoverBorderColor",
@@ -353,7 +346,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "BrowseGallery1",
-      "ParentIndex": 9,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -520,7 +513,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_13",
-      "ParentIndex": 12,
+      "ParentIndex": 10,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -632,7 +625,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_14",
-      "ParentIndex": 13,
+      "ParentIndex": 11,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -744,7 +737,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_15",
-      "ParentIndex": 11,
+      "ParentIndex": 9,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -905,7 +898,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon2_5",
-      "ParentIndex": 10,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2155,14 +2148,7 @@
         "Width",
         "Height",
         "BorderStyle",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "BorderColor",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "BorderColor",
         "DisabledBorderColor",
         "PressedBorderColor",
         "HoverBorderColor",
@@ -2378,7 +2364,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle11",
-      "ParentIndex": 8,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2453,26 +2439,12 @@
     "RectQuickActionBar1_1": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "Fill",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "Fill",
         "DisabledFill",
         "PressedFill",
         "HoverFill",
         "BorderColor",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "BorderStyle",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "BorderStyle",
         "FocusedBorderColor",
         "DisplayMode",
         "X",
@@ -2612,7 +2584,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "SearchIcon1",
-      "ParentIndex": 7,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3167,7 +3139,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "TextSearchBox1",
-      "ParentIndex": 6,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

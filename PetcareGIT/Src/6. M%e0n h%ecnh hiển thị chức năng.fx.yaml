@@ -181,7 +181,8 @@
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: ='free-hospital-icon-1066-thumb'
-        OnSelect: =Navigate( '10.2. Màn hình gợi ý phòng khám', ScreenTransition.Cover)
+        OnSelect: |
+            =Navigate('10.3. định vị phòng khám trên bản đồ')
         PaddingBottom: =20
         PaddingLeft: =20
         PaddingRight: =20
