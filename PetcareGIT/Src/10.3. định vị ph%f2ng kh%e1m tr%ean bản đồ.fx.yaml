@@ -182,11 +182,11 @@
     "Map1 As 'Bản đồ (bản xem trước)'.pcfdataset":
         BorderColor: =RGBA(0, 18, 107, 1)
         CurrentLocation: =true
-        CurrentLocationLatitude: =16.04782014559036
-        CurrentLocationLongitude: =108.2393607928
-        DefaultLatitude: =16.04782014559036
+        CurrentLocationLatitude: =16.047419
+        CurrentLocationLongitude: =108.239075
+        DefaultLatitude: =16.047419
         DefaultLocation: =true
-        DefaultLongitude: =108.2393607928208
+        DefaultLongitude: =108.239075
         DisplayMode: =DisplayMode.Edit
         Height: =662
         InfoCards: ='Map.InfoCards'.OnClick
