@@ -171,10 +171,11 @@
     DetailForm1 As formViewer:
         BorderColor: =RGBA(0, 18, 107, 1)
         DataSource: =[@'Du lieu thong tin thu cung']
-        Height: =615
+        Height: =603
         Item: =BrowseGallery1.Selected
-        Width: =Parent.Width
-        Y: =223
+        Width: =387
+        X: =21
+        Y: =235
         ZIndex: =31
 
         "'Tên (Title)_DataCard1' As typedDataCard.textualViewCard":
@@ -185,9 +186,9 @@
             DisplayMode: =DisplayMode.View
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"Title")
             Fill: =RGBA(0, 0, 0, 0)
-            Height: =40
+            Height: =74
             Required: =true
-            Width: =640
+            Width: =387
             X: =0
             Y: =0
             ZIndex: =1
@@ -199,7 +200,7 @@
                 Height: =48
                 Size: =21
                 Text: =Parent.DisplayName
-                Width: =Parent.Width - 60
+                Width: =397
                 Wrap: =false
                 X: =30
                 Y: =10
@@ -210,15 +211,15 @@
                 Color: =RGBA(0, 0, 0, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 DisplayMode: =Parent.DisplayMode
-                Height: =45
+                Height: =48
                 PaddingLeft: =0
                 PaddingRight: =0
                 PaddingTop: =0
                 Size: =21
                 Text: =Parent.Default
-                Width: =356
-                X: =192
-                Y: =13
+                Width: =248
+                X: =179
+                Y: =10
                 ZIndex: =2
 
         "'Ngày sinh_DataCard1' As typedDataCard.textualViewCard":
@@ -229,21 +230,20 @@
             DisplayMode: =DisplayMode.View
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"Ng_x00e0_y_x0020_sinh")
             Fill: =RGBA(0, 0, 0, 0)
-            Height: =40
+            Height: =82
             Required: =false
-            Width: =640
+            Width: =387
             X: =0
             Y: =1
             ZIndex: =1
 
             DataCardKey2 As label:
-                AutoHeight: =true
                 Color: =RGBA(0, 18, 107, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 Height: =48
                 Size: =21
                 Text: =Parent.DisplayName
-                Width: =Parent.Width - 60
+                Width: =176
                 Wrap: =false
                 X: =30
                 Y: =10
@@ -254,14 +254,14 @@
                 Color: =RGBA(0, 0, 0, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 DisplayMode: =Parent.DisplayMode
-                Height: =44
+                Height: =48
                 PaddingLeft: =0
                 PaddingRight: =0
                 PaddingTop: =0
                 Size: =21
                 Text: =Parent.Default
-                Width: =310
-                X: =194
+                Width: =244
+                X: =180
                 Y: =10
                 ZIndex: =2
 
@@ -273,10 +273,10 @@
             DisplayMode: =DisplayMode.View
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"Lo_x00e0_i")
             Fill: =RGBA(0, 0, 0, 0)
-            Height: =50
+            Height: =76
             Required: =false
             Update: =DataCardValue3.Selected
-            Width: =640
+            Width: =387
             X: =0
             Y: =2
             ZIndex: =1
@@ -320,8 +320,8 @@
                 SelectMultiple: =false
                 Size: =21
                 Width: =194
-                X: =189
-                Y: =10
+                X: =183
+                Y: =8
                 ZIndex: =2
 
             ErrorMessage1 As label:
@@ -364,9 +364,9 @@
             DisplayMode: =DisplayMode.View
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"Gi_x1ed1_ng")
             Fill: =RGBA(0, 0, 0, 0)
-            Height: =40
+            Height: =76
             Required: =false
-            Width: =640
+            Width: =387
             X: =0
             Y: =3
             ZIndex: =1
@@ -396,7 +396,7 @@
                 Size: =21
                 Text: =Parent.Default
                 Width: =244
-                X: =178
+                X: =184
                 Y: =19
                 ZIndex: =2
 
@@ -408,10 +408,10 @@
             DisplayMode: =DisplayMode.View
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"Gi_x1edb_i_x0020_t_x00ed_nh")
             Fill: =RGBA(0, 0, 0, 0)
-            Height: =50
+            Height: =72
             Required: =false
             Update: =DataCardValue5.Selected
-            Width: =640
+            Width: =387
             X: =0
             Y: =4
             ZIndex: =1
@@ -455,7 +455,7 @@
                 SelectMultiple: =false
                 Size: =21
                 Width: =180
-                X: =188
+                X: =187
                 ZIndex: =2
 
             ErrorMessage2 As label:
@@ -498,9 +498,9 @@
             DisplayMode: =DisplayMode.View
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"M_x00e0_u")
             Fill: =RGBA(0, 0, 0, 0)
-            Height: =40
+            Height: =78
             Required: =false
-            Width: =640
+            Width: =387
             X: =0
             Y: =5
             ZIndex: =1
@@ -523,14 +523,14 @@
                 Color: =RGBA(0, 0, 0, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 DisplayMode: =Parent.DisplayMode
-                Height: =29
+                Height: =48
                 PaddingLeft: =0
                 PaddingRight: =0
                 PaddingTop: =0
                 Size: =21
                 Text: =Parent.Default
-                Width: =274
-                X: =195
+                Width: =214
+                X: =184
                 Y: =10
                 ZIndex: =2
 
@@ -542,9 +542,9 @@
             DisplayMode: =DisplayMode.View
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"M_x00f4__x0020_t_x1ea3__x0020_ng")
             Fill: =RGBA(0, 0, 0, 0)
-            Height: =40
+            Height: =160
             Required: =false
-            Width: =640
+            Width: =387
             X: =0
             Y: =6
             ZIndex: =1
@@ -567,14 +567,14 @@
                 Color: =RGBA(0, 0, 0, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 DisplayMode: =Parent.DisplayMode
-                Height: =10
+                Height: =64
                 PaddingLeft: =0
                 PaddingRight: =0
                 PaddingTop: =0
                 Size: =21
                 Text: =Parent.Default
                 Width: =360
-                X: =42
+                X: =38
                 Y: =58
                 ZIndex: =2
 
