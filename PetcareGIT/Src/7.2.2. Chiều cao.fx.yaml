@@ -130,68 +130,6 @@
         Y: =170
         ZIndex: =92
 
-    Circle1_22 As circle:
-        BorderColor: =RGBA(166, 166, 166, 1)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledFill: =RGBA(0, 120, 212, 1)
-        Fill: =RGBA(251, 183, 80, 1)
-        Height: =39
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =40
-        X: =248
-        Y: =874
-        ZIndex: =93
-
-    Circle1_23 As circle:
-        BorderColor: =RGBA(166, 166, 166, 1)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledFill: =RGBA(0, 120, 212, 1)
-        Fill: =RGBA(251, 183, 80, 1)
-        Height: =39
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =40
-        X: =346
-        Y: =874
-        ZIndex: =94
-
-    Circle1_24 As circle:
-        BorderColor: =RGBA(166, 166, 166, 1)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledFill: =RGBA(0, 120, 212, 1)
-        Fill: =RGBA(251, 183, 80, 1)
-        Height: =39
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =40
-        X: =146
-        Y: =874
-        ZIndex: =95
-
-    Icon2_8 As icon.Home:
-        BorderColor: =RGBA(166, 166, 166, 1)
-        Color: =RGBA(251, 183, 80, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(220, 220, 220, 1)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =39
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Icon: =Icon.Home
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =47
-        X: =54
-        Y: =874
-        ZIndex: =96
-
     Icon1_5 As icon.BackArrow:
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderStyle: =BorderStyle.None

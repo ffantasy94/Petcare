@@ -11,9 +11,6 @@
           "ChatGPTData": {
             "tableName": "88209e9e-af09-47ad-8e51-f006c23e13e6"
           },
-          "Du lieu thong tin thu cung": {
-            "tableName": "9a676def-b2e4-4679-bfb0-e19ea2da5c58"
-          },
           "Dữ liệu màn hình đăng ký": {
             "tableName": "9957249c-3f5f-4c06-8a28-bf7e85c8dda4"
           },
@@ -27,8 +24,7 @@
       "DL HSTC",
       "Dữ liệu màn hình đăng ký",
       "MapData",
-      "ChatGPTData",
-      "Du lieu thong tin thu cung"
+      "ChatGPTData"
     ],
     "dependencies": {},
     "dependents": [],
