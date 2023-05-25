@@ -5375,7 +5375,7 @@
       "LayoutName": "vertical",
       "MetaDataIDKey": "",
       "Name": "EditForm1",
-      "ParentIndex": 4,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5511,7 +5511,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Ellipse 10_5",
-      "ParentIndex": 6,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -8357,7 +8357,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon1_12",
-      "ParentIndex": 5,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -8708,7 +8708,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "IconAccept1",
-      "ParentIndex": 3,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -8922,7 +8922,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "IconCancel1",
-      "ParentIndex": 1,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -9133,7 +9133,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "image 26_4",
-      "ParentIndex": 7,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -9432,7 +9432,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label4_2",
-      "ParentIndex": 8,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -9685,7 +9685,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "LblAppName3",
-      "ParentIndex": 2,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -10483,7 +10483,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "RectQuickActionBar3",
-      "ParentIndex": 0,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
