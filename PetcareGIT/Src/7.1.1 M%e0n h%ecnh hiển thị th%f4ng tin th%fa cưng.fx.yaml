@@ -162,7 +162,7 @@
 
     Rectangle11 As rectangle:
         BorderColor: =RGBA(0, 18, 107, 1)
-        Fill: =RGBA(0, 18, 107, 1)
+        Fill: =RGBA(251, 183, 80, 1)
         Height: =2
         Width: =Parent.Width
         Y: =TextSearchBox1.Y + TextSearchBox1.Height
@@ -170,15 +170,16 @@
 
     "BrowseGallery1 As gallery.'BrowseLayout_Vertical_ThreeTextVariant_ver4.0'":
         BorderColor: =RGBA(251, 183, 80, 1)
-        Height: =504
+        BorderStyle: =BorderStyle.None
+        Height: =523
         Items: =SortByColumns(Filter([@'Du lieu thong tin thu cung'], StartsWith(Title, TextSearchBox1.Text)), "Title", If(SortDescending1, SortOrder.Descending, SortOrder.Ascending))
         Layout: =Layout.Vertical
         OnSelect: =Navigate('7.1.2 Màn hình hiển thị thông tin thú cưng', ScreenTransition.None)
         ShowScrollbar: =false
         TemplatePadding: =0
-        TemplateSize: =Min(168, Self.Height - 60)
+        TemplateSize: =109
         Width: =Parent.Width
-        Y: =272
+        Y: =253
         ZIndex: =33
 
         Title1_1 As label:
@@ -236,7 +237,7 @@
         NextArrow1 As icon.ChevronRight:
             AccessibleLabel: =Self.Tooltip
             BorderColor: =RGBA(251, 183, 80, 1)
-            Color: =RGBA(0, 18, 107, 1)
+            Color: =RGBA(251, 183, 80, 100)
             DisabledBorderColor: =RGBA(166, 166, 166, 1)
             DisabledColor: =RGBA(244, 244, 244, 1)
             Height: =60
@@ -249,13 +250,13 @@
             TabIndex: =0
             Tooltip: ="Xem chi tiết mục"
             Width: =60
-            X: =Parent.TemplateWidth - Self.Width - 5
-            Y: =(Parent.TemplateHeight / 2) - (Self.Height / 2)
+            X: =356
+            Y: =16
             ZIndex: =4
 
         Separator1_1 As rectangle:
-            BorderColor: =RGBA(0, 18, 107, 1)
-            Fill: =RGBA(0, 18, 107, 1)
+            BorderColor: =RGBA(251, 183, 80, 0.73)
+            Fill: =RGBA(251, 183, 80, 1)
             Height: =1
             OnSelect: =Select(Parent)
             Width: =Parent.TemplateWidth
