@@ -6,7 +6,8 @@
 
     RectQuickActionBar3 As rectangle:
         BorderColor: =RGBA(0, 18, 107, 1)
-        Fill: =RGBA(56, 96, 178, 1)
+        BorderStyle: =BorderStyle.None
+        Fill: =RGBA(251, 183, 80, 1)
         Height: =88
         Width: =Parent.Width
         ZIndex: =1
@@ -65,11 +66,11 @@
     EditForm1 As form:
         BorderColor: =RGBA(0, 18, 107, 1)
         DataSource: =[@'Du lieu thong tin thu cung']
-        Height: =Parent.Height - EditForm1.Y
+        Height: =838
         Item: =BrowseGallery1.Selected
         OnSuccess: =Back()
-        Width: =Parent.Width
-        Y: =RectQuickActionBar3.Height
+        Width: =428
+        Y: =88
         ZIndex: =5
 
         "'Tên (Title)_DataCard2' As typedDataCard.textualEditCard":
@@ -80,11 +81,11 @@
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"Title")
             Fill: =RGBA(0, 0, 0, 0)
-            Height: =50
+            Height: =127
             MaxLength: =DataSourceInfo([@'Du lieu thong tin thu cung'], DataSourceInfo.MaxLength, "Title")
             Required: =true
             Update: =DataCardValue8.Text
-            Width: =640
+            Width: =428
             X: =0
             Y: =0
             ZIndex: =1
@@ -170,10 +171,10 @@
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"Ng_x00e0_y_x0020_sinh")
             Fill: =RGBA(0, 0, 0, 0)
-            Height: =50
+            Height: =147
             Required: =false
             Update: =DataCardValue9.SelectedDate
-            Width: =640
+            Width: =428
             X: =0
             Y: =1
             ZIndex: =1
@@ -256,10 +257,10 @@
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"Lo_x00e0_i")
             Fill: =RGBA(0, 0, 0, 0)
-            Height: =50
+            Height: =129
             Required: =false
             Update: =DataCardValue10.Selected
-            Width: =640
+            Width: =428
             X: =0
             Y: =2
             ZIndex: =1
@@ -348,11 +349,11 @@
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"Gi_x1ed1_ng")
             Fill: =RGBA(0, 0, 0, 0)
-            Height: =50
+            Height: =139
             MaxLength: =DataSourceInfo([@'Du lieu thong tin thu cung'], DataSourceInfo.MaxLength, "Gi_x1ed1_ng")
             Required: =false
             Update: =DataCardValue11.Text
-            Width: =640
+            Width: =428
             X: =0
             Y: =3
             ZIndex: =1
@@ -438,10 +439,10 @@
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"Gi_x1edb_i_x0020_t_x00ed_nh")
             Fill: =RGBA(0, 0, 0, 0)
-            Height: =50
+            Height: =141
             Required: =false
             Update: =DataCardValue12.Selected
-            Width: =640
+            Width: =428
             X: =0
             Y: =4
             ZIndex: =1
@@ -530,11 +531,11 @@
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"M_x00e0_u")
             Fill: =RGBA(0, 0, 0, 0)
-            Height: =50
+            Height: =157
             MaxLength: =DataSourceInfo([@'Du lieu thong tin thu cung'], DataSourceInfo.MaxLength, "M_x00e0_u")
             Required: =false
             Update: =DataCardValue13.Text
-            Width: =640
+            Width: =428
             X: =0
             Y: =5
             ZIndex: =1
@@ -620,11 +621,11 @@
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"M_x00f4__x0020_t_x1ea3__x0020_ng")
             Fill: =RGBA(0, 0, 0, 0)
-            Height: =50
+            Height: =165
             MaxLength: =DataSourceInfo([@'Du lieu thong tin thu cung'], DataSourceInfo.MaxLength, "M_x00f4__x0020_t_x1ea3__x0020_ng")
             Required: =false
             Update: =DataCardValue14.Text
-            Width: =640
+            Width: =428
             X: =0
             Y: =6
             ZIndex: =1
@@ -700,96 +701,5 @@
                 Width: =30
                 Wrap: =false
                 Y: =DataCardKey14.Y
-                ZIndex: =4
-
-        "'Tệp đính kèm_DataCard1' As typedDataCard.attachmentsEditCard":
-            BorderColor: =RGBA(0, 18, 107, 1)
-            BorderStyle: =BorderStyle.Solid
-            DataField: ="{Attachments}"
-            Default: =ThisItem.'Tệp đính kèm'
-            DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"{Attachments}")
-            Fill: =RGBA(0, 0, 0, 0)
-            Height: =50
-            Required: =false
-            Update: =DataCardValue15.Attachments
-            Width: =640
-            X: =0
-            Y: =7
-            ZIndex: =1
-
-            DataCardKey15 As label:
-                AutoHeight: =true
-                Color: =RGBA(0, 18, 107, 1)
-                DisabledColor: =RGBA(166, 166, 166, 1)
-                Height: =48
-                Size: =21
-                Text: =Parent.DisplayName
-                Width: =Parent.Width - 60
-                Wrap: =false
-                X: =30
-                Y: =10
-                ZIndex: =1
-
-            DataCardValue15 As attachments:
-                BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
-                BorderThickness: =2
-                DisabledBorderColor: =RGBA(166, 166, 166, 1)
-                DisabledColor: =RGBA(166, 166, 166, 1)
-                DisabledFill: =RGBA(244, 244, 244, 1)
-                DisplayMode: =Parent.DisplayMode
-                FocusedBorderThickness: =4
-                Height: =520
-                HoverColor: =RGBA(0, 0, 0, 1)
-                HoverFill: =RGBA(186, 202, 226, 1)
-                IsInDataCard: =true
-                ItemColor: =RGBA(255, 255, 255, 1)
-                ItemFill: =RGBA(56, 96, 178, 1)
-                ItemHoverColor: =RGBA(0, 0, 0, 1)
-                ItemHoverFill: =RGBA(186, 202, 226, 1)
-                Items: =Parent.Default
-                PaddingBottom: =5
-                PaddingLeft: =If(Self.DisplayMode = DisplayMode.Edit, 5, 0)
-                PaddingRight: =5
-                PaddingTop: =5
-                PressedColor: =RGBA(255, 255, 255, 1)
-                PressedFill: =RGBA(0, 18, 107, 1)
-                Size: =21
-                Tooltip: =Parent.DisplayName
-                Width: =Parent.Width - 60
-                X: =30
-                Y: =DataCardKey15.Y + DataCardKey15.Height + 5
-                ZIndex: =2
-
-            ErrorMessage10 As label:
-                AutoHeight: =true
-                Color: =RGBA(168, 0, 0, 1)
-                DisabledColor: =RGBA(166, 166, 166, 1)
-                FontWeight: =FontWeight.Semibold
-                Height: =10
-                Live: =Live.Assertive
-                PaddingBottom: =0
-                PaddingLeft: =0
-                PaddingRight: =0
-                PaddingTop: =0
-                Size: =24
-                Text: =Parent.Error
-                Visible: =Parent.DisplayMode=DisplayMode.Edit
-                Width: =Parent.Width - 60
-                X: =30
-                Y: =DataCardValue15.Y + DataCardValue15.Height
-                ZIndex: =3
-
-            StarVisible10 As label:
-                Align: =Align.Center
-                Color: =RGBA(0, 18, 107, 1)
-                DisabledColor: =RGBA(166, 166, 166, 1)
-                Height: =DataCardKey15.Height
-                Size: =21
-                Text: ="*"
-                Visible: =And(Parent.Required, Parent.DisplayMode=DisplayMode.Edit)
-                Width: =30
-                Wrap: =false
-                Y: =DataCardKey15.Y
                 ZIndex: =4
 
