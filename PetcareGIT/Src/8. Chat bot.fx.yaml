@@ -18,7 +18,7 @@
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =35
         X: =22
-        Y: =808
+        Y: =853
         ZIndex: =9
 
     gửi_1 As label:
@@ -39,13 +39,13 @@
         VerticalAlign: =VerticalAlign.Top
         Width: =32
         X: =345
-        Y: =815
+        Y: =860
         ZIndex: =31
 
     TextInputQuestion As text:
         BorderColor: =RGBA(166, 166, 166, 1)
         Color: =RGBA(204, 204, 204, 1)
-        Default: ="Text input"
+        Default: =""
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
@@ -65,7 +65,7 @@
         RadiusTopRight: =0
         Width: =239
         X: =67
-        Y: =808
+        Y: =853
         ZIndex: =32
 
     Icon1 As icon.BackArrow:
@@ -104,7 +104,12 @@
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
         OnSelect: |-
-            =Set(varResponse, ChatGPTAPI.ChatGPTAI("gpt-3.5-turbo", Collect(colChat, {'role':"user", 'content': TextInputQuestion.Text})))
+            =Set(showLoading, true);
+            Set(varResponse, ChatGPTAPI.ChatGPTAI("gpt-3.5-turbo", Collect(colChat, {'role':"user", 'content': TextInputQuestion.Text})));
+            Patch(ChatGPTData , Defaults(ChatGPTData ), { 'Tiêu đề': GUID(), 'Content': TextInputQuestion.Text,  Role: "user" });
+            Patch(ChatGPTData , Defaults(ChatGPTData ), { 'Tiêu đề': varResponse.id, 'Content': First(varResponse.choices).message.content, Role: First(varResponse.choices).message.role });
+            Reset(TextInputQuestion);
+            Set(showLoading, false);
         PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
@@ -116,21 +121,22 @@
         Text: ="Gửi"
         Width: =90
         X: =317
-        Y: =808
+        Y: =853
         ZIndex: =40
 
     "Gallery1 As gallery.'BrowseLayout_Flexible_SocialFeed_ver4.0'":
         BorderColor: =RGBA(166, 166, 166, 1)
+        Default: =Last(ChatGPTData)
         DelayItemLoading: =true
-        Height: =706
+        Height: =732
         Items: =ChatGPTData
         Layout: =Layout.Vertical
         LoadingSpinner: =LoadingSpinner.Data
-        TemplateFill: =If(ThisItem.Role = "user", Color.Transparent, Color.LightGray)
+        TemplateFill: =If(ThisItem.Role = "user", Color.Transparent, RGBA(247, 247, 248, 1))
         TemplatePadding: =4
-        TemplateSize: =119
+        TemplateSize: =87
         Width: =428
-        Y: =64
+        Y: =81
         ZIndex: =42
 
         ProfileImage1 As image:
@@ -154,10 +160,10 @@
 
         Title4 As label:
             AutoHeight: =true
-            Color: =If(ThisItem.Role = "user", Color.Black, Color.White)
+            Color: =Color.Black
             DisabledColor: =RGBA(166, 166, 166, 1)
             Font: =Font.'Segoe UI'
-            Height: =Self.Size * 1.8
+            Height: =125
             OnSelect: =Select(Parent)
             PaddingBottom: =0
             PaddingLeft: =0
@@ -170,4 +176,23 @@
             X: =102
             Y: =16
             ZIndex: =3
+
+    Image3 As image:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =98
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: ='Ellipsis-1s-200px (1)'
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Visible: =showLoading
+        Width: =402
+        X: =13
+        Y: =755
+        ZIndex: =43
 
