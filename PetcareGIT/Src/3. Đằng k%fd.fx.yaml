@@ -282,10 +282,10 @@
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         BorderThickness: =2
+        Color: =RGBA(51, 51, 51, 1)
         CheckboxBorderColor: =RGBA(242, 147, 0, 1)
         CheckboxSize: =40
         CheckmarkFill: =RGBA(0, 120, 212, 1)
-        Color: =RGBA(51, 51, 51, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
@@ -342,10 +342,10 @@
         OnSelect: |-
             =If(IsBlank(TextInputDangNhap.Text) || IsBlank(TextInputEmail.Text) ||
             IsBlank(TextInputMatKhau.Text), Notify("Dữ liệu không được để trống.", NotificationType.Error, 3000),
-            If(Checkbox1.Value = false, Notify("Vui lòng đồng ý các điều khoản", NotificationType.Error, 3000), If(!IsBlank(LookUp('Dữ liệu màn hình đăng ký',Title=TextInputDangNhap.Text || 'Địa chỉ Email'=TextInputEmail.Text, true)
+            If(Checkbox1.Value = false, Notify("Vui lòng đồng ý các điều khoản", NotificationType.Error, 3000), If(!IsBlank(LookUp('Dữ liệu màn hình đăng ký','Tiêu đề'=TextInputDangNhap.Text || 'Địa chỉ Email'=TextInputEmail.Text, true)
             ),
             Notify("Tên đăng nhập hoặc địa chỉ email đã tồn tại.", NotificationType.Error, 3000),
-            Patch('Dữ liệu màn hình đăng ký' , Defaults( 'Dữ liệu màn hình đăng ký' ), { Title: TextInputDangNhap.Text, 'Mật Khẩu': TextInputMatKhau.Text,  'Địa chỉ Email': TextInputEmail.Text } ); Navigate('2. Đăng nhập')
+            Patch('Dữ liệu màn hình đăng ký' , Defaults( 'Dữ liệu màn hình đăng ký' ), { 'Tiêu đề': TextInputDangNhap.Text, 'Mật Khẩu': TextInputMatKhau.Text,  'Địa chỉ Email': TextInputEmail.Text } ); Navigate('2. Đăng nhập')
             )))
         PressedBorderColor: =RGBA(246, 88, 16, 1)
         PressedColor: =RGBA(255, 255, 255, 1)

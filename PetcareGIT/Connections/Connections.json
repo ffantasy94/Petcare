@@ -8,6 +8,9 @@
     "datasets": {
       "https://dueudn.sharepoint.com/sites/M4N_Group": {
         "dataSources": {
+          "ChatGPTData": {
+            "tableName": "88209e9e-af09-47ad-8e51-f006c23e13e6"
+          },
           "Dữ liệu màn hình đăng ký": {
             "tableName": "9957249c-3f5f-4c06-8a28-bf7e85c8dda4"
           },
@@ -20,7 +23,8 @@
     "dataSources": [
       "DL HSTC",
       "Dữ liệu màn hình đăng ký",
-      "MapData"
+      "MapData",
+      "ChatGPTData"
     ],
     "dependencies": {},
     "dependents": [],
@@ -62,6 +66,20 @@
     "dependencies": {},
     "dependents": [],
     "id": "a85f5c33-3a93-4bf9-ba72-8df4475c5f2c"
+  },
+  "b39e9275-1e9e-413a-8bed-1eb9bfe210d3": {
+    "connectionRef": {
+      "displayName": "ChatGPT API",
+      "iconUri": "https://az787822.vo.msecnd.net/defaulticons/api-dedicated.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_chatgpt-20api-5fb6f2a804387fc21f-5ff66023a8a5e1c159"
+    },
+    "datasets": {},
+    "dataSources": [
+      "ChatGPTAPI"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "b39e9275-1e9e-413a-8bed-1eb9bfe210d3"
   },
   "f573710c-a6d9-4ffe-b697-d40e57e0a138": {
     "connectionRef": {

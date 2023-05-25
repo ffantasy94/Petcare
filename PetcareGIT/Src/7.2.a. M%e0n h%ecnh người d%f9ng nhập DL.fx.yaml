@@ -15,7 +15,7 @@
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="Ng_x00e0_yth_x00e1_ng"
-            Default: =ThisItem.'Ngày tháng'
+            Default: =ThisItem.Ngaythang
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@'DL HSTC'],DataSourceInfo.DisplayName,"Ng_x00e0_yth_x00e1_ng")
             Fill: =RGBA(0, 0, 0, 0)
@@ -124,7 +124,7 @@
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="C_x00e2_nn_x1eb7_ng"
-            Default: =ThisItem.'Cân nặng'
+            Default: =ThisItem.Cannang
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@'DL HSTC'],DataSourceInfo.DisplayName,"C_x00e2_nn_x1eb7_ng")
             Fill: =RGBA(0, 0, 0, 0)
@@ -214,7 +214,7 @@
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="Chi_x1ec1_ucao"
-            Default: =ThisItem.'Chiều cao'
+            Default: =ThisItem.Chieucao
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@'DL HSTC'],DataSourceInfo.DisplayName,"Chi_x1ec1_ucao")
             Fill: =RGBA(0, 0, 0, 0)
@@ -329,7 +329,7 @@
             BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="Chi_x1ec1_ud_x00e0_i"
-            Default: =ThisItem.'Chiều dài'
+            Default: =ThisItem.Chieudai
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@'DL HSTC'],DataSourceInfo.DisplayName,"Chi_x1ec1_ud_x00e0_i")
             Fill: =RGBA(0, 0, 0, 0)
