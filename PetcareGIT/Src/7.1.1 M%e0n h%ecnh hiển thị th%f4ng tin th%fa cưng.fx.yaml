@@ -72,7 +72,7 @@
         Height: =88
         Width: =Parent.Width
         Y: =40
-        ZIndex: =26
+        ZIndex: =25
 
     LblAppName1_1 As label:
         Color: =RGBA(255, 255, 255, 1)
@@ -85,7 +85,7 @@
         Wrap: =false
         X: =60
         Y: =40
-        ZIndex: =27
+        ZIndex: =26
 
     IconRefresh1 As icon.Reload:
         AccessibleLabel: =Self.Tooltip
@@ -106,7 +106,7 @@
         Width: =88
         X: =Parent.Width - IconNewItem1.Width - IconSortUpDown1.Width - Self.Width
         Y: =40
-        ZIndex: =28
+        ZIndex: =27
 
     IconSortUpDown1 As icon.ArrowsUpDown:
         AccessibleLabel: =Self.Tooltip
@@ -128,7 +128,7 @@
         Width: =88
         X: =Parent.Width - IconNewItem1.Width - Self.Width
         Y: =40
-        ZIndex: =29
+        ZIndex: =28
 
     IconNewItem1 As icon.Add:
         AccessibleLabel: =Self.Tooltip
@@ -139,7 +139,7 @@
         DisplayMode: =If(DataSourceInfo([@'Du lieu thong tin thu cung'], DataSourceInfo.CreatePermission), DisplayMode.Edit, DisplayMode.Disabled)
         Height: =88
         Icon: =Icon.Add
-        OnSelect: =NewForm(EditForm1);Navigate('7.1.3 Màn hình hiển thị thông tin thú cưng', ScreenTransition.None)
+        OnSelect: =NewForm(EditForm1);Navigate(EditScreen1, ScreenTransition.None)
         PaddingBottom: =24
         PaddingLeft: =24
         PaddingRight: =24
@@ -150,7 +150,7 @@
         Width: =88
         X: =Parent.Width - Self.Width
         Y: =40
-        ZIndex: =30
+        ZIndex: =29
 
     TextSearchBox1 As text:
         BorderColor: =RGBA(0, 18, 107, 1)
@@ -176,7 +176,7 @@
         Size: =21
         Width: =Parent.Width
         Y: =RectQuickActionBar1_1.Height
-        ZIndex: =31
+        ZIndex: =30
 
     SearchIcon1 As icon.Search:
         BorderColor: =RGBA(0, 18, 107, 1)
@@ -193,7 +193,7 @@
         Width: =TextSearchBox1.Height
         X: =TextSearchBox1.X
         Y: =TextSearchBox1.Y
-        ZIndex: =32
+        ZIndex: =31
 
     Rectangle11 As rectangle:
         BorderColor: =RGBA(0, 18, 107, 1)
@@ -201,7 +201,7 @@
         Height: =2
         Width: =Parent.Width
         Y: =TextSearchBox1.Y + TextSearchBox1.Height
-        ZIndex: =33
+        ZIndex: =32
 
     "BrowseGallery1 As gallery.'BrowseLayout_Vertical_ThreeTextVariant_ver4.0'":
         BorderColor: =RGBA(0, 18, 107, 1)
@@ -214,7 +214,7 @@
         TemplateSize: =Min(168, Self.Height - 60)
         Width: =Parent.Width
         Y: =TextSearchBox1.Y + TextSearchBox1.Height
-        ZIndex: =34
+        ZIndex: =33
 
         Title1_1 As label:
             Color: =RGBA(0, 0, 0, 1)

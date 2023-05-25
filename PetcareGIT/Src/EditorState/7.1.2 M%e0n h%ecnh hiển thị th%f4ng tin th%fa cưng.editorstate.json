@@ -109,7 +109,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_34",
-      "ParentIndex": 5,
+      "ParentIndex": 11,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -221,7 +221,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_35",
-      "ParentIndex": 6,
+      "ParentIndex": 12,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -333,7 +333,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Circle1_36",
-      "ParentIndex": 7,
+      "ParentIndex": 13,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -684,7 +684,7 @@
       "StyleName": "accentLabelStyle",
       "Type": "ControlInfo"
     },
-    "DataCardKey2_1": {
+    "DataCardKey2": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -745,7 +745,7 @@
       "IsLocked": true,
       "LayoutName": "",
       "MetaDataIDKey": "%FieldName.ID%",
-      "Name": "DataCardKey2_1",
+      "Name": "DataCardKey2",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -958,7 +958,7 @@
       "StyleName": "accentLabelStyle",
       "Type": "ControlInfo"
     },
-    "DataCardKey3_1": {
+    "DataCardKey3": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -1019,7 +1019,7 @@
       "IsLocked": true,
       "LayoutName": "",
       "MetaDataIDKey": "%FieldName.ID%",
-      "Name": "DataCardKey3_1",
+      "Name": "DataCardKey3",
       "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -1232,7 +1232,7 @@
       "StyleName": "accentLabelStyle",
       "Type": "ControlInfo"
     },
-    "DataCardKey4_1": {
+    "DataCardKey4": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -1293,7 +1293,7 @@
       "IsLocked": true,
       "LayoutName": "",
       "MetaDataIDKey": "%FieldName.ID%",
-      "Name": "DataCardKey4_1",
+      "Name": "DataCardKey4",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -1506,7 +1506,7 @@
       "StyleName": "accentLabelStyle",
       "Type": "ControlInfo"
     },
-    "DataCardKey5_1": {
+    "DataCardKey5": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -1567,7 +1567,7 @@
       "IsLocked": true,
       "LayoutName": "",
       "MetaDataIDKey": "%FieldName.ID%",
-      "Name": "DataCardKey5_1",
+      "Name": "DataCardKey5",
       "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -1780,7 +1780,7 @@
       "StyleName": "accentLabelStyle",
       "Type": "ControlInfo"
     },
-    "DataCardKey6_1": {
+    "DataCardKey6": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -1841,7 +1841,7 @@
       "IsLocked": true,
       "LayoutName": "",
       "MetaDataIDKey": "%FieldName.ID%",
-      "Name": "DataCardKey6_1",
+      "Name": "DataCardKey6",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -2603,7 +2603,7 @@
       "StyleName": "defaultLabelStyle",
       "Type": "ControlInfo"
     },
-    "DataCardValue2_1": {
+    "DataCardValue2": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -2670,7 +2670,7 @@
       "IsLocked": true,
       "LayoutName": "",
       "MetaDataIDKey": "%FieldValue.ID%",
-      "Name": "DataCardValue2_1",
+      "Name": "DataCardValue2",
       "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -2878,7 +2878,7 @@
       "StyleName": "defaultLabelStyle",
       "Type": "ControlInfo"
     },
-    "DataCardValue3_1": {
+    "DataCardValue3": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -2982,7 +2982,7 @@
       "IsLocked": true,
       "LayoutName": "",
       "MetaDataIDKey": "%FieldValue.ID%",
-      "Name": "DataCardValue3_1",
+      "Name": "DataCardValue3",
       "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -3235,7 +3235,7 @@
       "StyleName": "defaultComboBoxStyle",
       "Type": "ControlInfo"
     },
-    "DataCardValue4_1": {
+    "DataCardValue4": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -3302,7 +3302,7 @@
       "IsLocked": true,
       "LayoutName": "",
       "MetaDataIDKey": "%FieldValue.ID%",
-      "Name": "DataCardValue4_1",
+      "Name": "DataCardValue4",
       "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -3510,7 +3510,7 @@
       "StyleName": "defaultLabelStyle",
       "Type": "ControlInfo"
     },
-    "DataCardValue5_1": {
+    "DataCardValue5": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -3614,7 +3614,7 @@
       "IsLocked": true,
       "LayoutName": "",
       "MetaDataIDKey": "%FieldValue.ID%",
-      "Name": "DataCardValue5_1",
+      "Name": "DataCardValue5",
       "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -3867,7 +3867,7 @@
       "StyleName": "defaultComboBoxStyle",
       "Type": "ControlInfo"
     },
-    "DataCardValue6_1": {
+    "DataCardValue6": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -3934,7 +3934,7 @@
       "IsLocked": true,
       "LayoutName": "",
       "MetaDataIDKey": "%FieldValue.ID%",
-      "Name": "DataCardValue6_1",
+      "Name": "DataCardValue6",
       "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -4456,7 +4456,7 @@
       "LayoutName": "vertical",
       "MetaDataIDKey": "",
       "Name": "DetailForm1",
-      "ParentIndex": 8,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4577,7 +4577,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Ellipse 10_4",
-      "ParentIndex": 1,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5090,7 +5090,7 @@
       "StyleName": "criticalErrorLabelStyle",
       "Type": "ControlInfo"
     },
-    "ErrorMessage2_1": {
+    "ErrorMessage2": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -5158,7 +5158,7 @@
       "IsLocked": true,
       "LayoutName": "",
       "MetaDataIDKey": "%ErrorMessage.ID%",
-      "Name": "ErrorMessage2_1",
+      "Name": "ErrorMessage2",
       "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -5711,7 +5711,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon1_10",
-      "ParentIndex": 0,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5882,7 +5882,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Icon2_12",
-      "ParentIndex": 4,
+      "ParentIndex": 10,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -6068,7 +6068,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "IconBackarrow1",
-      "ParentIndex": 2,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -6291,7 +6291,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "IconDelete1",
-      "ParentIndex": 4,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -6514,7 +6514,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "IconEdit1",
-      "ParentIndex": 5,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -6725,7 +6725,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "image 26_3",
-      "ParentIndex": 2,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -7024,7 +7024,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label4_1",
-      "ParentIndex": 3,
+      "ParentIndex": 9,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -7277,7 +7277,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "LblAppName2",
-      "ParentIndex": 3,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -8010,7 +8010,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "RectQuickActionBar2",
-      "ParentIndex": 1,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -8363,7 +8363,7 @@
       "StyleName": "accentLabelStyle",
       "Type": "ControlInfo"
     },
-    "StarVisible2_1": {
+    "StarVisible2": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -8431,7 +8431,7 @@
       "IsLocked": true,
       "LayoutName": "",
       "MetaDataIDKey": "%FieldRequired.ID%",
-      "Name": "StarVisible2_1",
+      "Name": "StarVisible2",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [

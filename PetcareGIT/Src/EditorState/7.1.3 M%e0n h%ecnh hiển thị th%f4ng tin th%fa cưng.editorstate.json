@@ -5039,7 +5039,7 @@
       "LayoutName": "vertical",
       "MetaDataIDKey": "",
       "Name": "EditForm1",
-      "ParentIndex": 8,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5678,7 +5678,7 @@
       "StyleName": "criticalErrorLabelStyle",
       "Type": "ControlInfo"
     },
-    "ErrorMessage4_1": {
+    "ErrorMessage4": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -5746,7 +5746,7 @@
       "IsLocked": true,
       "LayoutName": "",
       "MetaDataIDKey": "%ErrorMessage.ID%",
-      "Name": "ErrorMessage4_1",
+      "Name": "ErrorMessage4",
       "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -5959,7 +5959,7 @@
       "StyleName": "criticalErrorLabelStyle",
       "Type": "ControlInfo"
     },
-    "ErrorMessage5_1": {
+    "ErrorMessage5": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -6027,7 +6027,7 @@
       "IsLocked": true,
       "LayoutName": "",
       "MetaDataIDKey": "%ErrorMessage.ID%",
-      "Name": "ErrorMessage5_1",
+      "Name": "ErrorMessage5",
       "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -6240,7 +6240,7 @@
       "StyleName": "criticalErrorLabelStyle",
       "Type": "ControlInfo"
     },
-    "ErrorMessage6_1": {
+    "ErrorMessage6": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -6308,7 +6308,7 @@
       "IsLocked": true,
       "LayoutName": "",
       "MetaDataIDKey": "%ErrorMessage.ID%",
-      "Name": "ErrorMessage6_1",
+      "Name": "ErrorMessage6",
       "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -7729,7 +7729,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "IconAccept1",
-      "ParentIndex": 4,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -7943,7 +7943,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "IconCancel1",
-      "ParentIndex": 2,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -8146,7 +8146,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "LblAppName3",
-      "ParentIndex": 3,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -8944,7 +8944,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "RectQuickActionBar3",
-      "ParentIndex": 1,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -9297,7 +9297,7 @@
       "StyleName": "accentLabelStyle",
       "Type": "ControlInfo"
     },
-    "StarVisible3_1": {
+    "StarVisible3": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -9365,7 +9365,7 @@
       "IsLocked": true,
       "LayoutName": "",
       "MetaDataIDKey": "%FieldRequired.ID%",
-      "Name": "StarVisible3_1",
+      "Name": "StarVisible3",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -9578,7 +9578,7 @@
       "StyleName": "accentLabelStyle",
       "Type": "ControlInfo"
     },
-    "StarVisible4_1": {
+    "StarVisible4": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -9646,7 +9646,7 @@
       "IsLocked": true,
       "LayoutName": "",
       "MetaDataIDKey": "%FieldRequired.ID%",
-      "Name": "StarVisible4_1",
+      "Name": "StarVisible4",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -9859,7 +9859,7 @@
       "StyleName": "accentLabelStyle",
       "Type": "ControlInfo"
     },
-    "StarVisible5_1": {
+    "StarVisible5": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -9927,7 +9927,7 @@
       "IsLocked": true,
       "LayoutName": "",
       "MetaDataIDKey": "%FieldRequired.ID%",
-      "Name": "StarVisible5_1",
+      "Name": "StarVisible5",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -10140,7 +10140,7 @@
       "StyleName": "accentLabelStyle",
       "Type": "ControlInfo"
     },
-    "StarVisible6_1": {
+    "StarVisible6": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -10208,7 +10208,7 @@
       "IsLocked": true,
       "LayoutName": "",
       "MetaDataIDKey": "%FieldRequired.ID%",
-      "Name": "StarVisible6_1",
+      "Name": "StarVisible6",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [

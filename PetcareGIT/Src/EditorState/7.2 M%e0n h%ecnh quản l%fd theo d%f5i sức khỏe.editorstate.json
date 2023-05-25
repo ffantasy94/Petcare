@@ -705,7 +705,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Cannang",
-      "ParentIndex": 25,
+      "ParentIndex": 21,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1083,7 +1083,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Chieucao",
-      "ParentIndex": 26,
+      "ParentIndex": 22,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1134,7 +1134,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Chieudai",
-      "ParentIndex": 27,
+      "ParentIndex": 23,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4407,7 +4407,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "LSBL",
-      "ParentIndex": 29,
+      "ParentIndex": 25,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4458,7 +4458,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "LSTP",
-      "ParentIndex": 30,
+      "ParentIndex": 26,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -6181,7 +6181,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Thannhiet",
-      "ParentIndex": 28,
+      "ParentIndex": 24,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
