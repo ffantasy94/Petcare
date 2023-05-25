@@ -12,81 +12,18 @@
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
         FontWeight: =FontWeight.Semibold
-        Height: =56
+        Height: =62
         LineHeight: =0.9166667
         PaddingBottom: =0
         PaddingLeft: =0
         PaddingRight: =0
         PaddingTop: =0
         Size: =18
-        Text: ="[Tên thú cưng]"
-        Width: =191
-        X: =114
-        Y: =170
+        Text: ="Quản lý tình trạng sức khỏe"
+        Width: =407
+        X: =21
+        Y: =173
         ZIndex: =1
-
-    "'Group 144' As groupContainer.manualLayoutContainer":
-        Height: =82
-        LayoutMode: ="manual"
-        Width: =82
-        X: =169
-        Y: =69
-        ZIndex: =2
-
-        "'Ellipse 10' As image":
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            BorderThickness: =2
-            DisabledBorderColor: =RGBA(0, 0, 0, 0)
-            DisabledFill: =RGBA(0, 0, 0, 0)
-            FocusedBorderThickness: =4
-            Height: =82
-            HoverBorderColor: =RGBA(0, 0, 0, 0)
-            HoverFill: =RGBA(0, 0, 0, 0)
-            Image: =image1591907
-            PressedBorderColor: =RGBA(0, 0, 0, 0)
-            PressedFill: =RGBA(0, 0, 0, 0)
-            Width: =82
-            ZIndex: =20
-
-        "'image 26' As image":
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            DisabledBorderColor: =RGBA(0, 0, 0, 0)
-            DisabledFill: =RGBA(0, 0, 0, 0)
-            FocusedBorderThickness: =4
-            Height: =74.2315673828125
-            HoverBorderColor: =RGBA(0, 0, 0, 0)
-            HoverFill: =RGBA(0, 0, 0, 0)
-            Image: =image1591908
-            PressedBorderColor: =RGBA(0, 0, 0, 0)
-            PressedFill: =RGBA(0, 0, 0, 0)
-            Width: =75.0947265625
-            X: =3.45263671875
-            Y: =4.3157958984375
-            ZIndex: =21
-
-    Icon1_3 As icon.BackArrow:
-        BorderColor: =RGBA(166, 166, 166, 1)
-        Color: =RGBA(251, 183, 80, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(220, 220, 220, 1)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(255, 255, 255, 1)
-        FocusedBorderThickness: =4
-        Height: =27
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Icon: =Icon.BackArrow
-        OnSelect: =Back(ScreenTransition.Cover)
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =26
-        X: =28
-        Y: =19
-        ZIndex: =24
 
     Cannang As group:
         Height: =5
@@ -106,8 +43,8 @@
             OnSelect: =Navigate('7.2.1. Cân nặng', ScreenTransition.Cover)
             PressedFill: =RGBA(0, 120, 212, 1)
             Width: =102
-            X: =66
-            Y: =245
+            X: =76
+            Y: =246
             ZIndex: =3
 
         "'can 1' As image":
@@ -124,8 +61,8 @@
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =63
-            X: =85
-            Y: =260
+            X: =95
+            Y: =261
             ZIndex: =8
 
         "'Cân nặng_2' As label":
@@ -147,8 +84,8 @@
             Size: =15
             Text: ="Cân nặng"
             Width: =111
-            X: =61
-            Y: =351
+            X: =71
+            Y: =352
             ZIndex: =9
 
     Chieucao As group:
@@ -169,8 +106,8 @@
             OnSelect: =Navigate('7.2.2. Chiều cao', ScreenTransition.Cover)
             PressedFill: =RGBA(0, 120, 212, 1)
             Width: =102
-            X: =258
-            Y: =244
+            X: =268
+            Y: =245
             ZIndex: =6
 
         "'Chiều cao' As label":
@@ -192,8 +129,8 @@
             Size: =15
             Text: ="Chiều cao"
             Width: =110
-            X: =258
-            Y: =351
+            X: =268
+            Y: =352
             ZIndex: =10
 
         "'ruler 1' As image":
@@ -210,8 +147,8 @@
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =73
-            X: =272
-            Y: =255
+            X: =282
+            Y: =256
             ZIndex: =15
 
     Chieudai As group:
@@ -232,8 +169,8 @@
             OnSelect: =Navigate('7.2.3. Chiều dài', ScreenTransition.Cover)
             PressedFill: =RGBA(0, 120, 212, 1)
             Width: =102
-            X: =66
-            Y: =424
+            X: =76
+            Y: =425
             ZIndex: =7
 
         "'Chiều dài' As label":
@@ -255,8 +192,8 @@
             Size: =15
             Text: ="Chiều dài"
             Width: =114
-            X: =59
-            Y: =538
+            X: =69
+            Y: =539
             ZIndex: =11
 
         "'ruler 2' As image":
@@ -273,8 +210,8 @@
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =73
-            X: =80
-            Y: =440
+            X: =90
+            Y: =441
             ZIndex: =16
 
     Thannhiet As group:
@@ -295,8 +232,8 @@
             OnSelect: =Navigate('7.2.4. Thân nhiệt', ScreenTransition.Cover)
             PressedFill: =RGBA(0, 120, 212, 1)
             Width: =102
-            X: =256
-            Y: =423
+            X: =266
+            Y: =424
             ZIndex: =5
 
         "'Thân nhiệt' As label":
@@ -318,8 +255,8 @@
             Size: =15
             Text: ="Thân nhiệt"
             Width: =129
-            X: =246
-            Y: =539
+            X: =256
+            Y: =540
             ZIndex: =12
 
         "'image 28' As image":
@@ -336,8 +273,8 @@
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =70
-            X: =271
-            Y: =437
+            X: =281
+            Y: =438
             ZIndex: =17
 
     LSBL As group:
@@ -358,8 +295,8 @@
             OnSelect: =Navigate('7.2.5. Lịch sử bệnh lý', ScreenTransition.Cover)
             PressedFill: =RGBA(0, 120, 212, 1)
             Width: =102
-            X: =66
-            Y: =608
+            X: =76
+            Y: =609
             ZIndex: =4
 
         "'Lịch sử bệnh lý' As label":
@@ -383,8 +320,8 @@
                 ="Lịch sử
                 bệnh lý"
             Width: =88
-            X: =80
-            Y: =728
+            X: =90
+            Y: =729
             ZIndex: =13
 
         "'image 29' As image":
@@ -401,8 +338,8 @@
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =65
-            X: =85
-            Y: =627
+            X: =95
+            Y: =628
             ZIndex: =18
 
     "'image 30' As image":
@@ -419,9 +356,27 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =77
-        X: =270
-        Y: =615
+        X: =280
+        Y: =616
         ZIndex: =26
+
+    "'Ellipse 10_5' As image":
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =82
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: =image1591907
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =82
+        X: =174
+        Y: =91
+        ZIndex: =27
 
     LSTP As group:
         Height: =5
@@ -451,8 +406,8 @@
                 ="Lịch sử
                 tiêm phòng"
             Width: =120
-            X: =250
-            Y: =728
+            X: =260
+            Y: =729
             ZIndex: =14
 
         "'Rectangle 108_1' As rectangle":
@@ -466,7 +421,52 @@
             OnSelect: =Navigate('7.2.6. Lịch sử tiêm phòng', ScreenTransition.Cover)
             PressedFill: =RGBA(0, 120, 212, 1)
             Width: =102
-            X: =258
-            Y: =608
+            X: =268
+            Y: =609
             ZIndex: =25
+
+    "'image 26_4' As image":
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =74.2315673828125
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: =image1591908
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =75.0947265625
+        X: =177
+        Y: =95
+        ZIndex: =28
+
+    RectQuickActionBar2_1 As rectangle:
+        BorderColor: =RGBA(251, 183, 80, 1)
+        Fill: =RGBA(251, 183, 80, 1)
+        Height: =79
+        Width: =Parent.Width
+        ZIndex: =29
+
+    Icon6_5 As icon.BackArrow:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(255, 255, 255, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(255, 255, 255, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =53
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.BackArrow
+        OnSelect: =Back(ScreenTransition.Cover)
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =46
+        X: =8
+        Y: =17
+        ZIndex: =30
 

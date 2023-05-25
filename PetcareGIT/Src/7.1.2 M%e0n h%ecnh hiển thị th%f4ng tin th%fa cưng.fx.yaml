@@ -135,7 +135,7 @@
         DisplayMode: =If(DataSourceInfo([@'Du lieu thong tin thu cung'], DataSourceInfo.EditPermission), DisplayMode.Edit, DisplayMode.Disabled)
         Height: =88
         Icon: =Icon.Edit
-        OnSelect: =EditForm(EditForm1);Navigate('7.1.3 Màn hình hiển thị thông tin thú cưng', ScreenTransition.None)
+        OnSelect: =EditForm(EditForm1);Navigate('7.1.3 Màn hình hiển thị thông tin thú cưng', ScreenTransition.Cover)
         PaddingBottom: =24
         PaddingLeft: =24
         PaddingRight: =24
@@ -156,7 +156,7 @@
         DisplayMode: =If(!IsBlank(BrowseGallery1.Selected) && DataSourceInfo([@'Du lieu thong tin thu cung'], DataSourceInfo.DeletePermission), DisplayMode.Edit, DisplayMode.Disabled)
         Height: =88
         Icon: =Icon.Trash
-        OnSelect: =Remove([@'Du lieu thong tin thu cung'], BrowseGallery1.Selected); If (IsEmpty(Errors([@'Du lieu thong tin thu cung'], BrowseGallery1.Selected)), Back())
+        OnSelect: =Remove([@'Du lieu thong tin thu cung'], BrowseGallery1.Selected); If (IsEmpty(Errors([@'Du lieu thong tin thu cung'], BrowseGallery1.Selected)), Back(ScreenTransition.Cover))
         PaddingBottom: =24
         PaddingLeft: =24
         PaddingRight: =24
@@ -569,7 +569,7 @@
                 Color: =RGBA(0, 0, 0, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 DisplayMode: =Parent.DisplayMode
-                Height: =64
+                Height: =49
                 Overflow: =Overflow.Scroll
                 PaddingLeft: =0
                 PaddingRight: =0
@@ -578,7 +578,7 @@
                 Text: =Parent.Default
                 Width: =331
                 X: =38
-                Y: =58
+                Y: =73
                 ZIndex: =2
 
     Icon6_4 As icon.BackArrow:
@@ -593,7 +593,7 @@
         HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         HoverFill: =RGBA(0, 0, 0, 0)
         Icon: =Icon.BackArrow
-        OnSelect: =Navigate('7.1.1 Màn hình hiển thị thông tin thú cưng', ScreenTransition.None)
+        OnSelect: =Navigate('7.1.1 Màn hình hiển thị thông tin thú cưng', ScreenTransition.Cover)
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
