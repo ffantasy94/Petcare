@@ -174,26 +174,9 @@
         RadiusTopLeft: =0
         RadiusTopRight: =7
         Size: =21
-        Width: =Parent.Width
+        Width: =428
         Y: =RectQuickActionBar1_1.Height
         ZIndex: =30
-
-    SearchIcon1 As icon.Search:
-        BorderColor: =RGBA(0, 18, 107, 1)
-        Color: =RGBA(191, 190, 190, 1)
-        DisabledBorderColor: =RGBA(166, 166, 166, 1)
-        DisabledColor: =RGBA(244, 244, 244, 1)
-        Height: =Self.Width
-        Icon: =Icon.Search
-        PaddingBottom: =14
-        PaddingLeft: =14
-        PaddingRight: =14
-        PaddingTop: =14
-        Tooltip: ="Tìm kiếm"
-        Width: =TextSearchBox1.Height
-        X: =TextSearchBox1.X
-        Y: =TextSearchBox1.Y
-        ZIndex: =31
 
     Rectangle11 As rectangle:
         BorderColor: =RGBA(0, 18, 107, 1)
