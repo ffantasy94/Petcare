@@ -177,7 +177,7 @@
         Title4 As label:
             Align: =If(ThisItem.Role="user", Align.Right, Align.Left)
             AutoHeight: =true
-            Color: =Color.Black
+            Color: =If(ThisItem.Role="user", Color.Blue, Color.Black)
             DisabledColor: =RGBA(166, 166, 166, 1)
             Font: =Font.'Segoe UI'
             Height: =125
