@@ -262,7 +262,7 @@
                 PaddingTop: =0
                 Size: =21
                 Text: =Parent.Default
-                Width: =210
+                Width: =193
                 X: =176
                 Y: =10
                 ZIndex: =2
