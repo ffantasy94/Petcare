@@ -52,7 +52,7 @@
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
         Height: =80
-        OnSelect: =Navigate( '7.1. Màn hình hiển thị thông tin thú cưng', ScreenTransition.Cover )
+        OnSelect: =Navigate( '7.1.1 Màn hình hiển thị thông tin thú cưng', ScreenTransition.Cover )
         Size: =16
         Text: ="Hồ sơ thú cưng"
         Width: =169
@@ -212,7 +212,7 @@
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverFill: =RGBA(0, 0, 0, 0)
             Image: ='58aeffb2c869e092af51ee74'
-            OnSelect: =Navigate( '7.1. Màn hình hiển thị thông tin thú cưng', ScreenTransition.Cover )
+            OnSelect: =Navigate( '7.1.1 Màn hình hiển thị thông tin thú cưng', ScreenTransition.Cover )
             PaddingBottom: =20
             PaddingLeft: =20
             PaddingRight: =20
@@ -237,7 +237,7 @@
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverColor: =RGBA(255, 255, 255, 1)
             HoverFill: =
-            OnSelect: =Navigate( '7.1. Màn hình hiển thị thông tin thú cưng', ScreenTransition.Cover )
+            OnSelect: =Navigate( '7.1.1 Màn hình hiển thị thông tin thú cưng', ScreenTransition.Cover )
             PressedBorderColor: =
             PressedColor: =RGBA(255, 255, 255, 1)
             PressedFill: =

@@ -121,9 +121,9 @@
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
         OnSelect: |-
             =Set(showLoading, true);
-            Set(varResponse, ChatGPTAPI.ChatGPTAI("gpt-3.5-turbo", Collect(colChat, {'role':"user", 'content': TextInputQuestion.Text})));
-            Patch(ChatGPTData , Defaults(ChatGPTData ), { 'Tiêu đề': GUID(), 'Content': TextInputQuestion.Text,  Role: "user" });
-            Patch(ChatGPTData , Defaults(ChatGPTData ), { 'Tiêu đề': varResponse.id, 'Content': First(varResponse.choices).message.content, Role: First(varResponse.choices).message.role });
+            Set(varResponse, ChatGPTAPI.ChatGPTAI("gpt-3.5-turbo", Collect(colChat, {role:"user", content: TextInputQuestion.Text})));
+            Patch(ChatGPTData , Defaults(ChatGPTData ), { 'Tiêu đề': GUID(), Content: TextInputQuestion.Text,  Role: "user" });
+            Patch(ChatGPTData , Defaults(ChatGPTData ), { 'Tiêu đề': varResponse.id, Content: First(varResponse.choices).message.content, Role: First(varResponse.choices).message.role });
             Reset(TextInputQuestion);
             Set(showLoading, false);
         PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
