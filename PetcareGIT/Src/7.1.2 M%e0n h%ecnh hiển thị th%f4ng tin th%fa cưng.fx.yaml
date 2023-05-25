@@ -18,8 +18,8 @@
         Size: =21
         Text: ="Thông tin thú cưng"
         Width: =267
-        X: =86
-        Y: =165
+        X: =101
+        Y: =177
         ZIndex: =2
 
     "'Ellipse 10_4' As image":
@@ -37,7 +37,7 @@
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =82
         X: =178
-        Y: =63
+        Y: =95
         ZIndex: =4
 
     "'image 26_3' As image":
@@ -54,7 +54,7 @@
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =75.0947265625
         X: =181
-        Y: =67
+        Y: =99
         ZIndex: =5
 
     Circle1_35 As circle:
@@ -119,56 +119,12 @@
         Y: =874
         ZIndex: =24
 
-    Icon1_10 As icon.BackArrow:
-        BorderColor: =RGBA(166, 166, 166, 1)
-        Color: =RGBA(251, 183, 80, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(220, 220, 220, 1)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        Fill: =RGBA(255, 255, 255, 1)
-        FocusedBorderThickness: =4
-        Height: =27
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Icon: =Icon.BackArrow
-        OnSelect: =Back(ScreenTransition.Cover)
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =26
-        X: =28
-        Y: =19
-        ZIndex: =25
-
     RectQuickActionBar2 As rectangle:
-        BorderColor: =RGBA(0, 18, 107, 1)
-        Fill: =RGBA(56, 96, 178, 1)
+        BorderColor: =RGBA(251, 183, 80, 1)
+        Fill: =RGBA(251, 183, 80, 1)
         Height: =88
         Width: =Parent.Width
-        Y: =40
         ZIndex: =26
-
-    IconBackarrow1 As icon.ChevronLeft:
-        AccessibleLabel: =Self.Tooltip
-        BorderColor: =RGBA(0, 18, 107, 1)
-        Color: =RGBA(255, 255, 255, 1)
-        DisabledBorderColor: =RGBA(166, 166, 166, 1)
-        DisabledColor: =RGBA(244, 244, 244, 1)
-        Height: =88
-        Icon: =Icon.ChevronLeft
-        OnSelect: =Navigate('7.1.1 Màn hình hiển thị thông tin thú cưng', ScreenTransition.None)
-        PaddingBottom: =24
-        PaddingLeft: =24
-        PaddingRight: =24
-        PaddingTop: =24
-        PressedFill: =RGBA(255, 255, 255, 0.3)
-        TabIndex: =0
-        Tooltip: ="Quay lại danh sách"
-        Width: =88
-        X: =40
-        Y: =40
-        ZIndex: =27
 
     IconEdit1 As icon.Edit:
         AccessibleLabel: =Self.Tooltip
@@ -188,8 +144,7 @@
         TabIndex: =0
         Tooltip: ="Chỉnh sửa mục này"
         Width: =88
-        X: =Parent.Width - Self.Width
-        Y: =40
+        X: =340
         ZIndex: =28
 
     IconDelete1 As icon.Trash:
@@ -210,29 +165,16 @@
         TabIndex: =0
         Tooltip: ="Xóa mục này"
         Width: =88
-        X: =Parent.Width - IconEdit1.Width - Self.Width
-        Y: =40
+        X: =256
         ZIndex: =29
-
-    LblAppName2 As label:
-        Color: =RGBA(255, 255, 255, 1)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        Height: =88
-        Size: =27
-        Text: ="Du lieu thong tin thu cung"
-        Width: =Parent.Width - Self.X - IconDelete1.Width - IconEdit1.Width
-        Wrap: =false
-        X: =120
-        Y: =40
-        ZIndex: =30
 
     DetailForm1 As formViewer:
         BorderColor: =RGBA(0, 18, 107, 1)
         DataSource: =[@'Du lieu thong tin thu cung']
-        Height: =Parent.Height - DetailForm1.Y
+        Height: =615
         Item: =BrowseGallery1.Selected
         Width: =Parent.Width
-        Y: =RectQuickActionBar2.Y + RectQuickActionBar2.Height
+        Y: =223
         ZIndex: =31
 
         "'Tên (Title)_DataCard1' As typedDataCard.textualViewCard":
@@ -264,19 +206,19 @@
                 ZIndex: =1
 
             DataCardValue1 As label:
-                AutoHeight: =true
                 BorderColor: =RGBA(0, 18, 107, 1)
                 Color: =RGBA(0, 0, 0, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 DisplayMode: =Parent.DisplayMode
+                Height: =45
                 PaddingLeft: =0
                 PaddingRight: =0
                 PaddingTop: =0
                 Size: =21
                 Text: =Parent.Default
-                Width: =Parent.Width - 60
-                X: =30
-                Y: =DataCardKey1.Y + DataCardKey1.Height + 5
+                Width: =356
+                X: =192
+                Y: =13
                 ZIndex: =2
 
         "'Ngày sinh_DataCard1' As typedDataCard.textualViewCard":
@@ -308,19 +250,19 @@
                 ZIndex: =1
 
             DataCardValue2 As label:
-                AutoHeight: =true
                 BorderColor: =RGBA(0, 18, 107, 1)
                 Color: =RGBA(0, 0, 0, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 DisplayMode: =Parent.DisplayMode
+                Height: =44
                 PaddingLeft: =0
                 PaddingRight: =0
                 PaddingTop: =0
                 Size: =21
                 Text: =Parent.Default
-                Width: =Parent.Width - 60
-                X: =30
-                Y: =DataCardKey2.Y + DataCardKey2.Height + 5
+                Width: =310
+                X: =194
+                Y: =10
                 ZIndex: =2
 
         Loài_DataCard1 As typedDataCard.comboBoxViewCard:
@@ -365,7 +307,7 @@
                 DisabledFill: =RGBA(244, 244, 244, 1)
                 DisplayFields: =["Value"]
                 DisplayMode: =Parent.DisplayMode
-                Height: =70
+                Height: =50
                 HoverColor: =RGBA(0, 0, 0, 1)
                 HoverFill: =RGBA(186, 202, 226, 1)
                 Items: =Choices([@'Du lieu thong tin thu cung'].Lo_x00e0_i)
@@ -377,9 +319,9 @@
                 SelectionFill: =RGBA(56, 96, 178, 1)
                 SelectMultiple: =false
                 Size: =21
-                Width: =Parent.Width - 60
-                X: =30
-                Y: =DataCardKey3.Y + DataCardKey3.Height + 5
+                Width: =194
+                X: =189
+                Y: =10
                 ZIndex: =2
 
             ErrorMessage1 As label:
@@ -443,19 +385,19 @@
                 ZIndex: =1
 
             DataCardValue4 As label:
-                AutoHeight: =true
                 BorderColor: =RGBA(0, 18, 107, 1)
                 Color: =RGBA(0, 0, 0, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 DisplayMode: =Parent.DisplayMode
+                Height: =29
                 PaddingLeft: =0
                 PaddingRight: =0
                 PaddingTop: =0
                 Size: =21
                 Text: =Parent.Default
-                Width: =Parent.Width - 60
-                X: =30
-                Y: =DataCardKey4.Y + DataCardKey4.Height + 5
+                Width: =244
+                X: =178
+                Y: =19
                 ZIndex: =2
 
         "'Giới tính_DataCard1' As typedDataCard.comboBoxViewCard":
@@ -500,7 +442,7 @@
                 DisabledFill: =RGBA(244, 244, 244, 1)
                 DisplayFields: =["Value"]
                 DisplayMode: =Parent.DisplayMode
-                Height: =70
+                Height: =60
                 HoverColor: =RGBA(0, 0, 0, 1)
                 HoverFill: =RGBA(186, 202, 226, 1)
                 Items: =Choices([@'Du lieu thong tin thu cung'].Gi_x1edb_i_x0020_t_x00ed_nh)
@@ -512,9 +454,8 @@
                 SelectionFill: =RGBA(56, 96, 178, 1)
                 SelectMultiple: =false
                 Size: =21
-                Width: =Parent.Width - 60
-                X: =30
-                Y: =DataCardKey5.Y + DataCardKey5.Height + 5
+                Width: =180
+                X: =188
                 ZIndex: =2
 
             ErrorMessage2 As label:
@@ -578,19 +519,19 @@
                 ZIndex: =1
 
             DataCardValue6 As label:
-                AutoHeight: =true
                 BorderColor: =RGBA(0, 18, 107, 1)
                 Color: =RGBA(0, 0, 0, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 DisplayMode: =Parent.DisplayMode
+                Height: =29
                 PaddingLeft: =0
                 PaddingRight: =0
                 PaddingTop: =0
                 Size: =21
                 Text: =Parent.Default
-                Width: =Parent.Width - 60
-                X: =30
-                Y: =DataCardKey6.Y + DataCardKey6.Height + 5
+                Width: =274
+                X: =195
+                Y: =10
                 ZIndex: =2
 
         "'Mô tả ngắn_DataCard1' As typedDataCard.textualViewCard":
@@ -622,18 +563,39 @@
                 ZIndex: =1
 
             DataCardValue7 As label:
-                AutoHeight: =true
                 BorderColor: =RGBA(0, 18, 107, 1)
                 Color: =RGBA(0, 0, 0, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 DisplayMode: =Parent.DisplayMode
+                Height: =10
                 PaddingLeft: =0
                 PaddingRight: =0
                 PaddingTop: =0
                 Size: =21
                 Text: =Parent.Default
-                Width: =Parent.Width - 60
-                X: =30
-                Y: =DataCardKey7.Y + DataCardKey7.Height + 5
+                Width: =360
+                X: =42
+                Y: =58
                 ZIndex: =2
+
+    Icon6_4 As icon.BackArrow:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(255, 255, 255, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(255, 255, 255, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =53
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.BackArrow
+        OnSelect: =Navigate('7.1.1 Màn hình hiển thị thông tin thú cưng', ScreenTransition.None)
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =46
+        X: =8
+        Y: =17
+        ZIndex: =32
 

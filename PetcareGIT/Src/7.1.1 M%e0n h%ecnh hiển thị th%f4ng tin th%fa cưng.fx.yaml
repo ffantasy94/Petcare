@@ -70,7 +70,7 @@
         BorderColor: =RGBA(0, 18, 107, 1)
         BorderStyle: =BorderStyle.None
         Fill: =RGBA(251, 183, 80, 1)
-        Height: =88
+        Height: =103
         Width: =Parent.Width
         ZIndex: =25
 
@@ -91,16 +91,16 @@
         TabIndex: =0
         Tooltip: ="Làm mới danh sách"
         Width: =88
-        X: =153
+        X: =340
         ZIndex: =27
 
     IconSortUpDown1 As icon.ArrowsUpDown:
         AccessibleLabel: =Self.Tooltip
         BorderColor: =RGBA(0, 18, 107, 1)
-        Color: =RGBA(255, 255, 255, 1)
+        Color: =RGBA(246, 88, 16, 1)
         DisabledBorderColor: =RGBA(166, 166, 166, 1)
         DisabledColor: =RGBA(244, 244, 244, 1)
-        Height: =88
+        Height: =93
         Icon: =Icon.Sort
         OnSelect: |-
             =UpdateContext({SortDescending1: !SortDescending1})
@@ -111,33 +111,13 @@
         PressedFill: =RGBA(255, 255, 255, 0.3)
         TabIndex: =0
         Tooltip: =If(SortDescending1, "Sắp xếp danh sách theo thứ tự bảng chữ cái từ dưới lên", "Sắp xếp danh sách theo thứ tự bảng chữ cái")
-        Width: =88
-        X: =241
+        Width: =93
+        X: =8
+        Y: =155
         ZIndex: =28
 
-    IconNewItem1 As icon.Add:
-        AccessibleLabel: =Self.Tooltip
-        BorderColor: =RGBA(0, 18, 107, 1)
-        Color: =RGBA(255, 255, 255, 1)
-        DisabledBorderColor: =RGBA(166, 166, 166, 1)
-        DisabledColor: =RGBA(244, 244, 244, 1)
-        DisplayMode: =If(DataSourceInfo([@'Du lieu thong tin thu cung'], DataSourceInfo.CreatePermission), DisplayMode.Edit, DisplayMode.Disabled)
-        Height: =88
-        Icon: =Icon.Add
-        OnSelect: =NewForm(EditForm1);Navigate('7.1.3 Màn hình hiển thị thông tin thú cưng', ScreenTransition.None)
-        PaddingBottom: =24
-        PaddingLeft: =24
-        PaddingRight: =24
-        PaddingTop: =24
-        PressedFill: =RGBA(255, 255, 255, 0.3)
-        TabIndex: =0
-        Tooltip: ="Tạo mục mới"
-        Width: =88
-        X: =340
-        ZIndex: =29
-
     TextSearchBox1 As text:
-        BorderColor: =RGBA(0, 18, 107, 1)
+        BorderColor: =RGBA(251, 183, 80, 1)
         BorderStyle: =BorderStyle.None
         BorderThickness: =2
         Color: =RGBA(0, 0, 0, 1)
@@ -147,7 +127,7 @@
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
         FocusedBorderThickness: =4
-        Height: =54
+        Height: =66
         HintText: ="Tìm kiếm"
         HoverBorderColor: =RGBA(0, 18, 107, 1)
         HoverColor: =RGBA(0, 0, 0, 1)
@@ -157,9 +137,10 @@
         RadiusBottomRight: =7
         RadiusTopLeft: =0
         RadiusTopRight: =7
-        Size: =21
-        Width: =Parent.Width
-        Y: =146
+        Size: =18
+        Width: =274
+        X: =84
+        Y: =169
         ZIndex: =30
 
     SearchIcon1 As icon.Search:
@@ -189,7 +170,7 @@
 
     "BrowseGallery1 As gallery.'BrowseLayout_Vertical_ThreeTextVariant_ver4.0'":
         BorderColor: =RGBA(251, 183, 80, 1)
-        Height: =682
+        Height: =504
         Items: =SortByColumns(Filter([@'Du lieu thong tin thu cung'], StartsWith(Title, TextSearchBox1.Text)), "Title", If(SortDescending1, SortOrder.Descending, SortOrder.Ascending))
         Layout: =Layout.Vertical
         OnSelect: =Navigate('7.1.2 Màn hình hiển thị thông tin thú cưng', ScreenTransition.None)
@@ -197,7 +178,7 @@
         TemplatePadding: =0
         TemplateSize: =Min(168, Self.Height - 60)
         Width: =Parent.Width
-        Y: =244
+        Y: =272
         ZIndex: =33
 
         Title1_1 As label:
@@ -291,12 +272,12 @@
         FocusedBorderThickness: =4
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Bold
-        Height: =58
+        Height: =66
         Size: =21
-        Text: ="Thông tin thú cưng"
-        Width: =267
-        X: =80
-        Y: =88
+        Text: ="Danh sách thú cưng"
+        Width: =291
+        X: =84
+        Y: =103
         ZIndex: =34
 
     Icon6_3 As icon.BackArrow:
@@ -319,4 +300,32 @@
         X: =8
         Y: =17
         ZIndex: =35
+
+    Button6 As button:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(251, 183, 80, 1)
+        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =56
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        OnSelect: =NewForm(EditForm1);Navigate('7.1.3 Màn hình hiển thị thông tin thú cưng', ScreenTransition.None)
+        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        RadiusBottomLeft: =30
+        RadiusBottomRight: =30
+        RadiusTopLeft: =30
+        RadiusTopRight: =30
+        Size: =24
+        Text: ="Thêm mới"
+        Width: =222
+        X: =186
+        Y: =776
+        ZIndex: =36
 
