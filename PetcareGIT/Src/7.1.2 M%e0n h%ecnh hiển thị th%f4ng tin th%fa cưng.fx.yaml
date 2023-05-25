@@ -169,8 +169,10 @@
         ZIndex: =29
 
     DetailForm1 As formViewer:
-        BorderColor: =RGBA(0, 18, 107, 1)
+        BorderColor: =RGBA(246, 88, 16, 1)
+        BorderThickness: =2
         DataSource: =[@'Du lieu thong tin thu cung']
+        Fill: =RGBA(255, 255, 255, 1)
         Height: =603
         Item: =BrowseGallery1.Selected
         Width: =387
@@ -181,6 +183,7 @@
         "'Tên (Title)_DataCard1' As typedDataCard.textualViewCard":
             BorderColor: =RGBA(0, 18, 107, 1)
             BorderStyle: =BorderStyle.Solid
+            BorderThickness: =1
             DataField: ="Title"
             Default: =ThisItem.'Tên (Title)'
             DisplayMode: =DisplayMode.View
@@ -188,19 +191,18 @@
             Fill: =RGBA(0, 0, 0, 0)
             Height: =74
             Required: =true
-            Width: =387
+            Width: =385
             X: =0
             Y: =0
             ZIndex: =1
 
             DataCardKey1 As label:
-                AutoHeight: =true
                 Color: =RGBA(0, 18, 107, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
-                Height: =48
+                Height: =64
                 Size: =21
                 Text: =Parent.DisplayName
-                Width: =397
+                Width: =122
                 Wrap: =false
                 X: =30
                 Y: =10
@@ -211,13 +213,13 @@
                 Color: =RGBA(0, 0, 0, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 DisplayMode: =Parent.DisplayMode
-                Height: =48
+                Height: =64
                 PaddingLeft: =0
                 PaddingRight: =0
                 PaddingTop: =0
                 Size: =21
                 Text: =Parent.Default
-                Width: =248
+                Width: =208
                 X: =179
                 Y: =10
                 ZIndex: =2
@@ -232,7 +234,7 @@
             Fill: =RGBA(0, 0, 0, 0)
             Height: =82
             Required: =false
-            Width: =387
+            Width: =385
             X: =0
             Y: =1
             ZIndex: =1
@@ -240,10 +242,10 @@
             DataCardKey2 As label:
                 Color: =RGBA(0, 18, 107, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
-                Height: =48
+                Height: =72
                 Size: =21
                 Text: =Parent.DisplayName
-                Width: =176
+                Width: =146
                 Wrap: =false
                 X: =30
                 Y: =10
@@ -254,14 +256,14 @@
                 Color: =RGBA(0, 0, 0, 1)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 DisplayMode: =Parent.DisplayMode
-                Height: =48
+                Height: =72
                 PaddingLeft: =0
                 PaddingRight: =0
                 PaddingTop: =0
                 Size: =21
                 Text: =Parent.Default
-                Width: =244
-                X: =180
+                Width: =210
+                X: =176
                 Y: =10
                 ZIndex: =2
 
@@ -276,7 +278,7 @@
             Height: =76
             Required: =false
             Update: =DataCardValue3.Selected
-            Width: =387
+            Width: =385
             X: =0
             Y: =2
             ZIndex: =1
@@ -366,7 +368,7 @@
             Fill: =RGBA(0, 0, 0, 0)
             Height: =76
             Required: =false
-            Width: =387
+            Width: =385
             X: =0
             Y: =3
             ZIndex: =1
@@ -411,7 +413,7 @@
             Height: =72
             Required: =false
             Update: =DataCardValue5.Selected
-            Width: =387
+            Width: =385
             X: =0
             Y: =4
             ZIndex: =1
@@ -500,7 +502,7 @@
             Fill: =RGBA(0, 0, 0, 0)
             Height: =78
             Required: =false
-            Width: =387
+            Width: =385
             X: =0
             Y: =5
             ZIndex: =1
@@ -544,7 +546,7 @@
             Fill: =RGBA(0, 0, 0, 0)
             Height: =160
             Required: =false
-            Width: =387
+            Width: =385
             X: =0
             Y: =6
             ZIndex: =1
@@ -568,12 +570,13 @@
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 DisplayMode: =Parent.DisplayMode
                 Height: =64
+                Overflow: =Overflow.Scroll
                 PaddingLeft: =0
                 PaddingRight: =0
                 PaddingTop: =0
                 Size: =21
                 Text: =Parent.Default
-                Width: =360
+                Width: =331
                 X: =38
                 Y: =58
                 ZIndex: =2
