@@ -5262,6 +5262,30 @@
               "message": {
                 "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
               }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 6
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 6
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
             }
           ]
         }
@@ -14637,6 +14661,66 @@
           },
           "ruleId": "acc-AccessibleLabelNeeded",
           "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.Icon6_3.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1.1 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.Icon6_3"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.Icon6_3.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.Icon6_3.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.1.1 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.Icon6_3"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.Icon6_3.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
         },
         {
           "locations": [
