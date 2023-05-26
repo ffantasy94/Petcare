@@ -3,18 +3,6 @@
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
     Width: =428
 
-    "'Rectangle 103_9' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(250.0306, 219.5477, 111.472, 0.3)
-        FocusedBorderThickness: =4
-        Height: =93
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =428
-        ZIndex: =88
-
     "'Cân nặng_1' As label":
         Align: =Align.Center
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -34,7 +22,7 @@
         Text: ="Chiều cao"
         Width: =176
         X: =126
-        Y: =19
+        Y: =79
         ZIndex: =89
 
     "'ruler 1_1' As image":
@@ -50,7 +38,139 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =73
-        X: =64
-        Y: =156
+        X: =72
+        Y: =147
         ZIndex: =91
+
+    RectQuickActionBar2_3 As rectangle:
+        BorderColor: =RGBA(251, 183, 80, 1)
+        Fill: =RGBA(251, 183, 80, 1)
+        Height: =79
+        Width: =Parent.Width
+        ZIndex: =92
+
+    Icon6_8 As icon.BackArrow:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(255, 255, 255, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(255, 255, 255, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =53
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.BackArrow
+        OnSelect: =Back(ScreenTransition.Cover)
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =46
+        X: =8
+        Y: =17
+        ZIndex: =93
+
+    Container2_1 As groupContainer.horizontalAutoLayoutContainer:
+        Height: =578
+        LayoutGap: =-370
+        LayoutMode: =LayoutMode.Auto
+        LayoutOverflowX: =LayoutOverflow.Scroll
+        LayoutOverflowY: =LayoutOverflow.Scroll
+        Width: =428
+        Y: =268
+        ZIndex: =94
+
+        CompositeLineChart4_1 As group:
+            Height: =5
+            LayoutMinHeight: =5
+            LayoutMinWidth: =5
+            Width: =5
+            X: =40
+            Y: =40
+            ZIndex: =1
+
+            Title4_2 As label:
+                Align: =Align.Right
+                AlignInContainer: =AlignInContainer.Start
+                Color: =RGBA(51, 51, 51, 1)
+                DisabledColor: =RGBA(166, 166, 166, 1)
+                Font: =Font.'Segoe UI'
+                Height: =25
+                LayoutMinHeight: =70
+                LayoutMinWidth: =560
+                Text: ="Biểu đồ thể hiện chiều cao (cm)"
+                Width: =400
+                X: =40
+                Y: =40
+                ZIndex: =2
+
+            LineChart4_1 As lineChart:
+                AlignInContainer: =AlignInContainer.Start
+                BorderColor: =RGBA(0, 0, 0, 0)
+                BorderStyle: =BorderStyle.None
+                BorderThickness: =2
+                Color: =RGBA(51, 51, 51, 1)
+                DisabledBorderColor: =RGBA(0, 0, 0, 0)
+                FillPortions: =100
+                Font: =Font.'Segoe UI'
+                Height: =550
+                HoverBorderColor: =RGBA(0, 0, 0, 0)
+                ItemColorSet: =[RGBA(49, 130, 93, 1),RGBA(48,166,103, 1), RGBA(94,193,108,1), RGBA(246,199,144,1), RGBA(247,199,114,1), RGBA(247,180,91,1), RGBA(246,143,100,1), RGBA(212,96,104,1), RGBA(148, 110, 176, 1), RGBA(118, 154, 204, 1), RGBA(96, 197, 234, 1)]
+                Items: ='DL suc khoe thu cung'
+                LayoutMinWidth: =470
+                PressedBorderColor: =RGBA(0, 0, 0, 0)
+                Size: =22
+                X: =40
+                XLabelAngle: =40
+                Y: =70
+                ZIndex: =3
+
+    IconRefresh1_2 As icon.Reload:
+        AccessibleLabel: =Self.Tooltip
+        BorderColor: =RGBA(0, 18, 107, 1)
+        Color: =RGBA(255, 255, 255, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(244, 244, 244, 1)
+        Height: =88
+        Icon: =Icon.Reload
+        OnSelect: =Refresh([@'DL suc khoe thu cung'])
+        PaddingBottom: =22
+        PaddingLeft: =22
+        PaddingRight: =22
+        PaddingTop: =22
+        PressedFill: =RGBA(255, 255, 255, 0.3)
+        TabIndex: =0
+        Tooltip: ="Làm mới danh sách"
+        Width: =88
+        X: =340
+        ZIndex: =95
+
+    Button6_2 As button:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        Color: =RGBA(250, 150, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(250, 220, 111, 0.35)
+        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =62
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        OnSelect: =NewForm(Form1);Navigate('7.2.a. Màn hình người dùng nhập DL sức khỏe',ScreenTransition.Cover)
+        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =20
+        Text: ="Thêm mới"
+        Width: =176
+        X: =145
+        Y: =153
+        ZIndex: =96
 

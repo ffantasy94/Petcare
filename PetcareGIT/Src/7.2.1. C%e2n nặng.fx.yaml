@@ -21,8 +21,8 @@
         Size: =24
         Text: ="Cân nặng"
         Width: =176
-        X: =114
-        Y: =102
+        X: =126
+        Y: =79
         ZIndex: =88
 
     "'can 1_1' As image":
@@ -38,8 +38,8 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =63
-        X: =170
-        Y: =174
+        X: =63
+        Y: =142
         ZIndex: =89
 
     RectQuickActionBar2_2 As rectangle:
@@ -71,12 +71,102 @@
         ZIndex: =91
 
     Container2 As groupContainer.horizontalAutoLayoutContainer:
-        Height: =660
-        LayoutGap: =-200
+        Height: =578
+        LayoutGap: =-370
         LayoutMode: =LayoutMode.Auto
         LayoutOverflowX: =LayoutOverflow.Scroll
         LayoutOverflowY: =LayoutOverflow.Scroll
         Width: =428
-        Y: =266
+        Y: =268
         ZIndex: =92
+
+        CompositeLineChart4 As group:
+            Height: =5
+            Width: =5
+            X: =40
+            Y: =40
+            ZIndex: =1
+
+            Title4_1 As label:
+                Align: =Align.Right
+                AlignInContainer: =AlignInContainer.Start
+                Color: =RGBA(51, 51, 51, 1)
+                DisabledColor: =RGBA(166, 166, 166, 1)
+                Font: =Font.'Segoe UI'
+                Height: =25
+                Text: ="Biểu đồ thể hiện cân nặng (kg)"
+                Width: =400
+                X: =40
+                Y: =40
+                ZIndex: =2
+
+            LineChart4 As lineChart:
+                AlignInContainer: =AlignInContainer.Start
+                BorderColor: =RGBA(0, 0, 0, 0)
+                BorderStyle: =BorderStyle.None
+                BorderThickness: =2
+                Color: =RGBA(51, 51, 51, 1)
+                DisabledBorderColor: =RGBA(0, 0, 0, 0)
+                FillPortions: =100
+                Font: =Font.'Segoe UI'
+                Height: =550
+                HoverBorderColor: =RGBA(0, 0, 0, 0)
+                ItemColorSet: =[RGBA(49, 130, 93, 1),RGBA(48,166,103, 1), RGBA(94,193,108,1), RGBA(246,199,144,1), RGBA(247,199,114,1), RGBA(247,180,91,1), RGBA(246,143,100,1), RGBA(212,96,104,1), RGBA(148, 110, 176, 1), RGBA(118, 154, 204, 1), RGBA(96, 197, 234, 1)]
+                Items: ='DL suc khoe thu cung'
+                LayoutMinWidth: =470
+                PressedBorderColor: =RGBA(0, 0, 0, 0)
+                Size: =22
+                X: =40
+                XLabelAngle: =40
+                Y: =70
+                ZIndex: =3
+
+    IconRefresh1_1 As icon.Reload:
+        AccessibleLabel: =Self.Tooltip
+        BorderColor: =RGBA(0, 18, 107, 1)
+        Color: =RGBA(255, 255, 255, 1)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(244, 244, 244, 1)
+        Height: =88
+        Icon: =Icon.Reload
+        OnSelect: =Refresh([@'DL suc khoe thu cung'])
+        PaddingBottom: =22
+        PaddingLeft: =22
+        PaddingRight: =22
+        PaddingTop: =22
+        PressedFill: =RGBA(255, 255, 255, 0.3)
+        TabIndex: =0
+        Tooltip: ="Làm mới danh sách"
+        Width: =88
+        X: =340
+        ZIndex: =93
+
+    Button6_1 As button:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        Color: =RGBA(250, 150, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(250, 220, 111, 0.35)
+        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =62
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        OnSelect: =NewForm(Form1);Navigate('7.2.a. Màn hình người dùng nhập DL sức khỏe',ScreenTransition.Cover)
+        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =20
+        Text: ="Thêm mới"
+        Width: =176
+        X: =145
+        Y: =153
+        ZIndex: =94
 
