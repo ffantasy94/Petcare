@@ -11,11 +11,14 @@
           "ChatGPTData": {
             "tableName": "88209e9e-af09-47ad-8e51-f006c23e13e6"
           },
-          "Dữ liệu màn hình đăng ký": {
-            "tableName": "9957249c-3f5f-4c06-8a28-bf7e85c8dda4"
+          "DL suc khoe thu cung": {
+            "tableName": "1c6cda3a-b70a-4340-ae15-998af8c3c6a7"
           },
           "Du lieu thong tin thu cung": {
             "tableName": "9a676def-b2e4-4679-bfb0-e19ea2da5c58"
+          },
+          "Dữ liệu màn hình đăng ký": {
+            "tableName": "9957249c-3f5f-4c06-8a28-bf7e85c8dda4"
           },
           "MapData": {
             "tableName": "47ceb26c-5179-4841-933a-696b59caec23"
@@ -28,7 +31,8 @@
       "Dữ liệu màn hình đăng ký",
       "MapData",
       "ChatGPTData",
-      "Du lieu thong tin thu cung"
+      "Du lieu thong tin thu cung",
+      "DL suc khoe thu cung"
     ],
     "dependencies": {},
     "dependents": [],
@@ -50,28 +54,6 @@
     "dependencies": {},
     "dependents": [],
     "id": "9d986850-04e4-48f9-9932-39d6663dd6aa"
-  },
-  "a85f5c33-3a93-4bf9-ba72-8df4475c5f2c": {
-    "connectionRef": {
-      "displayName": "SharePoint",
-      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1627/1.0.1627.3238/sharepointonline/icon.png",
-      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
-    },
-    "datasets": {
-      "https://dueudn.sharepoint.com/sites/M4N_Group": {
-        "dataSources": {
-          "DL HSTC": {
-            "tableName": "ddf80e08-9ed5-4681-8325-c0aec88cbfbb"
-          }
-        }
-      }
-    },
-    "dataSources": [
-      "DL HSTC"
-    ],
-    "dependencies": {},
-    "dependents": [],
-    "id": "a85f5c33-3a93-4bf9-ba72-8df4475c5f2c"
   },
   "b39e9275-1e9e-413a-8bed-1eb9bfe210d3": {
     "connectionRef": {

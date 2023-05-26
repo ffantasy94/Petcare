@@ -3,18 +3,6 @@
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
     Width: =428
 
-    "'Rectangle 103_8' As rectangle":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledFill: =RGBA(166, 166, 166, 1)
-        Fill: =RGBA(250.0306, 219.5477, 111.472, 0.3)
-        FocusedBorderThickness: =4
-        Height: =93
-        HoverFill: =RGBA(0, 120, 212, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        Width: =428
-        ZIndex: =87
-
     "'Cân nặng' As label":
         Align: =Align.Center
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -33,8 +21,8 @@
         Size: =24
         Text: ="Cân nặng"
         Width: =176
-        X: =126
-        Y: =19
+        X: =114
+        Y: =102
         ZIndex: =88
 
     "'can 1_1' As image":
@@ -50,52 +38,25 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =63
-        X: =63
-        Y: =156
+        X: =170
+        Y: =174
         ZIndex: =89
 
-    Dropdown1_4 As dropdown:
-        BorderColor: =RGBA(221, 79, 14, 1)
-        ChevronBackground: =RGBA(255, 255, 255, 1)
-        ChevronDisabledBackground: =RGBA(244, 244, 244, 1)
-        ChevronDisabledFill: =RGBA(166, 166, 166, 1)
-        ChevronFill: =RGBA(172, 62, 11, 1)
-        ChevronHoverBackground: =RGBA(212, 212, 212, 1)
-        ChevronHoverFill: =RGBA(33, 33, 33, 1)
-        Color: =RGBA(51, 51, 51, 1)
-        Default: ="1 tháng"
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        DisabledFill: =RGBA(244, 244, 244, 1)
-        Font: =Font.'Segoe UI'
-        Height: =46
-        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        HoverColor: =RGBA(51, 51, 51, 1)
-        HoverFill: =RGBA(212, 212, 212, 1)
-        Items: =DropDownSample
-        PaddingBottom: =5
-        PaddingLeft: =12
-        PaddingRight: =5
-        PaddingTop: =5
-        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =RGBA(0, 120, 212, 1)
-        SelectionFill: =RGBA(0, 120, 212, 1)
-        Size: =21
-        Width: =215
-        X: =153
-        Y: =170
+    RectQuickActionBar2_2 As rectangle:
+        BorderColor: =RGBA(251, 183, 80, 1)
+        Fill: =RGBA(251, 183, 80, 1)
+        Height: =79
+        Width: =Parent.Width
         ZIndex: =90
 
-    Icon1_4 As icon.BackArrow:
+    Icon6_7 As icon.BackArrow:
         BorderColor: =RGBA(166, 166, 166, 1)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(251, 183, 80, 1)
+        Color: =RGBA(255, 255, 255, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(220, 220, 220, 1)
+        DisabledColor: =RGBA(255, 255, 255, 1)
         DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =0
-        Height: =27
+        FocusedBorderThickness: =4
+        Height: =53
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         HoverFill: =RGBA(0, 0, 0, 0)
@@ -104,66 +65,39 @@
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =26
-        X: =48
-        Y: =39
-        ZIndex: =95
+        Width: =46
+        X: =8
+        Y: =17
+        ZIndex: =91
 
-    CompositeLineChart6 As group:
-        Height: =5
-        Width: =5
-        X: =40
-        Y: =40
-        ZIndex: =96
+    Container2 As groupContainer.horizontalAutoLayoutContainer:
+        Height: =660
+        LayoutGap: =-200
+        LayoutMode: =LayoutMode.Auto
+        LayoutOverflowX: =LayoutOverflow.Scroll
+        LayoutOverflowY: =LayoutOverflow.Scroll
+        Width: =428
+        Y: =266
+        ZIndex: =92
 
-        Title7 As label:
-            Align: =Align.Center
-            Color: =RGBA(51, 51, 51, 1)
-            DisabledColor: =RGBA(166, 166, 166, 1)
-            Font: =Font.'Segoe UI'
-            Height: =25
-            Text: ="Tiêu đề Biểu đồ"
-            Width: =400
-            X: =28
-            Y: =276
-            ZIndex: =97
-
-        LineChart6 As lineChart:
+        LineChart4 As lineChart:
+            AlignInContainer: =AlignInContainer.Start
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             BorderThickness: =2
             Color: =RGBA(51, 51, 51, 1)
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            FillPortions: =100
             Font: =Font.'Segoe UI'
-            Height: =393
+            Height: =550
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             ItemColorSet: =[RGBA(49, 130, 93, 1),RGBA(48,166,103, 1), RGBA(94,193,108,1), RGBA(246,199,144,1), RGBA(247,199,114,1), RGBA(247,180,91,1), RGBA(246,143,100,1), RGBA(212,96,104,1), RGBA(148, 110, 176, 1), RGBA(118, 154, 204, 1), RGBA(96, 197, 234, 1)]
-            Items: ='DL HSTC'
-            NumberOfSeries: =3
+            Items: ='DL suc khoe thu cung'
+            LayoutMinWidth: =470
             PressedBorderColor: =RGBA(0, 0, 0, 0)
-            Size: =24
-            Width: =372
-            X: =42
-            Y: =334
-            ZIndex: =98
-
-        Legend6 As legend:
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            BorderThickness: =2
-            Color: =RGBA(51, 51, 51, 1)
-            DisabledBorderColor: =RGBA(0, 0, 0, 0)
-            DisabledColor: =RGBA(166, 166, 166, 1)
-            DisabledFill: =RGBA(220, 220, 220, 1)
-            Font: =Font.'Segoe UI'
-            Height: =79
-            HoverBorderColor: =RGBA(0, 0, 0, 0)
-            ItemColorSet: =LineChart6.ItemColorSet
-            Items: =LineChart6.SeriesLabels
-            PressedBorderColor: =RGBA(0, 0, 0, 0)
-            Size: =18
-            Width: =320
-            X: =80
-            Y: =707
-            ZIndex: =99
+            Size: =22
+            X: =40
+            XLabelAngle: =40
+            Y: =70
+            ZIndex: =3
 
