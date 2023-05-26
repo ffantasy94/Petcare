@@ -65,6 +65,7 @@
     Form1 As form:
         BorderColor: =RGBA(166, 166, 166, 1)
         DataSource: ='DL suc khoe thu cung'
+        DefaultMode: =FormMode.New
         Height: =608
         Width: =426
         Y: =114
@@ -108,13 +109,12 @@
                 ZIndex: =1
 
             DataCardValue16 As text:
-                BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Orange)
-                BorderStyle: =BorderStyle.Dashed
+                BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
                 BorderThickness: =2
-                Color: =RGBA(251, 183, 80, 1)
+                Color: =RGBA(51, 51, 51, 1)
                 Default: =Parent.Default
                 DelayOutput: =true
-                DisabledBorderColor: =RGBA(251, 183, 80, 1)
+                DisabledBorderColor: =RGBA(0, 0, 0, 0)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 DisabledFill: =RGBA(244, 244, 244, 1)
                 DisplayMode: =Parent.DisplayMode
@@ -122,11 +122,11 @@
                 Font: =Font.'Segoe UI'
                 Format: =TextFormat.Number
                 Height: =70
-                HoverBorderColor: =ColorFade(RGBA(251, 183, 80, 1),-30%)
+                HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
                 HoverColor: =RGBA(51, 51, 51, 1)
                 HoverFill: =RGBA(255, 255, 255, 1)
                 PaddingLeft: =5
-                PressedBorderColor: =RGBA(251, 183, 80, 1)
+                PressedBorderColor: =RGBA(0, 120, 212, 1)
                 PressedColor: =RGBA(51, 51, 51, 1)
                 PressedFill: =RGBA(255, 255, 255, 1)
                 RadiusBottomLeft: =0
@@ -225,12 +225,11 @@
 
             DataCardValue17 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
-                BorderStyle: =BorderStyle.Dashed
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
                 Default: =Parent.Default
                 DelayOutput: =true
-                DisabledBorderColor: =RGBA(251, 183, 80, 1)
+                DisabledBorderColor: =RGBA(0, 0, 0, 0)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 DisabledFill: =RGBA(244, 244, 244, 1)
                 DisplayMode: =Parent.DisplayMode
@@ -238,11 +237,11 @@
                 Font: =Font.'Segoe UI'
                 Format: =TextFormat.Number
                 Height: =70
-                HoverBorderColor: =ColorFade(RGBA(251, 183, 80, 1), -30%)
+                HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
                 HoverColor: =RGBA(51, 51, 51, 1)
                 HoverFill: =RGBA(255, 255, 255, 1)
                 PaddingLeft: =5
-                PressedBorderColor: =RGBA(251, 183, 80, 1)
+                PressedBorderColor: =RGBA(0, 120, 212, 1)
                 PressedColor: =RGBA(51, 51, 51, 1)
                 PressedFill: =RGBA(255, 255, 255, 1)
                 RadiusBottomLeft: =0
@@ -341,12 +340,11 @@
 
             DataCardValue18 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
-                BorderStyle: =BorderStyle.Dashed
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
                 Default: =Parent.Default
                 DelayOutput: =true
-                DisabledBorderColor: =RGBA(251, 183, 80, 1)
+                DisabledBorderColor: =RGBA(0, 0, 0, 0)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 DisabledFill: =RGBA(244, 244, 244, 1)
                 DisplayMode: =Parent.DisplayMode
@@ -354,11 +352,11 @@
                 Font: =Font.'Segoe UI'
                 Format: =TextFormat.Number
                 Height: =70
-                HoverBorderColor: =ColorFade(RGBA(251, 183, 80, 1), -30%)
+                HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
                 HoverColor: =RGBA(51, 51, 51, 1)
                 HoverFill: =RGBA(255, 255, 255, 1)
                 PaddingLeft: =5
-                PressedBorderColor: =RGBA(251, 183, 80, 1)
+                PressedBorderColor: =RGBA(0, 120, 212, 1)
                 PressedColor: =RGBA(51, 51, 51, 1)
                 PressedFill: =RGBA(255, 255, 255, 1)
                 RadiusBottomLeft: =0
@@ -457,12 +455,11 @@
 
             DataCardValue19 As text:
                 BorderColor: =If(IsBlank(Parent.Error), Parent.BorderColor, Color.Red)
-                BorderStyle: =BorderStyle.Dashed
                 BorderThickness: =2
                 Color: =RGBA(51, 51, 51, 1)
                 Default: =Parent.Default
                 DelayOutput: =true
-                DisabledBorderColor: =RGBA(251, 183, 80, 1)
+                DisabledBorderColor: =RGBA(0, 0, 0, 0)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 DisabledFill: =RGBA(244, 244, 244, 1)
                 DisplayMode: =Parent.DisplayMode
@@ -470,11 +467,11 @@
                 Font: =Font.'Segoe UI'
                 Format: =TextFormat.Number
                 Height: =70
-                HoverBorderColor: =ColorFade(RGBA(251, 183, 80, 1), -30%)
+                HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
                 HoverColor: =RGBA(51, 51, 51, 1)
                 HoverFill: =RGBA(255, 255, 255, 1)
                 PaddingLeft: =5
-                PressedBorderColor: =RGBA(251, 183, 80, 1)
+                PressedBorderColor: =RGBA(0, 120, 212, 1)
                 PressedColor: =RGBA(51, 51, 51, 1)
                 PressedFill: =RGBA(255, 255, 255, 1)
                 RadiusBottomLeft: =0
@@ -564,7 +561,7 @@
         Font: =Font.'Segoe UI'
         Height: =72
         Size: =21
-        Text: ="(cm)"
+        Text: ="(kg)"
         Width: =94
         X: =303
         Y: =316
@@ -582,7 +579,7 @@
         Font: =Font.'Segoe UI'
         Height: =72
         Size: =21
-        Text: ="(cm)"
+        Text: ="(kg)"
         Width: =94
         X: =303
         Y: =460
@@ -600,7 +597,7 @@
         Font: =Font.'Segoe UI'
         Height: =72
         Size: =21
-        Text: ="(độ C)"
+        Text: ="(kg)"
         Width: =94
         X: =303
         Y: =605
