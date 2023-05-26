@@ -77,7 +77,7 @@
             BorderColor: =RGBA(0, 18, 107, 1)
             BorderStyle: =BorderStyle.Solid
             DataField: ="Title"
-            Default: =ThisItem.'Tên (Title)'
+            Default: =ThisItem.Title
             DisplayMode: =Parent.DisplayMode
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"Title")
             Fill: =RGBA(0, 0, 0, 0)
