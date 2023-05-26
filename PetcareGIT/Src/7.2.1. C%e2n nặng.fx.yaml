@@ -120,13 +120,13 @@
         ZIndex: =94
 
     Container2_4 As groupContainer.horizontalAutoLayoutContainer:
-        Height: =578
+        Height: =577
         LayoutGap: =-370
         LayoutMode: =LayoutMode.Auto
         LayoutOverflowX: =LayoutOverflow.Scroll
         LayoutOverflowY: =LayoutOverflow.Scroll
         Width: =428
-        Y: =244
+        Y: =261
         ZIndex: =95
 
         CompositeLineChart4_4 As group:
