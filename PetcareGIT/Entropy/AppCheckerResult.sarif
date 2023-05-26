@@ -4938,6 +4938,54 @@
               "message": {
                 "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
               }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 5
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 5
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 5
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 5
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Đã xảy ra lỗi khi chạy quy tắc app-InefficientDelayLoading."
+              }
             }
           ]
         }
@@ -4983,1026 +5031,6 @@
           },
           "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
           "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.'image 7_1'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "6. Màn hình hiển thị chức năng",
-                "type": "'6. Màn hình hiển thị chức năng'.'image 7_1'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.'image 7_1'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.'image 7_1'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "6. Màn hình hiển thị chức năng",
-                "type": "'6. Màn hình hiển thị chức năng'.'image 7_1'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.'image 7_1'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "6. Màn hình hiển thị chức năng",
-                "type": "'6. Màn hình hiển thị chức năng'.Image2"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "6. Màn hình hiển thị chức năng",
-                "type": "'6. Màn hình hiển thị chức năng'.Image2"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_1.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "6. Màn hình hiển thị chức năng",
-                "type": "'6. Màn hình hiển thị chức năng'.Image2_1"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_1.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "6. Màn hình hiển thị chức năng",
-                "type": "'6. Màn hình hiển thị chức năng'.Image2_1"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_1.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Label7.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "6. Màn hình hiển thị chức năng",
-                "type": "'6. Màn hình hiển thị chức năng'.Label7"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Label7.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Label7_1.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "6. Màn hình hiển thị chức năng",
-                "type": "'6. Màn hình hiển thị chức năng'.Label7_1"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Label7_1.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_2.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "6. Màn hình hiển thị chức năng",
-                "type": "'6. Màn hình hiển thị chức năng'.Image2_2"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_2.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_2.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "6. Màn hình hiển thị chức năng",
-                "type": "'6. Màn hình hiển thị chức năng'.Image2_2"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_2.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_3.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "6. Màn hình hiển thị chức năng",
-                "type": "'6. Màn hình hiển thị chức năng'.Image2_3"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_3.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_3.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "6. Màn hình hiển thị chức năng",
-                "type": "'6. Màn hình hiển thị chức năng'.Image2_3"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_3.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Label7_2.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "6. Màn hình hiển thị chức năng",
-                "type": "'6. Màn hình hiển thị chức năng'.Label7_2"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Label7_2.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Label7_3.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "6. Màn hình hiển thị chức năng",
-                "type": "'6. Màn hình hiển thị chức năng'.Label7_3"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Label7_3.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.Icon6_3.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1.1 Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.Icon6_3"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.Icon6_3.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.Icon6_3.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "7.1.1 Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.Icon6_3"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.Icon6_3.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.TextSearchBox1.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1.1 Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.TextSearchBox1"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.TextSearchBox1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.BrowseGallery1.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1.1 Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.BrowseGallery1"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.BrowseGallery1.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.BrowseGallery1.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "7.1.1 Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.BrowseGallery1"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.BrowseGallery1.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.Icon6_4.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1.2 Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.Icon6_4"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.Icon6_4.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.Icon6_4.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "7.1.2 Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.Icon6_4"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.Icon6_4.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_4'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1.2 Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_4'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_4'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_4'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "7.1.2 Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_4'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_4'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'image 26_3'.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1.2 Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'image 26_3'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'image 26_3'.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'image 26_3'.TabIndex"
-                }
-              ],
-              "properties": {
-                "member": "TabIndex",
-                "module": "7.1.2 Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'image 26_3'"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'image 26_3'.TabIndex",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.DetailForm1.Loài_DataCard1.DataCardValue3.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1.2 Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.DetailForm1.Loài_DataCard1.DataCardValue3"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.DetailForm1.Loài_DataCard1.DataCardValue3.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.DetailForm1.'Giới tính_DataCard1'.DataCardValue5.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1.2 Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.DetailForm1.'Giới tính_DataCard1'.DataCardValue5"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.DetailForm1.'Giới tính_DataCard1'.DataCardValue5.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Tên (Title)_DataCard2'.DataCardValue8.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1.3 Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Tên (Title)_DataCard2'.DataCardValue8"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Tên (Title)_DataCard2'.DataCardValue8.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Ngày sinh_DataCard2'.DataCardValue9.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1.3 Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Ngày sinh_DataCard2'.DataCardValue9"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Ngày sinh_DataCard2'.DataCardValue9.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.Loài_DataCard2.DataCardValue10.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1.3 Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.Loài_DataCard2.DataCardValue10"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.Loài_DataCard2.DataCardValue10.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.Giống_DataCard2.DataCardValue11.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1.3 Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.Giống_DataCard2.DataCardValue11"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.Giống_DataCard2.DataCardValue11.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Giới tính_DataCard2'.DataCardValue12.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1.3 Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Giới tính_DataCard2'.DataCardValue12"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Giới tính_DataCard2'.DataCardValue12.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.Màu_DataCard2.DataCardValue13.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1.3 Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.Màu_DataCard2.DataCardValue13"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.Màu_DataCard2.DataCardValue13.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Mô tả ngắn_DataCard2'.DataCardValue14.AccessibleLabel"
-                }
-              ],
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "7.1.3 Màn hình hiển thị thông tin thú cưng",
-                "type": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Mô tả ngắn_DataCard2'.DataCardValue14"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Mô tả ngắn_DataCard2'.DataCardValue14.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 1
         },
         {
           "locations": [
@@ -7533,6 +6561,156 @@
           },
           "ruleId": "acc-AccessibleLabelNeeded",
           "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.Icon6_3.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1.1 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.Icon6_3"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.Icon6_3.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.Icon6_3.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.1.1 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.Icon6_3"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.Icon6_3.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.TextSearchBox1.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1.1 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.TextSearchBox1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.TextSearchBox1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.BrowseGallery1.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1.1 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.BrowseGallery1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.BrowseGallery1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.BrowseGallery1.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.1.1 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.BrowseGallery1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.1 Màn hình hiển thị thông tin thú cưng'.BrowseGallery1.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -13203,6 +12381,876 @@
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
           "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.Icon6_4.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1.2 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.Icon6_4"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.Icon6_4.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.Icon6_4.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.1.2 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.Icon6_4"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.Icon6_4.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_4'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1.2 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_4'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_4'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_4'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.1.2 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_4'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'Ellipse 10_4'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'image 26_3'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1.2 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'image 26_3'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'image 26_3'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'image 26_3'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "7.1.2 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'image 26_3'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.'image 26_3'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.DetailForm1.Loài_DataCard1.DataCardValue3.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1.2 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.DetailForm1.Loài_DataCard1.DataCardValue3"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.DetailForm1.Loài_DataCard1.DataCardValue3.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.DetailForm1.'Giới tính_DataCard1'.DataCardValue5.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1.2 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.DetailForm1.'Giới tính_DataCard1'.DataCardValue5"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.2 Màn hình hiển thị thông tin thú cưng'.DetailForm1.'Giới tính_DataCard1'.DataCardValue5.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.'image 7_1'.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "6. Màn hình hiển thị chức năng",
+                "type": "'6. Màn hình hiển thị chức năng'.'image 7_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.'image 7_1'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.'image 7_1'.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "6. Màn hình hiển thị chức năng",
+                "type": "'6. Màn hình hiển thị chức năng'.'image 7_1'"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.'image 7_1'.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "6. Màn hình hiển thị chức năng",
+                "type": "'6. Màn hình hiển thị chức năng'.Image2"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "6. Màn hình hiển thị chức năng",
+                "type": "'6. Màn hình hiển thị chức năng'.Image2"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_1.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "6. Màn hình hiển thị chức năng",
+                "type": "'6. Màn hình hiển thị chức năng'.Image2_1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_1.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "6. Màn hình hiển thị chức năng",
+                "type": "'6. Màn hình hiển thị chức năng'.Image2_1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_1.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Label7.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "6. Màn hình hiển thị chức năng",
+                "type": "'6. Màn hình hiển thị chức năng'.Label7"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Label7.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Label7_1.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "6. Màn hình hiển thị chức năng",
+                "type": "'6. Màn hình hiển thị chức năng'.Label7_1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Label7_1.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_2.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "6. Màn hình hiển thị chức năng",
+                "type": "'6. Màn hình hiển thị chức năng'.Image2_2"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_2.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_2.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "6. Màn hình hiển thị chức năng",
+                "type": "'6. Màn hình hiển thị chức năng'.Image2_2"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_2.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_3.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "6. Màn hình hiển thị chức năng",
+                "type": "'6. Màn hình hiển thị chức năng'.Image2_3"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_3.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_3.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "6. Màn hình hiển thị chức năng",
+                "type": "'6. Màn hình hiển thị chức năng'.Image2_3"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Image2_3.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Label7_2.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "6. Màn hình hiển thị chức năng",
+                "type": "'6. Màn hình hiển thị chức năng'.Label7_2"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Label7_2.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Label7_3.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "6. Màn hình hiển thị chức năng",
+                "type": "'6. Màn hình hiển thị chức năng'.Label7_3"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'6. Màn hình hiển thị chức năng'.Label7_3.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Tên (Title)_DataCard2'.DataCardValue8.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1.3 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Tên (Title)_DataCard2'.DataCardValue8"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Tên (Title)_DataCard2'.DataCardValue8.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Ngày sinh_DataCard2'.DataCardValue9.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1.3 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Ngày sinh_DataCard2'.DataCardValue9"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Ngày sinh_DataCard2'.DataCardValue9.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.Loài_DataCard2.DataCardValue10.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1.3 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.Loài_DataCard2.DataCardValue10"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.Loài_DataCard2.DataCardValue10.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.Giống_DataCard2.DataCardValue11.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1.3 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.Giống_DataCard2.DataCardValue11"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.Giống_DataCard2.DataCardValue11.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Giới tính_DataCard2'.DataCardValue12.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1.3 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Giới tính_DataCard2'.DataCardValue12"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Giới tính_DataCard2'.DataCardValue12.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.Màu_DataCard2.DataCardValue13.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1.3 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.Màu_DataCard2.DataCardValue13"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.Màu_DataCard2.DataCardValue13.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Mô tả ngắn_DataCard2'.DataCardValue14.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "7.1.3 Màn hình hiển thị thông tin thú cưng",
+                "type": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Mô tả ngắn_DataCard2'.DataCardValue14"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "'7.1.3 Màn hình hiển thị thông tin thú cưng'.EditForm1.'Mô tả ngắn_DataCard2'.DataCardValue14.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
         },
         {
           "locations": [
