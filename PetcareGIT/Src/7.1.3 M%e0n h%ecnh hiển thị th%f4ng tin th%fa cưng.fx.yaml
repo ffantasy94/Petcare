@@ -20,7 +20,7 @@
         DisabledColor: =RGBA(244, 244, 244, 1)
         Height: =79
         Icon: =Icon.Cancel
-        OnSelect: =ResetForm(EditForm1);Back()
+        OnSelect: =ResetForm(EditForm1);Back(ScreenTransition.Cover)
         PaddingBottom: =22
         PaddingLeft: =22
         PaddingRight: =22

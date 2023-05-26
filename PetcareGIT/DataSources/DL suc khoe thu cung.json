@@ -25,25 +25,24 @@
       "{VersionNumber}": "Số phiên bản",
       "Author": "Người Tạo",
       "Author#Claims": "Người Tạo Claims",
-      "C_x00e2_nn_x1eb7_ng": "Cannang",
+      "C_x00e2_n_x0020_n_x1eb7_ng": "Cân nặng",
       "ComplianceAssetId": "Id Tài sản Tuân thủ",
       "Created": "Đã tạo",
-      "Chi_x1ec1_ucao": "Chieucao",
-      "Chi_x1ec1_ud_x00e0_i": "Chieudai",
+      "Chi_x1ec1_u_x0020_cao": "Chiều cao",
+      "Chi_x1ec1_u_x0020_d_x00e0_i": "Chiều dài",
       "Editor": "Người Sửa đổi",
       "Editor#Claims": "Người Sửa đổi Claims",
       "ID": "ID",
       "Modified": "Đã sửa đổi",
-      "Ng_x00e0_yth_x00e1_ng": "Ngaythang",
       "OData__ColorTag": "Thẻ màu",
-      "Title": "Tiêu đề",
-      "Thannhiet": "Thannhiet"
+      "Title": "Tiêu đề",
+      "Th_x00e2_n_x0020_nhi_x1ec7_t": "Thân nhiệt"
     },
     "DatasetName": "https://dueudn.sharepoint.com/sites/M4N_Group",
     "EncodeDataset": true,
     "IsSampleData": false,
     "IsWritable": true,
-    "Name": "DL HSTC",
+    "Name": "DL suc khoe thu cung",
     "Type": "ConnectedDataSourceInfo"
   }
 ]

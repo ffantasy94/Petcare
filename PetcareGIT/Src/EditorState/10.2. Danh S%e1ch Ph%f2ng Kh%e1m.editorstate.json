@@ -4248,14 +4248,7 @@
         "Visible",
         "DisplayMode",
         "TabIndex",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "\r\nBack()",
-          "InvariantPropertyName": "OnSelect",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "OnSelect",
         "minimumWidth",
         "minimumHeight",
         "maximumWidth",

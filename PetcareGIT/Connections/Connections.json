@@ -51,28 +51,6 @@
     "dependents": [],
     "id": "9d986850-04e4-48f9-9932-39d6663dd6aa"
   },
-  "a85f5c33-3a93-4bf9-ba72-8df4475c5f2c": {
-    "connectionRef": {
-      "displayName": "SharePoint",
-      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1627/1.0.1627.3238/sharepointonline/icon.png",
-      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
-    },
-    "datasets": {
-      "https://dueudn.sharepoint.com/sites/M4N_Group": {
-        "dataSources": {
-          "DL HSTC": {
-            "tableName": "ddf80e08-9ed5-4681-8325-c0aec88cbfbb"
-          }
-        }
-      }
-    },
-    "dataSources": [
-      "DL HSTC"
-    ],
-    "dependencies": {},
-    "dependents": [],
-    "id": "a85f5c33-3a93-4bf9-ba72-8df4475c5f2c"
-  },
   "b39e9275-1e9e-413a-8bed-1eb9bfe210d3": {
     "connectionRef": {
       "displayName": "ChatGPT API",
