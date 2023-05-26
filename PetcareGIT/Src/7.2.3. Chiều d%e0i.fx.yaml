@@ -77,7 +77,7 @@
         LayoutOverflowX: =LayoutOverflow.Scroll
         LayoutOverflowY: =LayoutOverflow.Scroll
         Width: =428
-        Y: =268
+        Y: =246
         ZIndex: =86
 
         CompositeLineChart4_2 As group:

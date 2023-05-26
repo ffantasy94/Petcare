@@ -241,17 +241,17 @@
             Order: =3
             ZIndex: =3
 
-        Longitude1 As pcfDataField.textualColumn:
-            FieldDisplayName: ="Longitude"
-            FieldName: ="Longitude"
+        "'Giờ Mở Cửa2' As pcfDataField.textualColumn":
+            FieldDisplayName: ="Giờ Mở Cửa"
+            FieldName: ="Gi_x1edd_M_x1edf_C_x1eed_a"
             FieldType: ="s"
             FieldVariantName: ="textualColumn"
             Order: =4
             ZIndex: =4
 
-        "'Giờ Mở Cửa2' As pcfDataField.textualColumn":
-            FieldDisplayName: ="Giờ Mở Cửa"
-            FieldName: ="Gi_x1edd_M_x1edf_C_x1eed_a"
+        Longitude1 As pcfDataField.textualColumn:
+            FieldDisplayName: ="Longitude"
+            FieldName: ="Longitude"
             FieldType: ="s"
             FieldVariantName: ="textualColumn"
             Order: =4

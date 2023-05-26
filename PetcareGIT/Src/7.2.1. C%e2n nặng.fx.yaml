@@ -70,36 +70,6 @@
         Y: =17
         ZIndex: =91
 
-    Container2 As groupContainer.horizontalAutoLayoutContainer:
-        Height: =578
-        LayoutGap: =-370
-        LayoutMode: =LayoutMode.Auto
-        LayoutOverflowX: =LayoutOverflow.Scroll
-        LayoutOverflowY: =LayoutOverflow.Scroll
-        Width: =428
-        Y: =268
-        ZIndex: =92
-
-        CompositeLineChart4 As group:
-            Height: =5
-            Width: =5
-            X: =40
-            Y: =40
-            ZIndex: =1
-
-            Title4_1 As label:
-                Align: =Align.Right
-                AlignInContainer: =AlignInContainer.Start
-                Color: =RGBA(51, 51, 51, 1)
-                DisabledColor: =RGBA(166, 166, 166, 1)
-                Font: =Font.'Segoe UI'
-                Height: =25
-                Text: ="Biểu đồ thể hiện cân nặng (kg)"
-                Width: =400
-                X: =40
-                Y: =40
-                ZIndex: =2
-
     IconRefresh1_1 As icon.Reload:
         AccessibleLabel: =Self.Tooltip
         BorderColor: =RGBA(0, 18, 107, 1)
@@ -148,4 +118,59 @@
         X: =145
         Y: =153
         ZIndex: =94
+
+    Container2_4 As groupContainer.horizontalAutoLayoutContainer:
+        Height: =578
+        LayoutGap: =-370
+        LayoutMode: =LayoutMode.Auto
+        LayoutOverflowX: =LayoutOverflow.Scroll
+        LayoutOverflowY: =LayoutOverflow.Scroll
+        Width: =428
+        Y: =244
+        ZIndex: =95
+
+        CompositeLineChart4_4 As group:
+            Height: =5
+            LayoutMinHeight: =5
+            LayoutMinWidth: =5
+            Width: =5
+            X: =40
+            Y: =40
+            ZIndex: =1
+
+            Title4_5 As label:
+                Align: =Align.Right
+                AlignInContainer: =AlignInContainer.Start
+                Color: =RGBA(51, 51, 51, 1)
+                DisabledColor: =RGBA(166, 166, 166, 1)
+                Font: =Font.'Segoe UI'
+                Height: =25
+                LayoutMinHeight: =70
+                LayoutMinWidth: =560
+                Text: ="Biểu đồ thể hiện cân nặng (kg)"
+                Width: =400
+                X: =40
+                Y: =40
+                ZIndex: =2
+
+            LineChart4_4 As lineChart:
+                AlignInContainer: =AlignInContainer.Start
+                BorderColor: =RGBA(0, 0, 0, 0)
+                BorderStyle: =BorderStyle.None
+                BorderThickness: =2
+                Color: =RGBA(51, 51, 51, 1)
+                DisabledBorderColor: =RGBA(0, 0, 0, 0)
+                FillPortions: =100
+                Font: =Font.'Segoe UI'
+                Height: =550
+                HoverBorderColor: =RGBA(0, 0, 0, 0)
+                ItemColorSet: =[RGBA(49, 130, 93, 1),RGBA(48,166,103, 1), RGBA(94,193,108,1), RGBA(246,199,144,1), RGBA(247,199,114,1), RGBA(247,180,91,1), RGBA(246,143,100,1), RGBA(212,96,104,1), RGBA(148, 110, 176, 1), RGBA(118, 154, 204, 1), RGBA(96, 197, 234, 1)]
+                Items: ='DL suc khoe thu cung'
+                LayoutMinWidth: =470
+                PressedBorderColor: =RGBA(0, 0, 0, 0)
+                Size: =22
+                X: =40
+                XLabelAngle: =40
+                Y: =70
+                ZIndex: =3
 
