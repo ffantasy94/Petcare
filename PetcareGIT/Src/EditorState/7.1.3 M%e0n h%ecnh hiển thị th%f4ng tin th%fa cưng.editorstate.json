@@ -6937,7 +6937,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "IconAccept1",
-      "ParentIndex": 3,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -7134,14 +7134,7 @@
         "HoverBorderColor",
         "FocusedBorderColor",
         "ZIndex",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "ResetForm(EditForm1);Back()",
-          "InvariantPropertyName": "OnSelect",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "OnSelect",
         "PaddingLeft",
         "PaddingRight",
         "PaddingTop",
@@ -7368,7 +7361,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "LblAppName3",
-      "ParentIndex": 2,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
