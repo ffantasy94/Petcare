@@ -339,7 +339,7 @@
             FocusedBorderThickness: =4
             Height: =78
             HoverBorderColor: =RGBA(0, 0, 0, 0)
-            HoverColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+            HoverColor: =ColorFade(RGBA(251, 183, 80, 1), 30%)
             HoverFill: =RGBA(0, 0, 0, 0)
             Icon: =Icon.Add
             OnSelect: =NewForm(EditForm1);Navigate('7.1.3 Màn hình hiển thị thông tin thú cưng', ScreenTransition.Cover)
