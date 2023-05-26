@@ -169,7 +169,8 @@
         ZIndex: =29
 
     DetailForm1 As formViewer:
-        BorderColor: =RGBA(246, 88, 16, 1)
+        BorderColor: =RGBA(251, 183, 80, 1)
+        BorderStyle: =BorderStyle.Dashed
         BorderThickness: =2
         DataSource: =[@'Du lieu thong tin thu cung']
         Fill: =RGBA(255, 255, 255, 1)
@@ -191,7 +192,7 @@
             Fill: =RGBA(0, 0, 0, 0)
             Height: =74
             Required: =true
-            Width: =385
+            Width: =384
             X: =0
             Y: =0
             ZIndex: =1
