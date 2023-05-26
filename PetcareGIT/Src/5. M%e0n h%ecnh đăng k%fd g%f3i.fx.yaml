@@ -169,13 +169,13 @@
         PaddingLeft: =0
         PaddingRight: =0
         PaddingTop: =0
-        Size: =19
+        Size: =12
         Text: |-
             ="ƯU ĐÃI CHỈ CÒN TRONG: "
         VerticalAlign: =VerticalAlign.Top
         Width: =363
-        X: =56
-        Y: =62
+        X: =36
+        Y: =71
         ZIndex: =8
 
     "'Component 8' As rectangle":
@@ -247,7 +247,7 @@
         PaddingLeft: =0
         PaddingRight: =0
         PaddingTop: =0
-        Size: =15
+        Size: =12
         Text: ="VNĐ"
         Width: =218
         X: =213
@@ -268,7 +268,7 @@
         PaddingLeft: =0
         PaddingRight: =0
         PaddingTop: =0
-        Size: =15
+        Size: =12
         Text: ="VNĐ"
         Width: =218
         X: =209
@@ -289,7 +289,7 @@
         PaddingLeft: =0
         PaddingRight: =0
         PaddingTop: =0
-        Size: =15
+        Size: =12
         Text: ="VNĐ"
         Width: =218
         X: =212
@@ -396,7 +396,7 @@
         PaddingLeft: =0
         PaddingRight: =0
         PaddingTop: =0
-        Size: =27
+        Size: =25
         Text: ="161.460"
         Width: =152
         X: =246
@@ -418,7 +418,7 @@
         PaddingLeft: =0
         PaddingRight: =0
         PaddingTop: =0
-        Size: =27
+        Size: =25
         Text: ="348.000"
         Width: =156
         X: =244
@@ -440,7 +440,7 @@
         PaddingLeft: =0
         PaddingRight: =0
         PaddingTop: =0
-        Size: =27
+        Size: =25
         Text: ="790.800"
         Width: =156
         X: =242
@@ -500,7 +500,7 @@
         FocusedBorderColor: =ColorFade(Self.Fill, -75%)
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
-        Height: =50
+        Height: =42
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
@@ -516,9 +516,9 @@
         RadiusTopRight: =20
         Size: =24
         Text: ="Tiếp tục"
-        Width: =226
-        X: =107
-        Y: =753
+        Width: =201
+        X: =118
+        Y: =782
         ZIndex: =24
 
     "'Component 8_2' As rectangle":
@@ -562,10 +562,10 @@
         FocusedBorderThickness: =4
         FontWeight: =FontWeight.Bold
         Height: =33
-        Size: =17
+        Size: =12
         Text: ="Giờ"
-        Width: =97
-        X: =42
+        Width: =98
+        X: =40
         Y: =169
         ZIndex: =30
 
@@ -580,7 +580,7 @@
         FocusedBorderThickness: =4
         FontWeight: =FontWeight.Bold
         Height: =33
-        Size: =17
+        Size: =12
         Text: ="Phút"
         Width: =97
         X: =164
@@ -598,7 +598,7 @@
         FocusedBorderThickness: =4
         FontWeight: =FontWeight.Bold
         Height: =33
-        Size: =17
+        Size: =12
         Text: ="Giây"
         Width: =97
         X: =290
@@ -650,7 +650,7 @@
         FocusedBorderColor: =ColorFade(Self.Fill, -75%)
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
-        Height: =50
+        Height: =42
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
@@ -666,9 +666,9 @@
             =20
         Size: =24
         Text: ="Bỏ qua"
-        Width: =226
-        X: =107
-        Y: =845
+        Width: =201
+        X: =120
+        Y: =846
         ZIndex: =35
 
     Timer As timer:

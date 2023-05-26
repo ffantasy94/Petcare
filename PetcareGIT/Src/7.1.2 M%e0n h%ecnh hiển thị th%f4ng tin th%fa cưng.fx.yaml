@@ -185,7 +185,7 @@
             BorderStyle: =BorderStyle.Solid
             BorderThickness: =1
             DataField: ="Title"
-            Default: =ThisItem.'Tên (Title)'
+            Default: =ThisItem.Title
             DisplayMode: =DisplayMode.View
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"Title")
             Fill: =RGBA(0, 0, 0, 0)
@@ -312,12 +312,12 @@
                 Height: =50
                 HoverColor: =RGBA(0, 0, 0, 1)
                 HoverFill: =RGBA(186, 202, 226, 1)
-                Items: =Choices([@'Du lieu thong tin thu cung'].Lo_x00e0_i)
+                Items: =Choices([@'Du lieu thong tin thu cung'].Loài)
                 PaddingLeft: =If(Self.DisplayMode = DisplayMode.Edit, 5, 0)
                 PressedColor: =RGBA(255, 255, 255, 1)
                 PressedFill: =RGBA(0, 18, 107, 1)
                 SearchFields: =["Value"]
-                SearchItems: =Choices('Du lieu thong tin thu cung'.Lo_x00e0_i,DataCardValue3.SearchText)
+                SearchItems: =Choices('Du lieu thong tin thu cung'.Loài,DataCardValue3.SearchText)
                 SelectionFill: =RGBA(56, 96, 178, 1)
                 SelectMultiple: =false
                 Size: =21
@@ -447,12 +447,12 @@
                 Height: =60
                 HoverColor: =RGBA(0, 0, 0, 1)
                 HoverFill: =RGBA(186, 202, 226, 1)
-                Items: =Choices([@'Du lieu thong tin thu cung'].Gi_x1edb_i_x0020_t_x00ed_nh)
+                Items: =Choices([@'Du lieu thong tin thu cung'].'Giới tính')
                 PaddingLeft: =If(Self.DisplayMode = DisplayMode.Edit, 5, 0)
                 PressedColor: =RGBA(255, 255, 255, 1)
                 PressedFill: =RGBA(0, 18, 107, 1)
                 SearchFields: =["Value"]
-                SearchItems: =Choices('Du lieu thong tin thu cung'.Gi_x1edb_i_x0020_t_x00ed_nh,DataCardValue5.SearchText)
+                SearchItems: =Choices('Du lieu thong tin thu cung'.'Giới tính',DataCardValue5.SearchText)
                 SelectionFill: =RGBA(56, 96, 178, 1)
                 SelectMultiple: =false
                 Size: =21

@@ -179,7 +179,7 @@
         Y: =36
         ZIndex: =32
 
-    "Map1 As 'Bản đồ (bản xem trước)'.pcfdataset":
+    "Map1 As 'Map (preview)'.pcfdataset":
         BorderColor: =RGBA(0, 18, 107, 1)
         CurrentLocation: =true
         CurrentLocationLatitude: =Location.Latitude
