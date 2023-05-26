@@ -209,8 +209,24 @@
             Order: =1
             ZIndex: =1
 
+        "'Tiêu đề1' As pcfDataField.textualColumn":
+            FieldDisplayName: ="Tiêu đề"
+            FieldName: ="Title"
+            FieldType: ="s"
+            FieldVariantName: ="textualColumn"
+            Order: =1
+            ZIndex: =1
+
         Location1 As pcfDataField.textualColumn:
             FieldDisplayName: ="Location"
+            FieldName: ="Location"
+            FieldType: ="s"
+            FieldVariantName: ="textualColumn"
+            Order: =2
+            ZIndex: =2
+
+        "'Địa Điểm1' As pcfDataField.textualColumn":
+            FieldDisplayName: ="Địa Điểm"
             FieldName: ="Location"
             FieldType: ="s"
             FieldVariantName: ="textualColumn"
@@ -228,6 +244,14 @@
         Longitude1 As pcfDataField.textualColumn:
             FieldDisplayName: ="Longitude"
             FieldName: ="Longitude"
+            FieldType: ="s"
+            FieldVariantName: ="textualColumn"
+            Order: =4
+            ZIndex: =4
+
+        "'Giờ Mở Cửa2' As pcfDataField.textualColumn":
+            FieldDisplayName: ="Giờ Mở Cửa"
+            FieldName: ="Gi_x1edd_M_x1edf_C_x1eed_a"
             FieldType: ="s"
             FieldVariantName: ="textualColumn"
             Order: =4

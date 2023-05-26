@@ -51,9 +51,8 @@
         FocusedBorderThickness: =4
         Height: =22
         LineHeight: =1.157895
-        OnSelect: |-
+        OnSelect: |
             =
-            Back()
         PaddingBottom: =0
         PaddingLeft: =0
         PaddingRight: =0
