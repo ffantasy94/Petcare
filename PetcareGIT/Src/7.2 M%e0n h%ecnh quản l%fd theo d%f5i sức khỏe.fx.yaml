@@ -34,13 +34,13 @@
         "'Rectangle 103' As rectangle":
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
-            DisabledFill: =RGBA(166, 166, 166, 1)
+            DisabledFill: =RGBA(255, 255, 255, 1)
             Fill: =RGBA(250.0306, 219.5477, 111.472, 0.3)
             FocusedBorderThickness: =4
             Height: =125
-            HoverFill: =RGBA(0, 120, 212, 1)
+            HoverFill: =RGBA(255, 255, 255, 1)
             OnSelect: =Navigate('7.2.1. Cân nặng', ScreenTransition.Cover)
-            PressedFill: =RGBA(0, 120, 212, 1)
+            PressedFill: =RGBA(255, 255, 255, 1)
             Width: =139
             X: =60
             Y: =293
@@ -158,11 +158,11 @@
         "'Rectangle 105' As rectangle":
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
-            DisabledFill: =RGBA(166, 166, 166, 1)
+            DisabledFill: =RGBA(255, 255, 255, 1)
             Fill: =RGBA(250.0306, 219.5477, 111.472, 0.3)
             FocusedBorderThickness: =4
             Height: =125
-            HoverFill: =RGBA(0, 120, 212, 1)
+            HoverFill: =RGBA(255, 255, 255, 1)
             OnSelect: =Navigate('7.2.3. Chiều dài', ScreenTransition.Cover)
             PressedFill: =RGBA(0, 120, 212, 1)
             Width: =139
@@ -220,13 +220,13 @@
         "'Rectangle 106' As rectangle":
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
-            DisabledFill: =RGBA(166, 166, 166, 1)
+            DisabledFill: =RGBA(255, 255, 255, 1)
             Fill: =RGBA(250.0306, 219.5477, 111.472, 0.3)
             FocusedBorderThickness: =4
             Height: =125
-            HoverFill: =RGBA(0, 120, 212, 1)
+            HoverFill: =RGBA(255, 255, 255, 1)
             OnSelect: =Navigate('7.2.4. Thân nhiệt', ScreenTransition.Cover)
-            PressedFill: =RGBA(0, 120, 212, 1)
+            PressedFill: =RGBA(255, 255, 255, 1)
             Width: =139
             X: =244
             Y: =543
