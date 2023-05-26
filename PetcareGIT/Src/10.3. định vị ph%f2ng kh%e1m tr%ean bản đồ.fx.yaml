@@ -182,8 +182,8 @@
     "Map1 As 'Bản đồ (bản xem trước)'.pcfdataset":
         BorderColor: =RGBA(0, 18, 107, 1)
         CurrentLocation: =true
-        CurrentLocationLatitude: =16.047419
-        CurrentLocationLongitude: =108.239075
+        CurrentLocationLatitude: =Location.Latitude
+        CurrentLocationLongitude: =Location.Longitude
         DefaultLatitude: =16.047419
         DefaultLocation: =true
         DefaultLongitude: =108.239075
@@ -208,4 +208,12 @@
             FieldVariantName: ="textualColumn"
             Order: =4
             ZIndex: =5
+
+        "'Tiêu đề2' As pcfDataField.textualColumn":
+            FieldDisplayName: ="Tiêu đề"
+            FieldName: ="Title"
+            FieldType: ="s"
+            FieldVariantName: ="textualColumn"
+            Order: =2
+            ZIndex: =6
 
