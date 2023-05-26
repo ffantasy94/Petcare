@@ -184,9 +184,9 @@
         CurrentLocation: =true
         CurrentLocationLatitude: =Location.Latitude
         CurrentLocationLongitude: =Location.Longitude
-        DefaultLatitude: =16.047419
+        DefaultLatitude: =Location.Latitude
         DefaultLocation: =true
-        DefaultLongitude: =108.239075
+        DefaultLongitude: =Location.Longitude
         DisplayMode: =DisplayMode.Edit
         Height: =764
         InfoCards: ='Map.InfoCards'.OnClick
