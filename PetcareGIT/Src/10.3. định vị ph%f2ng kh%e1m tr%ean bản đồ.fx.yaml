@@ -188,7 +188,7 @@
         DefaultLocation: =true
         DefaultLongitude: =108.239075
         DisplayMode: =DisplayMode.Edit
-        Height: =662
+        Height: =764
         InfoCards: ='Map.InfoCards'.OnClick
         Items: =MapData
         ItemsAddresses: =""
@@ -200,4 +200,12 @@
         X: =0
         Y: =162
         ZIndex: =33
+
+        Location2 As pcfDataField.textualColumn:
+            FieldDisplayName: ="Location"
+            FieldName: ="Location"
+            FieldType: ="s"
+            FieldVariantName: ="textualColumn"
+            Order: =4
+            ZIndex: =5
 
