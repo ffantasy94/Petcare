@@ -7,37 +7,84 @@
         UpdateContext({pressedButton3:false})
     Width: =440
 
-    Button9 As button:
+    Button3_1 As button:
         BorderColor: =If(pressedButton1=true, Color.Orange, Color.White)
-        BorderThickness: =5
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
-        Fill: =RGBA(250, 220, 111, 0.29)
-        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
-        Font: =Font.'Segoe UI'
+        Fill: =RGBA(255, 255, 211, 0.3)
         FontWeight: =FontWeight.Semibold
         Height: =71
         HoverBorderColor: =
         HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        HoverFill: =
         OnSelect: |-
             =UpdateContext({pressedButton1:true});
             UpdateContext({pressedButton2:false});
             UpdateContext({pressedButton3:false})
-        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
-        PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedBorderColor: =
         RadiusBottomLeft: =0
         RadiusBottomRight: =0
         RadiusTopLeft: =0
         RadiusTopRight: =0
         Size: =24
-        Text: =
+        Text: =""
         Width: =402
         X: =19
-        Y: =454
+        Y: =460
         ZIndex: =1
+
+    Button3_2 As button:
+        BorderColor: =If(pressedButton2=true, Color.Orange, Color.White)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(255, 255, 211, 0.3)
+        FontWeight: =FontWeight.Semibold
+        Height: =71
+        HoverBorderColor: =
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =
+        OnSelect: |-
+            =UpdateContext({pressedButton1:false});
+            UpdateContext({pressedButton2:true});
+            UpdateContext({pressedButton3:false})
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =24
+        Text: =""
+        Width: =402
+        X: =17
+        Y: =548
+        ZIndex: =2
+
+    Button3_3 As button:
+        BorderColor: =If(pressedButton3=true, Color.Orange, Color.White)
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(255, 255, 211, 0.3)
+        FontWeight: =FontWeight.Semibold
+        Height: =71
+        HoverBorderColor: =
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =
+        OnSelect: |-
+            =UpdateContext({pressedButton1:false});
+            UpdateContext({pressedButton2:false});
+            UpdateContext({pressedButton3:true})
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =24
+        Text: =""
+        Width: =402
+        X: =19
+        Y: =641
+        ZIndex: =3
 
     "'Add a subheading (2) 6_1' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -54,7 +101,7 @@
         Width: =76
         X: =69
         Y: =319
-        ZIndex: =2
+        ZIndex: =4
 
     "'Add a subheading (2) 7' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -71,7 +118,7 @@
         Width: =76
         X: =69
         Y: =354
-        ZIndex: =3
+        ZIndex: =5
 
     "'Add a subheading (2) 8' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -88,7 +135,7 @@
         Width: =76
         X: =69
         Y: =285
-        ZIndex: =4
+        ZIndex: =6
 
     "'Add a subheading (2) 9' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -105,7 +152,7 @@
         Width: =76
         X: =69
         Y: =252
-        ZIndex: =5
+        ZIndex: =7
 
     "'ƯU ĐÃI CHỈ CÒN TRONG:' As label":
         Align: =Align.Center
@@ -129,7 +176,7 @@
         Width: =363
         X: =56
         Y: =62
-        ZIndex: =6
+        ZIndex: =8
 
     "'Component 8' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -144,7 +191,7 @@
         Width: =98
         X: =41
         Y: =119
-        ZIndex: =7
+        ZIndex: =9
 
     "'CÁC TÍNH NĂNG HẤP DẪN' As label":
         Align: =Align.Center
@@ -163,7 +210,7 @@
         Width: =384
         X: =28
         Y: =224
-        ZIndex: =8
+        ZIndex: =10
 
     "'Hồ sơ thú cưng' As label":
         Align: =Align.Center
@@ -184,7 +231,7 @@
         Width: =180
         X: =128
         Y: =289
-        ZIndex: =9
+        ZIndex: =11
 
     VNĐ As label:
         Align: =Align.Center
@@ -205,7 +252,7 @@
         Width: =218
         X: =213
         Y: =501
-        ZIndex: =10
+        ZIndex: =12
 
     VNĐ_1 As label:
         Align: =Align.Center
@@ -226,7 +273,7 @@
         Width: =218
         X: =209
         Y: =594
-        ZIndex: =11
+        ZIndex: =13
 
     VNĐ_2 As label:
         Align: =Align.Center
@@ -247,7 +294,7 @@
         Width: =218
         X: =212
         Y: =688
-        ZIndex: =12
+        ZIndex: =14
 
     "'Theo dõi sức khỏe' As label":
         Align: =Align.Center
@@ -268,7 +315,7 @@
         Width: =224
         X: =121
         Y: =324
-        ZIndex: =13
+        ZIndex: =15
 
     "'Nhắc nhở lịch trình' As label":
         Align: =Align.Center
@@ -289,7 +336,7 @@
         Width: =253
         X: =111
         Y: =355
-        ZIndex: =14
+        ZIndex: =16
 
     "'Phòng khám lân cận' As label":
         Align: =Align.Center
@@ -310,7 +357,7 @@
         Width: =249
         X: =121
         Y: =386
-        ZIndex: =15
+        ZIndex: =17
 
     "'Gói tháng' As label":
         Align: =Align.Center
@@ -332,7 +379,7 @@
         Width: =123
         X: =33
         Y: =475
-        ZIndex: =16
+        ZIndex: =18
 
     "'161.460' As label":
         Align: =Align.Center
@@ -354,7 +401,7 @@
         Width: =152
         X: =246
         Y: =467
-        ZIndex: =17
+        ZIndex: =19
 
     "'348.000' As label":
         Align: =Align.Center
@@ -376,7 +423,7 @@
         Width: =156
         X: =244
         Y: =560
-        ZIndex: =18
+        ZIndex: =20
 
     "'790.800' As label":
         Align: =Align.Center
@@ -398,7 +445,7 @@
         Width: =156
         X: =242
         Y: =654
-        ZIndex: =19
+        ZIndex: =21
 
     "'Gói năm' As label":
         Align: =Align.Center
@@ -420,7 +467,7 @@
         Width: =123
         X: =28
         Y: =568
-        ZIndex: =20
+        ZIndex: =22
 
     "'Gói trọn đời' As label":
         Align: =Align.Center
@@ -442,7 +489,7 @@
         Width: =171
         X: =17
         Y: =662
-        ZIndex: =21
+        ZIndex: =23
 
     Button7 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -472,7 +519,7 @@
         Width: =226
         X: =107
         Y: =753
-        ZIndex: =22
+        ZIndex: =24
 
     Label2 As label:
         Align: =Align.Center
@@ -490,7 +537,7 @@
         Width: =90
         X: =41
         Y: =110
-        ZIndex: =23
+        ZIndex: =25
 
     "'Component 8_2' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -505,7 +552,7 @@
         Width: =98
         X: =163
         Y: =119
-        ZIndex: =24
+        ZIndex: =26
 
     Label2_1 As label:
         Align: =Align.Center
@@ -523,7 +570,7 @@
         Width: =90
         X: =169
         Y: =110
-        ZIndex: =25
+        ZIndex: =27
 
     "'Component 8_3' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -538,7 +585,7 @@
         Width: =98
         X: =289
         Y: =119
-        ZIndex: =26
+        ZIndex: =28
 
     Label2_2 As label:
         Align: =Align.Center
@@ -556,7 +603,7 @@
         Width: =90
         X: =293
         Y: =110
-        ZIndex: =27
+        ZIndex: =29
 
     Label6 As label:
         Align: =Align.Center
@@ -574,7 +621,7 @@
         Width: =97
         X: =42
         Y: =169
-        ZIndex: =28
+        ZIndex: =30
 
     Label6_1 As label:
         Align: =Align.Center
@@ -592,7 +639,7 @@
         Width: =97
         X: =164
         Y: =169
-        ZIndex: =29
+        ZIndex: =31
 
     Label6_2 As label:
         Align: =Align.Center
@@ -610,7 +657,7 @@
         Width: =97
         X: =290
         Y: =169
-        ZIndex: =30
+        ZIndex: =32
 
     Label10 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -628,7 +675,7 @@
         Width: =28
         X: =141
         Y: =119
-        ZIndex: =31
+        ZIndex: =33
 
     Label10_1 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -646,7 +693,7 @@
         Width: =28
         X: =265
         Y: =119
-        ZIndex: =32
+        ZIndex: =34
 
     Button7_1 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
@@ -676,69 +723,5 @@
         Width: =226
         X: =107
         Y: =845
-        ZIndex: =33
-
-    Button9_1 As button:
-        BorderColor: =If(pressedButton1=true, Color.Orange, Color.White)
-        BorderThickness: =5
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        DisabledFill: =RGBA(244, 244, 244, 1)
-        Fill: =RGBA(250, 220, 111, 0.29)
-        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
-        Font: =Font.'Segoe UI'
-        FontWeight: =FontWeight.Semibold
-        Height: =71
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        OnSelect: |-
-            =UpdateContext({pressedButton1:false});
-            UpdateContext({pressedButton2:true});
-            UpdateContext({pressedButton3:false})
-        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
-        PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =24
-        Text: =""
-        Width: =402
-        X: =19
-        Y: =552
-        ZIndex: =34
-
-    Button9_2 As button:
-        BorderColor: =If(pressedButton1=true, Color.Orange, Color.White)
-        BorderThickness: =5
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        DisabledFill: =RGBA(244, 244, 244, 1)
-        Fill: =RGBA(250, 220, 111, 0.29)
-        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
-        Font: =Font.'Segoe UI'
-        FontWeight: =FontWeight.Semibold
-        Height: =71
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        OnSelect: |-
-            =UpdateContext({pressedButton1:false});
-            UpdateContext({pressedButton2:false});
-            UpdateContext({pressedButton3:true})
-        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
-        PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =24
-        Text: =""
-        Width: =402
-        X: =19
-        Y: =645
         ZIndex: =35
 
