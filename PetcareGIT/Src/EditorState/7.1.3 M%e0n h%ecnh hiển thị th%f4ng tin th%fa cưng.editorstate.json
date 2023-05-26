@@ -2499,7 +2499,14 @@
         "Fill",
         "DisabledFill",
         "PressedFill",
-        "HoverFill",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "",
+          "InvariantPropertyName": "HoverFill",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "Font",
         "FontWeight",
         "Align",
@@ -3211,7 +3218,14 @@
         "Fill",
         "DisabledFill",
         "PressedFill",
-        "HoverFill",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "",
+          "InvariantPropertyName": "HoverFill",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "Font",
         "FontWeight",
         "Align",
@@ -3538,7 +3552,14 @@
         "Fill",
         "DisabledFill",
         "PressedFill",
-        "HoverFill",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "",
+          "InvariantPropertyName": "HoverFill",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "Font",
         "FontWeight",
         "Align",
@@ -3865,7 +3886,14 @@
         "Fill",
         "DisabledFill",
         "PressedFill",
-        "HoverFill",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "",
+          "InvariantPropertyName": "HoverFill",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "Font",
         "FontWeight",
         "Align",

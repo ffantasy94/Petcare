@@ -117,7 +117,7 @@
                 Height: =70
                 HoverBorderColor: =RGBA(0, 18, 107, 1)
                 HoverColor: =RGBA(0, 0, 0, 1)
-                HoverFill: =RGBA(186, 202, 226, 1)
+                HoverFill: =RGBA(0, 0, 0, 0)
                 MaxLength: =Parent.MaxLength
                 PaddingLeft: =5
                 RadiusBottomLeft: =0
@@ -385,7 +385,7 @@
                 Height: =70
                 HoverBorderColor: =RGBA(0, 18, 107, 1)
                 HoverColor: =RGBA(0, 0, 0, 1)
-                HoverFill: =RGBA(186, 202, 226, 1)
+                HoverFill: =RGBA(0, 0, 0, 0)
                 MaxLength: =Parent.MaxLength
                 PaddingLeft: =5
                 RadiusBottomLeft: =0
@@ -567,7 +567,7 @@
                 Height: =70
                 HoverBorderColor: =RGBA(0, 18, 107, 1)
                 HoverColor: =RGBA(0, 0, 0, 1)
-                HoverFill: =RGBA(186, 202, 226, 1)
+                HoverFill: =RGBA(0, 0, 0, 0)
                 MaxLength: =Parent.MaxLength
                 PaddingLeft: =5
                 RadiusBottomLeft: =0
@@ -657,7 +657,7 @@
                 Height: =70
                 HoverBorderColor: =RGBA(0, 18, 107, 1)
                 HoverColor: =RGBA(0, 0, 0, 1)
-                HoverFill: =RGBA(186, 202, 226, 1)
+                HoverFill: =RGBA(0, 0, 0, 0)
                 MaxLength: =Parent.MaxLength
                 PaddingLeft: =5
                 RadiusBottomLeft: =0
