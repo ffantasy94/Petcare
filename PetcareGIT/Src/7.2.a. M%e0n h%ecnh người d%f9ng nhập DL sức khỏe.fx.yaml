@@ -565,7 +565,7 @@
         Font: =Font.'Segoe UI'
         Height: =72
         Size: =21
-        Text: ="(kg)"
+        Text: ="(cm)"
         Width: =94
         X: =303
         Y: =316
@@ -583,7 +583,7 @@
         Font: =Font.'Segoe UI'
         Height: =72
         Size: =21
-        Text: ="(kg)"
+        Text: ="(cm)"
         Width: =94
         X: =303
         Y: =460
@@ -601,7 +601,7 @@
         Font: =Font.'Segoe UI'
         Height: =72
         Size: =21
-        Text: ="(kg)"
+        Text: ="(độ C)"
         Width: =94
         X: =303
         Y: =605
