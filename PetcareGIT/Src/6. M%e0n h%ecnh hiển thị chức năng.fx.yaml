@@ -111,7 +111,7 @@
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Semibold
         Height: =80
-        OnSelect: =Navigate( '10.2. Màn hình gợi ý phòng khám', ScreenTransition.Cover)
+        OnSelect: =Navigate( '10.2. Danh Sách Phòng Khám', ScreenTransition.Cover)
         Size: =16
         Text: |-
             ="Phòng khám
@@ -182,7 +182,7 @@
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: ='free-hospital-icon-1066-thumb'
         OnSelect: |
-            =Navigate('10.3. định vị phòng khám trên bản đồ')
+            =Navigate('10.2. Danh Sách Phòng Khám')
         PaddingBottom: =20
         PaddingLeft: =20
         PaddingRight: =20
