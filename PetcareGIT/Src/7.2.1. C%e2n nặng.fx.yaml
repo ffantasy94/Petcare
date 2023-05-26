@@ -103,11 +103,11 @@
         Height: =62
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        HoverFill: =ColorFade(RGBA(250, 150, 0, 1), 10%)
         OnSelect: =NewForm(Form1);Navigate('7.2.a. Màn hình người dùng nhập DL sức khỏe',ScreenTransition.Cover)
-        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
+        PressedBorderColor: =ColorFade(RGBA(250, 150, 0, 1), 50%)
         PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedFill: =ColorFade(RGBA(250, 150, 0, 1), 30%)
         RadiusBottomLeft: =20
         RadiusBottomRight: =20
         RadiusTopLeft: =20
