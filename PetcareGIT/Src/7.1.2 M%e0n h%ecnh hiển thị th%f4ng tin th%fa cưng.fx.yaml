@@ -262,12 +262,13 @@
                 Height: =68
                 HoverColor: =RGBA(0, 0, 0, 1)
                 HoverFill: =RGBA(186, 202, 226, 1)
+                IsSearchable: =false
                 Items: =Choices([@'Du lieu thong tin thu cung'].Loài)
                 PaddingLeft: =If(Self.DisplayMode = DisplayMode.Edit, 5, 0)
                 PressedColor: =RGBA(255, 255, 255, 1)
                 PressedFill: =RGBA(0, 18, 107, 1)
                 SearchFields: =["Value"]
-                SearchItems: =Choices('Du lieu thong tin thu cung'.Loài,DataCardValue3.SearchText)
+                SearchItems: =[]
                 SelectionFill: =RGBA(56, 96, 178, 1)
                 SelectMultiple: =false
                 Size: =21
@@ -394,12 +395,13 @@
                 Height: =70
                 HoverColor: =RGBA(0, 0, 0, 1)
                 HoverFill: =RGBA(186, 202, 226, 1)
+                IsSearchable: =false
                 Items: =Choices([@'Du lieu thong tin thu cung'].'Giới tính')
                 PaddingLeft: =If(Self.DisplayMode = DisplayMode.Edit, 5, 0)
                 PressedColor: =RGBA(255, 255, 255, 1)
                 PressedFill: =RGBA(0, 18, 107, 1)
                 SearchFields: =["Value"]
-                SearchItems: =Choices('Du lieu thong tin thu cung'.'Giới tính',DataCardValue5.SearchText)
+                SearchItems: =[]
                 SelectionFill: =RGBA(56, 96, 178, 1)
                 SelectMultiple: =false
                 Size: =21

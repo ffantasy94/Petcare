@@ -1,4 +1,18 @@
 {
+  "11d8ee44-b425-43ed-9f2e-fb2a0ac0ff50": {
+    "connectionRef": {
+      "displayName": "Spatial Services",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1613/1.0.1613.3125/microsoftspatialservices/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_microsoftspatialservices"
+    },
+    "datasets": {},
+    "dataSources": [
+      "SpatialServices_6"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "11d8ee44-b425-43ed-9f2e-fb2a0ac0ff50"
+  },
   "7497642e-99e7-42bb-af1c-a7458c5a782f": {
     "connectionRef": {
       "displayName": "SharePoint",
@@ -51,8 +65,7 @@
       "SpatialServices_2",
       "SpatialServices_3",
       "SpatialServices_4",
-      "SpatialServices_5",
-      "SpatialServices_6"
+      "SpatialServices_5"
     ],
     "dependencies": {},
     "dependents": [],

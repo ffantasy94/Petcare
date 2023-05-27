@@ -153,14 +153,6 @@
             Order: =4
             ZIndex: =4
 
-        Title6 As pcfDataField.textualColumn:
-            FieldDisplayName: ="Title"
-            FieldName: ="Title"
-            FieldType: ="s"
-            FieldVariantName: ="textualColumn"
-            Order: =3
-            ZIndex: =6
-
     Button6 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
         Color: =RGBA(0, 0, 0, 1)
