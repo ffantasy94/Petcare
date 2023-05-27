@@ -5152,46 +5152,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'10.2. Danh Sách Phòng Khám'.Gallery5.Title9.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'10.2. Danh Sách Phòng Khám'.Gallery5.Title9.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 11,
-                  "charOffset": 8,
-                  "snippet": {
-                    "text": ".'Tiêu đề'"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "10.2. Danh Sách Phòng Khám",
-                "type": "'10.2. Danh Sách Phòng Khám'.Gallery5.Title9"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Tiêu đề"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "'10.2. Danh Sách Phòng Khám'.Gallery5.Body3_1.Text"
                 }
               ],
@@ -5204,7 +5164,7 @@
                   "charLength": 11,
                   "charOffset": 8,
                   "snippet": {
-                    "text": ".'Địa Điểm'"
+                    "text": ".'Địa điểm'"
                   }
                 }
               },
@@ -5217,7 +5177,7 @@
           ],
           "message": {
             "arguments": [
-              "Địa Điểm"
+              "Địa điểm"
             ],
             "id": "issue"
           },
@@ -5226,87 +5186,6 @@
           },
           "ruleId": "app-ErrInvalidName",
           "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2. Đăng nhập'.Button2_9.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2. Đăng nhập'.Button2_9.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 10,
-                  "charOffset": 45,
-                  "snippet": {
-                    "text": "'Tiêu đề'"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "2. Đăng nhập",
-                "type": "'2. Đăng nhập'.Button2_9"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Tiêu đề"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'2. Đăng nhập'.Button2_9.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'2. Đăng nhập'.Button2_9.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 1,
-                  "charOffset": 55,
-                  "snippet": {
-                    "text": "="
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "2. Đăng nhập",
-                "type": "'2. Đăng nhập'.Button2_9"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Error",
-              "Text"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
-          "ruleIndex": 1
         },
         {
           "locations": [
