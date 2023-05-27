@@ -102,11 +102,11 @@
     "Map1 As 'Map (preview)'.pcfdataset":
         BorderColor: =RGBA(0, 18, 107, 1)
         CurrentLocation: =true
-        CurrentLocationLatitude: =Location.Latitude
-        CurrentLocationLongitude: =Location.Longitude
-        DefaultLatitude: =Location.Latitude
+        CurrentLocationLatitude: =16.046271
+        CurrentLocationLongitude: =108.237248
+        DefaultLatitude: =16.046271
         DefaultLocation: =true
-        DefaultLongitude: =Location.Longitude
+        DefaultLongitude: =108.237248
         DisplayMode: =DisplayMode.Edit
         Height: =750
         InfoCards: ='Map.InfoCards'.OnClick
