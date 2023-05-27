@@ -14,11 +14,11 @@
           "DL suc khoe thu cung": {
             "tableName": "1c6cda3a-b70a-4340-ae15-998af8c3c6a7"
           },
-          "Dữ liệu màn hình đăng ký": {
-            "tableName": "9957249c-3f5f-4c06-8a28-bf7e85c8dda4"
-          },
           "Du lieu thong tin thu cung": {
             "tableName": "9a676def-b2e4-4679-bfb0-e19ea2da5c58"
+          },
+          "Dữ liệu màn hình đăng ký": {
+            "tableName": "9957249c-3f5f-4c06-8a28-bf7e85c8dda4"
           },
           "MapData": {
             "tableName": "47ceb26c-5179-4841-933a-696b59caec23"
