@@ -99,7 +99,7 @@
         Y: =36
         ZIndex: =32
 
-    "Map1 As 'Map (preview)'.pcfdataset":
+    "Map1 As 'Bản đồ (bản xem trước)'.pcfdataset":
         BorderColor: =RGBA(0, 18, 107, 1)
         CurrentLocation: =true
         CurrentLocationLatitude: =Location.Latitude
@@ -120,38 +120,6 @@
         X: =0
         Y: =176
         ZIndex: =33
-
-        "'Tiêu đề1' As pcfDataField.textualColumn":
-            FieldDisplayName: ="Tiêu đề"
-            FieldName: ="Title"
-            FieldType: ="s"
-            FieldVariantName: ="textualColumn"
-            Order: =1
-            ZIndex: =1
-
-        "'Địa Điểm1' As pcfDataField.textualColumn":
-            FieldDisplayName: ="Địa Điểm"
-            FieldName: ="Location"
-            FieldType: ="s"
-            FieldVariantName: ="textualColumn"
-            Order: =2
-            ZIndex: =2
-
-        "'Giờ Mở Cửa2' As pcfDataField.textualColumn":
-            FieldDisplayName: ="Giờ Mở Cửa"
-            FieldName: ="Gi_x1edd_M_x1edf_C_x1eed_a"
-            FieldType: ="s"
-            FieldVariantName: ="textualColumn"
-            Order: =4
-            ZIndex: =4
-
-        "'Số Điện Thoại1' As pcfDataField.textualColumn":
-            FieldDisplayName: ="Số Điện Thoại"
-            FieldName: ="S_x1ed1__x0110_i_x1ec7_nTho_x1ea"
-            FieldType: ="s"
-            FieldVariantName: ="textualColumn"
-            Order: =5
-            ZIndex: =5
 
     Button6 As button:
         BorderColor: =RGBA(0, 0, 0, 0)

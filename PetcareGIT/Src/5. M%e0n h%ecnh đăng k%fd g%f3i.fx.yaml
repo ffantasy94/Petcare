@@ -1,5 +1,7 @@
 "'5. Màn hình đăng ký gói' As screen":
+    BackgroundImage: ='11'
     Height: =926
+    ImagePosition: =ImagePosition.Stretch
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
     OnVisible: |-
         =UpdateContext({pressedButton1:false});
