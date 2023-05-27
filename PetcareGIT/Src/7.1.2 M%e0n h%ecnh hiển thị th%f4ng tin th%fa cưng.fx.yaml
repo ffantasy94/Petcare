@@ -181,48 +181,60 @@
         Y: =235
         ZIndex: =31
 
-        "'Tên (Title)_DataCard1' As typedDataCard.textualViewCard":
-            BorderColor: =RGBA(0, 18, 107, 1)
+        Title_DataCard1 As typedDataCard.textualViewCard:
+            BorderColor: =RGBA(166, 166, 166, 1)
             BorderStyle: =BorderStyle.Solid
-            BorderThickness: =1
             DataField: ="Title"
-            Default: =ThisItem.'Tên (Title)'
+            Default: =ThisItem.Title
             DisplayMode: =DisplayMode.View
             DisplayName: =DataSourceInfo([@'Du lieu thong tin thu cung'],DataSourceInfo.DisplayName,"Title")
             Fill: =RGBA(0, 0, 0, 0)
-            Height: =74
+            Height: =40
             Required: =true
-            Width: =384
+            Width: =387
             X: =0
             Y: =0
             ZIndex: =1
 
             DataCardKey1 As label:
-                Color: =RGBA(0, 18, 107, 1)
+                AutoHeight: =true
+                BorderColor: =RGBA(0, 0, 0, 0)
+                BorderStyle: =BorderStyle.None
+                BorderThickness: =2
+                Color: =RGBA(51, 51, 51, 1)
+                DisabledBorderColor: =RGBA(0, 0, 0, 0)
                 DisabledColor: =RGBA(166, 166, 166, 1)
-                Height: =46
+                FocusedBorderThickness: =4
+                Font: =Font.'Segoe UI'
+                FontWeight: =FontWeight.Semibold
+                Height: =48
+                PaddingLeft: =0
                 Size: =21
                 Text: =Parent.DisplayName
-                Width: =122
+                Width: =Parent.Width - 60
                 Wrap: =false
                 X: =30
-                Y: =28
+                Y: =10
                 ZIndex: =1
 
             DataCardValue1 As label:
-                BorderColor: =RGBA(0, 18, 107, 1)
-                Color: =RGBA(0, 0, 0, 1)
+                BorderColor: =RGBA(0, 0, 0, 0)
+                BorderStyle: =BorderStyle.None
+                BorderThickness: =2
+                Color: =RGBA(51, 51, 51, 1)
+                DisabledBorderColor: =RGBA(0, 0, 0, 0)
                 DisabledColor: =RGBA(166, 166, 166, 1)
                 DisplayMode: =Parent.DisplayMode
-                Height: =46
+                FocusedBorderThickness: =4
+                Font: =Font.'Segoe UI'
                 PaddingLeft: =0
                 PaddingRight: =0
                 PaddingTop: =0
                 Size: =21
                 Text: =Parent.Default
-                Width: =208
-                X: =176
-                Y: =28
+                Width: =203
+                X: =179
+                Y: =17
                 ZIndex: =2
 
         "'Ngày sinh_DataCard1' As typedDataCard.textualViewCard":
