@@ -71,7 +71,7 @@
         ZIndex: =93
 
     Container2_1 As groupContainer.horizontalAutoLayoutContainer:
-        Height: =578
+        Height: =618
         LayoutGap: =-370
         LayoutMode: =LayoutMode.Auto
         LayoutOverflowX: =LayoutOverflow.Scroll

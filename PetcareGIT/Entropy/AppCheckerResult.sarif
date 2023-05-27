@@ -5152,166 +5152,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'8. Chat bot'.Button3.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'8. Chat bot'.Button3.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 115,
-                  "charOffset": 149,
-                  "snippet": {
-                    "text": "Patch(ChatGPTData , Defaults(ChatGPTData ), { 'Tiêu đề': GUID(), Content: TextInputQuestion.Text,  Role: \"user\" })"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "8. Chat bot",
-                "type": "'8. Chat bot'.Button3"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Patch"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'8. Chat bot'.Button3.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'8. Chat bot'.Button3.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 70,
-                  "charOffset": 193,
-                  "snippet": {
-                    "text": "{ 'Tiêu đề': GUID(), Content: TextInputQuestion.Text,  Role: \"user\" }"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "8. Chat bot",
-                "type": "'8. Chat bot'.Button3"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Tiêu đề"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrColDNE-Name",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'8. Chat bot'.Button3.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'8. Chat bot'.Button3.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 175,
-                  "charOffset": 267,
-                  "snippet": {
-                    "text": "Patch(ChatGPTData , Defaults(ChatGPTData ), { 'Tiêu đề': varResponse.id, Content: First(varResponse.choices).message.content, Role: First(varResponse.choices).message.role })"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "8. Chat bot",
-                "type": "'8. Chat bot'.Button3"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Patch"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "'8. Chat bot'.Button3.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "'8. Chat bot'.Button3.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 130,
-                  "charOffset": 311,
-                  "snippet": {
-                    "text": "{ 'Tiêu đề': varResponse.id, Content: First(varResponse.choices).message.content, Role: First(varResponse.choices).message.role }"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "8. Chat bot",
-                "type": "'8. Chat bot'.Button3"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Tiêu đề"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrColDNE-Name",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "'10.2. Danh Sách Phòng Khám'.Gallery5.Title9.Text"
                 }
               ],
@@ -5345,7 +5185,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 2
+          "ruleIndex": 0
         },
         {
           "locations": [
@@ -5385,7 +5225,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 2
+          "ruleIndex": 0
         },
         {
           "locations": [
@@ -5425,7 +5265,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 2
+          "ruleIndex": 0
         },
         {
           "locations": [
@@ -5466,7 +5306,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
-          "ruleIndex": 3
+          "ruleIndex": 1
         },
         {
           "locations": [
@@ -5506,7 +5346,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 2
+          "ruleIndex": 0
         },
         {
           "locations": [
@@ -5547,7 +5387,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
-          "ruleIndex": 3
+          "ruleIndex": 1
         },
         {
           "locations": [
@@ -5587,7 +5427,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 0
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -5627,7 +5467,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrColDNE-Name",
-          "ruleIndex": 1
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -5668,7 +5508,7 @@
             "level": "Medium"
           },
           "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
-          "ruleIndex": 3
+          "ruleIndex": 1
         },
         {
           "locations": [
@@ -5708,7 +5548,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 2
+          "ruleIndex": 0
         },
         {
           "locations": [
@@ -21707,34 +21547,6 @@
           "name": "PowerApps app checker",
           "rules": [
             {
-              "id": "app-ErrInvalidArgs-Func",
-              "messageStrings": {
-                "issue": {
-                  "text": "The function '{0}' has some invalid arguments."
-                }
-              },
-              "properties": {
-                "componentType": "app",
-                "level": "High",
-                "primaryCategory": "formula",
-                "whyFix": ""
-              }
-            },
-            {
-              "id": "app-ErrColDNE-Name",
-              "messageStrings": {
-                "issue": {
-                  "text": "The specified column '{0}' does not exist."
-                }
-              },
-              "properties": {
-                "componentType": "app",
-                "level": "High",
-                "primaryCategory": "formula",
-                "whyFix": ""
-              }
-            },
-            {
               "id": "app-ErrInvalidName",
               "messageStrings": {
                 "issue": {
@@ -21764,6 +21576,34 @@
                   "You might need to convert the value to be the same type, such as converting a date string (e.g., \"12/31/2018\") to a date value.",
                   "If you’re comparing records or tables, the field or column types must match exactly."
                 ],
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
+            {
+              "id": "app-ErrInvalidArgs-Func",
+              "messageStrings": {
+                "issue": {
+                  "text": "The function '{0}' has some invalid arguments."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
+            {
+              "id": "app-ErrColDNE-Name",
+              "messageStrings": {
+                "issue": {
+                  "text": "The specified column '{0}' does not exist."
+                }
+              },
+              "properties": {
+                "componentType": "app",
                 "level": "High",
                 "primaryCategory": "formula",
                 "whyFix": ""
