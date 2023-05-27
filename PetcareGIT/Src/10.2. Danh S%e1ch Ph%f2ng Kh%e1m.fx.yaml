@@ -182,7 +182,7 @@
             PaddingRight: =0
             PaddingTop: =8
             Size: =16
-            Text: =ThisItem.'Địa điểm'
+            Text: =ThisItem.Location
             VerticalAlign: =VerticalAlign.Top
             Width: =324
             X: =80
